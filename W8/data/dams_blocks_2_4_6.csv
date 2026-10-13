@@ -1,0 +1,21 @@
+block,dam,label,type,height_m,crest_length_m,fsl_m,capacity_mcm,note
+2,Bidah 03,Bidah 03,Not decided,15,1335,94,2.2,crest 99; 2 m DEM along the January 2025 axis (lowest ground 83.8); the 2023 feasibility ranking gave 16.8 m / 1361 m / 2.16 MCM
+2,Faydh 01,Faydh 01,Not decided,49,920,219,7.4,crest 224; 2 m DEM along the January 2025 axis (lowest ground 175.3; 790 m of the 919 m axis lies below crest level); the 2023 feasibility ranking gave 53.1 m / 792 m / 8.0 MCM
+4,Hawasinah 02,Hawasinah 02,GFRD,20,3160,144,11.0,profile minimum 129.4 against crest 149
+4,Hawasinah 11,Hawasinah 11,GFRD+RCC,40,960,251,34.0,main 755 m plus left closure 202 m; profile minimum 215.8 against crest 256
+4,Hawasinah EX,Hawasinah UP**,GFRD,22,9690,60,81.0,profile minimum 43.2 against crest 65
+4,Shafan 02,Shafan 02,GFRD+RCC,39,2440,235,43.0,main 1763 m plus left 591 m and middle 89 m; profile minimum 201.5 against crest 240
+4,Shafan 08,Shafan 08,GFRD,21,4270,168,15.0,main 3235 m plus right 1032 m; profile minimum 152.5 against crest 173
+4,Sarami 03,Sarami 03,GFRD,46,1530,237,45.0,main 731 m plus three right closures 797 m; a 480 m dike besides; profile minimum 196.3 against crest 242
+4,Sarami 05,Sarami 05,RCC,26,2550,184,15.0,profile minimum 163.4 against crest 189
+4,Sakhin 04,Sakhin 04,GFRD,26,2810,122,24.0,profile minimum 101.5 against crest 127
+4,Sakhin 08,Sakhin 08,Not decided,18,2070,139,8.0,main 1082 m plus two left closures 992 m; a 940 m dike besides; profile minimum 126.0 against crest 144
+6,Fulaij 05,Fulaij 05,FSHD,28,660,125,18.5,
+6,Halban EX,Halban EX*,GFRD,9,3040,64,3.7,
+6,Taww UP,Taww UP**,GFRD,17,7380,69,45.2,
+6,Maawil 04,Maawil 04**,RCC,57,270,413,11.8,
+6,Maawil 07,Maawil 07,RCC,48,170,399,3.6,
+6,Maawil UP,Maawil UP**,GFRD,18,10400,68,74.8,
+6,Abyad 01,Abyad 01,RCC,94,355,310,125.0,
+6,Bani Kharus UP,Bani Kharus UP**,GFRD,20,11760,75,116.0,
+6,Ais 10,Ais 10,GFRD,19,4520,207,13.4,
