@@ -1,0 +1,292 @@
+Paired Data Manager: HEC-HMS Block 04
+     Version: 4.12
+     Filepath Separator: \
+End:
+
+Table: Elev-Dis
+     Table Type: Stage-Flow
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 08:11:18
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Hawasinah EX
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Hawasinah EX/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Hawasinah 02
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Hawasinah 02/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Hawasinah 11
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Hawasinah 11/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Sakhin 04
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Sakhin 04/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Sakhin 08
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Sakhin 08/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Sarami 03
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Sarami 03/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Sarami 05
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Sarami 05/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Dis Shafan 02
+     Table Type: Stage-Flow
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M3/S
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Dis Shafan 02/STAGE-FLOW///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: ARF FM
+     Table Type: Area-Reduction Factor
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:53:02
+     X-Units: KM2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //ARF FM/AREA-REDUCTION FACTOR///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area
+     Table Type: Elevation-Area
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 08:11:15
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Hawasinah EX
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Hawasinah EX/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Hawasinah 02
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Hawasinah 02/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Hawasinah 11
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Hawasinah 11/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Sakhin 04
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Sakhin 04/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Sakhin 08
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Sakhin 08/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Sarami 03
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Sarami 03/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Sarami 05
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Sarami 05/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: Elev-Area Shafan 02
+     Table Type: Elevation-Area
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:57:41
+     X-Units: M
+     Y-Units: M2
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //Elev-Area Shafan 02/ELEVATION-AREA///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: FM PMP
+     Table Type: Percent Graph
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:40:49
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //FM PMP/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: FM 10-1000yr
+     Table Type: Percent Graph
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:39:15
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //FM 10-1000yr/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: FM 2yr
+     Table Type: Percent Graph
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:33:39
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //FM 2yr/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: FM 2000-10000
+     Table Type: Percent Graph
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:40:15
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //FM 2000-10000/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+
+Table: FM 5yr
+     Table Type: Percent Graph
+     Last Modified Date: 12 October 2025
+     Last Modified Time: 12:34:19
+     X-Units: %
+     Y-Units: %
+     Use External DSS File: NO
+     DSS File: HEC_HMS_Block_04.dss
+     Pathname: //FM 5yr/PERCENT GRAPH///TABLE/
+     Interpolation: Linear Interpolation
+End:
+

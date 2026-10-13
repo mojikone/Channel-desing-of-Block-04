@@ -1,0 +1,26 @@
+  snapped wall 1 end to wall 0 (0.0 m)
+  snapped wall 5 end to wall 53 (0.0 m)
+  snapped wall 6 end to wall 4 (0.0 m)
+  snapped wall 8 end to wall 7 (0.0 m)
+  snapped wall 10 end to wall 7 (0.0 m)
+  snapped wall 38 end to wall 58 (0.0 m)
+  snapped wall 51 end to wall 54 (9.8 m)
+  snapped wall 53 end to wall 50 (0.0 m)
+  snapped wall 54 end to wall 50 (0.0 m)
+  snapped wall 55 end to wall 54 (0.0 m)
+  snapped wall 57 end to wall 56 (0.0 m)
+  snapped wall 62 end to wall 53 (0.0 m)
+  snapped wall 63 end to wall 53 (0.0 m)
+  snapped wall 64 end to wall 54 (0.0 m)
+  snapped wall 69 end to wall 19 (0.0 m)
+  snapped wall 71 end to wall 70 (0.0 m)
+  snapped wall 76 end to wall 53 (0.0 m)
+  snapped wall 78 end to wall 53 (0.0 m)
+  snapped wall 79 end to wall 53 (0.0 m)
+  snapped wall 80 end to wall 53 (0.0 m)
+  snapped wall 81 end to wall 53 (0.0 m)
+wall gaps snapped: 21
+recond written; burn cells 24112 wall cells 57142 8 s
+fill 12
+d8 14
+acc 15

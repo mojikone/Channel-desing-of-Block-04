@@ -1,0 +1,10 @@
+﻿python : D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\scripts\13_maps_prep.py:64: RuntimeWarning: 
+invalid value encountered in cast
+At line:1 char:383
++ ... ock 04\W3"; python scripts\13_maps_prep.py *> maps\maps_prep.log; & " ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\Mojtaba\Rena...untered in cast:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  with rasterio.open(OUT / "hillshade.tif", "w", **meta) as dst: dst.write(hs.astype("uint8"), 1)
+written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\maps\data | rasters: {'R': (25.543, 73.263), 'K': (0.218, 0.24), 'LS': (0.357, 36.885), 'C': (0.045, 0.048), 'P': (1.0, 1.0), 'SoilLoss': (0.099, 25.69)} | controlled km2: 1640 | extents: [451580, 2601970, 509948, 2676856]

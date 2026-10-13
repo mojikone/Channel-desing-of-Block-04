@@ -1,0 +1,22 @@
+Hawasinah 02 lon 56.9723 lat 23.8613
+   {'dam': 'Hawasinah 02', 'lon': 56.9723, 'lat': 23.8613, 'cell_lat': 23.86643, 'cell_lon': 56.95238, 'cell_elev_m': 131.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Hawasinah 11 lon 56.9110 lat 23.8211
+   {'dam': 'Hawasinah 11', 'lon': 56.911, 'lat': 23.8211, 'cell_lat': 23.86643, 'cell_lon': 56.857143, 'cell_elev_m': 217.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Hawasinah EX lon 57.0275 lat 23.9471
+   retry 1 HTTP Error 429: Too Many Requests
+   {'dam': 'Hawasinah EX', 'lon': 57.0275, 'lat': 23.9471, 'cell_lat': 23.93673, 'cell_lon': 57.012714, 'cell_elev_m': 47.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Shafan 02 lon 56.8260 lat 23.8992
+   {'dam': 'Shafan 02', 'lon': 56.826, 'lat': 23.8992, 'cell_lat': 23.93673, 'cell_lon': 56.822037, 'cell_elev_m': 206.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Shafan 08 lon 56.8618 lat 23.9262
+   retry 1 HTTP Error 429: Too Many Requests
+   {'dam': 'Shafan 08', 'lon': 56.8618, 'lat': 23.9262, 'cell_lat': 23.93673, 'cell_lon': 56.822037, 'cell_elev_m': 174.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Sarami 03 lon 56.7772 lat 23.9484
+   {'dam': 'Sarami 03', 'lon': 56.7772, 'lat': 23.9484, 'cell_lat': 23.93673, 'cell_lon': 56.822037, 'cell_elev_m': 197.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Sarami 05 lon 56.7568 lat 23.9931
+   {'dam': 'Sarami 05', 'lon': 56.7568, 'lat': 23.9931, 'cell_lat': 24.007029, 'cell_lon': 56.78685, 'cell_elev_m': 165.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Sakhin 04 lon 56.7299 lat 24.0813
+   {'dam': 'Sakhin 04', 'lon': 56.7299, 'lat': 24.0813, 'cell_lat': 24.077328, 'cell_lon': 56.751595, 'cell_elev_m': 123.0, 'daily_days': 8400, 'hourly_hours': 87672}
+Sakhin 08 lon 56.7507 lat 24.0386
+   retry 1 HTTP Error 429: Too Many Requests
+   {'dam': 'Sakhin 08', 'lon': 56.7507, 'lat': 24.0386, 'cell_lat': 24.077328, 'cell_lon': 56.751595, 'cell_elev_m': 130.0, 'daily_days': 8400, 'hourly_hours': 87672}
+cells.csv written

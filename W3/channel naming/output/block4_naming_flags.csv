@@ -1,0 +1,6 @@
+fid,Block,CHtype,CHtt,Layer,GCA,gca_share,gca_shares,prefix,kind,suffix,west_x,length_m,n,Name,flag
+216,4,3,Sw S CH,Sw S CH,Al Hawasinah,0.5286,Al Hawasinah 52.9%; Mashin 47.1%,HAW,CH,SS,505077.4,6606.4,7,HAW-CH7-SS,catchment share < 90 %
+179,4,4,FP D,FP D,Al Hawasinah,0.5895,Al Hawasinah 58.9%; Shafan 41.1%,HAW,D,FP,492924.8,4416.1,1,HAW-D1-FP,catchment share < 90 %
+212,4,4,FP D,FP D,Sakhin,0.6913,Sakhin 69.1%; Sarami 30.9%,SAK,D,FP,476321.3,2780.1,3,SAK-D3-FP,catchment share < 90 %
+208,4,5,Sw M D,Sw M D,Sarami,0.67,Sarami 67.0%; Sakhin 33.0%,SAR,D,SM,482790.5,2734.3,3,SAR-D3-SM,catchment share < 90 %
+220,4,2,Sw M CH,Sw M CH,Shafan,0.6228,Shafan 62.3%; Sarami 37.7%,SHA,CH,SM,484434.5,11435.4,2,SHA-CH2-SM,catchment share < 90 %

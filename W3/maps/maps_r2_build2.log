@@ -1,0 +1,29 @@
+﻿python-qgis-ltr.bat : D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\scripts\26_maps_qgis_r2.py:196: 
+DeprecationWarning: QgsLegendStyle.setFont() is deprecated
+At line:1 char:383
++ ... ock 04\W3"; & "C:\Program Files\QGIS 3.44.8\bin\python-qgis-ltr.bat"  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\Mojtaba\Rena...) is deprecated:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  f = QFont("Arial"); f.setPointSizeF(6.5 if sty == QgsLegendStyle.SymbolLabel else 7.0); f.setBold(sty == 
+QgsLegendStyle.Subgroup); it.rstyle(sty).setFont(f)
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+M01_dams ok
+M03_alignments_flood ok
+M04_routes ok
+M05_roads_utilities ok
+M06_landuse ok
+M08_hms ok
+M10_q200 ok
+M11_q200_plain ok
+M09_sediment50 ok
+[('M01_dams', True), ('M03_alignments_flood', True), ('M04_routes', True), ('M05_roads_utilities', True), ('M06_landuse', True), ('M08_hms', True), ('M10_q200', True), ('M11_q200_plain', True), ('M09_sediment50', True)]

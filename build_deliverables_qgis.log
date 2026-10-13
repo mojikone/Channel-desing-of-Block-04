@@ -1,0 +1,102 @@
+﻿layouts in the map project: ['M01_dams', 'M03_alignments_flood', 'M04_routes', 'M05_roads_utilities', 'M06_landuse', 'M08_hms', 'M10_q200', 'M11_q200_plain', 'M09_sediment50', 'M07_rusle']
+layers: 35
+saved D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\1 Deliverables 07102026\Block04_Deliverables.qgz
+re-pointed 34 data sources; ALL INSIDE the snapshot
+reopened: 81 layers, 0 invalid []
+layouts: ['M01_dams', 'M03_alignments_flood', 'M04_routes', 'M05_roads_utilities', 'M06_landuse', 'M08_hms', 'M10_q200', 'M11_q200_plain', 'M09_sediment50', 'M07_rusle']
+absolute paths left in the project: 0 []
+[Dams]
+   x Dam axis
+     Dam dyke
+   x Reservoir at full supply level
+   x Reservoir at crest level
+   x Dam catchment (outline)
+     Dam catchments with results (area, CN, yield, loss, Q200)
+     Dam catchments (nine, physiography)
+     Dam points (FSL, crest, capacity)
+     Global catchments (HAW, SHA, SAR, SAK)
+[Channels and dykes]
+   x Channels and dykes (categories, Block 4)
+     Channels and dykes (named)
+     Channels and dykes (one colour)
+   [Roads and utilities]
+        Batinah Expressway
+        Batinah Highway
+        Batinah Coastal Road
+        North Batinah Bypass (planned)
+        OQ pipelines
+        OQ pipelines (south)
+        Existing culvert / bridge
+   [Constraints]
+        Land use (MoHUP cadastre)
+        Flood depth 200-year (m), without the scheme
+[HEC-HMS model]
+     HEC-HMS model view (georeferenced screenshot)
+   [Basin 3 (channels with the eight reservoirs)]
+        Subbasins
+        Reaches
+        Junctions and outfalls: 200-year peak flow
+        Points (all, Q and V for 13 return periods)
+   [Basin 2 (channels without reservoirs)]
+        Subbasins
+        Reaches
+        Points (Q and V for 13 return periods)
+   [Basin 2 delineation review]
+        Review: wall_crossings
+        Review: subbasins_new
+        Review: reaches_new
+        Review: stream_links_new
+        Review: junctions
+        Review: subbasins_basin1_carried_over
+        Engineer's red lines
+        Merge regions
+   [HMS exports (Hydrology SHP)]
+        HMS Output: Basin
+        HMS Output: Junction
+        HMS Output: Reach
+        HMS Output: points_peak_flow_volume
+        from HMS: Basin
+        from HMS: J
+        from HMS: J23-Shafan08
+        from HMS: R
+        from HMS: S
+        from HMS: J
+        from HMS: R
+        from HMS: S
+        from HMS: Basin
+        from HMS: Junction
+        from HMS: Reach
+   [Model inputs]
+        Channels burnt into the terrain (CH)
+        Walls raised on the terrain (WALL)
+        Burn lines (HMS)
+        Wall lines (HMS)
+        Gauge stations
+        Streams (NSA 5 m terrain)
+        Curve number grid
+        HMS terrain, 10 m
+        Reconditioned terrain (channels burnt, walls raised)
+[Sediment]
+     R factor, MJ mm/(ha h yr)
+     K factor, t ha h/(ha MJ mm)
+     LS factor
+     C factor
+     Soil loss, t/ha/yr
+     Sediment yield, m³/km²/yr (per dam)
+     Sediment delivered in 50 years, Mcm (per dam)
+   [RUSLE rasters (full extent)]
+        R (full extent)
+        K (full extent)
+        LS (full extent)
+        C (full extent)
+        P (full extent)
+        SoilLoss (full extent)
+[Map figure layers (duplicates the layouts use)]
+     Dam catchment (yellow outline, figures)
+     Dam names (label layer)
+     Dam names, small (label layer)
+     Junctions: 200-year peak flow (zoomed figure)
+[Background]
+   x Terrain hillshade (10 m terrain, 50 %)
+     Terrain hillshade (dimmed)
+   x Google satellite (online)

@@ -1,0 +1,19 @@
+         dam  horizon_yr  yield_m3_km2_yr  WT_kg_m3  deposited_Mm3  shape_m  reservoir_type  new_zero_m  capacity_fsl_Mm3  revised_capacity_fsl_Mm3  loss_pct
+Hawasinah 02          50             68.2    1291.2         1.6631    3.419               2      132.39            10.412                     8.759     15.88
+Hawasinah 02         100             68.2    1291.2         3.3263    3.419               2      133.34            10.412                     7.106     31.75
+   Shafan 02          50             83.4    1294.2         1.0844    2.696               2      202.03            41.607                    40.528      2.59
+   Shafan 02         100             83.4    1294.2         2.1687    2.696               2      202.01            41.607                    39.483      5.10
+Hawasinah EX          50             48.8    1301.1         2.4171    3.139               2       45.12            79.216                    76.810      3.04
+Hawasinah EX         100             48.8    1301.1         4.8342    3.139               2       45.32            79.216                    74.405      6.07
+Hawasinah 11          50             97.6    1289.6         1.2830    2.478               3      216.30            33.173                    31.890      3.87
+Hawasinah 11         100             97.6    1289.6         2.5661    2.478               3      216.09            33.173                    30.627      7.68
+   Sarami 03          50             78.1    1294.6         1.0305    2.470               3      228.95            42.701                    17.484     59.06
+   Sarami 03         100             78.1    1294.6         2.0611    2.470               3      196.95            42.701                    40.654      4.79
+   Sarami 05          50             53.1    1327.3         0.1611    2.674               2      183.98            14.523                     0.018     99.88
+   Sarami 05         100             53.1    1327.3         0.3222    2.674               2      163.02            14.523                    14.203      2.21
+   Sakhin 08          50             65.3    1307.7         0.3045    3.033               2      126.51             7.462                     7.168      3.95
+   Sakhin 08         100             65.3    1307.7         0.6090    3.033               2      126.50             7.462                     6.892      7.65
+   Sakhin 04          50             40.5    1324.4         0.2534    2.329               3      116.47            22.606                     9.472     58.10
+   Sakhin 04         100             40.5    1324.4         0.5068    2.329               3      115.02            22.606                    11.506     49.10
+written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\sediment\Block04_Reservoir_Sedimentation.xlsx
+recalculated Block04_Reservoir_Sedimentation.xlsx | formula errors: 0 [] | charts exported: 0

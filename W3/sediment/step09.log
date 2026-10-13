@@ -1,0 +1,12 @@
+RUSLE columns: ['R', 'K', 'LS', 'C', 'P', 'Mean Soil Loss (t/ha/yr)', 'SDR', 'Sediment Density (t/m3)', 'Sediment Delivered (m3/km2/yr)', 'Catchment Area (km2)', 'Dam Life Cycle (yr)', 'Sediment in 50 years (Mm3)']
+        name  soil_loss_t_ha_yr      R      K     LS      C     P  area_km2  z_max_m  z_outlet_m  relief_m  flow_path_km  relief_ratio   cn  sdr_williams  yield_m3_km2_yr  yield_m3_yr
+Hawasinah 02             11.798 52.367 0.2286 19.914 0.0467 0.998    419.84   1812.1       130.7    1681.4         66.20        0.0254 90.2      0.086744             68.2      28633.0
+   Shafan 02             13.458 56.912 0.2281 21.425 0.0467 0.998    224.36   1496.6       205.8    1290.8         49.77        0.0259 90.2      0.093010             83.4      18712.0
+Hawasinah EX              9.995 48.633 0.2271 16.787 0.0468 0.999    859.24   1812.1        46.2    1765.9         79.67        0.0222 89.4      0.073257             48.8      41931.0
+Hawasinah 11             13.877 56.065 0.2295 21.996 0.0467 0.999    226.04   1811.6       215.7    1595.9         45.72        0.0349 90.5      0.105456             97.6      22062.0
+   Sarami 03             13.249 58.554 0.2285 20.748 0.0464 0.995    227.77   1507.0       196.3    1310.7         57.08        0.0230 90.1      0.088416             78.1      17789.0
+   Sarami 05              6.345 43.442 0.2233 12.908 0.0479 0.999     53.69   1072.9       163.3     909.6         14.95        0.0609 87.7      0.125594             53.1       2851.0
+   Sakhin 08              9.694 49.389 0.2279 16.117 0.0472 0.998     81.31   1111.9       127.1     984.8         31.70        0.0311 88.8      0.101034             65.3       5310.0
+   Sakhin 04              6.314 43.896 0.2253 12.185 0.0468 0.999    110.49   1143.0       115.6    1027.4         28.74        0.0357 87.7      0.096256             40.5       4475.0
+written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\sediment\B4_DAM_RUSLE.xlsx
+recalculated B4_DAM_RUSLE.xlsx | formula errors: 0 [] | charts exported: 0

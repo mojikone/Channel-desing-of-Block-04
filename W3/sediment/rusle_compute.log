@@ -1,0 +1,38 @@
+============================================================
+  RUSLE — Step 2: Compute Factors
+  Workers : 32    Grid: 455×520 px @ 250 m
+============================================================
+
+[1/6] Loading 19 rasters ...
+      done in 1.1s
+
+[2/6] Computing factors ...
+      done in 1.0s
+
+[3/6] Saving rasters ...
+      R.tif
+      P.tif
+      K.tif
+      LS.tif
+      SoilLoss.tif
+      C.tif
+
+[4/6] Zonal statistics ...
+
+[5/6] Results:
+  Name     SoilLoss        R       K      LS       C      P  Area km²   Sed.Del.   50yr Mm³
+  -----------------------------------------------------------------------------------------
+  Hawasinah 02     11.798   52.367  0.2286  19.914  0.0467  0.998  419.8420         91   1.910281
+  Hawasinah 11     13.877   56.065  0.2295  21.996  0.0467  0.999  226.0377        107   1.209302
+  Hawasinah EX      9.995   48.633  0.2271  16.787  0.0468  0.999  859.2445         77   3.308091
+  Sakhin 04      6.314   43.896  0.2253  12.185  0.0468  0.999  110.4854         49   0.270689
+  Sakhin 08      9.694   49.389  0.2279  16.117  0.0472  0.998   81.3053         75   0.304895
+  Sarami 03     13.249   58.554  0.2285  20.748  0.0464  0.995  227.7739        102   1.161647
+  Sarami 05      6.345   43.442  0.2233  12.908  0.0479  0.999   53.6935         49   0.131549
+  Shafan 02     13.458   56.912  0.2281  21.425  0.0467  0.998  224.3642        104   1.166694
+
+[6/6] Saving CSV ...
+      Saved → D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\sediment\rusle\Output\CSV\RUSLE_Results.csv
+
+Total time: 3.5s
+Run 03_maps.py to generate maps.

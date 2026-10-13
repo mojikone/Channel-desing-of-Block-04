@@ -1,0 +1,32 @@
+==========================================================
+  RUSLE -- Step 1: Download Input Data  (32 workers)
+==========================================================
+  Bbox: W=56.224545  S=23.227979  E=57.337344  N=24.40256
+  All sources downloading simultaneously ...
+
+  CopDEM N24E057  (0.3 MB)
+  Landsat: LC08_L2SP_158044_20171104_02_T1  (cloud 0.0%)
+  clay_0-5cm_mean.tif  (0.2 MB)
+  sand_0-5cm_mean.tif  (0.2 MB)
+  silt_0-5cm_mean.tif  (0.2 MB)
+  SM2RAIN dec  (8 kB)
+  SM2RAIN feb  (13 kB)
+  SM2RAIN sep  (9 kB)
+  SM2RAIN oct  (7 kB)
+  SM2RAIN jun  (8 kB)
+  WorldCover N24E057  (7.3 MB)
+  WorldCover N21E054  (7.2 MB)
+  WorldCover N21E057  (12.7 MB)
+  WorldCover N24E054  (21.3 MB)
+  CopDEM N24E056  (30.9 MB)
+  Landsat B5: 3434x1748 px
+  CopDEM N23E056  (43.0 MB)
+  CopDEM N23E057  (38.4 MB)
+  DEM saved  (62.6 MB)
+  Computing flow accumulation (pysheds) ...
+  Flow accumulation done
+  WorldCover saved  (5.7 MB)
+  Landsat B4: 3434x1748 px
+  Landsat 8 saved  (17.1 MB)
+
+  [ERROR] SM2RAIN: Read failed. See previous exception for details.

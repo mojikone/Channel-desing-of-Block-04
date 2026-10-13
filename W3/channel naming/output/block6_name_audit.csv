@@ -1,0 +1,24 @@
+fid,name,issue
+170,Rus-FP1-CH,name does not follow <GCA>-<CH|D><n>-<class>
+171,Rus-FP3-CH,name does not follow <GCA>-<CH|D><n>-<class>
+172,Rus-SM2-CH,name does not follow <GCA>-<CH|D><n>-<class>
+173,Rus-SM4-CH,name does not follow <GCA>-<CH|D><n>-<class>
+108 166,Ful-CH6-SS,duplicate name
+129 164,Taw-D12-FP,duplicate name
+126 167,Taw-D9-FP,duplicate name
+111 162,Ful-D3-SM / Ful-D3-FP,same number used for two classes
+112 163,Ful-D4-SM / Ful-D4-FP,same number used for two classes
+76 87,Taw-CH3-FP / Taw-CH3-SM,same number used for two classes
+158 161,Taw-CH4-SM / Taw-CH4-FP,same number used for two classes
+,Ais-D,numbers missing: [7]
+,Ban-D,numbers missing: [1]
+,Maa-CH,numbers missing: [6]
+,Maa-D,numbers missing: [9]
+,Taw-CH,numbers missing: [15]
+113,Ful-D5-SS,class suffix disagrees with CHtt 'Sw M D'
+90,Maa-CH8-SS,"lies in Al Taww (85%), prefix says otherwise"
+116,Taw-D16-SS,"lies in Fulaij (100%), prefix says otherwise"
+144,Ais-D12-SM,"lies in Bani Kharus (100%), prefix says otherwise"
+145,Ais-D11-SM,"lies in Bani Kharus (100%), prefix says otherwise"
+161,Taw-CH4-FP,"lies in Fulaij (100%), prefix says otherwise"
+165,Ais-CH6-FP,"lies in Bani Kharus (53%), prefix says otherwise"

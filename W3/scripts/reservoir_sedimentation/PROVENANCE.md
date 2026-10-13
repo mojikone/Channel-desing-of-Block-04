@@ -1,0 +1,3 @@
+# Copied unchanged from the Wadi Majlas reservoir sedimentation study (Renardet 2224 WS11, Majlas, W1, July 2026): USBR Erosion and Sedimentation Manual Section 2.6 engine, validated there against the manual's worked examples (54 tests).
+# 2026-10-06, Block 04: distribution.new_zero_relative_depth re-solved on the product form g2 = (S - V) - H A F on a log-spaced grid (first + to - crossing); same root, robust where the old quotient form blew up near the bed and fell back to p ~ 1.
+# 2026-10-06, Block 04: distribution.distribute scales the sediment area by volume conservation above the new zero (Ka = (S - V(h0)) / (H * int a dp)) and rescales after the clip to the original area, so the distributed volume equals the deposited volume.

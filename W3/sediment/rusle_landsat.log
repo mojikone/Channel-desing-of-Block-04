@@ -1,0 +1,5 @@
+scenes found: 63 | path/rows: {('159', '044'): ('LC08_L2SP_159044_20171026_02_T1', 0.0), ('159', '043'): ('LC08_L2SP_159043_20171026_02_T1', 0.0), ('158', '044'): ('LC08_L2SP_158044_20171104_02_T1', 0.0)}
+  read LC08_L2SP_159044_20171026_02_T1 (3454, 3796) valid share 0.755
+  read LC08_L2SP_159043_20171026_02_T1 (3358, 3796) valid share 0.842
+  read LC08_L2SP_158044_20171104_02_T1 (3434, 1748) valid share 0.381
+mosaic written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\sediment\rusle\Data\Landsat8\landsat8_2017_B4B5.tif (2, 4341, 3796) | valid share of bbox 0.994

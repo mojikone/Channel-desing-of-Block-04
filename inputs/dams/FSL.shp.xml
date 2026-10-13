@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260929</CreaDate><CreaTime>14573700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\Contour" Date="20231213" Time="094137">Contour DEM_CLIP C:\Users\Faseeh\Documents\ArcGIS\Projects\final_dam\final_dam.gdb\Contour_DEM_CLI1 1 0 1 Contour #</Process></lineage></DataProperties></Esri><contour_type>CONTOUR</contour_type></metadata>

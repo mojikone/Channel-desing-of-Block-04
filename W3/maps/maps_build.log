@@ -1,0 +1,21 @@
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W3\scripts\14_maps_qgis.py:155: DeprecationWarning: QgsLegendStyle.setFont() is deprecated
+  f = QFont("Arial"); f.setPointSizeF(6.5 if sty == QgsLegendStyle.SymbolLabel else 7.0); f.setBold(sty == QgsLegendStyle.Subgroup); it.rstyle(sty).setFont(f)
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+ERROR 6: The PNG driver does not support update access to existing datasets.
+M01_dams ok
+M02_R ok
+M03_K ok
+M04_LS ok
+M05_C ok
+M06_P ok
+M07_soilloss ok
+M08_yield ok
+M09_hms ok
+[('M01_dams', True), ('M02_R', True), ('M03_K', True), ('M04_LS', True), ('M05_C', True), ('M06_P', True), ('M07_soilloss', True), ('M08_yield', True), ('M09_hms', True)]

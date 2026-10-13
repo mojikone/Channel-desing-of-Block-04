@@ -1,0 +1,69 @@
+{
+ "source": "NASA POWER (MERRA-2), daily 2001-2024, hourly wind 2015-2024, one grid cell for all eight dams",
+ "years": [
+  2001,
+  2023
+ ],
+ "t_mean": 28.5,
+ "t_max_mean_month": "Jun",
+ "t_max_month_value": 40.3,
+ "t_min_mean_month": "Jan",
+ "t_min_month_value": 16.0,
+ "t_abs_max": 45.3,
+ "t_abs_min": 9.9,
+ "rain_mean_annual": 100.0,
+ "rain_min_year": [
+  2008,
+  44.0
+ ],
+ "rain_max_year": [
+  2017,
+  287.0
+ ],
+ "rain_wettest_months": [
+  "Mar",
+  "Jan",
+  "Dec"
+ ],
+ "rain_share_nov_apr": 65.0,
+ "wet_days_per_year": 17.9,
+ "max_daily_rain": [
+  77.0,
+  "2020-01-11"
+ ],
+ "t_trend_c_per_decade": 0.22,
+ "wind_mean": 3.1,
+ "wind_calm_pct": 8.0,
+ "wind_top_sectors": [
+  [
+   "ENE",
+   12.2
+  ],
+  [
+   "NE",
+   11.8
+  ],
+  [
+   "W",
+   8.1
+  ],
+  [
+   "E",
+   7.9
+  ]
+ ],
+ "wind_summer_top": "ENE",
+ "wind_winter_top": "ENE",
+ "wind_night_top": "W",
+ "sm2rain_catchment_mm": {
+  "Hawasinah 02": 140.0,
+  "Shafan 02": 148.0,
+  "Hawasinah EX": 133.0,
+  "Hawasinah 11": 147.0,
+  "Sarami 03": 151.0,
+  "Sarami 05": 123.0,
+  "Sakhin 08": 134.0,
+  "Sakhin 04": 124.0
+ },
+ "excluded": "2024 excluded from the daily record: August 2024 carries 1 312 mm (272.8 mm on 18 August), an artefact of the near-real-time POWER precipitation stream."
+}

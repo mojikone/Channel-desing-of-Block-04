@@ -1,0 +1,132 @@
+Project: HEC-HMS Block 04
+     Description: 
+     Version: 4.12
+     Filepath Separator: \
+     DSS File Name: HEC_HMS_Block_04.dss
+     Time Zone ID: America/Los_Angeles
+End:
+
+Precipitation: FM 2yr
+     Filename: FM_2yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 5yr
+     Filename: FM_5yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 10yr
+     Filename: FM_10yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 25yr
+     Filename: FM_25yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 50yr
+     Filename: FM_50yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 100yr
+     Filename: FM_100yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 200yr
+     Filename: FM_200yr.met
+     Description: 
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 18:56
+End:
+
+Precipitation: FM 500yr
+     Filename: FM_500yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 1000yr
+     Filename: FM_1000yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 2000yr
+     Filename: FM_2000yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 5000yr
+     Filename: FM_5000yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM 10000yr
+     Filename: FM_10000yr.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33
+End:
+
+Precipitation: FM PMP
+     Filename: FM_PMP.met
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 14:39
+End:
+
+Basin: Basin 1
+     Filename: Basin_1.basin
+     Description: 
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 14:23
+End:
+
+Basin: Basin 2
+     Filename: Basin_2.basin
+     Description: Basin 1 dam catchments + Block 4 channel network (CH/WALL reconditioning)
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 17:55
+End:
+
+Basin: Basin 3
+     Filename: Basin_3.basin
+     Description: Basin 2 + the 8 dam reservoirs (elevation-area from the 10 m DEM, spillway rating C L H^1.5)
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 12:59
+End:
+
+Basin: Basin 4
+     Filename: Basin_4.basin
+     Description: Basin 1 + the nine dam reservoirs (Shafan 08 included)
+     Last Modified Date: 6 October 2026
+     Last Modified Time: 10:12
+End:
+
+Control: Control 1
+     FileName: Control_1.control
+     Description: 
+End:
+

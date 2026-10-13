@@ -1,0 +1,2 @@
+NASA POWER (MERRA-2), https://power.larc.nasa.gov, read 2026-10-06 at lon 56.9110 lat 23.8211 (dam junction Hawasinah 11); grid cell centre [56.911, 23.821, 279.02].
+Daily 2001-2024: T2M, T2M_MAX, T2M_MIN, PRECTOTCORR (AG). Hourly 2015-2024: WS10M, WD10M, local solar time (RE). A modelled record on a ~50 km grid, not a station.
