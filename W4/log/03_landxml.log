@@ -1,0 +1,6 @@
+﻿channels: 37 surfaces/alignments/profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\landxml\Block4_channels.xml (93 MB) [10s]
+dykes: 36 surfaces/alignments/profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\landxml\Block4_dykes.xml (25 MB) [3s]
+      points  triangles  max_cell_distance_m
+min    188.0      344.0                 0.34
+50%  10057.0    19674.0                 0.35
+max  70581.0   136746.0                 0.53

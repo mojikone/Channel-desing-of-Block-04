@@ -1,0 +1,37 @@
+2026-10-07 05:21:47  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg | 17 features to rebuild: ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH4-SS', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH9-SS', 'SHA-CH10-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-07 05:21:47  HAW-CH1-FP: ['erased view PV HAW-CH1-FP', 'erased profile EG HAW-CH1-FP', 'erased alignment HAW-CH1-FP', 'erased 1 leader(s) of PV HAW-CH1-FP']
+2026-10-07 05:21:48  HAW-CH1-FP: length 8203.9 (spec 8203.9), start 502462.79,2648907.04 end 507602.04,2655057.54, profiles 1 views 1 -> OK
+2026-10-07 05:21:49  HAW-CH7-SS: ['erased view PV HAW-CH7-SS', 'erased profile EG HAW-CH7-SS', 'erased alignment HAW-CH7-SS', 'erased 1 leader(s) of PV HAW-CH7-SS']
+2026-10-07 05:21:50  HAW-CH7-SS: length 6507.5 (spec 6507.5), start 505077.42,2649282.73 end 509868.80,2653077.93, profiles 1 views 1 -> OK
+2026-10-07 05:21:50  SAK-CH2-FP: ['erased view PV SAK-CH2-FP', 'erased profile EG SAK-CH2-FP', 'erased alignment SAK-CH2-FP', 'erased 1 leader(s) of PV SAK-CH2-FP']
+2026-10-07 05:21:51  SAK-CH2-FP: length 9780.6 (spec 9780.6), start 479063.72,2670853.32 end 486423.37,2676539.27, profiles 1 views 1 -> OK
+2026-10-07 05:21:52  SAK-CH3-SM: ['erased view PV SAK-CH3-SM', 'erased profile EG SAK-CH3-SM', 'erased alignment SAK-CH3-SM', 'erased 1 leader(s) of PV SAK-CH3-SM']
+2026-10-07 05:21:53  SAK-CH3-SM: length 6472.9 (spec 6472.9), start 483309.64,2670737.21 end 487831.42,2674709.29, profiles 1 views 1 -> OK
+2026-10-07 05:21:53  SAK-CH4-SS: ['erased view PV SAK-CH4-SS', 'erased profile EG SAK-CH4-SS', 'erased alignment SAK-CH4-SS', 'erased 1 leader(s) of PV SAK-CH4-SS']
+2026-10-07 05:21:54  SAK-CH4-SS: length 1920.7 (spec 1920.7), start 482562.42,2671756.92 end 484375.87,2672254.70, profiles 1 views 1 -> OK
+2026-10-07 05:21:55  SAK-CH5-SS: ['erased view PV SAK-CH5-SS', 'erased profile EG SAK-CH5-SS', 'erased alignment SAK-CH5-SS', 'erased 1 leader(s) of PV SAK-CH5-SS']
+2026-10-07 05:21:55  SAK-CH5-SS: length 2773.6 (spec 2773.6), start 486121.25,2672402.31 end 488439.33,2673746.42, profiles 1 views 1 -> OK
+2026-10-07 05:21:56  SAR-CH1-FP: ['erased view PV SAR-CH1-FP', 'erased profile EG SAR-CH1-FP', 'erased alignment SAR-CH1-FP', 'erased 1 leader(s) of PV SAR-CH1-FP']
+2026-10-07 05:21:57  SAR-CH1-FP: length 17552.8 (spec 17552.8), start 479364.44,2657924.77 end 491606.99,2669443.19, profiles 1 views 1 -> OK
+2026-10-07 05:21:58  SAR-CH2-SM: ['erased view PV SAR-CH2-SM', 'erased profile EG SAR-CH2-SM', 'erased alignment SAR-CH2-SM', 'erased 1 leader(s) of PV SAR-CH2-SM']
+2026-10-07 05:21:59  SAR-CH2-SM: length 6142.3 (spec 6142.3), start 485564.07,2667717.14 end 489903.20,2671321.42, profiles 1 views 1 -> OK
+2026-10-07 05:21:59  SHA-CH1-FP: ['erased view PV SHA-CH1-FP', 'erased profile EG SHA-CH1-FP', 'erased alignment SHA-CH1-FP', 'erased 1 leader(s) of PV SHA-CH1-FP']
+2026-10-07 05:22:00  SHA-CH1-FP: length 8044.2 (spec 8044.2), start 497417.65,2653484.88 end 503020.20,2658939.91, profiles 1 views 1 -> OK
+2026-10-07 05:22:00  SHA-CH3-SM: ['erased view PV SHA-CH3-SM', 'erased profile EG SHA-CH3-SM', 'erased alignment SHA-CH3-SM', 'erased 1 leader(s) of PV SHA-CH3-SM']
+2026-10-07 05:22:02  SHA-CH3-SM: length 13878.4 (spec 13878.4), start 489262.29,2654555.54 end 497237.58,2663673.04, profiles 1 views 1 -> OK
+2026-10-07 05:22:02  SHA-CH4-SM: ['erased view PV SHA-CH4-SM', 'erased profile EG SHA-CH4-SM', 'erased alignment SHA-CH4-SM', 'erased 1 leader(s) of PV SHA-CH4-SM']
+2026-10-07 05:22:04  SHA-CH4-SM: length 8276.8 (spec 8276.8), start 489340.45,2660432.71 end 493780.42,2666956.24, profiles 1 views 1 -> OK
+2026-10-07 05:22:05  SHA-CH6-SM: ['erased view PV SHA-CH6-SM', 'erased profile EG SHA-CH6-SM', 'erased alignment SHA-CH6-SM', 'erased 1 leader(s) of PV SHA-CH6-SM']
+2026-10-07 05:22:06  SHA-CH6-SM: length 5159.1 (spec 5159.1), start 497356.13,2657425.08 end 500433.62,2660922.38, profiles 1 views 1 -> OK
+2026-10-07 05:22:07  SHA-CH7-SM: ['erased view PV SHA-CH7-SM', 'erased profile EG SHA-CH7-SM', 'erased alignment SHA-CH7-SM', 'erased 1 leader(s) of PV SHA-CH7-SM']
+2026-10-07 05:22:08  SHA-CH7-SM: length 7405.9 (spec 7405.9), start 500500.40,2652389.54 end 506013.27,2656565.59, profiles 1 views 1 -> OK
+2026-10-07 05:22:09  SHA-CH9-SS: ['erased view PV SHA-CH9-SS', 'erased profile EG SHA-CH9-SS', 'erased alignment SHA-CH9-SS', 'erased 1 leader(s) of PV SHA-CH9-SS']
+2026-10-07 05:22:10  SHA-CH9-SS: length 5489.1 (spec 5489.1), start 488682.59,2664680.25 end 493222.76,2666574.79, profiles 1 views 1 -> OK
+2026-10-07 05:22:10  SHA-CH10-SS: ['erased view PV SHA-CH10-SS', 'erased profile EG SHA-CH10-SS', 'erased alignment SHA-CH10-SS', 'erased 1 leader(s) of PV SHA-CH10-SS']
+2026-10-07 05:22:11  SHA-CH10-SS: length 5374.0 (spec 5374.0), start 489368.83,2664085.21 end 493716.51,2666868.28, profiles 1 views 1 -> OK
+2026-10-07 05:22:12  SHA-CH16-SS: ['erased view PV SHA-CH16-SS', 'erased profile EG SHA-CH16-SS', 'erased alignment SHA-CH16-SS', 'erased 1 leader(s) of PV SHA-CH16-SS']
+2026-10-07 05:22:13  SHA-CH16-SS: length 6425.5 (spec 6425.5), start 495401.98,2657338.16 end 499397.79,2661810.46, profiles 1 views 1 -> OK
+2026-10-07 05:22:13  SHA-CH19-SS: ['erased view PV SHA-CH19-SS', 'erased profile EG SHA-CH19-SS', 'erased alignment SHA-CH19-SS', 'erased 1 leader(s) of PV SHA-CH19-SS']
+2026-10-07 05:22:14  SHA-CH19-SS: length 1812.0 (spec 1812.0), start 499844.23,2659164.21 end 500902.32,2660483.53, profiles 1 views 1 -> OK
+2026-10-07 05:22:21  saved
+2026-10-07 05:22:21  17 of 17 rebuilt and verified

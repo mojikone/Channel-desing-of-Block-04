@@ -1,0 +1,456 @@
+{
+ "view": {
+  "name": "PV SHA-CH6-SM",
+  "layer": "C-ROAD-PROF-VIEW",
+  "style": "ARJV_ Land Desktop Profile View",
+  "stationStart": 0,
+  "stationEnd": 5312.35557777269,
+  "elevationMin": 0,
+  "elevationMax": 23.9382757846117,
+  "location": {
+   "x": 502390.99,
+   "y": 2657363.68,
+   "z": 0
+  },
+  "elevationRangeMode": 0,
+  "stationRangeMode": 0
+ },
+ "cannoscale": {
+  "name": "1:1000",
+  "scale": 1,
+  "drawingUnits": 1,
+  "paperUnits": 1,
+  "lwdisplay": 0
+ },
+ "style": {
+  "name": "ARJV_ Land Desktop Profile View",
+  "verticalExaggeration": 10,
+  "bottomAxis": {
+   "major": 50,
+   "minor": 25,
+   "majorLabelH": 0.0025,
+   "titleH": 0.0025
+  },
+  "leftAxis": {
+   "major": 5,
+   "minor": 5,
+   "majorLabelH": 0.0025,
+   "titleH": 0.0025
+  },
+  "topAxis": {
+   "major": 5,
+   "minor": 5
+  },
+  "rightAxis": {
+   "major": 5,
+   "minor": 5
+  },
+  "display": {
+   "GraphTitle": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TITL",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxis": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TTLB",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxisTitle": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TITL",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxisAnnotationMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxisAnnotationMinor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxisTicksMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LeftAxisTicksMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxis": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TTLB",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxisTitle": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TITL",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxisAnnotationMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxisAnnotationMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxisTicksMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "RightAxisTicksMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxis": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TTLB",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisTitle": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TITL",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisAnnotationMajor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisAnnotationMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisTicksMajor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisTicksMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxis": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-TTLB",
+    "color": 7,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisTitle": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TITL",
+    "color": 3,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisAnnotationMajor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisAnnotationMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisTicksMajor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisTicksMinor": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridHorizontalMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-GRID-MAJR",
+    "color": 253,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridHorizontalMinor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-GRID-MINR",
+    "color": 253,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridVerticalMajor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-GRID-MAJR",
+    "color": 253,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridVerticalMinor": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-GRID-MINR",
+    "color": 253,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridAtHGP": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-GRID-GEOM",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisAnnotationHGP": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "TopAxisTicksHGP": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisAnnotationHGP": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "BottomAxisTicksHGP": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "GridAtSampleLineStations": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-GRID",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ProfileHatch": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByBlock",
+    "lt": "ByBlock"
+   }
+  },
+  "gridLineCounts": {
+   "verticalMinor": 212,
+   "verticalMajor": 106,
+   "horizontalMinor": 5,
+   "horizontalMajor": 5
+  }
+ },
+ "bands": [
+  {
+   "side": "bottom",
+   "MaxOffsetDistance": "err TargetInvocationException",
+   "Alignment2Id": "err TargetInvocationException",
+   "MaterialName": "err TargetInvocationException",
+   "DataSourceId": "<null>",
+   "Profile2Id": "EG SHA-CH6-SM",
+   "Profile1Id": "EG SHA-CH6-SM",
+   "AlignmentId": "SHA-CH6-SM",
+   "LabelAtEndStation": "True",
+   "LabelAtStartStation": "True",
+   "BandStyleId": "err ArgumentException",
+   "MinorInterval": "25",
+   "MajorInterval": "50",
+   "StaggerLineHeight": "0.005",
+   "StaggerLabel": "None",
+   "Weeding": "100",
+   "Gap": "0",
+   "ShowLabels": "True",
+   "BandType": "ProfileData",
+   "Location": "Bottom",
+   "bandStyle": {
+    "type": "ProfileDataBandStyle",
+    "BandType": "ProfileData",
+    "WeedingFactor": "0",
+    "TextHeight": "0.005",
+    "TextLocation": "Right",
+    "TextBoxPosition": "LeftOfBand",
+    "OffsetFromBand": "0",
+    "TextBoxWidth": "0.05",
+    "BandHeight": "0.025",
+    "Text": "Profile Data",
+    "TextStyle": "Standard",
+    "DateModified": "4/26/2015 3:48:47 AM",
+    "DateCreated": "4/26/2015 12:18:12 AM",
+    "ModifiedBy": "tharanga",
+    "CreateBy": "Autodesk, Inc.",
+    "IsUsed": "True",
+    "Description": "",
+    "PaperOrientation": "NotApplicable",
+    "Annotative": "NotApplicable",
+    "HasFields": "False",
+    "HasSaveVersionOverride": "False",
+    "IsObjectIdsInFlux": "False",
+    "IsAProxy": "False",
+    "IsTransactionResident": "True",
+    "IsReallyClosing": "False",
+    "IsCancelling": "False",
+    "IsUndoing": "False",
+    "IsNotifying": "False",
+    "IsNewObject": "False",
+    "IsModifiedGraphics": "False",
+    "IsModifiedXData": "False",
+    "IsModified": "False",
+    "IsNotifyEnabled": "False",
+    "IsWriteEnabled": "False",
+    "IsReadEnabled": "True",
+    "IsErased": "False",
+    "IsEraseStatusToggled": "False",
+    "MergeStyle": "Ignore",
+    "IsPersistent": "True",
+    "DrawableType": "Geometry",
+    "AutoDelete": "False",
+    "IsDisposed": "False",
+    "UnmanagedObject": "2452077777568"
+   }
+  }
+ ],
+ "profiles": [
+  {
+   "name": "EG SHA-CH6-SM",
+   "style": "ARJV_ Existing Ground Level",
+   "layer": "C-ROAD-PROF",
+   "profileType": 0,
+   "components": {
+    "Line": {
+     "visible": true,
+     "layer": "O1-OGL",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "Curve": {
+     "visible": true,
+     "layer": "C-ROAD-PROF",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "SymmetricalParabola": {
+     "visible": true,
+     "layer": "C-ROAD-PROF",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "AsymmetricalParabola": {
+     "visible": true,
+     "layer": "C-ROAD-PROF",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "Arrow": {
+     "visible": false,
+     "layer": "C-ROAD-PROF-TEXT",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "LineExtension": {
+     "visible": false,
+     "layer": "C-ROAD-PROF-LINE-EXTN",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "ParabolicCurveExtension": {
+     "visible": false,
+     "layer": "C-ROAD-PROF-LINE-EXTN",
+     "color": 256,
+     "lw": "ByLayer"
+    },
+    "WarningSymbol": {
+     "visible": true,
+     "layer": "0",
+     "color": 256,
+     "lw": "ByLayer"
+    }
+   }
+  }
+ ],
+ "leaders": [
+  {
+   "layer": "W5-PV-LEADER-CHANNELS",
+   "text": "PV SHA-CH6-SM  <-  alignment SHA-CH6-SM",
+   "textLoc": {
+    "x": 502426.13,
+    "y": 2657333.68,
+    "z": 0
+   },
+   "textHeight": 15,
+   "verts": [
+    [
+     497292.217,
+     2657363.684,
+     502388.63,
+     2657323.68
+    ]
+   ]
+  }
+ ]
+}

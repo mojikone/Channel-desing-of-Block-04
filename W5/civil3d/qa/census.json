@@ -1,0 +1,616 @@
+{
+ "surfaces": 73,
+ "alignments": 73,
+ "profiles": 73,
+ "viewCount": 73,
+ "leaders": 73,
+ "leaderLayers": {
+  "W5-PV-LEADER-CHANNELS": 37,
+  "W5-PV-LEADER-DYKES": 36
+ },
+ "viewStyles": {
+  "ARJV_ Land Desktop Profile View": 73
+ },
+ "viewBands": {
+  "1 bottom band(s)": 73
+ },
+ "leaderExtent": {
+  "minx": 461271.85000000003,
+  "miny": 2633682.409,
+  "maxx": 511983.58,
+  "maxy": 2677584.88
+ },
+ "drawingExtents": {
+  "x": 461229.6295088677,
+  "y": 2633643.505334992,
+  "x2": 520343.28148646647,
+  "y2": 2677997.3800000004
+ },
+ "cannoscale": "1:2000",
+ "views": [
+  {
+   "name": "PV HAW-CH2-SS",
+   "al": "HAW-CH2-SS",
+   "len": 7721,
+   "elev": 42.4,
+   "x": 500680,
+   "y": 2647209
+  },
+  {
+   "name": "PV HAW-CH3-SS",
+   "al": "HAW-CH3-SS",
+   "len": 1440,
+   "elev": 11.9,
+   "x": 501227,
+   "y": 2649507
+  },
+  {
+   "name": "PV HAW-CH4-SS",
+   "al": "HAW-CH4-SS",
+   "len": 1385,
+   "elev": 10.7,
+   "x": 501697,
+   "y": 2648311
+  },
+  {
+   "name": "PV HAW-CH5-SS",
+   "al": "HAW-CH5-SS",
+   "len": 7066,
+   "elev": 40.9,
+   "x": 503751,
+   "y": 2645886
+  },
+  {
+   "name": "PV HAW-CH6-SS",
+   "al": "HAW-CH6-SS",
+   "len": 1270,
+   "elev": 5.2,
+   "x": 503279,
+   "y": 2654006
+  },
+  {
+   "name": "PV SAR-CH3-SS",
+   "al": "SAR-CH3-SS",
+   "len": 6865,
+   "elev": 51.9,
+   "x": 480527,
+   "y": 2656123
+  },
+  {
+   "name": "PV SAR-CH4-SS",
+   "al": "SAR-CH4-SS",
+   "len": 3104,
+   "elev": 14.2,
+   "x": 482702,
+   "y": 2668103
+  },
+  {
+   "name": "PV SHA-CH2-SM",
+   "al": "SHA-CH2-SM",
+   "len": 11435,
+   "elev": 73.2,
+   "x": 484435,
+   "y": 2648536
+  },
+  {
+   "name": "PV SHA-CH5-SM",
+   "al": "SHA-CH5-SM",
+   "len": 9917,
+   "elev": 48.7,
+   "x": 490797,
+   "y": 2670213
+  },
+  {
+   "name": "PV SHA-CH8-SS",
+   "al": "SHA-CH8-SS",
+   "len": 5885,
+   "elev": 25.7,
+   "x": 487998,
+   "y": 2671632
+  },
+  {
+   "name": "PV SHA-CH12-SS",
+   "al": "SHA-CH12-SS",
+   "len": 3773,
+   "elev": 30.3,
+   "x": 487971,
+   "y": 2656697
+  },
+  {
+   "name": "PV SHA-CH13-SS",
+   "al": "SHA-CH13-SS",
+   "len": 1642,
+   "elev": 8.7,
+   "x": 494525,
+   "y": 2650731
+  },
+  {
+   "name": "PV SHA-CH14-SS",
+   "al": "SHA-CH14-SS",
+   "len": 3945,
+   "elev": 19.4,
+   "x": 494825,
+   "y": 2656874
+  },
+  {
+   "name": "PV SHA-CH15-SS",
+   "al": "SHA-CH15-SS",
+   "len": 6808,
+   "elev": 31,
+   "x": 495097,
+   "y": 2665074
+  },
+  {
+   "name": "PV SHA-CH18-SS",
+   "al": "SHA-CH18-SS",
+   "len": 3020,
+   "elev": 17.2,
+   "x": 498761,
+   "y": 2657601
+  },
+  {
+   "name": "PV SHA-CH20-SS",
+   "al": "SHA-CH20-SS",
+   "len": 3755,
+   "elev": 15.4,
+   "x": 500135,
+   "y": 2661167
+  },
+  {
+   "name": "PV SHA-CH21-SS",
+   "al": "SHA-CH21-SS",
+   "len": 1089,
+   "elev": 6.7,
+   "x": 499252,
+   "y": 2651694
+  },
+  {
+   "name": "PV HAW-D1-FP",
+   "al": "HAW-D1-FP",
+   "len": 4416,
+   "elev": 98.5,
+   "x": 511948,
+   "y": 2675791
+  },
+  {
+   "name": "PV HAW-D2-FP",
+   "al": "HAW-D2-FP",
+   "len": 2519,
+   "elev": 28.8,
+   "x": 511948,
+   "y": 2675272
+  },
+  {
+   "name": "PV HAW-D3-FP",
+   "al": "HAW-D3-FP",
+   "len": 381,
+   "elev": 34.8,
+   "x": 511948,
+   "y": 2674694
+  },
+  {
+   "name": "PV SAK-D1-FP",
+   "al": "SAK-D1-FP",
+   "len": 1948,
+   "elev": 22.2,
+   "x": 511948,
+   "y": 2674242
+  },
+  {
+   "name": "PV SAK-D2-FP",
+   "al": "SAK-D2-FP",
+   "len": 389,
+   "elev": 6.5,
+   "x": 511948,
+   "y": 2673947
+  },
+  {
+   "name": "PV SAK-D3-FP",
+   "al": "SAK-D3-FP",
+   "len": 2780,
+   "elev": 24.2,
+   "x": 511948,
+   "y": 2673475
+  },
+  {
+   "name": "PV SAK-D5-FP",
+   "al": "SAK-D5-FP",
+   "len": 958,
+   "elev": 5.2,
+   "x": 511948,
+   "y": 2672473
+  },
+  {
+   "name": "PV SAK-D6-FP",
+   "al": "SAK-D6-FP",
+   "len": 425,
+   "elev": 7.3,
+   "x": 511948,
+   "y": 2672169
+  },
+  {
+   "name": "PV SAR-D1-FP",
+   "al": "SAR-D1-FP",
+   "len": 1713,
+   "elev": 13,
+   "x": 511948,
+   "y": 2671810
+  },
+  {
+   "name": "PV SAR-D2-FP",
+   "al": "SAR-D2-FP",
+   "len": 2771,
+   "elev": 16.3,
+   "x": 511948,
+   "y": 2671416
+  },
+  {
+   "name": "PV SAR-D3-SM",
+   "al": "SAR-D3-SM",
+   "len": 2734,
+   "elev": 10.1,
+   "x": 511948,
+   "y": 2671085
+  },
+  {
+   "name": "PV SAR-D4-SM",
+   "al": "SAR-D4-SM",
+   "len": 1337,
+   "elev": 6.8,
+   "x": 511948,
+   "y": 2670788
+  },
+  {
+   "name": "PV SHA-D1-FP",
+   "al": "SHA-D1-FP",
+   "len": 2320,
+   "elev": 62.4,
+   "x": 511948,
+   "y": 2669933
+  },
+  {
+   "name": "PV SHA-D2-FP",
+   "al": "SHA-D2-FP",
+   "len": 2466,
+   "elev": 27.4,
+   "x": 511948,
+   "y": 2666571
+  },
+  {
+   "name": "PV SHA-D3-FP",
+   "al": "SHA-D3-FP",
+   "len": 1384,
+   "elev": 38.1,
+   "x": 511948,
+   "y": 2664856
+  },
+  {
+   "name": "PV SHA-D4-FP",
+   "al": "SHA-D4-FP",
+   "len": 7064,
+   "elev": 69.7,
+   "x": 511948,
+   "y": 2663929
+  },
+  {
+   "name": "PV SHA-D5-FP",
+   "al": "SHA-D5-FP",
+   "len": 548,
+   "elev": 12.6,
+   "x": 511948,
+   "y": 2663573
+  },
+  {
+   "name": "PV SHA-D6-FP",
+   "al": "SHA-D6-FP",
+   "len": 2131,
+   "elev": 19,
+   "x": 511948,
+   "y": 2663153
+  },
+  {
+   "name": "PV SHA-D7-FP",
+   "al": "SHA-D7-FP",
+   "len": 8370,
+   "elev": 77.6,
+   "x": 511948,
+   "y": 2662146
+  },
+  {
+   "name": "PV SHA-D8-FP",
+   "al": "SHA-D8-FP",
+   "len": 838,
+   "elev": 19.5,
+   "x": 511948,
+   "y": 2661721
+  },
+  {
+   "name": "PV SHA-D9-FP",
+   "al": "SHA-D9-FP",
+   "len": 1063,
+   "elev": 7.7,
+   "x": 511948,
+   "y": 2661413
+  },
+  {
+   "name": "PV SHA-D10-SM",
+   "al": "SHA-D10-SM",
+   "len": 638,
+   "elev": 14.8,
+   "x": 511948,
+   "y": 2669554
+  },
+  {
+   "name": "PV SHA-D11-SM",
+   "al": "SHA-D11-SM",
+   "len": 787,
+   "elev": 6.3,
+   "x": 511948,
+   "y": 2669261
+  },
+  {
+   "name": "PV SHA-D12-SM",
+   "al": "SHA-D12-SM",
+   "len": 194,
+   "elev": 2.7,
+   "x": 511948,
+   "y": 2669003
+  },
+  {
+   "name": "PV SHA-D13-SM",
+   "al": "SHA-D13-SM",
+   "len": 758,
+   "elev": 3.7,
+   "x": 511948,
+   "y": 2668736
+  },
+  {
+   "name": "PV SHA-D14-SM",
+   "al": "SHA-D14-SM",
+   "len": 470,
+   "elev": 2.5,
+   "x": 511948,
+   "y": 2668481
+  },
+  {
+   "name": "PV SHA-D15-SS",
+   "al": "SHA-D15-SS",
+   "len": 1058,
+   "elev": 7.3,
+   "x": 511948,
+   "y": 2668177
+  },
+  {
+   "name": "PV SHA-D16-SS",
+   "al": "SHA-D16-SS",
+   "len": 47,
+   "elev": 3.6,
+   "x": 511948,
+   "y": 2667909
+  },
+  {
+   "name": "PV SHA-D17-SS",
+   "al": "SHA-D17-SS",
+   "len": 72,
+   "elev": 2.3,
+   "x": 511948,
+   "y": 2667655
+  },
+  {
+   "name": "PV SHA-D18-SS",
+   "al": "SHA-D18-SS",
+   "len": 1668,
+   "elev": 6.5,
+   "x": 511948,
+   "y": 2667359
+  },
+  {
+   "name": "PV SHA-D19-SS",
+   "al": "SHA-D19-SS",
+   "len": 1069,
+   "elev": 5.4,
+   "x": 511948,
+   "y": 2667075
+  },
+  {
+   "name": "PV SHA-D20-SS",
+   "al": "SHA-D20-SS",
+   "len": 309,
+   "elev": 1.6,
+   "x": 511948,
+   "y": 2666325
+  },
+  {
+   "name": "PV SHA-D21-SS",
+   "al": "SHA-D21-SS",
+   "len": 1920,
+   "elev": 12.3,
+   "x": 511948,
+   "y": 2665972
+  },
+  {
+   "name": "PV SHA-D22-SS",
+   "al": "SHA-D22-SS",
+   "len": 300,
+   "elev": 1.6,
+   "x": 511948,
+   "y": 2665726
+  },
+  {
+   "name": "PV SHA-D23-SS",
+   "al": "SHA-D23-SS",
+   "len": 353,
+   "elev": 2.7,
+   "x": 511948,
+   "y": 2665469
+  },
+  {
+   "name": "PV SAK-CH1-FP",
+   "al": "SAK-CH1-FP",
+   "len": 12467,
+   "elev": 68.4,
+   "x": 464324,
+   "y": 2661467
+  },
+  {
+   "name": "PV SAK-D4-FP",
+   "al": "SAK-D4-FP",
+   "len": 4272,
+   "elev": 49,
+   "x": 511948,
+   "y": 2672755
+  },
+  {
+   "name": "PV SHA-CH11-SS",
+   "al": "SHA-CH11-SS",
+   "len": 2428,
+   "elev": 13.1,
+   "x": 487259,
+   "y": 2661048
+  },
+  {
+   "name": "PV SHA-CH17-SS",
+   "al": "SHA-CH17-SS",
+   "len": 5108,
+   "elev": 27.6,
+   "x": 484993,
+   "y": 2655178
+  },
+  {
+   "name": "PV HAW-CH1-FP",
+   "al": "HAW-CH1-FP",
+   "len": 8204,
+   "elev": 43.9,
+   "x": 500869,
+   "y": 2646526
+  },
+  {
+   "name": "PV HAW-CH7-SS",
+   "al": "HAW-CH7-SS",
+   "len": 6508,
+   "elev": 28.1,
+   "x": 505077,
+   "y": 2648740
+  },
+  {
+   "name": "PV SAK-CH2-FP",
+   "al": "SAK-CH2-FP",
+   "len": 9781,
+   "elev": 39.8,
+   "x": 479064,
+   "y": 2677006
+  },
+  {
+   "name": "PV SAK-CH3-SM",
+   "al": "SAK-CH3-SM",
+   "len": 6473,
+   "elev": 18.8,
+   "x": 483256,
+   "y": 2677645
+  },
+  {
+   "name": "PV SAK-CH4-SS",
+   "al": "SAK-CH4-SS",
+   "len": 1921,
+   "elev": 7.9,
+   "x": 484526,
+   "y": 2671705
+  },
+  {
+   "name": "PV SAK-CH5-SS",
+   "al": "SAK-CH5-SS",
+   "len": 2774,
+   "elev": 9.7,
+   "x": 486121,
+   "y": 2672069
+  },
+  {
+   "name": "PV SAR-CH1-FP",
+   "al": "SAR-CH1-FP",
+   "len": 17553,
+   "elev": 110.8,
+   "x": 461274,
+   "y": 2657925
+  },
+  {
+   "name": "PV SAR-CH2-SM",
+   "al": "SAR-CH2-SM",
+   "len": 6142,
+   "elev": 24.6,
+   "x": 491343,
+   "y": 2667650
+  },
+  {
+   "name": "PV SHA-CH1-FP",
+   "al": "SHA-CH1-FP",
+   "len": 8044,
+   "elev": 37.7,
+   "x": 497418,
+   "y": 2663474
+  },
+  {
+   "name": "PV SHA-CH3-SM",
+   "al": "SHA-CH3-SM",
+   "len": 13878,
+   "elev": 80.9,
+   "x": 471023,
+   "y": 2654556
+  },
+  {
+   "name": "PV SHA-CH4-SM",
+   "al": "SHA-CH4-SM",
+   "len": 8277,
+   "elev": 38.3,
+   "x": 489340,
+   "y": 2669661
+  },
+  {
+   "name": "PV SHA-CH6-SM",
+   "al": "SHA-CH6-SM",
+   "len": 5159,
+   "elev": 23.4,
+   "x": 502391,
+   "y": 2657364
+  },
+  {
+   "name": "PV SHA-CH7-SM",
+   "al": "SHA-CH7-SM",
+   "len": 7406,
+   "elev": 33.4,
+   "x": 500500,
+   "y": 2659281
+  },
+  {
+   "name": "PV SHA-CH9-SS",
+   "al": "SHA-CH9-SS",
+   "len": 5489,
+   "elev": 24.1,
+   "x": 493373,
+   "y": 2664591
+  },
+  {
+   "name": "PV SHA-CH10-SS",
+   "al": "SHA-CH10-SS",
+   "len": 5374,
+   "elev": 25.7,
+   "x": 493867,
+   "y": 2664036
+  },
+  {
+   "name": "PV SHA-CH16-SS",
+   "al": "SHA-CH16-SS",
+   "len": 6425,
+   "elev": 33.7,
+   "x": 495402,
+   "y": 2665609
+  },
+  {
+   "name": "PV SHA-CH19-SS",
+   "al": "SHA-CH19-SS",
+   "len": 1812,
+   "elev": 7,
+   "x": 499844,
+   "y": 2658828
+  }
+ ]
+}

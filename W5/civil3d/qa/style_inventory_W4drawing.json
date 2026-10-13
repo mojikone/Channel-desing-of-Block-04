@@ -1,0 +1,795 @@
+﻿identity: {'filename': 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W4\\civil3d\\Block04_Channels_Surfaces_C3Dtemplate.dwg', 'guid': '{2CEC4E6D-2412-764E-A240-7256A4CE5450}', 'name': 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W4\\civil3d\\Block04_Channels_Surfaces_C3Dtemplate.dwg'}
+{
+ "drawing": {
+  "name": "D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W4\\civil3d\\Block04_Channels_Surfaces_C3Dtemplate.dwg",
+  "filename": "D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W4\\civil3d\\Block04_Channels_Surfaces_C3Dtemplate.dwg",
+  "guid": "{2CEC4E6D-2412-764E-A240-7256A4CE5450}",
+  "cannoscale": "1:1000",
+  "cannoscaleValue": 1,
+  "lwdisplay": 0,
+  "insunits": "Meters",
+  "coordSys": "UTM84-40N"
+ },
+ "alignmentStyles": [
+  "Offsets",
+  "ARJV_ (Alignment)",
+  "Basic",
+  "Layout",
+  "Standard",
+  "Existing",
+  "Intersection Basic",
+  "Proposed"
+ ],
+ "alignmentLabelSets": [
+  "Major and Minor only",
+  "All Labels",
+  "Major Minor H+V Geometry Points",
+  "Major Minor H+V Geometry and Superelevation Points",
+  "HTJ (Alignment Label Set)",
+  "Major Minor and Geometry Points",
+  "ARJV_Alignment Label Set",
+  "_No Labels",
+  "Standard"
+ ],
+ "profileStyles": [
+  "ARJV_ Rock Excavation Profile",
+  "ARJV_ Water Level  Profile",
+  "Design Profile",
+  "ARJV_MWL",
+  "ARJV_FSL",
+  "ARJV_Design Profile",
+  "Basic",
+  "Layout",
+  "ARJV_ Existing Ground Level",
+  "Standard",
+  "Intersection Basic"
+ ],
+ "profileLabelSets": [
+  "ARJV_ Profile Label Set",
+  "New Profile Label Set",
+  "_No Labels",
+  "Standard",
+  "Complete Label Set"
+ ],
+ "profileViewStyles": [
+  "Top Stacked View",
+  "Major Grids",
+  "Middle Stacked View",
+  "Bottom Stacked View",
+  "ARJV_ Land Desktop Profile View",
+  "First View",
+  "Intermediate View",
+  "Full Grid",
+  "Standard",
+  "Land Desktop Profile View",
+  "Last View",
+  "Profile View"
+ ],
+ "bandSets": [
+  "Land Desktop Standard Band Set",
+  "EG-FG Elevations and Stations",
+  "ARJV_Band set",
+  "Pipe Data",
+  "Plan Profile Sheets - Elevations and Stations",
+  "HTJ (EG-FG Elevations and Stations)",
+  "4 band",
+  "Profile Data with Geometry and Superelevation",
+  "Retaining Wall",
+  "_No Bands",
+  "Land Desktop Full Band Set",
+  "Stations Only",
+  "CH-3",
+  "Cut and Fill",
+  "Standard",
+  "Section Sample Lines",
+  "New Profile View Band Set"
+ ],
+ "profileDataBands": [
+  "Fill Data",
+  "Water Level",
+  "Elevations and Stations",
+  "Cut Data",
+  "ARJV_Existing Ground Level",
+  "ARJV_Dam Crest",
+  "Land Desktop Existing and Design Elevations",
+  "Land Desktop Right Sampling",
+  "Land Desktop Left Sampling",
+  "HTJ (STA & ELE)",
+  "EX",
+  "Profile Data",
+  "New Profile Data Band Style",
+  "Wall Base",
+  "Empty Band - Bottom",
+  "Wall Top",
+  "Empty Band - Top",
+  "ARJV_Excavation Level",
+  "Standard",
+  "ARJV_Station",
+  "HTJ (Elevations and Stations)",
+  "Stations"
+ ],
+ "horizGeomBands": [
+  "ARJV_ Horizontal Data",
+  "Geometry",
+  "Curvature",
+  "Standard",
+  "HTJ Horizontal [Copy]"
+ ],
+ "vertGeomBands": [
+  "Geometry",
+  "Standard"
+ ],
+ "surfaceStyles": [
+  "Contours 1m and 5m (Background)",
+  "Contours and Triangles",
+  "_No Display",
+  "Elevation Banding (2D)",
+  "Elevation Banding 10m Interval (2D)",
+  "Border Only",
+  "Contours 2m and 10m (Design)",
+  "Slope Banding (2D)",
+  "Contours 1m and 5m (Design)",
+  "ARJV_",
+  "Elevation Banding 1m Interval (2D)",
+  "Contours 2m and 10m (Background)",
+  "Contours 5m and 25m (Design)",
+  "Standard",
+  "Contours 5m and 25m (Background)",
+  "Cut and Fill Banding 0.5m Interval (2D)"
+ ],
+ "bandSetDetails": [
+  {
+   "name": "Land Desktop Standard Band Set",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "0",
+     "MajorInterval": "0",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "EG-FG Elevations and Stations",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "ARJV_Band set",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "err TargetInvocationException",
+     "LabelAtStartStation": "err TargetInvocationException",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "HorizontalGeometry",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "Pipe Data",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "PipeNetwork",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "PipeNetwork",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "PipeNetwork",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "PipeNetwork",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "Plan Profile Sheets - Elevations and Stations",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0.0125",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "top",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Top"
+    }
+   ]
+  },
+  {
+   "name": "HTJ (EG-FG Elevations and Stations)",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "4 band",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "False",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "False",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "False",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "False",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "False",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "Profile Data with Geometry and Superelevation",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "top",
+     "LabelAtEndStation": "err TargetInvocationException",
+     "LabelAtStartStation": "err TargetInvocationException",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "HorizontalGeometry",
+     "Location": "Top"
+    },
+    {
+     "side": "top",
+     "LabelAtEndStation": "err TargetInvocationException",
+     "LabelAtStartStation": "err TargetInvocationException",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "VerticalGeometry",
+     "Location": "Top"
+    },
+    {
+     "side": "top",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "SuperelevationData",
+     "Location": "Top"
+    }
+   ]
+  },
+  {
+   "name": "Retaining Wall",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "_No Bands",
+   "items": []
+  },
+  {
+   "name": "Land Desktop Full Band Set",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "0",
+     "MajorInterval": "0",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "0",
+     "MajorInterval": "0",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.025",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "0",
+     "MajorInterval": "0",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "Stations Only",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "CH-3",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "10",
+     "MajorInterval": "20",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  },
+  {
+   "name": "Cut and Fill",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "Right",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    },
+    {
+     "side": "top",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "25",
+     "MajorInterval": "100",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Top"
+    }
+   ]
+  },
+  {
+   "name": "Standard",
+   "items": []
+  },
+  {
+   "name": "Section Sample Lines",
+   "items": [
+    {
+     "side": "top",
+     "LabelAtEndStation": "False",
+     "LabelAtStartStation": "False",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "err TargetInvocationException",
+     "MajorInterval": "err TargetInvocationException",
+     "StaggerLineHeight": "0",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0.04",
+     "ShowLabels": "True",
+     "BandType": "SectionalData",
+     "Location": "Top"
+    }
+   ]
+  },
+  {
+   "name": "New Profile View Band Set",
+   "items": [
+    {
+     "side": "bottom",
+     "LabelAtEndStation": "True",
+     "LabelAtStartStation": "True",
+     "BandStyleId": "err ArgumentException",
+     "MinorInterval": "20",
+     "MajorInterval": "40",
+     "StaggerLineHeight": "0.005",
+     "StaggerLabel": "None",
+     "Weeding": "100",
+     "Gap": "0",
+     "ShowLabels": "True",
+     "BandType": "ProfileData",
+     "Location": "Bottom"
+    }
+   ]
+  }
+ ],
+ "profileViewS

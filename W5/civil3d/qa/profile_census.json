@@ -1,0 +1,199 @@
+{
+ "existingGround": 73,
+ "gdpProfiles": 37,
+ "gdpPviTotal": 307,
+ "otherLayoutProfiles": [
+  "SAK-CH3-SM GDP (FG, ARJV_Design Profile)"
+ ],
+ "markers": {
+  "circles": 307,
+  "texts": 307
+ },
+ "gdpPvis": [
+  {
+   "name": "GDP HAW-CH2-SS",
+   "pvis": 10,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH3-SS",
+   "pvis": 3,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH4-SS",
+   "pvis": 5,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH5-SS",
+   "pvis": 12,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH6-SS",
+   "pvis": 2,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAR-CH3-SS",
+   "pvis": 5,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAR-CH4-SS",
+   "pvis": 4,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH2-SM",
+   "pvis": 15,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH5-SM",
+   "pvis": 9,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH8-SS",
+   "pvis": 6,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH12-SS",
+   "pvis": 7,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH13-SS",
+   "pvis": 2,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH14-SS",
+   "pvis": 6,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH15-SS",
+   "pvis": 11,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH18-SS",
+   "pvis": 5,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH20-SS",
+   "pvis": 7,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH21-SS",
+   "pvis": 2,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAK-CH1-FP",
+   "pvis": 17,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH11-SS",
+   "pvis": 2,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH17-SS",
+   "pvis": 8,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH1-FP",
+   "pvis": 8,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP HAW-CH7-SS",
+   "pvis": 6,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAK-CH2-FP",
+   "pvis": 11,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAK-CH3-SM",
+   "pvis": 6,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAK-CH4-SS",
+   "pvis": 3,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAK-CH5-SS",
+   "pvis": 4,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAR-CH1-FP",
+   "pvis": 21,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SAR-CH2-SM",
+   "pvis": 11,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH1-FP",
+   "pvis": 14,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH3-SM",
+   "pvis": 21,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH4-SM",
+   "pvis": 13,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH6-SM",
+   "pvis": 8,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH7-SM",
+   "pvis": 13,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH9-SS",
+   "pvis": 8,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH10-SS",
+   "pvis": 8,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH16-SS",
+   "pvis": 12,
+   "style": "ARJV_Design Profile"
+  },
+  {
+   "name": "GDP SHA-CH19-SS",
+   "pvis": 2,
+   "style": "ARJV_Design Profile"
+  }
+ ]
+}

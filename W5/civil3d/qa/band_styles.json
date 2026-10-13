@@ -1,0 +1,3699 @@
+{
+ "bandStyles": {
+  "Elevations and Stations": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "3/30/2006 2:01:16 PM",
+   "DateCreated": "2/23/2006 10:26:49 PM",
+   "ModifiedBy": "Autodesk, Inc.",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077766336"
+  },
+  "ARJV_Existing Ground Level": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "False",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "11/12/2024 11:48:02 PM",
+   "DateCreated": "2/22/2016 3:15:39 AM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077778816"
+  },
+  "ARJV_Dam Crest": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "False",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "11/27/2024 9:18:15 PM",
+   "DateCreated": "2/22/2016 3:12:42 AM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077775488"
+  },
+  "HTJ (STA & ELE)": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.005",
+    "SmallTicksAtMiddleSize": "0.01",
+    "SmallTicksAtTopSize": "0.005",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.005",
+    "SmallTicksAtMiddleSize": "0.01",
+    "SmallTicksAtTopSize": "0.005",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.005",
+    "SmallTicksAtMiddleSize": "0.01",
+    "SmallTicksAtTopSize": "0.005",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.005",
+    "SmallTicksAtMiddleSize": "0.01",
+    "SmallTicksAtTopSize": "0.005",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.005",
+    "SmallTicksAtMiddleSize": "0.01",
+    "SmallTicksAtTopSize": "0.005",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0.005",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "4/26/2015 12:15:36 AM",
+   "DateCreated": "4/26/2015 12:11:03 AM",
+   "ModifiedBy": "tharanga",
+   "CreateBy": "tharanga",
+   "IsUsed": "False",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2451418206160"
+  },
+  "EX": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.015",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "12/20/2015 11:33:48 PM",
+   "DateCreated": "12/16/2015 11:03:04 PM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2451418189936"
+  },
+  "Profile Data": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.041666666666666664",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "2/3/2009 12:52:54 PM",
+   "DateCreated": "3/1/2006 12:25:11 AM",
+   "ModifiedBy": "Autodesk, Inc.",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "Style with profile data for two profiles, includes major station below the band.",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077777984"
+  },
+  "ARJV_Excavation Level": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "False",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "11/16/2024 9:54:16 PM",
+   "DateCreated": "2/22/2016 3:14:59 AM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077779232"
+  },
+  "ARJV_Station": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "False",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "False"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "11/12/2024 11:57:29 PM",
+   "DateCreated": "12/16/2015 11:14:37 PM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077764256"
+  },
+  "HTJ (Elevations and Stations)": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "4/26/2015 3:48:47 AM",
+   "DateCreated": "4/26/2015 12:18:12 AM",
+   "ModifiedBy": "tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077777568"
+  },
+  "Stations": {
+   "StationEquationTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "VGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "HGPTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MinorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "MajorIncrementTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "True",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "BandType": "ProfileData",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Profile Data",
+   "TextStyle": "Standard",
+   "DateModified": "2/3/2009 12:53:12 PM",
+   "DateCreated": "3/2/2006 8:33:07 AM",
+   "ModifiedBy": "Autodesk, Inc.",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077783808"
+  },
+  "ARJV_ Horizontal Data": {
+   "PointOfIntersectionTickStyle": {
+    "SmallTicksAtBottomSize": "0.020833333333333332",
+    "SmallTicksAtMiddleSize": "0.041666666666666664",
+    "SmallTicksAtTopSize": "0.020833333333333332",
+    "IncrementSmallTicksAtBottom": "False",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "False",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "SpiralTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "CurveTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "TangentTickStyle": {
+    "SmallTicksAtBottomSize": "0.0025",
+    "SmallTicksAtMiddleSize": "0.04",
+    "SmallTicksAtTopSize": "0.0025",
+    "IncrementSmallTicksAtBottom": "True",
+    "IncrementSmallTicksAtMiddle": "False",
+    "IncrementSmallTicksAtTop": "True",
+    "IncrementTicksToFullHeight": "True"
+   },
+   "SchematicLineType": "Geometry",
+   "BandType": "HorizontalGeometry",
+   "WeedingFactor": "0",
+   "TextHeight": "0.005",
+   "TextLocation": "Right",
+   "TextBoxPosition": "LeftOfBand",
+   "OffsetFromBand": "0",
+   "TextBoxWidth": "0.05",
+   "BandHeight": "0.025",
+   "Text": "Horizontal Geometry",
+   "TextStyle": "Standard",
+   "DateModified": "11/12/2024 11:48:37 PM",
+   "DateCreated": "6/1/2016 4:39:46 AM",
+   "ModifiedBy": "Tharanga",
+   "CreateBy": "Autodesk, Inc.",
+   "IsUsed": "True",
+   "Description": "Style with horizontal curvature geometry.",
+   "PaperOrientation": "NotApplicable",
+   "Annotative": "NotApplicable",
+   "HasFields": "False",
+   "HasSaveVersionOverride": "False",
+   "IsObjectIdsInFlux": "False",
+   "IsAProxy": "False",
+   "IsTransactionResident": "True",
+   "IsReallyClosing": "False",
+   "IsCancelling": "False",
+   "IsUndoing": "False",
+   "IsNotifying": "False",
+   "IsNewObject": "False",
+   "IsModifiedGraphics": "False",
+   "IsModifiedXData": "False",
+   "IsModified": "False",
+   "IsNotifyEnabled": "False",
+   "IsWriteEnabled": "False",
+   "IsReadEnabled": "True",
+   "IsErased": "False",
+   "IsEraseStatusToggled": "False",
+   "MergeStyle": "Ignore",
+   "IsPersistent": "True",
+   "DrawableType": "Geometry",
+   "AutoDelete": "False",
+   "IsDisposed": "False",
+   "UnmanagedObject": "2452077765504"
+  }
+ },
+ "profileStyles": {
+  "ARJV_ Rock Excavation Profile": {
+   "Line": {
+    "visible": true,
+    "layer": "O1_Rock Profile",
+    "color": 1,
+    "lw": "ByLayer",
+    "lt": "SPECIAL_Line_46"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "ARJV_ Water Level  Profile": {
+   "Line": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 6,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "ARJV_MWL": {
+   "Line": {
+    "visible": true,
+    "layer": "MWL",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "ARJV_FSL": {
+   "Line": {
+    "visible": true,
+    "layer": "FSL",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "ARJV_Design Profile": {
+   "Line": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 5,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-PROP",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "Basic": {
+   "Line": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "ARJV_ Existing Ground Level": {
+   "Line": {
+    "visible": true,
+    "layer": "O1-OGL",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "HIDDEN"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "C-ROAD-PROF",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "Arrow": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-TEXT",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "LineExtension": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "ParabolicCurveExtension": {
+    "visible": false,
+    "layer": "C-ROAD-PROF-LINE-EXTN",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByLayer"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  },
+  "Standard": {
+   "Line": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "Curve": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "SymmetricalParabola": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "AsymmetricalParabola": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "Arrow": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "LineExtension": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "ParabolicCurveExtension": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   },
+   "WarningSymbol": {
+    "visible": true,
+    "layer": "0",
+    "color": 256,
+    "lw": "ByLayer",
+    "lt": "ByBlock"
+   }
+  }
+ },
+ "profileViewStyles": {
+  "Top Stacked View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Major Grids": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.005",
+     "Border": "True",
+     "OffsetY": "0.05",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "10"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "10"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "2",
+    "GridPaddingAbove": "2",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Middle Stacked View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Bottom Stacked View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "ARJV_ Land Desktop Profile View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "-0.0035",
+     "OffsetX": "0",
+     "Justification": "TopOrLeft",
+     "Location": "Right",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Arial",
+     "Text": "{\\LDATUM ELEV\\P}<[Profile View Minimum Elevation(Um|P3|RN|AP|Sn|OF)]>"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "ARJV_Romans",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "ARJV_Romans",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "25"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Romans",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "50"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Romans",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0025",
+    "TextStyle": "ARJV_Romans",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "50"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "ARJV_Romans",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "25"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0025",
+    "TextStyle": "ARJV_Romans",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "False",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Romans",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "False",
+     "OffsetY": "0",
+     "OffsetX": "-0.0025",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Romans",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.01",
+     "Interval": "5"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0025",
+     "TextStyle": "ARJV_Romans",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "False"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "False",
+    "OffsetY": "0",
+    "OffsetX": "-0.0025",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0025",
+    "TextStyle": "ARJV_Romans",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.01",
+    "Interval": "5"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "False",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0025",
+    "TextStyle": "ARJV_Romans",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0025",
+    "TextStyle": "ARJV_Romans",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "0",
+    "GridPaddingLeft": "0",
+    "GridPaddingBottom": "1",
+    "GridPaddingAbove": "1",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "First View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Intermediate View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Full Grid": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.004",
+     "Border": "True",
+     "OffsetY": "0.015",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "0.5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "0.5"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "0",
+    "GridPaddingLeft": "0",
+    "GridPaddingBottom": "1",
+    "GridPaddingAbove": "1",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Standard": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.005",
+     "Border": "False",
+     "OffsetY": "0.05",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.025",
+     "TextStyle": "Standard",
+     "Text": "Profile View of  <[Parent Alignment(CP)]>"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|Sn|OF|AP|B2|TP|EN|W0|DZY|GC|UN)]>",
+     "Size": "0.005"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|Sn|OF|AP|B2|TP|EN|W0|DZY|GC|UN)]>",
+     "Size": "0.005",
+     "Interval": "25"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0075",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|Sn|OF|AP|B2|TP|EN|W0|DZY|GC|UN)]>",
+     "Size": "0.0075",
+     "Interval": "100"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.01",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0075",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P2|RN|Sn|OF|AP|B2|TP|EN|W0|DZY|GC|UN)]>",
+    "Size": "0.0075",
+    "Interval": "100"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.005",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P2|RN|Sn|OF|AP|B2|TP|EN|W0|DZY|GC|UN)]>",
+    "Size": "0.005",
+    "Interval": "25"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.01",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P2|RN|Sn|OF|AP|GC|UN)]>",
+     "Size": "0.005",
+     "Interval": "2.5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0075",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P2|RN|Sn|OF|AP|GC|UN)]>",
+     "Size": "0.0075",
+     "Interval": "10"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.01",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0075",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P2|RN|Sn|OF|AP|GC|UN)]>",
+    "Size": "0.0075",
+    "Interval": "10"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.005",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P2|RN|Sn|OF|AP|GC|UN)]>",
+    "Size": "0.005",
+    "Interval": "2.5"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.01",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "2",
+    "GridPaddingLeft": "2",
+    "GridPaddingBottom": "2",
+    "GridPaddingAbove": "2",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "True",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "True",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "True"
+    }
+   }
+  },
+  "Land Desktop Profile View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "-0.005",
+     "OffsetX": "-0.003",
+     "Justification": "TopOrLeft",
+     "Location": "Right",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "{\\LDATUM ELEV\\P}<[Profile View Minimum Elevation(Um|P3|RN|AP|Sn|OF)]>"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "40"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "40"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "False",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "2"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "False",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "4"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "False"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "False",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "4"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "False",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "2"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "0",
+    "GridPaddingLeft": "0",
+    "GridPaddingBottom": "1",
+    "GridPaddingAbove": "1",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Last View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  },
+  "Profile View": {
+   "graph": {
+    "TitleStyle": {
+     "BorderGap": "0.020833333333333332",
+     "Border": "False",
+     "OffsetY": "0.02",
+     "OffsetX": "0",
+     "Justification": "MiddleOrCenter",
+     "Location": "Top",
+     "TextHeight": "0.005",
+     "TextStyle": "Standard",
+     "Text": "<[Parent Alignment(CP)]> PROFILE"
+    },
+    "Direction": "LeftToRight",
+    "VerticalExaggeration": "10",
+    "CurrentHorizontalScale": "1000",
+    "VerticalScale": "100"
+   },
+   "bottomAxis": {
+    "HorizontalGeometryTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P2|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025"
+    },
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "5"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+     "Size": "0.0025",
+     "Interval": "20"
+    },
+    "TitleStyle": {
+     "OffsetY": "-0.025",
+     "OffsetX": "0",
+     "Rotation": "0",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Station"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "bottomMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "20"
+   },
+   "bottomMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Station Value(Um|FS|P0|RN|AP|Sn|TP|B3|EN|W0|OF)]>",
+    "Size": "0.0025",
+    "Interval": "5"
+   },
+   "bottomTitle": {
+    "OffsetY": "-0.025",
+    "OffsetX": "0",
+    "Rotation": "0",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Station"
+   },
+   "leftAxis": {
+    "MinorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.00175",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "0.0025",
+     "Interval": "1"
+    },
+    "MajorTickStyle": {
+     "TickAndLabelStartElevation": "True",
+     "OffsetY": "0.003",
+     "OffsetX": "0.015",
+     "Rotation": "0",
+     "Justification": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+     "Size": "1E-05",
+     "Interval": "2"
+    },
+    "TitleStyle": {
+     "OffsetY": "0",
+     "OffsetX": "-0.025",
+     "Rotation": "4.712389",
+     "Location": "Center",
+     "TextHeight": "0.0035",
+     "TextStyle": "Standard",
+     "Text": "Elevation"
+    },
+    "ShowTickAndLabel": "True"
+   },
+   "leftMajorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "1E-05",
+    "Interval": "2"
+   },
+   "leftMinorTick": {
+    "TickAndLabelStartElevation": "True",
+    "OffsetY": "0.003",
+    "OffsetX": "0.015",
+    "Rotation": "0",
+    "Justification": "Center",
+    "TextHeight": "0.00175",
+    "TextStyle": "Standard",
+    "LabelText": "<[Profile View Point Elevation(Um|P0|RN|AP|Sn|OF)]>",
+    "Size": "0.0025",
+    "Interval": "1"
+   },
+   "leftTitle": {
+    "OffsetY": "0",
+    "OffsetX": "-0.025",
+    "Rotation": "4.712389",
+    "Location": "Center",
+    "TextHeight": "0.0035",
+    "TextStyle": "Standard",
+    "Text": "Elevation"
+   },
+   "grid": {
+    "AxisOffsetRight": "0",
+    "AxisOffsetLeft": "0",
+    "AxisOffsetBottom": "0",
+    "AxisOffsetAbove": "0",
+    "GridPaddingRight": "1",
+    "GridPaddingLeft": "1",
+    "GridPaddingBottom": "0",
+    "GridPaddingAbove": "0",
+    "HorizontalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    },
+    "VerticalGridOptions": {
+     "OmitGridInPaddingAreas": "False",
+     "ClipToHighestProfile": "False",
+     "UseClipGrid": "False"
+    }
+   }
+  }
+ }
+}

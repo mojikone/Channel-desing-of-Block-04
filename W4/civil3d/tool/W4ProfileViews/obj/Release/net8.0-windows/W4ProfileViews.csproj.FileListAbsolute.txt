@@ -1,0 +1,12 @@
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\bin\Release\net8.0-windows\W4Tools.deps.json
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\bin\Release\net8.0-windows\W4Tools.runtimeconfig.json
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\bin\Release\net8.0-windows\W4Tools.dll
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\bin\Release\net8.0-windows\W4Tools.pdb
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4ProfileViews.csproj.AssemblyReference.cache
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4ProfileViews.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4ProfileViews.csproj.CoreCompileInputs.cache
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4Tools.dll
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\refint\W4Tools.dll
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4Tools.pdb
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\W4ProfileViews.genruntimeconfig.cache
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W4\civil3d\tool\W4ProfileViews\obj\Release\net8.0-windows\ref\W4Tools.dll

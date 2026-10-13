@@ -1,0 +1,101 @@
+2026-10-08 08:01:59  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-08 08:02:34  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-08 08:02:35  37 GDP profiles read (drawing with unsaved edits)
+2026-10-08 08:02:44  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-08 08:02:44  37 GDP profiles read (drawing with unsaved edits)
+2026-10-08 08:02:44  markers: {'erased': 576, 'made': 241, 'missing': []}
+2026-10-08 08:02:45  drawing saved
+2026-10-08 08:02:46  Block4_channel_breaks.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_breaks.shp'): writing Block4_channel_breaks_reviewed.shp instead
+2026-10-08 08:02:46  Block4_channel_segments.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_segments.shp'): writing Block4_channel_segments_reviewed.shp instead
+2026-10-08 08:02:46  WARNING HAW-CH1-FP: GDP spans 0.1-8203.1, alignment 0.0-8203.9
+2026-10-08 08:02:46  WARNING HAW-CH2-SS: GDP spans 0.4-7720.4, alignment 0.0-7721.1
+2026-10-08 08:02:46  WARNING HAW-CH3-SS: GDP spans 0.4-1439.4, alignment 0.0-1440.4
+2026-10-08 08:02:46  WARNING HAW-CH4-SS: GDP spans 0.1-1384.1, alignment 0.0-1385.3
+2026-10-08 08:02:46  WARNING HAW-CH5-SS: GDP spans 0.4-7064.4, alignment 0.0-7065.8
+2026-10-08 08:02:46  WARNING HAW-CH6-SS: GDP spans 0.1-1269.1, alignment 0.0-1270.2
+2026-10-08 08:02:46  WARNING SAK-CH1-FP: GDP spans 0.1-12466.1, alignment 0.0-12466.6
+2026-10-08 08:02:46  WARNING SAK-CH2-FP: GDP spans 0.0-9780.0, alignment 0.0-9780.6
+2026-10-08 08:02:46  WARNING SAK-CH3-SM: GDP spans 0.0-6472.0, alignment 0.0-6472.9
+2026-10-08 08:02:46  WARNING SAK-CH4-SS: GDP spans 0.0-1920.0, alignment 0.0-1920.7
+2026-10-08 08:02:46  WARNING SAR-CH1-FP: GDP spans 0.1-17552.1, alignment 0.0-17552.8
+2026-10-08 08:02:46  WARNING SAR-CH3-SS: GDP spans 0.3-6864.3, alignment 0.0-6865.5
+2026-10-08 08:02:46  WARNING SHA-CH1-FP: GDP spans 0.3-8043.3, alignment 0.0-8044.2
+2026-10-08 08:02:46  WARNING SHA-CH2-SM: GDP spans 0.5-11434.5, alignment 0.0-11435.4
+2026-10-08 08:02:46  WARNING SHA-CH4-SM: GDP spans 0.2-8276.2, alignment 0.0-8276.8
+2026-10-08 08:02:46  WARNING SHA-CH7-SM: GDP spans 0.4-7405.4, alignment 0.0-7405.9
+2026-10-08 08:02:46  WARNING SHA-CH9-SS: GDP spans 0.0-5488.0, alignment 0.0-5489.1
+2026-10-08 08:02:46  WARNING SHA-CH10-SS: GDP spans 0.0-5373.0, alignment 0.0-5374.0
+2026-10-08 08:02:46  WARNING SHA-CH12-SS: GDP spans 0.4-3772.4, alignment 0.0-3773.2
+2026-10-08 08:02:46  WARNING SHA-CH13-SS: GDP spans 0.4-1641.4, alignment 0.0-1642.2
+2026-10-08 08:02:46  WARNING SHA-CH15-SS: GDP spans 0.1-6807.1, alignment 0.0-6807.8
+2026-10-08 08:02:46  WARNING SHA-CH17-SS: GDP spans 0.1-5107.1, alignment 0.0-5107.9
+2026-10-08 08:02:46  WARNING SHA-CH18-SS: GDP spans 0.3-3018.3, alignment 0.0-3019.7
+2026-10-08 08:02:46  WARNING SHA-CH19-SS: GDP spans 0.3-1811.3, alignment 0.0-1812.0
+2026-10-08 08:02:46  WARNING SHA-CH20-SS: GDP spans 0.1-3754.2, alignment 0.0-3755.4
+2026-10-08 08:02:46  WARNING SHA-CH21-SS: GDP spans 0.1-1088.1, alignment 0.0-1088.9
+2026-10-08 08:02:46  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-08 08:03:10  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-08 08:03:10  37 GDP profiles read (drawing saved)
+2026-10-08 08:03:11  drawing saved
+2026-10-08 08:03:11  Block4_channel_breaks.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_breaks.shp'): writing Block4_channel_breaks_reviewed.shp instead
+2026-10-08 08:03:11  Block4_channel_segments.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_segments.shp'): writing Block4_channel_segments_reviewed.shp instead
+2026-10-08 08:03:11  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-08 08:03:36  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-08 08:03:36  37 GDP profiles read (drawing saved)
+2026-10-08 08:03:36  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-10 02:09:35  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 02:09:35  37 GDP profiles read (drawing saved)
+2026-10-10 02:09:35  markers: {'erased': 482, 'made': 241, 'missing': []}
+2026-10-10 02:09:37  drawing saved
+2026-10-10 02:09:37  Block4_channel_breaks.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_breaks.shp'): writing Block4_channel_breaks_reviewed.shp instead
+2026-10-10 02:09:37  Block4_channel_segments.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_segments.shp'): writing Block4_channel_segments_reviewed.shp instead
+2026-10-10 02:09:37  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-10 02:10:58  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 02:10:58  37 GDP profiles read (drawing with unsaved edits)
+2026-10-10 02:10:59  drawing saved
+2026-10-10 02:11:00  Block4_channel_breaks.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_breaks.shp'): writing Block4_channel_breaks_reviewed.shp instead
+2026-10-10 02:11:00  Block4_channel_segments.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W5\\gdp\\Block4_channel_segments.shp'): writing Block4_channel_segments_reviewed.shp instead
+2026-10-10 02:11:00  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-10 02:13:33  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 02:13:33  37 GDP profiles read (drawing with unsaved edits)
+2026-10-10 02:13:34  drawing saved
+2026-10-10 02:13:35  37 channels: 241 breaks, 204 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\gdp
+2026-10-10 11:10:50  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 11:10:50  37 GDP profiles read (drawing saved)
+2026-10-10 11:10:50  markers: {'erased': 482, 'made': 228, 'missing': []}
+2026-10-10 11:10:51  drawing saved
+2026-10-10 11:10:52  37 channels: 228 breaks, 191 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-10 11:47:09  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 11:47:09  37 GDP profiles read (drawing saved)
+2026-10-10 11:47:10  markers: {'erased': 456, 'made': 227, 'missing': []}
+2026-10-10 11:47:11  drawing saved
+2026-10-10 11:47:11  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-10 12:38:59  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 12:38:59  37 GDP profiles read (drawing saved)
+2026-10-10 12:38:59  markers: {'erased': 454, 'made': 227, 'missing': []}
+2026-10-10 12:39:00  drawing saved
+2026-10-10 12:39:01  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-10 13:03:20  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 13:03:20  37 GDP profiles read (drawing saved)
+2026-10-10 13:03:21  markers: {'erased': 454, 'made': 227, 'missing': []}
+2026-10-10 13:03:22  drawing saved
+2026-10-10 13:03:22  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-12 04:11:05  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\civil3d\Block04_Channels_W6.dwg
+2026-10-12 04:11:05  37 GDP profiles read (drawing with unsaved edits)
+2026-10-12 04:11:06  markers: {'erased': 454, 'made': 227, 'missing': []}
+2026-10-12 04:11:07  drawing saved
+2026-10-12 04:11:07  Block4_channel_breaks.shp not written ([WinError 32] The process cannot access the file because it is being used by another process: 'D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W6\\gdp\\Block4_channel_breaks.shp'): writing Block4_channel_breaks_reviewed.shp instead
+2026-10-12 04:11:07  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-12 04:13:18  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\civil3d\Block04_Channels_W6.dwg
+2026-10-12 04:13:18  37 GDP profiles read (drawing saved)
+2026-10-12 04:13:18  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-12 04:43:25  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\civil3d\Block04_Channels_W6.dwg
+2026-10-12 04:43:25  37 GDP profiles read (drawing with unsaved edits)
+2026-10-12 04:43:25  markers: {'erased': 454, 'made': 227, 'missing': []}
+2026-10-12 04:43:31  drawing saved
+2026-10-12 04:43:32  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp
+2026-10-12 05:00:16  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\civil3d\Block04_Channels_W6.dwg
+2026-10-12 05:00:16  37 GDP profiles read (drawing with unsaved edits)
+2026-10-12 05:00:16  markers: {'erased': 454, 'made': 227, 'missing': []}
+2026-10-12 05:00:17  drawing saved
+2026-10-12 05:00:17  37 channels: 227 breaks, 190 segments from the reviewed profiles -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gdp

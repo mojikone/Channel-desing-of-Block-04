@@ -1,0 +1,4 @@
+{
+  "_why": "Engineer, 2026-10-07: these features are digitised against the flow direction in Hydrology/SHP/temp/Channels and Dykes 04102026.shp (and therefore in W4/lines and W4/civil3d/build_spec.json). The build reverses their centreline vertices so that station 0 is at the upstream end; the source shapefile is the engineer's file and is not changed here.",
+  "reversed": ["SAK-CH1-FP", "SHA-CH11-SS", "SHA-CH1-FP", "SHA-CH17-SS", "SAK-D4-FP"]
+}

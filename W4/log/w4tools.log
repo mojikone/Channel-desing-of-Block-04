@@ -1,0 +1,153 @@
+2026-10-07 02:08:31  assembly loaded (W4Tools): commands W4BUILD, W4PV, W4PVDEL
+2026-10-07 02:08:38  W4BUILD: coordinate system UTM84-40N.
+2026-10-07 02:08:38  W4BUILD: profile view style 'Major Grids', vertical exaggeration 10
+2026-10-07 02:08:40  W4BUILD: HAW-CH1-FP done [2 s]
+2026-10-07 02:08:40  W4BUILD: HAW-CH2-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:40  W4BUILD: HAW-CH3-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:40  W4BUILD: HAW-CH4-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:41  W4BUILD: HAW-CH5-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:41  W4BUILD: HAW-CH6-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:41  W4BUILD: HAW-CH7-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:41  W4BUILD: SAK-CH1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:41  W4BUILD: SAK-CH2-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAK-CH3-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAK-CH4-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAK-CH5-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAR-CH1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAR-CH2-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAR-CH3-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SAR-CH4-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:42  W4BUILD: SHA-CH1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH2-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH3-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH4-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH5-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH6-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH7-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH8-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:43  W4BUILD: SHA-CH9-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH10-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH11-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH12-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH13-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH14-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH15-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH16-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH17-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH18-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH19-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH20-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: SHA-CH21-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: HAW-D1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:44  W4BUILD: HAW-D2-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:45  W4BUILD: HAW-D3-FP done [7 s]
+2026-10-07 02:08:45  W4BUILD: SAK-D1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:46  W4BUILD: SAK-D2-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:46  W4BUILD: SAK-D3-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:46  W4BUILD: SAK-D4-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:47  W4BUILD: SAK-D5-FP done [9 s]
+2026-10-07 02:08:47  W4BUILD: SAK-D6-FP done [9 s]
+2026-10-07 02:08:47  W4BUILD: SAR-D1-FP done [10 s]
+2026-10-07 02:08:48  W4BUILD: SAR-D2-FP done [11 s]
+2026-10-07 02:08:48  W4BUILD: SAR-D3-SM FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:49  W4BUILD: SAR-D4-SM done [11 s]
+2026-10-07 02:08:49  W4BUILD: SHA-D1-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:49  W4BUILD: SHA-D2-FP done [12 s]
+2026-10-07 02:08:49  W4BUILD: SHA-D3-FP done [12 s]
+2026-10-07 02:08:51  W4BUILD: SHA-D4-FP done [14 s]
+2026-10-07 02:08:52  W4BUILD: SHA-D5-FP done [14 s]
+2026-10-07 02:08:52  W4BUILD: SHA-D6-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:52  W4BUILD: SHA-D7-FP FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:52  W4BUILD: SHA-D8-FP done [14 s]
+2026-10-07 02:08:52  W4BUILD: SHA-D9-FP done [15 s]
+2026-10-07 02:08:52  W4BUILD: SHA-D10-SM done [15 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D11-SM done [15 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D12-SM done [15 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D13-SM done [15 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D14-SM done [15 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D15-SS done [16 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D16-SS done [16 s]
+2026-10-07 02:08:53  W4BUILD: SHA-D17-SS done [16 s]
+2026-10-07 02:08:54  W4BUILD: SHA-D18-SS done [16 s]
+2026-10-07 02:08:54  W4BUILD: SHA-D19-SS done [17 s]
+2026-10-07 02:08:54  W4BUILD: SHA-D20-SS done [17 s]
+2026-10-07 02:08:54  W4BUILD: SHA-D21-SS FAILED: Value does not fall within the expected range.
+2026-10-07 02:08:54  W4BUILD: SHA-D22-SS done [17 s]
+2026-10-07 02:08:54  W4BUILD: SHA-D23-SS done [17 s]
+2026-10-07 02:08:54  W4BUILD: 73 surfaces, 26 alignments, 26 profiles, 26 views created; 47 features failed [17 s]
+2026-10-07 02:10:17  W4BUILD: coordinate system UTM84-40N.
+2026-10-07 02:10:17  W4BUILD: HAW-CH1-FP done [0 s]
+2026-10-07 02:10:17  W4BUILD: profile view style 'Major Grids', vertical exaggeration 10
+2026-10-07 02:10:19  W4BUILD: HAW-CH2-SS done [2 s]
+2026-10-07 02:10:19  W4BUILD: HAW-CH3-SS done [3 s]
+2026-10-07 02:10:20  W4BUILD: HAW-CH4-SS done [3 s]
+2026-10-07 02:10:22  W4BUILD: HAW-CH5-SS done [5 s]
+2026-10-07 02:10:22  W4BUILD: HAW-CH6-SS done [5 s]
+2026-10-07 02:10:24  W4BUILD: HAW-CH7-SS done [7 s]
+2026-10-07 02:10:28  W4BUILD: SAK-CH1-FP done [11 s]
+2026-10-07 02:10:30  W4BUILD: SAK-CH2-FP done [14 s]
+2026-10-07 02:10:32  W4BUILD: SAK-CH3-SM done [16 s]
+2026-10-07 02:10:33  W4BUILD: SAK-CH4-SS done [16 s]
+2026-10-07 02:10:34  W4BUILD: SAK-CH5-SS done [17 s]
+2026-10-07 02:10:39  W4BUILD: SAR-CH1-FP done [22 s]
+2026-10-07 02:10:41  W4BUILD: SAR-CH2-SM done [24 s]
+2026-10-07 02:10:43  W4BUILD: SAR-CH3-SS done [26 s]
+2026-10-07 02:10:44  W4BUILD: SAR-CH4-SS done [27 s]
+2026-10-07 02:10:46  W4BUILD: SHA-CH1-FP done [29 s]
+2026-10-07 02:10:50  W4BUILD: SHA-CH2-SM done [33 s]
+2026-10-07 02:10:54  W4BUILD: SHA-CH3-SM done [37 s]
+2026-10-07 02:10:57  W4BUILD: SHA-CH4-SM done [40 s]
+2026-10-07 02:11:00  W4BUILD: SHA-CH5-SM done [43 s]
+2026-10-07 02:11:01  W4BUILD: SHA-CH6-SM done [45 s]
+2026-10-07 02:11:04  W4BUILD: SHA-CH7-SM done [47 s]
+2026-10-07 02:11:05  W4BUILD: SHA-CH8-SS done [48 s]
+2026-10-07 02:11:07  W4BUILD: SHA-CH9-SS done [50 s]
+2026-10-07 02:11:09  W4BUILD: SHA-CH10-SS done [52 s]
+2026-10-07 02:11:09  W4BUILD: SHA-CH11-SS done [52 s]
+2026-10-07 02:11:10  W4BUILD: SHA-CH12-SS done [53 s]
+2026-10-07 02:11:11  W4BUILD: SHA-CH13-SS done [54 s]
+2026-10-07 02:11:12  W4BUILD: SHA-CH14-SS done [55 s]
+2026-10-07 02:11:14  W4BUILD: SHA-CH15-SS done [57 s]
+2026-10-07 02:11:16  W4BUILD: SHA-CH16-SS done [59 s]
+2026-10-07 02:11:17  W4BUILD: SHA-CH17-SS done [60 s]
+2026-10-07 02:11:18  W4BUILD: SHA-CH18-SS done [61 s]
+2026-10-07 02:11:18  W4BUILD: SHA-CH19-SS done [61 s]
+2026-10-07 02:11:19  W4BUILD: SHA-CH20-SS done [62 s]
+2026-10-07 02:11:20  W4BUILD: SHA-CH21-SS done [63 s]
+2026-10-07 02:11:21  W4BUILD: HAW-D1-FP done [64 s]
+2026-10-07 02:11:21  W4BUILD: HAW-D2-FP done [65 s]
+2026-10-07 02:11:21  W4BUILD: HAW-D3-FP done [65 s]
+2026-10-07 02:11:22  W4BUILD: SAK-D1-FP done [65 s]
+2026-10-07 02:11:22  W4BUILD: SAK-D2-FP done [65 s]
+2026-10-07 02:11:23  W4BUILD: SAK-D3-FP done [66 s]
+2026-10-07 02:11:24  W4BUILD: SAK-D4-FP done [67 s]
+2026-10-07 02:11:24  W4BUILD: SAK-D5-FP done [67 s]
+2026-10-07 02:11:24  W4BUILD: SAK-D6-FP done [67 s]
+2026-10-07 02:11:24  W4BUILD: SAR-D1-FP done [67 s]
+2026-10-07 02:11:24  W4BUILD: SAR-D2-FP done [67 s]
+2026-10-07 02:11:25  W4BUILD: SAR-D3-SM done [68 s]
+2026-10-07 02:11:25  W4BUILD: SAR-D4-SM done [68 s]
+2026-10-07 02:11:25  W4BUILD: SHA-D1-FP done [68 s]
+2026-10-07 02:11:25  W4BUILD: SHA-D2-FP done [68 s]
+2026-10-07 02:11:25  W4BUILD: SHA-D3-FP done [68 s]
+2026-10-07 02:11:25  W4BUILD: SHA-D4-FP done [68 s]
+2026-10-07 02:11:25  W4BUILD: SHA-D5-FP done [68 s]
+2026-10-07 02:11:26  W4BUILD: SHA-D6-FP done [69 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D7-FP done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D8-FP done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D9-FP done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D10-SM done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D11-SM done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D12-SM done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D13-SM done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D14-SM done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D15-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D16-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D17-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D18-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D19-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D20-SS done [71 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D21-SS done [72 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D22-SS done [72 s]
+2026-10-07 02:11:28  W4BUILD: SHA-D23-SS done [72 s]
+2026-10-07 02:11:28  W4BUILD: 47 surfaces, 47 alignments, 47 profiles, 47 views created; 0 features failed [72 s]

@@ -1,0 +1,33 @@
+{
+  "_source": "the project template's command defaults read from the drawing (cs/01_style_inventory.cs, qa/style_inventory.json): CreateProfileView -> 'ARJV_ Land Desktop Profile View' + band set 'ARJV_Band set' (dam set: EG, crest, excavation, horizontal data, 20/10 m); CreateMultipleProfileView (the long-alignment command) -> same view style + 'HTJ (EG-FG Elevations and Stations)' (100/25 m); CreateAlignment -> 'ARJV_ (Alignment)' + 'ARJV_Alignment Label Set'; CreateProfileFromSurface -> 'ARJV_ Rock Excavation Profile' + '_No Labels' (the EG style 'ARJV_ Existing Ground Level' is used for existing ground instead)",
+  "channel": {
+    "surface": "Border Only",
+    "alignment": "ARJV_ (Alignment)",
+    "alignmentLabelSet": "ARJV_Alignment Label Set",
+    "profile": "ARJV_ Existing Ground Level",
+    "profileLabelSet": "_No Labels",
+    "profileView": "ARJV_ Land Desktop Profile View",
+    "bandSet": "HTJ (EG-FG Elevations and Stations)"
+  },
+  "dyke": {
+    "surface": "Border Only",
+    "alignment": "ARJV_ (Alignment)",
+    "alignmentLabelSet": "ARJV_Alignment Label Set",
+    "profile": "ARJV_ Existing Ground Level",
+    "profileLabelSet": "_No Labels",
+    "profileView": "ARJV_ Land Desktop Profile View",
+    "bandSet": "HTJ (EG-FG Elevations and Stations)"
+  },
+  "gdp": {
+    "profile": "ARJV_Design Profile",
+    "profileLabelSet": "_No Labels",
+    "_note": "the ground design profile 'GDP <name>' (25_gdp.py): the template's design profile style, as in the engineer's sample 'SAK-CH3-SM GDP'; breaks marked on layer W5-GDP-BREAKS"
+  },
+  "leader": {
+    "layerChannels": "W5-PV-LEADER-CHANNELS",
+    "layerDykes": "W5-PV-LEADER-DYKES",
+    "colorChannels": 1,
+    "colorDykes": 6,
+    "textHeight": 15.0
+  }
+}
