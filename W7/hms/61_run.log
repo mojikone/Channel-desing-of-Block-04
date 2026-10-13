@@ -1,0 +1,26 @@
+5yr elements: 362
+10yr elements: 362
+25yr elements: 362
+50yr elements: 362
+100yr elements: 362
+200yr elements: 362
+500yr elements: 362
+1000yr elements: 362
+2000yr elements: 362
+5000yr elements: 362
+10000yr elements: 362
+PMP elements: 362
+written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\results\basin6_peak_flow_volume.xlsx | elements: 362 | rps: 13
+elements only in Basin 6: [] | only in Basin 3: []
+elements whose peak changed by more than 0.5 % in any return period: 22 -> ['SHA-S23', 'SHA-S44', 'SHA-S46', 'SHA-J20', 'SHA-J42', 'SHA-J45', 'SHA-J47', 'SHA-J48', 'SHA-J49', 'SHA-J50', 'SHA-J51', 'SHA-R18', 'SHA-R40', 'SHA-R43', 'SHA-R46', 'SHA-R48', 'SHA-R49', 'SHA-R50', 'SHA-R51', 'SHA-R52', 'SHA-O5', 'Shafan 08 site']
+of these OFF the Shafan line and the three fixed subbasins: none (as expected)
+       element  peak_m3s_b3  peak_m3s_b6  d_pct
+       SHA-J42        215.4         72.6  -66.3
+       SHA-J45       1113.3        277.8  -75.0
+       SHA-J47       1641.2        916.7  -44.1
+       SHA-J48       1660.8        956.5  -42.4
+       SHA-J49       1668.5        971.1  -41.8
+       SHA-J51       1670.6        996.0  -40.4
+        SHA-O5       1404.0        937.9  -33.2
+Shafan 08 site          0.0       1017.9    inf
+PMP B6>SAK-R20/

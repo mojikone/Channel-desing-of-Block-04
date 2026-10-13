@@ -1,0 +1,24 @@
+{
+ "channel": "SAR-CH2-SM",
+ "cls": "SM",
+ "reaches": 6,
+ "length_m": 6142.3,
+ "span_min": 49.0,
+ "span_max": 94.0,
+ "cut_m3": 344096,
+ "fill_m3": 276135,
+ "footprint_m2": 607840,
+ "protection_m2": 55373,
+ "corridor_ha": 66.72,
+ "land_take_ha": {
+  "Agricultural": 20.1,
+  "Commercial": 0.01,
+  "Government": 0.4,
+  "Resedential": 7.98,
+  "Residential Commercial": 0.09
+ },
+ "cost_OMR": 2228771,
+ "cost_mOMR": 2.229,
+ "res_m": 2.0,
+ "seconds": 0
+}

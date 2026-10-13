@@ -1,0 +1,7 @@
+flow file: 87 rows, 86 named Basin 6 elements refreshed -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\inputs\Qp Vol Block 04.shp
+design points: 227, 73 named Basin 6 elements refreshed
+Traceback (most recent call last):
+  File "D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\scripts\62_update_flows.py", line 40, in <module>
+    print("values moved: %d (flow file %d, design points %d); design points with a new Q200:" % (len(ch), (ch.where == "flow file").sum(), (ch.where == "design points").sum()))
+                                                                                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'sum'

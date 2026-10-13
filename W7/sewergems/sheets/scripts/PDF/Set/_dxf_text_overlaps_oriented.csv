@@ -1,0 +1,185 @@
+sheet,space,layer_a,text_a,rot_a,layer_b,text_b,rot_b,x_mm,y_mm,area_mm2,depth_mm
+HAW-CH1-FP-KeyMap_v4421.dxf,paper,VF_LABELS,#9,313.4,VF_LABELS,8+000,313.4,1726.9,312.9,31.27,3.64
+HAW-CH1-FP-Sheet06_v4422.dxf,paper,Annotation,"HAWCH1-C4: 2,727.2 m @ 0.0056 m/m",-3.2,Grid_Text,14.00,0.0,1042.0,194.4,9.9,1.18
+HAW-CH1-FP-Sheet06_v4422.dxf,paper,Annotation,"29.0 x 2.5 m Natural stream, clean",-3.2,Grid_Text,12.00,0.0,1043.1,183.8,18.43,1.91
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,#6,347.6,VF_LABELS,6+000,342.4,1565.6,312.2,13.05,2.72
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,#6,347.6,VF_LABELS,5+000,347.6,1502.4,332.4,7.98,1.52
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,#7,342.4,VF_LABELS,6+000,342.4,1578.3,308.3,6.6,1.25
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,#7,342.4,VF_LABELS,7+000,345.9,1641.2,289.7,18.82,3.74
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,#8,345.9,VF_LABELS,7+000,345.9,1652.7,286.8,15.4,2.93
+HAW-CH2-SS-Sheet06_v4425.dxf,paper,Annotation,"30.5 x 2.5 m Natural stream, clean",-2.2,Grid_Text,14.00,0.0,1043.1,186.7,38.07,3.62
+HAW-CH2-SS-Sheet07_v4425.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,127.8,34.82,3.85
+HAW-CH3-SS-Sheet01_v4425.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,0.0,0.0,1573.8,85.6,40.8,5.26
+HAW-CH5-SS-KeyMap_v4429.dxf,paper,VF_LABELS,#4,313.0,VF_LABELS,4+000,304.9,1460.4,278.1,0.44,0.35
+HAW-CH5-SS-KeyMap_v4429.dxf,paper,VF_LABELS,#8,268.0,VF_LABELS,7+000,268.0,1742.1,335.2,29.45,5.26
+HAW-CH5-SS-Sheet04_v4428.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,14.00,0.0,1042.7,109.0,12.79,1.1
+HAW-CH6-SS-KeyMap_v4432.dxf,paper,VF_LABELS,#2,10.8,VF_LABELS,1+000,10.8,1496.3,302.0,8.48,2.25
+HAW-CH6-SS-Sheet01_v4429.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,0+650,0.0,1523.3,114.6,40.12,3.28
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,#5,324.6,VF_LABELS,5+000,323.6,1565.9,291.9,38.65,5.26
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,#6,253.7,VF_LABELS,6+000,311.6,1456.0,346.7,2.28,1.69
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,#8,294.7,VF_LABELS,8+000,330.1,1542.4,320.0,26.69,5.26
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,#9,330.1,VF_LABELS,9+000,290.8,1585.4,296.1,18.07,5.26
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,#9,330.1,VF_LABELS,8+000,330.1,1551.6,315.4,21.43,4.07
+SAK-CH1-FP-Sheet08_v4435.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,34.00,0.0,1042.7,109.2,7.56,0.65
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,"SAKCH1-C8: 1,113.0 m @ 0.0046 m/m",-2.6,Grid_Text,40.00,0.0,1042.9,185.4,44.19,4.07
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,"112.5 x 2.5 m Natural stream, clean",-2.6,Grid_Text,40.00,0.0,1042.1,183.2,10.11,1.14
+SAK-CH1-FP-Sheet12_v4435.dxf,paper,Annotation,"SAKCH1-C11: 1,249.0 m @ 0.0021 m/m",-1.2,Grid_Text,28.00,0.0,1042.6,176.9,27.79,2.51
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,#2,333.6,VF_LABELS,1+000,333.6,1167.6,278.6,2.35,0.67
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,#9,333.2,VF_LABELS,9+000,319.6,1672.3,320.8,1.86,0.95
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,#9,333.2,VF_LABELS,8+000,333.2,1617.8,331.7,0.89,0.25
+SAK-CH2-FP-Sheet05_v4438.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,4+900,0.0,1699.3,115.4,23.84,1.57
+SAK-CH3-SM-KeyMap_v4442.dxf,paper,VF_LABELS,#5,332.2,VF_LABELS,5+000,325.0,1565.7,299.4,39.29,5.26
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,PL_LABEL,4+750,34.2,PL_LABEL,4+800,91.5,1564.5,357.0,3.9,2.3
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,PL_LABEL,4+950,91.2,PL_LABEL,5+000,145.9,1670.0,364.8,1.54,1.25
+SAK-CH3-SM-Sheet06_v4441.dxf,paper,PL_LABEL,4+950,84.0,PL_LABEL,5+000,138.7,1084.9,463.2,1.54,1.25
+SAK-CH4-SS-Sheet01_v4441.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,0+950,0.0,1735.7,112.3,32.91,2.69
+SAK-CH5-SS-Sheet02_v4442.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,1+400,0.0,1348.8,115.4,19.23,1.57
+SAK-CH5-SS-Sheet02_v4442.dxf,paper,PL_LABEL,1+900,3.1,PL_LABEL,1+950,74.0,1670.5,384.2,0.9,0.74
+SAK-CH5-SS-Sheet03_v4442.dxf,paper,PL_LABEL,1+900,10.2,PL_LABEL,1+950,81.1,1112.4,408.8,0.9,0.79
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#12,323.4,VF_LABELS,12+000,329.4,1530.5,327.3,25.65,3.84
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#13,329.4,VF_LABELS,13+000,344.3,1569.3,318.1,34.8,5.26
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#13,329.4,VF_LABELS,12+000,329.4,1541.2,323.7,15.92,2.31
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#14,344.3,VF_LABELS,14+000,322.4,1605.0,300.5,32.34,5.26
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#14,344.3,VF_LABELS,13+000,344.3,1580.5,315.0,33.1,5.26
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#15,322.4,VF_LABELS,15+000,310.4,1645.7,291.3,4.23,1.34
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#17,347.6,VF_LABELS,17+000,337.7,1716.0,280.1,7.39,1.59
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#17,347.6,VF_LABELS,16+000,347.6,1693.5,296.2,25.25,3.67
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,#18,337.7,VF_LABELS,17+000,337.7,1725.8,273.8,38.07,5.26
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"SARCH1-C4: 1,917.0 m @ 0.0081 m/m",-4.7,Grid_Text,78.00,0.0,1042.4,206.7,30.84,3.13
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"58.0 x 2.5 m Natural stream, clean",-4.7,Grid_Text,76.00,0.0,1047.5,196.0,0.44,0.27
+SAR-CH1-FP-Sheet09_v4445.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,8+800,0.0,1628.0,115.4,19.23,1.57
+SAR-CH1-FP-Sheet16_v4448.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,130.2,6.75,0.75
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,#6,339.1,VF_LABELS,6+000,5.8,1665.1,307.9,3.06,1.75
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,#7,5.8,VF_LABELS,6+000,5.8,1674.9,306.9,45.38,5.26
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,SARCH2-C3: 517.0 m @ 0.0035 m/m,-2.0,Grid_Text,18.00,0.0,1042.9,181.2,32.35,2.99
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,"49.0 x 2.5 m Natural stream, clean",-2.0,Grid_Text,18.00,0.0,1042.5,179.0,21.92,2.09
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SARCH2-C3,0.0,1043.3,106.8,57.99,5.53
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,8.00,0.0,1044.0,108.9,12.16,1.34
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Length (m),0.0,Annotation_Table,517.0,0.0,1048.1,99.7,5.14,0.93
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,49.0 x 2.5 m,0.0,1043.8,92.6,52.74,5.53
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Flow (m³/s),0.0,Annotation_Table,250.8,0.0,1048.1,85.4,5.14,0.93
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Slope (m/m),0.0,Annotation_Table,0.0035,0.0,1047.3,78.3,13.71,2.48
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,SARCH2-C3,0.0,Grid_Text,8.00,0.0,1044.0,108.9,12.16,1.34
+SAR-CH2-SM-Sheet05_v4450.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,128.1,39.05,4.32
+SAR-CH3-SS-Sheet07_v4451.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,42.00,0.0,1042.7,109.3,6.22,0.53
+SAR-CH4-SS-KeyMap_v4455.dxf,paper,VF_LABELS,#4,343.4,VF_LABELS,3+000,343.4,1702.9,320.8,30.23,5.26
+SAR-CH4-SS-Sheet03_v4453.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,2.00,0.0,1044.0,109.3,3.89,0.43
+SAR-CH4-SS-Sheet03_v4453.dxf,paper,PL_LABEL,2+300,35.4,PL_LABEL,2+350,115.5,1310.1,417.8,46.2,6.54
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,#6,336.8,VF_LABELS,6+000,314.8,1561.2,285.6,1.24,0.93
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,#6,336.8,VF_LABELS,5+000,336.8,1496.2,302.8,6.79,1.29
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,#9,314.3,VF_LABELS,8+000,314.3,1722.5,303.3,15.82,3.01
+SHA-CH1-FP-Sheet01_v4454.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,26.00,0.0,1042.7,109.1,11.17,0.96
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,SHACH1-C2: 575.4 m @ 0.0050 m/m,-2.9,Grid_Text,32.00,0.0,1042.9,196.3,33.24,3.15
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,"156.5 x 2.5 m Natural stream, clean",-2.9,Grid_Text,32.00,0.0,1042.4,194.0,21.07,2.1
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH1-C6,0.0,1777.9,106.1,39.95,4.21
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,12.00,0.0,1042.7,108.9,15.31,1.32
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH1-C6,0.0,1079.8,106.1,39.95,4.21
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation,"179.5 x 2.5 m Natural stream, clean",-2.7,Grid_Text,16.00,0.0,1042.8,184.6,52.37,4.61
+SHA-CH1-FP-Sheet06_v4455.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,126.6,12.21,1.35
+SHA-CH10-SS-KeyMap_v4459.dxf,paper,VF_LABELS,#2,338.4,VF_LABELS,2+000,334.6,1347.4,293.3,8.7,1.83
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation,"SHACH10-C1: 1,941.0 m @ 0.0061 m/m",-3.5,Grid_Text,20.00,0.0,1043.6,198.1,9.66,1.19
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation,"25.0 x 2.5 m Natural stream, clean",-3.5,Grid_Text,20.00,0.0,1042.6,195.9,44.7,4.2
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH10-C1,0.0,1041.5,106.8,78.02,5.53
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Length (m),0.0,Annotation_Table,"1,941.0",0.0,1044.8,99.7,41.14,5.53
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,25.0 x 2.5 m,0.0,1043.2,92.6,59.01,5.53
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Flow (m³/s),0.0,Annotation_Table,168.0,0.0,1046.0,85.4,28.28,5.12
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Slope (m/m),0.0,Annotation_Table,0.0061,0.0,1045.2,78.3,36.85,5.53
+SHA-CH11-SS-Sheet02_v4458.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,1+200,0.0,1216.4,111.8,6.31,1.81
+SHA-CH11-SS-Sheet02_v4458.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,1+250,0.0,1239.7,111.8,6.31,1.81
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation,"SHACH12-C3: 1,075.6 m @ 0.0076 m/m",-4.3,Grid_Text,40.00,0.0,1042.4,205.0,34.03,3.37
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH12-C3,0.0,1046.0,106.8,28.3,5.12
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,10.0 x 2.5 m,0.0,1047.3,92.6,13.53,2.45
+SHA-CH13-SS-Sheet01_v4460.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,"1,642.2",0.0,1644.2,101.4,39.67,2.13
+SHA-CH13-SS-Sheet01_v4460.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH13-C1,0.0,1646.9,104.8,41.35,1.55
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,Size,0.0,1044.4,93.1,36.62,4.38
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,PL_LABEL,2+950,58.8,PL_LABEL,3+000,114.1,1672.6,289.4,1.17,1.05
+SHA-CH14-SS-Sheet04_v4462.dxf,paper,PL_LABEL,2+950,58.9,PL_LABEL,3+000,114.2,1088.3,421.5,1.17,1.05
+SHA-CH15-SS-KeyMap_v4465.dxf,paper,VF_LABELS,#6,243.9,VF_LABELS,6+000,268.0,1638.8,313.4,33.31,5.26
+SHA-CH15-SS-Sheet03_v4463.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,6.00,0.0,1044.0,109.3,5.31,0.59
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation,"SHACH15-C6: 1,205.4 m @ 0.0035 m/m",-2.0,Grid_Text,10.00,0.0,1042.7,182.5,53.55,4.61
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH15-C6,0.0,1045.2,106.8,37.09,5.53
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,20.0 x 2.5 m,0.0,1046.5,92.6,22.32,4.04
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,127.4,27.46,3.04
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation,SHACH15-C7: 809.0 m @ 0.0051 m/m,-2.9,Grid_Text,6.00,0.0,1043.9,185.8,35.14,4.12
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH15-C7,0.0,1047.7,106.8,9.29,1.68
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,PL_LABEL,5+200,17.0,PL_LABEL,5+250,84.4,1248.5,367.7,29.61,6.09
+SHA-CH15-SS-Sheet07_v4464.dxf,paper,PL_LABEL,6+450,53.9,PL_LABEL,6+500,120.8,1433.3,396.4,25.53,5.2
+SHA-CH16-SS-KeyMap_v4468.dxf,paper,VF_LABELS,#1,337.6,VF_LABELS,1+000,317.4,1189.4,287.0,4.55,1.72
+SHA-CH16-SS-KeyMap_v4468.dxf,paper,VF_LABELS,#7,324.5,VF_LABELS,6+000,324.5,1669.3,332.2,5.38,0.92
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,3+200,0.0,1216.4,115.4,5.49,1.57
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,3+250,0.0,1239.7,115.4,5.49,1.57
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation,SHACH16-C5: 499.5 m @ 0.0071 m/m,-4.1,Grid_Text,14.00,0.0,1043.0,187.7,31.08,3.09
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation,"25.5 x 2.5 m Natural stream, clean",-4.1,Grid_Text,14.00,0.0,1042.3,185.4,23.32,2.42
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH16-C5,0.0,1041.5,106.8,78.02,5.53
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Length (m),0.0,Annotation_Table,499.5,0.0,1046.5,99.7,22.41,4.06
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,25.5 x 2.5 m,0.0,1043.2,92.6,59.01,5.53
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Flow (m³/s),0.0,Annotation_Table,105.1,0.0,1046.5,85.4,22.41,4.06
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Slope (m/m),0.0,Annotation_Table,0.0071,0.0,1045.7,78.3,30.98,5.53
+SHA-CH16-SS-Sheet06_v4466.dxf,paper,PL_LABEL,5+850,104.6,PL_LABEL,5+900,164.5,1620.5,374.4,4.57,1.99
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,#6,7.6,VF_LABELS,5+000,7.6,1661.3,280.4,38.18,5.26
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,SHACH17-C3: 500.0 m @ 0.0079 m/m,-4.5,Grid_Text,22.00,0.0,1042.0,194.6,14.24,1.68
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,"38.5 x 2.5 m Natural stream, clean",-4.5,Grid_Text,20.00,0.0,1043.5,183.9,14.2,1.68
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH17-C3,0.0,1044.4,106.8,46.09,5.53
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,38.5 x 2.5 m,0.0,1045.7,92.6,31.32,5.53
+SHA-CH18-SS-KeyMap_v4470.dxf,paper,VF_LABELS,#4,304.5,VF_LABELS,3+000,304.5,1775.2,319.1,17.64,3.35
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,37.0 x 2.5 m,0.0,1425.9,92.5,110.23,5.26
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,SHACH18-C2: 500.0 m @ 0.0116 m/m,-6.6,Grid_Text,22.00,0.0,1042.2,201.9,28.33,3.11
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,"37.0 x 2.5 m Natural stream, clean",-6.6,Grid_Text,20.00,0.0,1046.5,191.1,2.14,0.7
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH18-C2,0.0,1044.6,106.8,43.36,5.53
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,37.0 x 2.5 m,0.0,1046.0,92.6,28.59,5.17
+SHA-CH18-SS-Sheet03_v4469.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,4.00,0.0,1044.0,108.9,11.06,1.22
+SHA-CH19-SS-Sheet01_v4469.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,0+900,0.0,1700.8,115.6,14.87,1.22
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,#10,326.9,VF_LABELS,10+000,305.6,1614.5,298.8,41.21,5.26
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,#10,326.9,VF_LABELS,9+000,326.9,1586.0,322.2,19.54,3.71
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH2-6,0.0,1042.2,71.2,69.97,5.53
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Ground Elev (m),0.0,Annotation_Table,29.80,0.0,1046.1,64.1,27.59,4.99
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Invert Elev (m),0.0,Annotation_Table,27.30,0.0,1046.1,57.0,27.59,4.99
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Station (m),0.0,Annotation_Table,89+71,0.0,1045.6,49.9,32.97,5.53
+SHA-CH21-SS-KeyMap_v4476.dxf,paper,VF_LABELS,#2,271.5,VF_LABELS,1+000,271.5,1503.3,301.4,11.6,0.98
+SHA-CH21-SS-Sheet01_v4475.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH21-C1,0.0,1455.0,107.6,104.26,3.9
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,#1,337.9,VF_LABELS,1+000,347.2,1136.8,319.0,47.38,5.26
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,#1,337.9,VF_LABELS,0+000,337.9,1104.5,335.6,19.49,3.7
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,#2,347.2,VF_LABELS,1+000,347.2,1144.0,315.2,6.67,1.19
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,#12,320.5,VF_LABELS,12+000,304.6,1618.1,349.5,48.61,5.26
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,#14,343.7,VF_LABELS,13+000,343.7,1676.1,356.0,31.78,4.98
+SHA-CH3-SM-Sheet07_v4477.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH3-C6,0.0,1745.9,106.1,13.61,3.24
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation,"SHACH3-C6: 2,103.7 m @ 0.0068 m/m",-3.9,Grid_Text,32.00,0.0,1044.1,194.2,6.68,0.97
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation,"44.5 x 2.5 m Natural stream, clean",-3.9,Grid_Text,32.00,0.0,1042.5,192.0,47.7,4.5
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH3-C6,0.0,1047.4,106.8,12.81,2.32
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,44.5 x 2.5 m,0.0,1048.0,92.6,6.61,1.2
+SHA-CH3-SM-Sheet10_v4478.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,8.00,0.0,1044.0,109.1,8.12,0.9
+SHA-CH3-SM-Sheet12_v4478.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,128.1,40.03,4.43
+SHA-CH3-SM-Sheet13_v4479.dxf,paper,PL_LABEL,12+150,66.7,PL_LABEL,12+200,117.2,1203.5,364.4,1.74,1.69
+SHA-CH3-SM-Sheet14_v4479.dxf,paper,Annotation,Invert: -1.39 m,0.0,Annotation,SHACH3-C16: 85.7 m @ 0.0010 m/m,-0.6,1645.5,170.9,90.52,2.46
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,SHACH4-C8: 588.9 m @ 0.0054 m/m,-3.1,Grid_Text,6.00,0.0,1043.6,177.8,8.71,1.21
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,"116.0 x 2.5 m Natural stream, clean",-3.1,Grid_Text,4.00,0.0,1044.3,167.2,13.32,1.72
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,PL_LABEL,7+350,66.1,PL_LABEL,7+400,133.5,1336.1,371.3,29.76,5.42
+SHA-CH4-SM-Sheet09_v4481.dxf,paper,Annotation,Invert: -0.44 m,0.0,Annotation,SHACH4-C10: 108.9 m @ 0.0010 m/m,-0.6,1209.3,177.6,90.52,2.46
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,#7,332.4,VF_LABELS,7+000,340.2,1556.8,350.6,25.61,5.23
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,#7,332.4,VF_LABELS,6+000,332.4,1496.3,374.5,5.65,1.79
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,#8,340.2,VF_LABELS,8+000,337.8,1628.8,324.0,25.27,4.91
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,#8,340.2,VF_LABELS,7+000,340.2,1568.0,346.5,7.9,1.5
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,#9,337.8,VF_LABELS,8+000,337.8,1640.0,319.4,6.7,1.27
+SHA-CH5-SM-Sheet05_v4484.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,4+950,0.0,1735.7,115.4,19.23,1.57
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,2.00,0.0,1044.0,108.9,12.1,1.34
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,PL_LABEL,7+250,27.7,PL_LABEL,7+300,99.0,1265.7,405.8,49.77,7.69
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,#1,332.2,VF_LABELS,1+000,324.7,1256.4,306.2,14.47,3.1
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,#6,298.9,VF_LABELS,5+000,298.9,1622.3,326.0,19.41,1.57
+SHA-CH6-SM-Sheet02_v4486.dxf,paper,Annotation_Table,Label,0.0,Grid_Text,8.00,0.0,1044.0,108.9,12.22,1.35
+SHA-CH6-SM-Sheet03_v4485.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,2+600,0.0,1488.4,115.4,19.23,1.57
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,#4,342.2,VF_LABELS,4+000,319.3,1424.4,285.1,7.67,2.54
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,#8,344.9,VF_LABELS,7+000,344.9,1714.2,319.5,22.05,4.19
+SHA-CH7-SM-Sheet02_v4487.dxf,paper,PL_LABEL,0+900,106.3,PL_LABEL,100 m,0.0,1041.4,255.6,7.6,2.86
+SHA-CH7-SM-Sheet04_v4487.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,15.98,0.0,1561.7,65.6,34.05,2.56
+SHA-CH7-SM-Sheet04_v4487.dxf,paper,Grid_Text,Station (m),0.0,Annotation_Table,SHACH7-5,0.0,1565.5,69.0,23.55,1.12
+SHA-CH7-SM-Sheet05_v4488.dxf,paper,Annotation,SHACH7-C5: 675.0 m @ 0.0036 m/m,-2.0,Grid_Text,14.00,0.0,1048.0,183.1,3.81,1.11
+SHA-CH7-SM-Sheet06_v4488.dxf,paper,PL_LABEL,5+600,81.9,PL_LABEL,5+650,146.8,1471.4,418.4,8.18,2.76
+SHA-CH8-SS-Sheet03_v4490.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,2+950,0.0,1734.2,115.4,23.84,1.57
+SHA-CH8-SS-Sheet06_v4490.dxf,paper,PL_LABEL,5+450,43.6,PL_LABEL,5+500,101.0,1426.0,414.1,3.96,2.33
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,#5,338.6,VF_LABELS,5+000,30.9,1616.9,311.1,56.55,5.26
+SHA-CH9-SS-Sheet03_v4491.dxf,paper,Grid_Text,Station (m),0.0,Grid_Text,2+750,0.0,1594.6,115.4,23.84,1.57
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation,SHACH9-C3: 702.8 m @ 0.0010 m/m,-0.6,Grid_Text,12.00,0.0,1042.7,194.8,39.52,3.46
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation_Table,Label,0.0,Annotation_Table,SHACH9-C3,0.0,1044.6,106.8,43.97,5.53
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation_Table,Size,0.0,Annotation_Table,47.5 x 2.5 m,0.0,1045.1,92.6,37.77,5.53
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Grid_Text,0.00,0.0,Grid_Text,2.00,0.0,1044.0,126.9,18.24,2.02
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,PL_LABEL,3+300,38.3,PL_LABEL,3+350,109.8,1295.6,401.7,28.06,4.88

@@ -1,0 +1,22 @@
+{
+ "channel": "HAW-CH5-SS",
+ "cls": "SS",
+ "reaches": 7,
+ "length_m": 7065.8,
+ "span_min": 10.0,
+ "span_max": 44.5,
+ "cut_m3": 201790,
+ "fill_m3": 149510,
+ "footprint_m2": 307960,
+ "protection_m2": 63699,
+ "corridor_ha": 38.63,
+ "land_take_ha": {
+  "Agricultural": 7.1,
+  "Government": 0.4,
+  "Resedential": 4.38
+ },
+ "cost_OMR": 1366433,
+ "cost_mOMR": 1.366,
+ "res_m": 2.0,
+ "seconds": 0
+}

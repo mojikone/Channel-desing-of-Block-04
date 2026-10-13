@@ -1,0 +1,21 @@
+{
+ "channel": "SHA-CH12-SS",
+ "cls": "SS",
+ "reaches": 5,
+ "length_m": 3773.2,
+ "span_min": 10.0,
+ "span_max": 10.0,
+ "cut_m3": 42504,
+ "fill_m3": 62774,
+ "footprint_m2": 109812,
+ "protection_m2": 34016,
+ "corridor_ha": 15.47,
+ "land_take_ha": {
+  "Not Classified": 0.75,
+  "Resedential": 2.84
+ },
+ "cost_OMR": 508001,
+ "cost_mOMR": 0.508,
+ "res_m": 2.0,
+ "seconds": 0
+}

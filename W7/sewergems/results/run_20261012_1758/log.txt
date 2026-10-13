@@ -1,0 +1,92 @@
+SHACH1-1 2 yr (alt 2035): known flow 29.999 -> 18.162 m3/s (stored 1059.404695333 -> 641.384977 ft3/s)
+SHACH1-1 5 yr (alt 2036): known flow 137.539 -> 92.331 m3/s (stored 4857.143984513 -> 3260.638493 ft3/s)
+SHACH1-1 10 yr (alt 2037): known flow 414.822 -> 279.961 m3/s (stored 14649.300794274 -> 9886.72941 ft3/s)
+SHACH1-1 25 yr (alt 2038): known flow 648.548 -> 415.964 m3/s (stored 22903.256653516 -> 14689.630028 ft3/s)
+SHACH1-1 50 yr (alt 2039): known flow 897.099 -> 549.446 m3/s (stored 31680.752451033 -> 19403.502371 ft3/s)
+SHACH1-1 100 yr (alt 2040): known flow 1220.999 -> 714.474 m3/s (stored 43119.173092333 -> 25231.411191 ft3/s)
+SHACH1-1 200 yr (alt 2041): known flow 1641.153 -> 916.73 m3/s (stored 57956.771691051 -> 32374.014423 ft3/s)
+SHACH1-1 500 yr (alt 2042): known flow 2349.755 -> 1262.524 m3/s (stored 82980.815356585 -> 44585.614287 ft3/s)
+SHACH1-8 2 yr (alt 2035): known flow 29.714 -> 19.61 m3/s (stored 1049.340015238 -> 692.520614 ft3/s)
+SHACH1-8 5 yr (alt 2036): known flow 137.275 -> 95.202 m3/s (stored 4847.820912425 -> 3362.026901 ft3/s)
+SHACH1-8 10 yr (alt 2037): known flow 415.576 -> 289.972 m3/s (stored 14675.928053192 -> 10240.264538 ft3/s)
+SHACH1-8 25 yr (alt 2038): known flow 650.342 -> 431.523 m3/s (stored 22966.611166114 -> 15239.090927 ft3/s)
+SHACH1-8 50 yr (alt 2039): known flow 901.392 -> 570.914 m3/s (stored 31832.358316464 -> 20161.637636 ft3/s)
+SHACH1-8 100 yr (alt 2040): known flow 1231.115 -> 743.707 m3/s (stored 43476.416263705 -> 26263.764843 ft3/s)
+SHACH1-8 200 yr (alt 2041): known flow 1660.816 -> 956.471 m3/s (stored 58651.163988272 -> 33777.454593 ft3/s)
+SHACH1-8 500 yr (alt 2042): known flow 2390.735 -> 1314.569 m3/s (stored 84428.010410245 -> 46423.566117 ft3/s)
+SHACH1-9 2 yr (alt 2035): known flow 29.647 -> 20.149 m3/s (stored 1046.973932549 -> 711.55522 ft3/s)
+SHACH1-9 5 yr (alt 2036): known flow 137.333 -> 98.057 m3/s (stored 4849.869163111 -> 3462.850275 ft3/s)
+SHACH1-9 10 yr (alt 2037): known flow 416.252 -> 293.781 m3/s (stored 14699.800768084 -> 10374.778104 ft3/s)
+SHACH1-9 25 yr (alt 2038): known flow 651.33 -> 437.302 m3/s (stored 23001.50205711 -> 15443.174386 ft3/s)
+SHACH1-9 50 yr (alt 2039): known flow 903.611 -> 578.97 m3/s (stored 31910.721562537 -> 20446.132591 ft3/s)
+SHACH1-9 100 yr (alt 2040): known flow 1235.569 -> 754.688 m3/s (stored 43633.707790523 -> 26651.555198 ft3/s)
+SHACH1-9 200 yr (alt 2041): known flow 1668.508 -> 971.08 m3/s (stored 58922.804406836 -> 34293.366559 ft3/s)
+SHACH1-9 500 yr (alt 2042): known flow 2407.095 -> 1335.251 m3/s (stored 85005.758362365 -> 47153.944054 ft3/s)
+SHACH1-11 2 yr (alt 2035): known flow 29.332 -> 21.196 m3/s (stored 1035.849812444 -> 748.529676 ft3/s)
+SHACH1-11 5 yr (alt 2036): known flow 136.725 -> 103.046 m3/s (stored 4828.397845575 -> 3639.035147 ft3/s)
+SHACH1-11 10 yr (alt 2037): known flow 415.837 -> 300.693 m3/s (stored 14685.145181279 -> 10618.87308 ft3/s)
+SHACH1-11 25 yr (alt 2038): known flow 648.913 -> 446.918 m3/s (stored 22916.146506971 -> 15782.760222 ft3/s)
+SHACH1-11 50 yr (alt 2039): known flow 901.685 -> 592.521 m3/s (stored 31842.705513895 -> 20924.68164 ft3/s)
+SHACH1-11 100 yr (alt 2040): known flow 1234.655 -> 773.06 m3/s (stored 43601.430184885 -> 27300.356255 ft3/s)
+SHACH1-11 200 yr (alt 2041): known flow 1670.587 -> 996.014 m3/s (stored 58996.223599529 -> 35173.902459 ft3/s)
+SHACH1-11 500 yr (alt 2042): known flow 2419.662 -> 1370.061 m3/s (stored 85449.557782554 -> 48383.247602 ft3/s)
+known flows rewritten: 32
+constraints: min slope 0.001, max slope 0.03 | design flags on: conduits 212 of 212
+######## 2 yr (scenario 1), full design 5:58:01 PM
+  '2 yr' ran in 591 s, results: True
+  design pass 1: 11 pipe sizes changed
+  '2 yr' ran in 556 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '2yr': 212 conduits, 227 nodes
+######## 5 yr (scenario 2050), full design 6:17:09 PM
+  '5 yr' ran in 560 s, results: True
+  design pass 1: 47 pipe sizes changed
+  '5 yr' ran in 579 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '5yr': 212 conduits, 227 nodes
+######## 10 yr (scenario 2051), full design 6:36:08 PM
+  '10 yr' ran in 544 s, results: True
+  design pass 1: 56 pipe sizes changed
+  '10 yr' ran in 562 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '10yr': 212 conduits, 227 nodes
+######## 25 yr (scenario 2052), full design 6:54:35 PM
+  '25 yr' ran in 569 s, results: True
+  design pass 1: 56 pipe sizes changed
+  '25 yr' ran in 600 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '25yr': 212 conduits, 227 nodes
+######## 50 yr (scenario 2053), full design 7:14:04 PM
+  '50 yr' ran in 531 s, results: True
+  design pass 1: 56 pipe sizes changed
+  '50 yr' ran in 575 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '50yr': 212 conduits, 227 nodes
+######## 100 yr (scenario 2054), full design 7:32:31 PM
+  '100 yr' ran in 546 s, results: True
+  design pass 1: 56 pipe sizes changed
+  '100 yr' ran in 558 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '100yr': 212 conduits, 227 nodes
+######## 200 yr (scenario 2055), full design 7:50:55 PM
+  '200 yr' ran in 566 s, results: True
+  design pass 1: 12 pipe sizes changed
+  '200 yr' ran in 558 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+######## 500 yr (scenario 2056), full design 8:09:39 PM
+  '500 yr' ran in 602 s, results: True
+  design pass 1: 57 pipe sizes changed
+  '500 yr' ran in 558 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '500yr': 212 conduits, 227 nodes
+reopened R9, 200 yr: SHACH1-1 ground 37.189 invert 34.689
+result file for scenario 1 delivered
+result file for scenario 2050 delivered
+result file for scenario 2051 delivered
+result file for scenario 2052 delivered
+result file for scenario 2053 delivered
+result file for scenario 2054 delivered
+result file for scenario 2055 delivered
+result file for scenario 2056 delivered
+delivered "SewerGEMS Block 04_R9.stsw" with .sqlite, .dwh, .profiles.dwh and the eight result files

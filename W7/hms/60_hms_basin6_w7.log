@@ -1,0 +1,16 @@
+backup: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Hydrology\HEC_HMS_Block_04\_backup_before_w7_20261012_063355
+SHA-S23: old 20.953 km2 -> new 31.037 km2 in 1 part(s) [31.037]
+SHA-S44: old 12.402 km2 -> new 2.747 km2 in 1 part(s) [2.747]
+SHA-S46: old 17.651 km2 -> new 16.528 km2 in 1 part(s) [16.528]
+old SHA-S23 outside S23 (left unassigned, as in Basin 4): 0.705 km2
+SHA-S23 <- Basin 4 S23: area 31.037, CN 86.2 (grid check 86.2), Ia 8.11, lag 97.5 min, -> Shafan 08 site
+SHA-S44: area 2.747 km2, CN 86.7 (39154 cells), Ia 7.77 mm, longest flow path 3235 m, S1085 0.00978, lag 27.7 min (was 58.4) -> SHA-J42
+SHA-S46: area 16.528 km2, CN 86.3 (235516 cells), Ia 8.07 mm, longest flow path 7923 m, S1085 0.00712, lag 62.4 min (was 61.6) -> SHA-J45
+Basin_6.basin written
+subbasin2d geometry type in the file: MultiPolygon
+Basin_6.sqlite updated (3 subbasins, centroids, flow paths, statistics, S23 outlet, the reservoir point)
+project: Basin 6 description made live
+old B6 analyses removed: 8
+analyses added: 13, analysis points per analysis: [362]
+old DA_*_B6 result files deleted
+compute script: C:/Users/mojtaba/AppData/Local/Temp/claude/D--Mojtaba-Renardet-2224-WS11-Batinah-Block-4/72a3ff20-809e-4d71-bf42-7b9f694d69ff/scratchpad/hms_b6w7\hms_compute_b6w7.py

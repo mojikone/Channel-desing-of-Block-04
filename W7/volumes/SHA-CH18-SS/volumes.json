@@ -1,0 +1,21 @@
+{
+ "channel": "SHA-CH18-SS",
+ "cls": "SS",
+ "reaches": 4,
+ "length_m": 3019.4,
+ "span_min": 37.0,
+ "span_max": 37.0,
+ "cut_m3": 188252,
+ "fill_m3": 44647,
+ "footprint_m2": 166828,
+ "protection_m2": 27220,
+ "corridor_ha": 20.53,
+ "land_take_ha": {
+  "Government": 0.11,
+  "Resedential": 1.22
+ },
+ "cost_OMR": 731758,
+ "cost_mOMR": 0.732,
+ "res_m": 2.0,
+ "seconds": 0
+}

@@ -1,0 +1,20 @@
+{
+ "channel": "SAR-CH3-SS",
+ "cls": "SS",
+ "reaches": 4,
+ "length_m": 6866.4,
+ "span_min": 41.0,
+ "span_max": 49.0,
+ "cut_m3": 527563,
+ "fill_m3": 68169,
+ "footprint_m2": 431584,
+ "protection_m2": 61901,
+ "corridor_ha": 51.94,
+ "land_take_ha": {
+  "Resedential": 0.19
+ },
+ "cost_OMR": 1755162,
+ "cost_mOMR": 1.755,
+ "res_m": 2.0,
+ "seconds": 0
+}

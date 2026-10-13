@@ -1,0 +1,5 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.44" styleCategories="Symbology|Labeling" labelsEnabled="0">
+ <renderer-v2 type="singleSymbol"><symbols><symbol type="marker" name="0" alpha="1"><layer class="SimpleMarker"><Option type="Map"><Option name="name" type="QString" value="square"/><Option name="color" type="QString" value="0,0,0,0"/><Option name="outline_color" type="QString" value="123,31,162,255"/><Option name="outline_width" type="QString" value="0.7"/><Option name="size" type="QString" value="4"/><Option name="size_unit" type="QString" value="MM"/></Option></layer></symbol></symbols></renderer-v2>
+ <labeling type="simple"><settings calloutType="simple"><text-style fontSize="7.5" fontFamily="Arial" fontWeight="75" textColor="90,20,120,255" fieldName="&quot;SGLabel&quot; || '  ' || &quot;WadiDepth&quot; || ' m ' || &quot;WadiClass&quot;" isExpression="1" namedStyle="Bold"><text-buffer bufferDraw="1" bufferSize="0.8" bufferColor="255,255,255,255"/></text-style><placement placement="6" dist="4" quadOffset="2"/><rendering scaleVisibility="1" scaleMin="1" scaleMax="100000"/></settings></labeling>
+</qgis>

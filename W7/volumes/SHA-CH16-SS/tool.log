@@ -1,0 +1,37 @@
+Loading shapefile ...
+  7 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 2344 rows x 2106 cols  (2.0 m resolution)
+Extent      : X 495294 - 499506  Y 2657230 - 2661918
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SHACH16-C1  span=14m  rise=2.5m  L=1505m  inv 32.03->24.12
+  SHACH16-C2  span=14m  rise=2.5m  L=500m  inv 24.12->19.64  [taper -> span=16m rise=2.5m]
+  SHACH16-C3  span=16m  rise=2.5m  L=667m  inv 19.64->16.79  [taper -> span=26m rise=2.5m]
+  SHACH16-C4  span=26m  rise=2.5m  L=1050m  inv 16.79->14.37
+  SHACH16-C5  span=26m  rise=2.5m  L=499m  inv 14.37->10.81
+  SHACH16-C6  span=26m  rise=2.5m  L=1887m  inv 10.81->1.79  [taper -> span=38m rise=2.5m]
+  SHACH16-C7  span=38m  rise=2.5m  L=317m  inv 1.79->1.47
+
+Rasterising reach bodies (7 threads) ...
+  SHACH16-C3  5,799 body cells
+  SHACH16-C5  5,514 body cells
+  SHACH16-C1  13,112 body cells
+  SHACH16-C7  4,762 body cells
+  SHACH16-C2  4,336 body cells
+  SHACH16-C4  11,831 body cells
+  SHACH16-C6  19,363 body cells
+
+Filling junction gaps ...
+  SHACH16-C1 -> SHACH16-C2  junction filled
+  SHACH16-C2 -> SHACH16-C3  junction filled
+  SHACH16-C3 -> SHACH16-C4  junction filled
+  SHACH16-C4 -> SHACH16-C5  junction filled
+  SHACH16-C5 -> SHACH16-C6  junction filled
+  SHACH16-C6 -> SHACH16-C7  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\volumes\SHA-CH16-SS\channel_terrain.tif
+Done.  64,455 total channel cells.

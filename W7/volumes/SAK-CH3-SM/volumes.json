@@ -1,0 +1,23 @@
+{
+ "channel": "SAK-CH3-SM",
+ "cls": "SM",
+ "reaches": 6,
+ "length_m": 6472.9,
+ "span_min": 45.0,
+ "span_max": 90.5,
+ "cut_m3": 387049,
+ "fill_m3": 134353,
+ "footprint_m2": 495124,
+ "protection_m2": 58354,
+ "corridor_ha": 57.38,
+ "land_take_ha": {
+  "Agricultural": 14.09,
+  "Government": 0.12,
+  "Resedential": 2.8,
+  "Residential Commercial": 0.18
+ },
+ "cost_OMR": 1729831,
+ "cost_mOMR": 1.73,
+ "res_m": 2.0,
+ "seconds": 0
+}

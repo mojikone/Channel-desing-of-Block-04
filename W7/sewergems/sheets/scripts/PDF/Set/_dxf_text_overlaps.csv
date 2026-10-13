@@ -1,0 +1,527 @@
+sheet,space,layer_a,text_a,layer_b,text_b,x_mm,y_mm,overlap_x_mm,overlap_y_mm
+HAW-CH1-FP-KeyMap_v4421.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1508.9,282.4,0.3,3.8
+HAW-CH1-FP-KeyMap_v4421.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},VF_LABELS,7+000,1593.7,254.1,0.9,14.5
+HAW-CH1-FP-KeyMap_v4421.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1716.9,307.4,8.5,14.6
+HAW-CH1-FP-Sheet01_v4421.dxf,paper,Annotation,"HAWCH1-C1: 1,044.2 m @ 0.0047 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1380.2,159.7,91.9,4.8
+HAW-CH1-FP-Sheet03_v4421.dxf,paper,Annotation,"HAWCH1-C2: 2,089.9 m @ 0.0058 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1078.0,188.6,91.9,5.9
+HAW-CH1-FP-Sheet04_v4422.dxf,paper,Annotation,HAWCH1-C3: 496.8 m @ 0.0120 m/m,Annotation,"29.0 x 2.5 m Natural stream, clean",1285.3,168.1,91.8,11.8
+HAW-CH1-FP-Sheet05_v4422.dxf,paper,Annotation,"HAWCH1-C4: 2,727.2 m @ 0.0056 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1710.0,144.7,91.9,5.7
+HAW-CH1-FP-Sheet06_v4422.dxf,paper,Annotation,"HAWCH1-C4: 2,727.2 m @ 0.0056 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1011.9,184.4,91.9,5.7
+HAW-CH1-FP-Sheet06_v4422.dxf,paper,Annotation,"HAWCH1-C4: 2,727.2 m @ 0.0056 m/m",Grid_Text,14.00,1011.9,184.4,11.6,2.6
+HAW-CH1-FP-Sheet06_v4422.dxf,paper,Annotation,"29.0 x 2.5 m Natural stream, clean",Grid_Text,12.00,1021.2,179.1,11.6,4.6
+HAW-CH1-FP-Sheet07_v4422.dxf,paper,Annotation,HAWCH1-C5: 264.3 m @ 0.0010 m/m,Annotation,"60.5 x 2.5 m Natural stream, clean",1360.6,168.1,91.8,1.0
+HAW-CH1-FP-Sheet07_v4422.dxf,paper,Annotation,HAWCH1-C6: 415.3 m @ 0.0020 m/m,Annotation,"89.5 x 2.5 m Natural stream, clean",1597.7,163.7,91.8,2.1
+HAW-CH1-FP-Sheet08_v4422.dxf,paper,Annotation,"HAWCH1-C7: 1,166.3 m @ 0.0023 m/m",Annotation,"89.5 x 3.0 m Natural stream, weedy",1449.2,167.9,95.1,2.5
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1126.4,242.2,3.8,12.4
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1198.5,249.2,2.0,15.6
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1348.1,302.0,2.4,13.7
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1487.8,329.7,4.6,6.0
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1499.1,306.2,5.2,9.0
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1563.6,305.6,3.4,9.6
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},VF_LABELS,7+000,1576.2,283.3,6.9,8.8
+HAW-CH2-SS-KeyMap_v4426.dxf,paper,VF_LABELS,7+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},1638.8,283.9,5.6,8.8
+HAW-CH2-SS-Sheet01_v4422.dxf,paper,Annotation,"HAWCH2-C1: 1,507.8 m @ 0.0066 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1542.1,149.0,91.9,6.7
+HAW-CH2-SS-Sheet03_v4424.dxf,paper,Annotation,"HAWCH2-C2: 1,084.7 m @ 0.0059 m/m",Annotation,"20.5 x 2.5 m Natural stream, clean",1050.8,180.2,91.9,6.0
+HAW-CH2-SS-Sheet04_v4425.dxf,paper,Annotation,HAWCH2-C3: 902.2 m @ 0.0024 m/m,Annotation,"30.5 x 2.5 m Natural stream, clean",1048.8,197.6,91.8,2.4
+HAW-CH2-SS-Sheet04_v4425.dxf,paper,Annotation,HAWCH2-C4: 500.0 m @ 0.0100 m/m,Annotation,"30.5 x 2.5 m Natural stream, clean",1538.2,168.6,91.8,9.8
+HAW-CH2-SS-Sheet05_v4425.dxf,paper,Annotation,"HAWCH2-C5: 2,045.7 m @ 0.0038 m/m",Annotation,"30.5 x 2.5 m Natural stream, clean",1726.2,152.4,91.9,3.9
+HAW-CH2-SS-Sheet06_v4425.dxf,paper,Annotation,"HAWCH2-C5: 2,045.7 m @ 0.0038 m/m",Grid_Text,14.00,1028.1,187.3,11.6,1.2
+HAW-CH2-SS-Sheet06_v4425.dxf,paper,Annotation,"HAWCH2-C5: 2,045.7 m @ 0.0038 m/m",Annotation,"30.5 x 2.5 m Natural stream, clean",1028.1,187.3,91.9,3.9
+HAW-CH2-SS-Sheet06_v4425.dxf,paper,Grid_Text,14.00,Annotation,"30.5 x 2.5 m Natural stream, clean",1036.9,183.8,11.2,4.6
+HAW-CH2-SS-Sheet07_v4425.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,3.8
+HAW-CH2-SS-Sheet07_v4425.dxf,paper,Annotation,HAWCH2-C6: 739.9 m @ 0.0052 m/m,Annotation,"30.5 x 2.5 m Natural stream, clean",1304.7,171.1,91.9,5.2
+HAW-CH2-SS-Sheet07_v4425.dxf,paper,Annotation,HAWCH2-C7: 363.5 m @ 0.0019 m/m,Annotation,"54.0 x 2.5 m Natural stream, clean",1689.9,156.9,91.8,2.0
+HAW-CH2-SS-Sheet08_v4425.dxf,paper,Annotation,HAWCH2-C8: 577.9 m @ 0.0035 m/m,Annotation,"54.0 x 2.5 m Natural stream, clean",1320.4,169.7,91.9,3.5
+HAW-CH3-SS-Sheet01_v4425.dxf,paper,Annotation,"HAWCH3-C1: 1,440.4 m @ 0.0082 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1518.5,148.4,91.9,8.3
+HAW-CH3-SS-Sheet01_v4425.dxf,paper,Grid_Text,Station (m),Annotation_Table,0.0,1563.8,82.9,7.8,5.3
+HAW-CH4-SS-KeyMap_v4429.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1503.0,309.6,1.7,10.4
+HAW-CH4-SS-Sheet01_v4425.dxf,paper,Annotation,HAWCH4-C1: 801.1 m @ 0.0079 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1297.9,167.3,91.9,7.8
+HAW-CH4-SS-Sheet02_v4425.dxf,paper,Annotation,HAWCH4-C2: 584.2 m @ 0.0059 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1083.3,171.5,91.9,5.8
+HAW-CH5-SS-KeyMap_v4429.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1392.7,268.9,2.3,11.8
+HAW-CH5-SS-KeyMap_v4429.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,7+000,1737.7,332.0,5.8,6.1
+HAW-CH5-SS-Sheet01_v4428.dxf,paper,Annotation,"HAWCH5-C1: 1,214.0 m @ 0.0068 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1439.5,159.1,91.9,6.9
+HAW-CH5-SS-Sheet02_v4428.dxf,paper,Annotation,HAWCH5-C2: 868.5 m @ 0.0053 m/m,Annotation,"19.0 x 2.5 m Natural stream, clean",1470.8,158.7,91.9,5.2
+HAW-CH5-SS-Sheet03_v4428.dxf,paper,Annotation,"HAWCH5-C3: 1,011.9 m @ 0.0045 m/m",Annotation,"20.5 x 2.5 m Natural stream, clean",1426.5,166.3,91.9,4.6
+HAW-CH5-SS-Sheet04_v4428.dxf,paper,Annotation_Table,Label,Grid_Text,14.00,1034.4,104.0,11.6,1.1
+HAW-CH5-SS-Sheet04_v4428.dxf,paper,Annotation,HAWCH5-C4: 500.0 m @ 0.0100 m/m,Annotation,"20.5 x 2.5 m Natural stream, clean",1258.7,169.7,91.8,9.8
+HAW-CH5-SS-Sheet05_v4428.dxf,paper,Annotation,"HAWCH5-C5: 1,813.1 m @ 0.0060 m/m",Annotation,"20.5 x 2.5 m Natural stream, clean",1365.4,161.8,91.9,6.1
+HAW-CH5-SS-Sheet07_v4429.dxf,paper,Annotation,"HAWCH5-C6: 1,325.0 m @ 0.0028 m/m",Annotation,"42.0 x 2.5 m Natural stream, clean",1064.6,183.4,91.8,2.9
+HAW-CH5-SS-Sheet07_v4429.dxf,paper,Annotation,HAWCH5-C7: 333.4 m @ 0.0036 m/m,Annotation,"44.5 x 2.5 m Natural stream, clean",1646.0,165.7,91.9,3.6
+HAW-CH6-SS-KeyMap_v4432.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1482.5,298.4,4.1,8.0
+HAW-CH6-SS-Sheet01_v4429.dxf,paper,Annotation,"HAWCH6-C1: 1,270.3 m @ 0.0034 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1459.2,160.6,91.9,3.5
+HAW-CH6-SS-Sheet01_v4429.dxf,paper,Grid_Text,Station (m),Grid_Text,0+650,1502.7,112.9,12.2,3.3
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1309.7,272.6,5.5,13.8
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1402.6,263.4,0.6,13.1
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1495.9,284.6,12.7,11.6
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1581.0,257.2,0.6,15.0
+HAW-CH7-SS-KeyMap_v4433.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1658.0,294.0,0.9,15.0
+HAW-CH7-SS-Sheet01_v4431.dxf,paper,Annotation,"HAWCH7-C1: 1,237.7 m @ 0.0045 m/m",Annotation,"12.5 x 2.5 m Natural stream, clean",1447.8,166.9,91.9,4.5
+HAW-CH7-SS-Sheet02_v4431.dxf,paper,Annotation,HAWCH7-C2: 500.0 m @ 0.0110 m/m,Annotation,"12.5 x 2.5 m Natural stream, clean",1358.8,168.1,91.8,10.8
+HAW-CH7-SS-Sheet03_v4432.dxf,paper,Annotation,"HAWCH7-C3: 1,259.6 m @ 0.0040 m/m",Annotation,"13.0 x 2.5 m Natural stream, clean",1272.4,177.3,91.9,4.1
+HAW-CH7-SS-Sheet04_v4432.dxf,paper,Annotation,"HAWCH7-C4: 1,538.1 m @ 0.0024 m/m",Annotation,"19.5 x 2.5 m Natural stream, clean",1550.8,174.0,91.8,2.5
+HAW-CH7-SS-Sheet05_v4432.dxf,paper,PL_LABEL,4+900,PL_LABEL,4+950,1624.1,350.4,4.2,3.5
+HAW-CH7-SS-Sheet05_v4432.dxf,paper,Annotation,HAWCH7-C5: 687.7 m @ 0.0070 m/m,Annotation,"19.5 x 2.5 m Natural stream, clean",1632.1,160.1,91.9,6.9
+HAW-CH7-SS-Sheet06_v4432.dxf,paper,PL_LABEL,4+900,PL_LABEL,4+950,1057.1,504.1,4.6,3.0
+HAW-CH7-SS-Sheet06_v4432.dxf,paper,Annotation,"HAWCH7-C6: 1,284.3 m @ 0.0010 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1620.0,165.2,91.8,1.1
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1203.8,267.8,3.9,15.4
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1249.6,253.7,1.8,15.5
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1430.4,306.2,4.4,12.9
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1452.7,338.4,2.9,14.8
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},VF_LABELS,7+000,1463.7,316.3,4.4,16.0
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,8+000,1514.3,310.1,7.1,12.1
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1514.3,310.1,1.8,9.9
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1538.9,312.1,10.4,7.9
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},VF_LABELS,9+000,1544.2,285.5,5.9,13.5
+SAK-CH1-FP-KeyMap_v4436.dxf,paper,VF_LABELS,12+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#13},1732.5,286.1,3.3,18.8
+SAK-CH1-FP-Sheet01_v4432.dxf,paper,Annotation,SAKCH1-C1: 671.6 m @ 0.0077 m/m,Annotation,"58.5 x 2.5 m Natural stream, clean",1254.0,172.6,91.9,7.5
+SAK-CH1-FP-Sheet01_v4432.dxf,paper,Annotation,SAKCH1-C2: 458.0 m @ 0.0103 m/m,Annotation,"58.5 x 2.5 m Natural stream, clean",1648.2,136.8,91.8,9.9
+SAK-CH1-FP-Sheet02_v4432.dxf,paper,Annotation,SAKCH1-C3: 866.5 m @ 0.0070 m/m,Annotation,"61.5 x 2.5 m Natural stream, clean",1412.4,165.8,91.9,6.8
+SAK-CH1-FP-Sheet03_v4432.dxf,paper,Annotation,SAKCH1-C4: 994.0 m @ 0.0057 m/m,Annotation,"67.5 x 2.5 m Natural stream, clean",1363.7,171.2,91.9,5.6
+SAK-CH1-FP-Sheet04_v4434.dxf,paper,Annotation,"SAKCH1-C5: 1,305.0 m @ 0.0063 m/m",Annotation,"96.0 x 2.5 m Natural stream, clean",1465.6,163.2,91.9,6.4
+SAK-CH1-FP-Sheet06_v4434.dxf,paper,Annotation,"SAKCH1-C6: 1,869.0 m @ 0.0056 m/m",Annotation,"102.5 x 2.5 m Natural stream, clean",1177.3,190.0,95.2,5.7
+SAK-CH1-FP-Sheet07_v4435.dxf,paper,Annotation,"SAKCH1-C7: 1,297.0 m @ 0.0068 m/m",Annotation,"102.5 x 2.5 m Natural stream, clean",1584.3,158.4,95.2,6.9
+SAK-CH1-FP-Sheet08_v4435.dxf,paper,Annotation_Table,Label,Grid_Text,34.00,1034.4,104.0,11.6,0.7
+SAK-CH1-FP-Sheet08_v4435.dxf,paper,Annotation,"SAKCH1-C8: 1,113.0 m @ 0.0046 m/m",Annotation,"112.5 x 2.5 m Natural stream, clean",1727.4,147.3,95.2,4.7
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,"SAKCH1-C8: 1,113.0 m @ 0.0046 m/m",Annotation,"112.5 x 2.5 m Natural stream, clean",1029.3,179.2,95.2,4.7
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,"SAKCH1-C8: 1,113.0 m @ 0.0046 m/m",Grid_Text,40.00,1029.3,179.2,11.6,4.6
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,"112.5 x 2.5 m Natural stream, clean",Grid_Text,40.00,1035.6,173.6,11.6,1.2
+SAK-CH1-FP-Sheet09_v4435.dxf,paper,Annotation,SAKCH1-C9: 743.0 m @ 0.0033 m/m,Annotation,"132.5 x 2.5 m Natural stream, clean",1679.7,153.6,95.2,3.3
+SAK-CH1-FP-Sheet10_v4435.dxf,paper,Annotation,"SAKCH1-C10: 1,086.7 m @ 0.0057 m/m",Annotation,"132.5 x 2.5 m Natural stream, clean",1616.0,152.6,95.2,5.9
+SAK-CH1-FP-Sheet11_v4435.dxf,paper,Annotation,"SAKCH1-C11: 1,249.0 m @ 0.0021 m/m",Annotation,"165.5 x 2.5 m Natural stream, clean",1733.3,155.3,95.1,2.2
+SAK-CH1-FP-Sheet12_v4435.dxf,paper,Annotation,"SAKCH1-C11: 1,249.0 m @ 0.0021 m/m",Grid_Text,28.00,1035.2,170.0,11.6,2.5
+SAK-CH1-FP-Sheet12_v4435.dxf,paper,Annotation,"SAKCH1-C11: 1,249.0 m @ 0.0021 m/m",Annotation,"165.5 x 2.5 m Natural stream, clean",1035.2,170.0,95.1,2.2
+SAK-CH1-FP-Sheet12_v4435.dxf,paper,Grid_Text,26.00,Annotation,"165.5 x 2.5 m Natural stream, clean",1036.9,161.8,5.4,2.0
+SAK-CH1-FP-Sheet13_v4435.dxf,paper,Annotation,SAKCH1-C12: 813.9 m @ 0.0010 m/m,Annotation,"238.0 x 2.5 m Natural stream, clean",1059.6,176.2,95.1,1.1
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1153.5,273.4,3.4,11.4
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1165.9,253.9,3.8,13.6
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1219.6,263.4,0.3,13.6
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1234.4,247.9,1.7,13.6
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,3+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},1286.3,265.1,0.3,13.6
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1371.1,252.1,2.7,13.7
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1428.8,275.2,1.9,15.8
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,8+000,1555.6,304.7,1.4,11.5
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1603.6,326.3,3.3,11.5
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},VF_LABELS,9+000,1616.1,306.8,4.5,13.8
+SAK-CH2-FP-KeyMap_v4439.dxf,paper,VF_LABELS,9+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},1669.1,313.3,2.6,13.8
+SAK-CH2-FP-Sheet01_v4435.dxf,paper,Annotation,SAKCH2-C1: 901.2 m @ 0.0068 m/m,Annotation,"74.5 x 2.5 m Natural stream, clean",1334.1,170.3,91.9,6.6
+SAK-CH2-FP-Sheet02_v4437.dxf,paper,Annotation,"SAKCH2-C2: 1,455.8 m @ 0.0040 m/m",Annotation,"96.5 x 2.5 m Natural stream, clean",1456.2,162.4,91.9,4.0
+SAK-CH2-FP-Sheet03_v4437.dxf,paper,Annotation,SAKCH2-C3: 765.7 m @ 0.0036 m/m,Annotation,"109.5 x 2.5 m Natural stream, clean",1536.1,164.9,95.2,3.6
+SAK-CH2-FP-Sheet05_v4438.dxf,paper,Annotation,"SAKCH2-C4: 1,928.3 m @ 0.0060 m/m",Annotation,"238.0 x 2.5 m Natural stream, clean",1077.7,187.0,95.2,6.1
+SAK-CH2-FP-Sheet05_v4438.dxf,paper,Grid_Text,Station (m),Grid_Text,4+900,1685.9,114.6,15.1,1.6
+SAK-CH2-FP-Sheet07_v4438.dxf,paper,Annotation,"SAKCH2-C5: 2,499.0 m @ 0.0029 m/m",Annotation,"268.0 x 2.5 m Natural stream, clean",1226.9,172.2,95.2,3.0
+SAK-CH2-FP-Sheet09_v4438.dxf,paper,Annotation,"SAKCH2-C6: 1,218.4 m @ 0.0024 m/m",Annotation,"317.5 x 2.5 m Natural stream, clean",1128.3,171.8,95.1,2.5
+SAK-CH2-FP-Sheet10_v4438.dxf,paper,Annotation,"SAKCH2-C7: 1,012.2 m @ 0.0010 m/m",Annotation,"488.0 x 2.5 m Natural stream, clean",1208.8,171.5,95.1,1.1
+SAK-CH3-SM-KeyMap_v4442.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1403.0,298.0,1.7,11.7
+SAK-CH3-SM-KeyMap_v4442.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1493.1,295.3,14.6,8.3
+SAK-CH3-SM-Sheet01_v4439.dxf,paper,Annotation,"SAKCH3-C1: 1,857.9 m @ 0.0029 m/m",Annotation,"45.0 x 2.5 m Natural stream, clean",1665.6,160.3,91.8,3.0
+SAK-CH3-SM-Sheet03_v4440.dxf,paper,Annotation,"SAKCH3-C2: 1,861.8 m @ 0.0023 m/m",Annotation,"60.0 x 2.5 m Natural stream, clean",1567.8,171.5,91.8,2.3
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,Annotation,SAKCH3-C3: 702.1 m @ 0.0034 m/m,Annotation,"60.0 x 2.5 m Natural stream, clean",1069.0,177.0,91.9,3.3
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,PL_LABEL,4+750,PL_LABEL,4+800,1542.5,343.8,2.0,15.1
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,Annotation,SAKCH3-C4: 656.5 m @ 0.0026 m/m,Annotation,"60.0 x 2.5 m Natural stream, clean",1543.2,163.3,91.8,2.6
+SAK-CH3-SM-Sheet05_v4440.dxf,paper,PL_LABEL,4+950,PL_LABEL,5+000,1662.8,342.5,2.2,13.1
+SAK-CH3-SM-Sheet06_v4441.dxf,paper,PL_LABEL,4+950,PL_LABEL,5+000,1075.4,441.1,1.7,16.0
+SAK-CH3-SM-Sheet06_v4441.dxf,paper,Annotation,SAKCH3-C5: 978.7 m @ 0.0043 m/m,Annotation,"60.0 x 2.5 m Natural stream, clean",1415.8,159.2,91.9,4.2
+SAK-CH3-SM-Sheet07_v4441.dxf,paper,Annotation,SAKCH3-C6: 415.9 m @ 0.0010 m/m,Annotation,"90.5 x 2.5 m Natural stream, clean",1204.6,171.4,91.8,1.0
+SAK-CH4-SS-Sheet01_v4441.dxf,paper,Annotation,"SAKCH4-C1: 1,348.0 m @ 0.0039 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1487.6,158.4,91.9,3.9
+SAK-CH4-SS-Sheet01_v4441.dxf,paper,Grid_Text,0+950,Grid_Text,Station (m),1726.6,110.9,12.2,2.7
+SAK-CH4-SS-Sheet02_v4441.dxf,paper,Annotation,SAKCH4-C2: 573.2 m @ 0.0015 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1462.6,168.7,91.8,1.5
+SAK-CH5-SS-Sheet01_v4441.dxf,paper,Annotation,"SAKCH5-C1: 1,677.2 m @ 0.0040 m/m",Annotation,"14.0 x 2.5 m Natural stream, clean",1602.5,152.6,91.9,4.0
+SAK-CH5-SS-Sheet02_v4442.dxf,paper,Grid_Text,Station (m),Grid_Text,1+400,1328.1,114.6,12.2,1.6
+SAK-CH5-SS-Sheet02_v4442.dxf,paper,PL_LABEL,1+900,PL_LABEL,1+950,1647.7,382.2,1.7,9.1
+SAK-CH5-SS-Sheet03_v4442.dxf,paper,PL_LABEL,1+900,PL_LABEL,1+950,1089.0,404.1,1.3,11.8
+SAK-CH5-SS-Sheet03_v4442.dxf,paper,Annotation,"SAKCH5-C2: 1,096.4 m @ 0.0010 m/m",Annotation,"52.5 x 2.5 m Natural stream, clean",1174.5,174.5,91.8,1.1
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,0+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},1063.2,262.6,0.8,15.7
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1074.8,258.2,1.1,16.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1114.4,270.9,0.5,16.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1150.8,288.1,0.7,16.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1186.5,305.4,2.3,14.4
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,4+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},1209.8,325.0,3.3,14.4
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1220.9,316.8,4.9,13.5
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1249.4,324.8,4.5,13.5
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1260.0,314.7,5.7,13.5
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1289.3,321.4,4.5,13.5
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},VF_LABELS,7+000,1299.9,311.3,5.6,14.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,7+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},1329.2,316.7,4.0,14.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,8+000,1340.1,307.4,4.9,14.6
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1369.4,316.1,3.1,14.6
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},VF_LABELS,9+000,1380.6,308.2,4.3,14.6
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,9+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},1409.4,318.2,3.1,14.6
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},VF_LABELS,10+000,1420.5,310.3,5.3,16.7
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,10+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#11},1448.3,319.2,4.1,16.7
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#11},VF_LABELS,11+000,1460.5,312.4,5.9,15.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,11+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#12},1487.7,325.4,6.0,15.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#12},VF_LABELS,12+000,1499.4,315.7,8.1,13.7
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,12+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#13},1526.5,318.4,7.1,13.7
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#13},VF_LABELS,13+000,1537.6,307.2,8.3,10.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,13+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#14},1565.4,311.7,9.5,7.4
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#14},VF_LABELS,14+000,1574.7,297.1,10.2,7.4
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,14+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#15},1600.9,289.3,5.8,15.2
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#15},VF_LABELS,15+000,1612.6,279.9,6.5,17.2
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,15+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#16},1641.1,282.3,3.4,17.2
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#16},VF_LABELS,16+000,1653.4,276.4,6.7,9.0
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,16+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#17},1678.8,293.7,9.9,5.1
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#17},VF_LABELS,17+000,1687.7,278.5,12.4,3.3
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#17},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#18},1687.7,278.5,3.4,3.8
+SAR-CH1-FP-KeyMap_v4448.dxf,paper,VF_LABELS,17+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#18},1711.4,270.0,9.8,11.7
+SAR-CH1-FP-Sheet01_v4443.dxf,paper,Annotation,SARCH1-C1: 759.9 m @ 0.0059 m/m,Annotation,"58.0 x 2.5 m Natural stream, clean",1285.0,170.8,91.9,5.8
+SAR-CH1-FP-Sheet02_v4444.dxf,paper,Annotation,"SARCH1-C2: 1,322.1 m @ 0.0094 m/m",Annotation,"58.0 x 2.5 m Natural stream, clean",1311.1,166.6,91.9,9.3
+SAR-CH1-FP-Sheet03_v4444.dxf,paper,Annotation,SARCH1-C3: 970.1 m @ 0.0085 m/m,Annotation,"58.0 x 2.5 m Natural stream, clean",1415.6,159.1,91.9,8.2
+SAR-CH1-FP-Sheet04_v4444.dxf,paper,Annotation,"SARCH1-C4: 1,917.0 m @ 0.0081 m/m",Annotation,"58.0 x 2.5 m Natural stream, clean",1722.8,130.1,91.9,8.1
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"SARCH1-C4: 1,917.0 m @ 0.0081 m/m",Annotation,"58.0 x 2.5 m Natural stream, clean",1024.7,194.9,91.9,8.1
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"SARCH1-C4: 1,917.0 m @ 0.0081 m/m",Grid_Text,76.00,1024.7,194.9,11.6,1.2
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"SARCH1-C4: 1,917.0 m @ 0.0081 m/m",Grid_Text,78.00,1024.7,194.9,11.6,4.1
+SAR-CH1-FP-Sheet05_v4444.dxf,paper,Annotation,"58.0 x 2.5 m Natural stream, clean",Grid_Text,76.00,1032.4,189.7,11.6,4.6
+SAR-CH1-FP-Sheet07_v4445.dxf,paper,Annotation,"SARCH1-C5: 2,951.1 m @ 0.0069 m/m",Annotation,"58.0 x 2.5 m Natural stream, clean",1327.7,164.3,91.9,6.9
+SAR-CH1-FP-Sheet09_v4445.dxf,paper,Grid_Text,Station (m),Grid_Text,8+800,1607.4,114.6,12.2,1.6
+SAR-CH1-FP-Sheet09_v4445.dxf,paper,Annotation,"SARCH1-C6: 1,944.8 m @ 0.0061 m/m",Annotation,"77.5 x 2.5 m Natural stream, clean",1640.4,143.5,91.9,6.1
+SAR-CH1-FP-Sheet11_v4445.dxf,paper,Annotation,"SARCH1-C7: 1,674.0 m @ 0.0049 m/m",Annotation,"86.5 x 2.5 m Natural stream, clean",1507.3,163.6,91.9,4.9
+SAR-CH1-FP-Sheet12_v4447.dxf,paper,Annotation,SARCH1-C8: 744.1 m @ 0.0089 m/m,Annotation,"86.5 x 2.5 m Natural stream, clean",1655.7,148.2,91.9,8.6
+SAR-CH1-FP-Sheet13_v4447.dxf,paper,Annotation,"SARCH1-C9: 1,011.0 m @ 0.0041 m/m",Annotation,"94.0 x 2.5 m Natural stream, clean",1567.8,155.4,91.9,4.1
+SAR-CH1-FP-Sheet14_v4447.dxf,paper,Annotation,SARCH1-C10: 712.6 m @ 0.0075 m/m,Annotation,"94.0 x 2.5 m Natural stream, clean",1472.1,163.5,91.9,7.4
+SAR-CH1-FP-Sheet15_v4448.dxf,paper,Annotation,"SARCH1-C11: 1,090.0 m @ 0.0028 m/m",Annotation,"209.0 x 2.5 m Natural stream, clean",1400.8,165.2,95.2,2.9
+SAR-CH1-FP-Sheet16_v4448.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,0.7
+SAR-CH1-FP-Sheet16_v4448.dxf,paper,Annotation,SARCH1-C12: 574.6 m @ 0.0050 m/m,Annotation,"209.0 x 2.5 m Natural stream, clean",1286.2,171.2,95.2,5.1
+SAR-CH1-FP-Sheet17_v4448.dxf,paper,Annotation,"SARCH1-C13: 1,597.5 m @ 0.0031 m/m",Annotation,"209.0 x 2.5 m Natural stream, clean",1343.8,169.7,95.2,3.2
+SAR-CH1-FP-Sheet18_v4448.dxf,paper,Annotation,SARCH1-C14: 284.0 m @ 0.0010 m/m,Annotation,"343.0 x 2.5 m Natural stream, clean",1304.9,173.0,95.1,1.1
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1307.3,303.2,2.6,10.2
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1426.4,229.8,3.7,9.1
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1572.7,339.4,2.4,10.3
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1586.3,306.9,7.4,3.1
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1586.3,306.9,0.9,3.4
+SAR-CH2-SM-KeyMap_v4452.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1663.8,303.2,9.1,6.8
+SAR-CH2-SM-Sheet01_v4448.dxf,paper,Annotation,SARCH2-C1: 681.0 m @ 0.0033 m/m,Annotation,"49.0 x 2.5 m Natural stream, clean",1257.5,172.3,91.8,3.2
+SAR-CH2-SM-Sheet02_v4448.dxf,paper,Annotation,"SARCH2-C2: 1,037.0 m @ 0.0051 m/m",Annotation,"49.0 x 2.5 m Natural stream, clean",1156.5,179.5,91.9,5.1
+SAR-CH2-SM-Sheet02_v4448.dxf,paper,Annotation,SARCH2-C3: 517.0 m @ 0.0035 m/m,Annotation,"49.0 x 2.5 m Natural stream, clean",1701.5,155.8,91.9,3.4
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,SARCH2-C3: 517.0 m @ 0.0035 m/m,Annotation,"49.0 x 2.5 m Natural stream, clean",1003.4,177.6,91.9,3.4
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,SARCH2-C3: 517.0 m @ 0.0035 m/m,Grid_Text,18.00,1003.4,177.6,11.6,4.6
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,"49.0 x 2.5 m Natural stream, clean",Grid_Text,18.00,1008.6,172.0,11.6,3.1
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Slope (m/m),Annotation_Table,0.0035,1017.4,75.6,2.5,5.5
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Flow (m³/s),Annotation_Table,250.8,1019.3,82.7,0.9,5.5
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Length (m),Annotation_Table,517.0,1020.5,96.9,0.9,5.5
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Label,Annotation_Table,SARCH2-C3,1034.4,104.0,10.5,5.5
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Label,Grid_Text,8.00,1034.4,104.0,9.0,1.3
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,Size,Annotation_Table,49.0 x 2.5 m,1037.9,89.8,9.5,5.5
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation_Table,SARCH2-C3,Grid_Text,8.00,1038.1,104.0,9.0,1.3
+SAR-CH2-SM-Sheet03_v4448.dxf,paper,Annotation,SARCH2-C4: 799.3 m @ 0.0015 m/m,Annotation,"94.0 x 2.5 m Natural stream, clean",1462.9,168.3,91.8,1.5
+SAR-CH2-SM-Sheet04_v4448.dxf,paper,PL_LABEL,3+000,PL_LABEL,3+050,1128.1,522.3,9.2,1.4
+SAR-CH2-SM-Sheet04_v4448.dxf,paper,Annotation,SARCH2-C5: 497.0 m @ 0.0067 m/m,Annotation,"94.0 x 2.5 m Natural stream, clean",1217.2,175.5,91.9,6.5
+SAR-CH2-SM-Sheet05_v4450.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,4.3
+SAR-CH2-SM-Sheet05_v4450.dxf,paper,Annotation,"SARCH2-C6: 2,611.0 m @ 0.0031 m/m",Annotation,"94.0 x 2.5 m Natural stream, clean",1601.4,171.4,91.8,3.1
+SAR-CH3-SS-KeyMap_v4452.dxf,paper,VF_LABELS,0+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},1154.5,342.8,2.7,12.3
+SAR-CH3-SS-KeyMap_v4452.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1167.5,299.1,1.3,15.2
+SAR-CH3-SS-KeyMap_v4452.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1360.4,253.1,2.5,9.6
+SAR-CH3-SS-Sheet02_v4451.dxf,paper,Annotation,"SARCH3-C1: 3,014.3 m @ 0.0084 m/m",Annotation,"41.0 x 2.5 m Natural stream, clean",1371.3,161.2,91.9,8.4
+SAR-CH3-SS-Sheet04_v4451.dxf,paper,Annotation,SARCH3-C2: 759.9 m @ 0.0065 m/m,Annotation,"46.5 x 2.5 m Natural stream, clean",1295.0,170.5,91.9,6.4
+SAR-CH3-SS-Sheet05_v4451.dxf,paper,Annotation,"SARCH3-C3: 2,179.1 m @ 0.0072 m/m",Annotation,"46.5 x 2.5 m Natural stream, clean",1620.2,140.6,91.9,7.2
+SAR-CH3-SS-Sheet07_v4451.dxf,paper,Annotation_Table,Label,Grid_Text,42.00,1034.4,104.0,11.6,0.5
+SAR-CH3-SS-Sheet07_v4451.dxf,paper,Annotation,SARCH3-C4: 913.1 m @ 0.0058 m/m,Annotation,"49.0 x 2.5 m Natural stream, clean",1305.9,172.0,91.9,5.6
+SAR-CH4-SS-KeyMap_v4455.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1328.3,259.1,5.7,10.2
+SAR-CH4-SS-KeyMap_v4455.dxf,paper,VF_LABELS,3+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},1690.4,317.4,7.0,9.4
+SAR-CH4-SS-Sheet02_v4453.dxf,paper,Annotation,"SARCH4-C1: 2,373.8 m @ 0.0030 m/m",Annotation,"15.0 x 2.5 m Natural stream, clean",1147.7,181.4,91.8,3.0
+SAR-CH4-SS-Sheet03_v4453.dxf,paper,Annotation_Table,Label,Grid_Text,2.00,1034.4,104.0,9.0,0.4
+SAR-CH4-SS-Sheet03_v4453.dxf,paper,PL_LABEL,2+300,PL_LABEL,2+350,1291.6,403.2,12.4,15.9
+SAR-CH4-SS-Sheet03_v4453.dxf,paper,Annotation,SARCH4-C2: 730.7 m @ 0.0087 m/m,Annotation,"15.0 x 2.5 m Natural stream, clean",1535.7,160.9,91.9,8.4
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1185.6,287.8,1.2,13.5
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1423.5,283.1,2.5,10.8
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1481.8,300.1,4.3,10.8
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1493.5,271.5,3.8,14.5
+SHA-CH1-FP-KeyMap_v4457.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1714.5,296.9,11.2,12.9
+SHA-CH1-FP-Sheet01_v4454.dxf,paper,Annotation_Table,Label,Grid_Text,26.00,1034.4,104.0,11.6,1.0
+SHA-CH1-FP-Sheet01_v4454.dxf,paper,Annotation,SHACH1-C1: 720.0 m @ 0.0039 m/m,Annotation,"156.5 x 2.5 m Natural stream, clean",1270.9,168.5,95.2,3.9
+SHA-CH1-FP-Sheet01_v4454.dxf,paper,Annotation,SHACH1-C2: 575.4 m @ 0.0050 m/m,Annotation,"156.5 x 2.5 m Natural stream, clean",1723.0,148.0,95.2,5.0
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,SHACH1-C2: 575.4 m @ 0.0050 m/m,Annotation,"156.5 x 2.5 m Natural stream, clean",1024.9,190.6,95.2,5.0
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,SHACH1-C2: 575.4 m @ 0.0050 m/m,Grid_Text,32.00,1024.9,190.6,11.6,4.6
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,"156.5 x 2.5 m Natural stream, clean",Grid_Text,32.00,1028.7,184.9,11.6,2.5
+SHA-CH1-FP-Sheet02_v4454.dxf,paper,Annotation,SHACH1-C3: 615.0 m @ 0.0057 m/m,Annotation,"156.5 x 2.5 m Natural stream, clean",1440.4,168.0,95.2,5.7
+SHA-CH1-FP-Sheet03_v4454.dxf,paper,Annotation,"SHACH1-C4: 1,091.4 m @ 0.0030 m/m",Annotation,"179.5 x 2.5 m Natural stream, clean",1335.5,175.2,95.2,3.1
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Annotation_Table,Label,Grid_Text,12.00,1034.4,104.0,11.6,1.3
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Annotation,SHACH1-C5: 500.0 m @ 0.0097 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1195.4,168.9,95.2,9.5
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Annotation,SHACH1-C6: 987.4 m @ 0.0047 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1714.5,138.5,95.2,4.7
+SHA-CH1-FP-Sheet04_v4454.dxf,paper,Annotation_Table,SHACH1-C6,Grid_Text,Station (m),1749.3,104.0,9.5,4.2
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation,SHACH1-C6: 987.4 m @ 0.0047 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1016.4,184.6,95.2,4.7
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation,SHACH1-C6: 987.4 m @ 0.0047 m/m,Grid_Text,16.00,1016.4,184.6,11.6,2.2
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation,"179.5 x 2.5 m Natural stream, clean",Grid_Text,16.00,1020.2,178.9,11.6,4.6
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation_Table,SHACH1-C6,Grid_Text,Station (m),1051.2,104.0,9.5,4.2
+SHA-CH1-FP-Sheet05_v4455.dxf,paper,Annotation,SHACH1-C7: 380.9 m @ 0.0054 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1494.0,160.9,95.2,5.4
+SHA-CH1-FP-Sheet06_v4455.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,1.4
+SHA-CH1-FP-Sheet06_v4455.dxf,paper,Annotation,SHACH1-C8: 353.0 m @ 0.0056 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1052.1,184.9,95.2,5.5
+SHA-CH1-FP-Sheet06_v4455.dxf,paper,Annotation,SHACH1-C9: 393.1 m @ 0.0051 m/m,Annotation,"179.5 x 2.5 m Natural stream, clean",1312.6,171.2,95.2,5.1
+SHA-CH1-FP-Sheet07_v4455.dxf,paper,Annotation,"SHACH1-C10: 1,008.7 m @ 0.0028 m/m",Annotation,"195.5 x 2.5 m Natural stream, clean",1099.7,179.8,95.2,2.9
+SHA-CH1-FP-Sheet07_v4455.dxf,paper,Annotation,SHACH1-C11: 499.0 m @ 0.0024 m/m,Annotation,"218.5 x 2.5 m Natural stream, clean",1628.4,166.1,95.1,2.4
+SHA-CH1-FP-Sheet08_v4456.dxf,paper,Annotation,SHACH1-C12: 920.2 m @ 0.0032 m/m,Annotation,"218.5 x 3.0 m Natural stream, weedy",1425.7,169.7,98.5,3.3
+SHA-CH10-SS-KeyMap_v4459.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1249.8,309.6,0.5,10.5
+SHA-CH10-SS-KeyMap_v4459.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1265.3,283.3,4.4,11.2
+SHA-CH10-SS-KeyMap_v4459.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1467.6,256.5,3.2,13.0
+SHA-CH10-SS-KeyMap_v4459.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1630.0,311.6,5.7,12.7
+SHA-CH10-SS-Sheet01_v4456.dxf,paper,Annotation,"SHACH10-C1: 1,941.0 m @ 0.0061 m/m",Annotation,"25.0 x 2.5 m Natural stream, clean",1692.9,144.3,91.9,6.2
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation,"SHACH10-C1: 1,941.0 m @ 0.0061 m/m",Annotation,"25.0 x 2.5 m Natural stream, clean",994.8,193.9,91.9,6.2
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation,"SHACH10-C1: 1,941.0 m @ 0.0061 m/m",Grid_Text,20.00,994.8,193.9,11.6,4.6
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation,"25.0 x 2.5 m Natural stream, clean",Grid_Text,20.00,1004.4,188.6,11.6,4.6
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Slope (m/m),Annotation_Table,0.0061,1017.4,75.6,6.7,5.5
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Flow (m³/s),Annotation_Table,168.0,1019.3,82.7,5.1,5.5
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,Length (m),Annotation_Table,"1,941.0",1020.5,96.9,7.4,5.5
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,SHACH10-C1,Annotation_Table,Label,1032.1,104.0,14.1,5.5
+SHA-CH10-SS-Sheet02_v4457.dxf,paper,Annotation_Table,25.0 x 2.5 m,Annotation_Table,Size,1034.8,89.8,10.7,5.5
+SHA-CH10-SS-Sheet03_v4457.dxf,paper,Annotation,"SHACH10-C2: 1,003.7 m @ 0.0016 m/m",Annotation,"57.5 x 2.5 m Natural stream, clean",1324.6,177.8,91.8,1.7
+SHA-CH10-SS-Sheet04_v4457.dxf,paper,Annotation,SHACH10-C3: 809.3 m @ 0.0084 m/m,Annotation,"57.5 x 2.5 m Natural stream, clean",1261.8,179.9,91.9,8.3
+SHA-CH10-SS-Sheet05_v4458.dxf,paper,Annotation,"SHACH10-C4: 1,044.4 m @ 0.0033 m/m",Annotation,"57.5 x 2.5 m Natural stream, clean",1208.2,175.7,91.9,3.4
+SHA-CH10-SS-Sheet06_v4457.dxf,paper,Annotation,SHACH10-C5: 575.6 m @ 0.0026 m/m,Annotation,"72.5 x 2.5 m Natural stream, clean",1078.1,173.3,91.8,2.6
+SHA-CH11-SS-KeyMap_v4460.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1558.9,308.9,1.1,10.7
+SHA-CH11-SS-Sheet01_v4458.dxf,paper,Annotation,"SHACH11-C1: 1,352.5 m @ 0.0033 m/m",Annotation,"22.0 x 2.5 m Natural stream, clean",1487.5,168.3,91.8,3.4
+SHA-CH11-SS-Sheet02_v4458.dxf,paper,Grid_Text,1+200,Grid_Text,Station (m),1203.0,110.9,3.5,1.8
+SHA-CH11-SS-Sheet02_v4458.dxf,paper,Grid_Text,Station (m),Grid_Text,1+250,1214.7,107.5,3.5,1.8
+SHA-CH11-SS-Sheet02_v4458.dxf,paper,Annotation,"SHACH11-C2: 1,075.0 m @ 0.0073 m/m",Annotation,"22.0 x 2.5 m Natural stream, clean",1636.7,155.9,91.9,7.4
+SHA-CH12-SS-Sheet01_v4459.dxf,paper,Annotation,SHACH12-C1: 649.4 m @ 0.0079 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1244.5,172.2,91.9,7.8
+SHA-CH12-SS-Sheet02_v4460.dxf,paper,Annotation,SHACH12-C2: 799.5 m @ 0.0075 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1052.2,186.0,91.9,7.5
+SHA-CH12-SS-Sheet02_v4460.dxf,paper,Annotation,"SHACH12-C3: 1,075.6 m @ 0.0076 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1704.2,136.3,91.9,7.7
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation,"SHACH12-C3: 1,075.6 m @ 0.0076 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1006.1,194.9,91.9,7.7
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation,"SHACH12-C3: 1,075.6 m @ 0.0076 m/m",Grid_Text,40.00,1006.1,194.9,11.6,4.6
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation,"10.0 x 2.5 m Natural stream, clean",Grid_Text,38.00,1015.7,189.7,11.6,4.4
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH12-C3,1034.4,104.0,5.1,5.5
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation_Table,Size,Annotation_Table,10.0 x 2.5 m,1037.9,89.8,2.4,5.5
+SHA-CH12-SS-Sheet03_v4460.dxf,paper,Annotation,SHACH12-C4: 500.8 m @ 0.0085 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1558.8,151.3,91.9,8.4
+SHA-CH12-SS-Sheet04_v4460.dxf,paper,Annotation,SHACH12-C5: 748.0 m @ 0.0078 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1296.6,169.7,91.9,7.7
+SHA-CH13-SS-Sheet01_v4460.dxf,paper,Annotation,"SHACH13-C1: 1,642.2 m @ 0.0050 m/m",Annotation,"49.5 x 2.5 m Natural stream, clean",1588.6,161.6,91.9,5.1
+SHA-CH13-SS-Sheet01_v4460.dxf,paper,Annotation_Table,SHACH13-C1,Grid_Text,Station (m),1625.9,104.0,26.7,1.5
+SHA-CH13-SS-Sheet01_v4460.dxf,paper,Grid_Text,Station (m),Annotation_Table,"1,642.2",1633.6,100.3,18.6,2.1
+SHA-CH14-SS-Sheet01_v4461.dxf,paper,Annotation,"SHACH14-C1: 1,856.3 m @ 0.0061 m/m",Annotation,"12.0 x 2.5 m Natural stream, clean",1663.3,146.9,91.9,6.2
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,Annotation_Table,Size,Grid_Text,Station (m),1037.9,89.8,8.4,4.4
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,Annotation,SHACH14-C2: 653.2 m @ 0.0031 m/m,Annotation,"24.0 x 2.5 m Natural stream, clean",1145.6,176.4,91.8,3.1
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,Annotation,SHACH14-C3: 500.0 m @ 0.0046 m/m,Annotation,"24.0 x 2.5 m Natural stream, clean",1548.1,160.6,91.9,4.6
+SHA-CH14-SS-Sheet03_v4461.dxf,paper,PL_LABEL,2+950,PL_LABEL,3+000,1654.8,270.0,1.8,23.3
+SHA-CH14-SS-Sheet04_v4462.dxf,paper,PL_LABEL,2+950,PL_LABEL,3+000,1070.6,402.1,1.8,23.3
+SHA-CH14-SS-Sheet04_v4462.dxf,paper,Annotation,SHACH14-C4: 935.1 m @ 0.0043 m/m,Annotation,"24.0 x 2.5 m Natural stream, clean",1350.9,171.6,91.9,4.3
+SHA-CH15-SS-KeyMap_v4465.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},VF_LABELS,6+000,1592.3,242.7,5.8,15.3
+SHA-CH15-SS-Sheet01_v4463.dxf,paper,Annotation,SHACH15-C1: 820.8 m @ 0.0043 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1304.4,179.4,91.9,4.3
+SHA-CH15-SS-Sheet02_v4463.dxf,paper,Annotation,SHACH15-C2: 659.3 m @ 0.0118 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1123.0,184.3,91.8,11.6
+SHA-CH15-SS-Sheet02_v4463.dxf,paper,Annotation,SHACH15-C3: 843.0 m @ 0.0049 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1647.3,146.5,91.9,4.9
+SHA-CH15-SS-Sheet03_v4463.dxf,paper,Annotation_Table,Label,Grid_Text,6.00,1034.4,104.0,9.0,0.6
+SHA-CH15-SS-Sheet03_v4463.dxf,paper,Annotation,SHACH15-C4: 558.6 m @ 0.0048 m/m,Annotation,"16.5 x 2.5 m Natural stream, clean",1438.4,167.8,91.9,4.8
+SHA-CH15-SS-Sheet04_v4463.dxf,paper,Annotation,SHACH15-C5: 500.0 m @ 0.0031 m/m,Annotation,"20.0 x 2.5 m Natural stream, clean",1109.9,172.3,91.8,3.1
+SHA-CH15-SS-Sheet04_v4463.dxf,paper,Annotation,"SHACH15-C6: 1,205.4 m @ 0.0035 m/m",Annotation,"20.0 x 2.5 m Natural stream, clean",1702.6,151.7,91.9,3.6
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation,"SHACH15-C6: 1,205.4 m @ 0.0035 m/m",Annotation,"20.0 x 2.5 m Natural stream, clean",1004.5,176.6,91.9,3.6
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation,"SHACH15-C6: 1,205.4 m @ 0.0035 m/m",Grid_Text,10.00,1004.5,176.6,11.6,4.6
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH15-C6,1034.4,104.0,6.7,5.5
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation_Table,Size,Annotation_Table,20.0 x 2.5 m,1037.9,89.8,4.0,5.5
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,3.0
+SHA-CH15-SS-Sheet05_v4464.dxf,paper,Annotation,SHACH15-C7: 809.0 m @ 0.0051 m/m,Annotation,"20.0 x 2.5 m Natural stream, clean",1710.1,146.4,91.9,5.1
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation,SHACH15-C7: 809.0 m @ 0.0051 m/m,Annotation,"20.0 x 2.5 m Natural stream, clean",1012.0,178.0,91.9,5.1
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation,SHACH15-C7: 809.0 m @ 0.0051 m/m,Grid_Text,6.00,1012.0,178.0,9.0,4.6
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation,"20.0 x 2.5 m Natural stream, clean",Grid_Text,4.00,1019.2,172.5,9.0,2.0
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH15-C7,1034.4,104.0,1.7,5.5
+SHA-CH15-SS-Sheet06_v4464.dxf,paper,PL_LABEL,5+200,PL_LABEL,5+250,1227.9,359.5,7.9,11.4
+SHA-CH15-SS-Sheet07_v4464.dxf,paper,Annotation,"SHACH15-C8: 1,411.7 m @ 0.0023 m/m",Annotation,"28.5 x 2.5 m Natural stream, clean",1086.6,175.5,91.8,2.4
+SHA-CH15-SS-Sheet07_v4464.dxf,paper,PL_LABEL,6+450,PL_LABEL,6+500,1417.1,377.9,7.1,21.6
+SHA-CH16-SS-KeyMap_v4468.dxf,paper,VF_LABELS,0+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},1097.7,320.6,4.4,7.7
+SHA-CH16-SS-KeyMap_v4468.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1109.3,281.6,5.8,8.4
+SHA-CH16-SS-KeyMap_v4468.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1656.6,326.6,5.3,13.1
+SHA-CH16-SS-Sheet01_v4465.dxf,paper,Annotation,"SHACH16-C1: 1,505.3 m @ 0.0053 m/m",Annotation,"14.0 x 2.5 m Natural stream, clean",1540.8,160.2,91.9,5.4
+SHA-CH16-SS-Sheet02_v4464.dxf,paper,Annotation,SHACH16-C2: 500.2 m @ 0.0090 m/m,Annotation,"14.0 x 2.5 m Natural stream, clean",1545.2,157.4,91.9,8.9
+SHA-CH16-SS-Sheet03_v4465.dxf,paper,Annotation,SHACH16-C3: 666.8 m @ 0.0043 m/m,Annotation,"15.5 x 2.5 m Natural stream, clean",1254.5,171.6,91.9,4.3
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Annotation,"SHACH16-C4: 1,050.0 m @ 0.0023 m/m",Annotation,"25.5 x 2.5 m Natural stream, clean",1153.2,180.2,91.8,2.4
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Grid_Text,3+200,Grid_Text,Station (m),1203.0,110.9,3.5,1.6
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Grid_Text,Station (m),Grid_Text,3+250,1214.7,114.6,3.5,1.6
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,PL_LABEL,3+550,PL_LABEL,3+600,1432.2,390.2,5.9,3.5
+SHA-CH16-SS-Sheet04_v4466.dxf,paper,Annotation,SHACH16-C5: 499.5 m @ 0.0071 m/m,Annotation,"25.5 x 2.5 m Natural stream, clean",1696.5,156.9,91.9,7.1
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation,SHACH16-C5: 499.5 m @ 0.0071 m/m,Annotation,"25.5 x 2.5 m Natural stream, clean",998.4,182.0,91.9,7.1
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation,SHACH16-C5: 499.5 m @ 0.0071 m/m,Grid_Text,14.00,998.4,182.0,11.6,4.6
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation,"25.5 x 2.5 m Natural stream, clean",Grid_Text,14.00,1005.5,176.6,11.6,4.6
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Slope (m/m),Annotation_Table,0.0071,1017.4,75.6,5.6,5.5
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Flow (m³/s),Annotation_Table,105.1,1019.3,82.7,4.1,5.5
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,Length (m),Annotation_Table,499.5,1020.5,96.9,4.1,5.5
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,SHACH16-C5,Annotation_Table,Label,1033.2,104.0,14.1,5.5
+SHA-CH16-SS-Sheet05_v4466.dxf,paper,Annotation_Table,25.5 x 2.5 m,Annotation_Table,Size,1035.9,89.8,10.7,5.5
+SHA-CH16-SS-Sheet06_v4466.dxf,paper,Annotation,"SHACH16-C6: 1,886.5 m @ 0.0048 m/m",Annotation,"25.5 x 2.5 m Natural stream, clean",1130.6,173.9,91.9,4.9
+SHA-CH16-SS-Sheet06_v4466.dxf,paper,PL_LABEL,5+850,PL_LABEL,5+900,1614.0,351.5,11.4,6.6
+SHA-CH16-SS-Sheet07_v4466.dxf,paper,Annotation,SHACH16-C7: 317.2 m @ 0.0010 m/m,Annotation,"37.5 x 2.5 m Natural stream, clean",1204.3,173.3,91.8,1.0
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1290.0,279.2,3.8,9.0
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1365.7,300.1,0.6,9.0
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1381.1,281.7,5.6,10.3
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1478.9,294.5,0.8,6.2
+SHA-CH17-SS-KeyMap_v4469.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1649.6,276.3,8.2,7.2
+SHA-CH17-SS-Sheet01_v4467.dxf,paper,Annotation,"SHACH17-C1: 1,762.1 m @ 0.0069 m/m",Annotation,"29.0 x 2.5 m Natural stream, clean",1630.4,143.3,91.9,7.0
+SHA-CH17-SS-Sheet03_v4467.dxf,paper,Annotation,SHACH17-C2: 970.0 m @ 0.0037 m/m,Annotation,"38.5 x 2.5 m Natural stream, clean",1190.4,180.5,91.9,3.7
+SHA-CH17-SS-Sheet03_v4467.dxf,paper,Annotation,SHACH17-C3: 500.0 m @ 0.0079 m/m,Annotation,"38.5 x 2.5 m Natural stream, clean",1703.5,152.1,91.9,7.8
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,SHACH17-C3: 500.0 m @ 0.0079 m/m,Annotation,"38.5 x 2.5 m Natural stream, clean",1005.4,183.8,91.9,7.8
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,SHACH17-C3: 500.0 m @ 0.0079 m/m,Grid_Text,20.00,1005.4,183.8,11.6,0.8
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,SHACH17-C3: 500.0 m @ 0.0079 m/m,Grid_Text,22.00,1005.4,183.8,11.6,4.1
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,"38.5 x 2.5 m Natural stream, clean",Grid_Text,20.00,1012.5,178.5,11.6,4.6
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH17-C3,1034.4,104.0,8.3,5.5
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation_Table,Size,Annotation_Table,38.5 x 2.5 m,1037.9,89.8,5.7,5.5
+SHA-CH17-SS-Sheet04_v4467.dxf,paper,Annotation,"SHACH17-C4: 1,172.0 m @ 0.0040 m/m",Annotation,"38.5 x 2.5 m Natural stream, clean",1586.5,155.6,91.9,4.1
+SHA-CH17-SS-Sheet05_v4467.dxf,paper,Annotation,SHACH17-C5: 704.5 m @ 0.0031 m/m,Annotation,"42.0 x 2.5 m Natural stream, clean",1545.9,159.8,91.8,3.1
+SHA-CH18-SS-KeyMap_v4470.dxf,paper,VF_LABELS,3+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},1768.3,312.0,10.6,11.5
+SHA-CH18-SS-Sheet01_v4469.dxf,paper,Annotation,SHACH18-C1: 732.8 m @ 0.0013 m/m,Annotation,"37.0 x 2.5 m Natural stream, clean",1273.7,178.7,91.8,1.4
+SHA-CH18-SS-Sheet01_v4469.dxf,paper,Annotation,SHACH18-C2: 500.0 m @ 0.0116 m/m,Annotation,"37.0 x 2.5 m Natural stream, clean",1704.0,149.7,91.8,11.4
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,SHACH18-C2: 500.0 m @ 0.0116 m/m,Annotation,"37.0 x 2.5 m Natural stream, clean",1005.9,189.2,91.8,11.4
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,SHACH18-C2: 500.0 m @ 0.0116 m/m,Grid_Text,20.00,1005.9,189.2,11.6,2.1
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,SHACH18-C2: 500.0 m @ 0.0116 m/m,Grid_Text,22.00,1005.9,189.2,11.6,4.6
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,"37.0 x 2.5 m Natural stream, clean",Grid_Text,20.00,1013.0,184.2,11.6,4.6
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH18-C2,1034.4,104.0,7.8,5.5
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation_Table,Size,Annotation_Table,37.0 x 2.5 m,1037.9,89.8,5.2,5.5
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation,SHACH18-C3: 536.5 m @ 0.0025 m/m,Annotation,"37.0 x 2.5 m Natural stream, clean",1367.7,169.0,91.8,2.6
+SHA-CH18-SS-Sheet02_v4469.dxf,paper,Annotation_Table,37.0 x 2.5 m,Grid_Text,Station (m),1405.2,89.8,20.9,5.3
+SHA-CH18-SS-Sheet03_v4469.dxf,paper,Annotation_Table,Label,Grid_Text,4.00,1034.4,104.0,9.0,1.2
+SHA-CH18-SS-Sheet03_v4469.dxf,paper,Annotation,"SHACH18-C4: 1,250.2 m @ 0.0053 m/m",Annotation,"37.0 x 2.5 m Natural stream, clean",1290.7,172.8,91.9,5.4
+SHA-CH19-SS-Sheet01_v4469.dxf,paper,Annotation,"SHACH19-C1: 1,812.0 m @ 0.0024 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1647.9,163.1,91.8,2.5
+SHA-CH19-SS-Sheet01_v4469.dxf,paper,Grid_Text,0+900,Grid_Text,Station (m),1691.7,110.9,12.2,1.2
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,9+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},1573.4,319.0,8.5,11.1
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},VF_LABELS,10+000,1580.5,294.0,14.3,9.6
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#11},1580.5,294.0,0.5,17.5
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,10+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#11},1610.1,285.7,1.0,17.8
+SHA-CH2-SM-KeyMap_v4474.dxf,paper,VF_LABELS,11+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#12},1661.8,273.8,1.7,16.5
+SHA-CH2-SM-Sheet01_v4470.dxf,paper,Annotation,"SHACH2-C1: 1,648.8 m @ 0.0069 m/m",Annotation,"83.5 x 2.5 m Natural stream, clean",1592.6,146.9,91.9,6.9
+SHA-CH2-SM-Sheet03_v4471.dxf,paper,Annotation,"SHACH2-C2: 1,309.7 m @ 0.0064 m/m",Annotation,"86.5 x 2.5 m Natural stream, clean",1229.0,178.7,91.9,6.4
+SHA-CH2-SM-Sheet04_v4472.dxf,paper,Annotation,SHACH2-C3: 964.7 m @ 0.0077 m/m,Annotation,"86.5 x 2.5 m Natural stream, clean",1327.3,177.5,91.9,7.5
+SHA-CH2-SM-Sheet06_v4472.dxf,paper,Annotation,"SHACH2-C4: 2,264.3 m @ 0.0075 m/m",Annotation,"86.5 x 2.5 m Natural stream, clean",1055.7,184.7,91.9,7.5
+SHA-CH2-SM-Sheet08_v4472.dxf,paper,Annotation,"SHACH2-C5: 2,783.2 m @ 0.0047 m/m",Annotation,"100.0 x 2.5 m Natural stream, clean",1421.3,169.0,95.2,4.9
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,PL_LABEL,8+900,0,\A1;{\fArial|b0|i0;Reference system defi,1001.9,298.5,0.8,1.4
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Ground Elev (m),Annotation_Table,29.80,1006.2,61.4,5.0,5.5
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Invert Elev (m),Annotation_Table,27.30,1010.3,54.2,5.0,5.5
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Station (m),Annotation_Table,89+71,1020.5,47.1,6.0,5.5
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH2-6,1034.4,68.5,12.7,5.5
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation,SHACH2-C6: 500.2 m @ 0.0116 m/m,Annotation,"100.0 x 2.5 m Natural stream, clean",1173.7,179.4,95.1,11.4
+SHA-CH2-SM-Sheet10_v4472.dxf,paper,Annotation,SHACH2-C7: 713.6 m @ 0.0041 m/m,Annotation,"107.5 x 2.5 m Natural stream, clean",1597.4,152.9,95.2,4.1
+SHA-CH2-SM-Sheet11_v4474.dxf,paper,Annotation,"SHACH2-C8: 1,251.6 m @ 0.0059 m/m",Annotation,"107.5 x 2.5 m Natural stream, clean",1582.7,152.8,95.2,6.0
+SHA-CH20-SS-Sheet01_v4474.dxf,paper,Annotation,SHACH20-C1: 858.4 m @ 0.0056 m/m,Annotation,"12.5 x 2.5 m Natural stream, clean",1317.5,170.9,91.9,5.5
+SHA-CH20-SS-Sheet02_v4474.dxf,paper,Annotation,"SHACH20-C2: 1,242.7 m @ 0.0044 m/m",Annotation,"13.5 x 2.5 m Natural stream, clean",1350.4,163.6,91.9,4.5
+SHA-CH20-SS-Sheet03_v4474.dxf,paper,Annotation,"SHACH20-C3: 1,040.0 m @ 0.0026 m/m",Annotation,"40.5 x 2.5 m Natural stream, clean",1449.1,165.0,91.8,2.7
+SHA-CH20-SS-Sheet04_v4474.dxf,paper,Annotation,SHACH20-C4: 614.2 m @ 0.0047 m/m,Annotation,"40.5 x 2.5 m Natural stream, clean",1330.8,170.3,91.9,4.7
+SHA-CH21-SS-KeyMap_v4476.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1498.4,292.1,1.5,11.9
+SHA-CH21-SS-Sheet01_v4475.dxf,paper,Annotation,"SHACH21-C1: 1,088.9 m @ 0.0062 m/m",Annotation,"11.5 x 2.5 m Natural stream, clean",1395.5,161.6,91.9,6.3
+SHA-CH21-SS-Sheet01_v4475.dxf,paper,Annotation_Table,SHACH21-C1,Grid_Text,Station (m),1432.8,104.0,26.7,3.9
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,0+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},1091.2,332.4,7.8,9.8
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1099.4,312.1,12.7,8.5
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1099.4,312.1,6.6,4.4
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,1+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},1131.8,314.0,9.8,2.4
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1165.5,278.3,10.1,1.2
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,3+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},1204.4,235.7,1.1,14.9
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1217.3,222.7,3.3,15.9
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#10},VF_LABELS,10+000,1492.6,322.2,8.3,18.1
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#11},VF_LABELS,11+000,1536.7,337.9,4.1,15.6
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,11+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#12},1568.2,351.2,4.7,15.6
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#12},VF_LABELS,12+000,1580.8,336.1,10.7,17.9
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#13},VF_LABELS,13+000,1627.1,329.2,2.8,10.1
+SHA-CH3-SM-KeyMap_v4481.dxf,paper,VF_LABELS,13+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#14},1661.1,352.7,10.5,6.6
+SHA-CH3-SM-Sheet01_v4475.dxf,paper,Annotation,SHACH3-C1: 863.1 m @ 0.0066 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1320.8,171.7,91.9,6.5
+SHA-CH3-SM-Sheet02_v4476.dxf,paper,PL_LABEL,1+050,PL_LABEL,1+100,1138.2,314.2,1.2,1.1
+SHA-CH3-SM-Sheet02_v4476.dxf,paper,Annotation,SHACH3-C2: 830.0 m @ 0.0071 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1213.7,181.1,91.9,6.9
+SHA-CH3-SM-Sheet02_v4476.dxf,paper,Annotation,SHACH3-C3: 546.0 m @ 0.0047 m/m,Annotation,"10.0 x 2.5 m Natural stream, clean",1694.0,152.9,91.9,4.6
+SHA-CH3-SM-Sheet04_v4477.dxf,paper,Annotation,"SHACH3-C4: 2,030.2 m @ 0.0064 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1194.5,178.8,91.9,6.4
+SHA-CH3-SM-Sheet06_v4478.dxf,paper,Annotation,"SHACH3-C5: 1,667.3 m @ 0.0084 m/m",Annotation,"40.0 x 2.5 m Natural stream, clean",1089.0,190.5,91.9,8.4
+SHA-CH3-SM-Sheet07_v4477.dxf,paper,Annotation,"SHACH3-C6: 2,103.7 m @ 0.0068 m/m",Annotation,"44.5 x 2.5 m Natural stream, clean",1707.1,142.1,91.9,6.8
+SHA-CH3-SM-Sheet07_v4477.dxf,paper,Grid_Text,Station (m),Annotation_Table,SHACH3-C6,1720.8,103.0,3.2,4.2
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation,"SHACH3-C6: 2,103.7 m @ 0.0068 m/m",Annotation,"44.5 x 2.5 m Natural stream, clean",1009.0,188.9,91.9,6.8
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation,"SHACH3-C6: 2,103.7 m @ 0.0068 m/m",Grid_Text,32.00,1009.0,188.9,11.6,4.6
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation,"44.5 x 2.5 m Natural stream, clean",Grid_Text,32.00,1016.9,183.6,11.6,4.6
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH3-C6,1034.4,104.0,2.3,5.5
+SHA-CH3-SM-Sheet08_v4478.dxf,paper,Annotation_Table,Size,Annotation_Table,44.5 x 2.5 m,1037.9,89.8,1.2,5.5
+SHA-CH3-SM-Sheet09_v4478.dxf,paper,Annotation,SHACH3-C7: 454.0 m @ 0.0031 m/m,Annotation,"65.0 x 2.5 m Natural stream, clean",1206.2,186.6,91.8,3.0
+SHA-CH3-SM-Sheet09_v4478.dxf,paper,Annotation,SHACH3-C8: 500.0 m @ 0.0082 m/m,Annotation,"65.0 x 2.5 m Natural stream, clean",1539.2,164.8,91.9,8.0
+SHA-CH3-SM-Sheet10_v4478.dxf,paper,Annotation_Table,Label,Grid_Text,8.00,1034.4,104.0,9.0,0.9
+SHA-CH3-SM-Sheet10_v4478.dxf,paper,Annotation,"SHACH3-C9: 1,305.8 m @ 0.0053 m/m",Annotation,"65.0 x 2.5 m Natural stream, clean",1468.9,163.6,91.9,5.3
+SHA-CH3-SM-Sheet11_v4478.dxf,paper,PL_LABEL,10+100,PL_LABEL,10+150,1166.7,304.7,1.2,5.2
+SHA-CH3-SM-Sheet11_v4478.dxf,paper,Annotation,SHACH3-C10: 503.0 m @ 0.0041 m/m,Annotation,"65.0 x 2.5 m Natural stream, clean",1403.0,168.3,91.9,4.1
+SHA-CH3-SM-Sheet12_v4478.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,4.4
+SHA-CH3-SM-Sheet12_v4478.dxf,paper,Annotation,SHACH3-C11: 484.4 m @ 0.0044 m/m,Annotation,"65.0 x 2.5 m Natural stream, clean",1049.5,177.1,91.9,4.4
+SHA-CH3-SM-Sheet12_v4478.dxf,paper,Annotation,SHACH3-C12: 890.8 m @ 0.0038 m/m,Annotation,"65.0 x 2.5 m Natural stream, clean",1529.6,158.2,91.9,3.8
+SHA-CH3-SM-Sheet12_v4478.dxf,paper,PL_LABEL,11+750,PL_LABEL,11+800,1545.3,370.3,7.0,13.7
+SHA-CH3-SM-Sheet13_v4479.dxf,paper,PL_LABEL,12+100,PL_LABEL,12+150,1169.2,354.8,10.5,13.0
+SHA-CH3-SM-Sheet13_v4479.dxf,paper,PL_LABEL,12+150,PL_LABEL,12+200,1186.4,339.7,3.9,22.6
+SHA-CH3-SM-Sheet13_v4479.dxf,paper,Annotation,SHACH3-C13: 443.4 m @ 0.0022 m/m,Annotation,"97.0 x 2.5 m Natural stream, clean",1297.2,167.9,91.8,2.2
+SHA-CH3-SM-Sheet13_v4479.dxf,paper,Annotation,SHACH3-C14: 442.0 m @ 0.0042 m/m,Annotation,"97.0 x 2.5 m Natural stream, clean",1606.2,157.0,91.9,4.2
+SHA-CH3-SM-Sheet14_v4479.dxf,paper,Annotation,SHACH3-C15: 729.0 m @ 0.0031 m/m,Annotation,"124.5 x 2.5 m Natural stream, clean",1316.9,172.5,95.2,3.1
+SHA-CH3-SM-Sheet14_v4479.dxf,paper,Annotation,SHACH3-C16: 85.7 m @ 0.0010 m/m,Annotation,Invert: -1.39 m,1602.9,165.5,40.0,2.7
+SHA-CH4-SM-KeyMap_v4482.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1692.5,309.0,3.4,15.2
+SHA-CH4-SM-Sheet01_v4480.dxf,paper,Annotation,SHACH4-C1: 780.5 m @ 0.0040 m/m,Annotation,"94.5 x 2.5 m Natural stream, clean",1292.0,169.7,91.9,4.0
+SHA-CH4-SM-Sheet02_v4480.dxf,paper,Annotation,"SHACH4-C2: 1,188.9 m @ 0.0053 m/m",Annotation,"94.5 x 2.5 m Natural stream, clean",1278.8,174.5,91.9,5.3
+SHA-CH4-SM-Sheet03_v4481.dxf,paper,Annotation,SHACH4-C3: 961.7 m @ 0.0026 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1333.9,175.8,95.1,2.7
+SHA-CH4-SM-Sheet04_v4480.dxf,paper,Annotation,SHACH4-C4: 871.1 m @ 0.0076 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1275.5,187.1,95.2,7.5
+SHA-CH4-SM-Sheet05_v4481.dxf,paper,Annotation,"SHACH4-C5: 1,578.8 m @ 0.0037 m/m",Annotation,"116.0 x 2.5 m Natural stream, clean",1430.1,177.1,95.2,3.8
+SHA-CH4-SM-Sheet06_v4481.dxf,paper,Annotation,SHACH4-C6: 500.0 m @ 0.0066 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1460.1,169.2,95.2,6.6
+SHA-CH4-SM-Sheet07_v4481.dxf,paper,Annotation,SHACH4-C7: 837.2 m @ 0.0036 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1228.8,157.0,95.2,3.6
+SHA-CH4-SM-Sheet07_v4481.dxf,paper,Annotation,SHACH4-C8: 588.9 m @ 0.0054 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1726.5,134.5,95.2,5.4
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,SHACH4-C8: 588.9 m @ 0.0054 m/m,Annotation,"116.0 x 2.5 m Natural stream, clean",1028.4,167.6,95.2,5.4
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,SHACH4-C8: 588.9 m @ 0.0054 m/m,Grid_Text,4.00,1028.4,167.6,9.0,0.3
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,SHACH4-C8: 588.9 m @ 0.0054 m/m,Grid_Text,6.00,1028.4,167.6,9.0,1.8
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,"116.0 x 2.5 m Natural stream, clean",Grid_Text,4.00,1032.2,162.0,9.0,4.6
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,PL_LABEL,7+150,PL_LABEL,7+200,1191.1,354.5,2.4,8.3
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,PL_LABEL,7+350,PL_LABEL,7+400,1323.6,351.0,9.8,16.6
+SHA-CH4-SM-Sheet08_v4481.dxf,paper,Annotation,SHACH4-C9: 860.7 m @ 0.0026 m/m,Annotation,"118.0 x 2.5 m Natural stream, clean",1534.5,150.0,95.1,2.7
+SHA-CH4-SM-Sheet09_v4481.dxf,paper,Annotation,SHACH4-C10: 108.9 m @ 0.0010 m/m,Annotation,"253.0 x 2.5 m Natural stream, clean",1173.2,172.1,95.1,1.1
+SHA-CH4-SM-Sheet09_v4481.dxf,paper,Annotation,SHACH4-C10: 108.9 m @ 0.0010 m/m,Annotation,Invert: -0.44 m,1173.2,172.1,40.0,2.6
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1274.9,322.3,2.5,10.3
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,6+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},1482.0,370.8,3.0,11.7
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#7},VF_LABELS,7+000,1494.8,342.0,8.6,10.1
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,7+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},1553.6,343.8,6.2,6.7
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},VF_LABELS,8+000,1563.4,312.9,7.0,10.6
+SHA-CH5-SM-KeyMap_v4485.dxf,paper,VF_LABELS,8+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#9},1625.6,316.8,5.2,9.7
+SHA-CH5-SM-Sheet02_v4483.dxf,paper,PL_LABEL,1+200,PL_LABEL,1+250,1224.1,406.3,5.8,2.2
+SHA-CH5-SM-Sheet03_v4483.dxf,paper,Annotation,"SHACH5-C1: 4,767.6 m @ 0.0055 m/m",Annotation,"20.5 x 2.5 m Natural stream, clean",1285.0,181.9,91.9,5.6
+SHA-CH5-SM-Sheet05_v4484.dxf,paper,Grid_Text,4+950,Grid_Text,Station (m),1726.6,110.9,12.2,1.6
+SHA-CH5-SM-Sheet06_v4484.dxf,paper,Annotation,"SHACH5-C2: 1,017.2 m @ 0.0081 m/m",Annotation,"20.5 x 2.5 m Natural stream, clean",1209.8,188.5,91.9,8.1
+SHA-CH5-SM-Sheet07_v4484.dxf,paper,Annotation,"SHACH5-C3: 1,397.8 m @ 0.0034 m/m",Annotation,"46.0 x 2.5 m Natural stream, clean",1354.7,184.4,91.9,3.4
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,Annotation_Table,Label,Grid_Text,2.00,1034.4,104.0,9.0,1.3
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,PL_LABEL,7+250,PL_LABEL,7+300,1246.4,393.5,8.3,17.5
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,Annotation,SHACH5-C4: 500.0 m @ 0.0066 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1321.5,170.5,91.9,6.4
+SHA-CH5-SM-Sheet08_v4484.dxf,paper,Annotation,SHACH5-C5: 549.7 m @ 0.0040 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1687.9,152.7,91.9,3.9
+SHA-CH5-SM-Sheet10_v4484.dxf,paper,Annotation,"SHACH5-C6: 1,684.5 m @ 0.0031 m/m",Annotation,"50.0 x 2.5 m Natural stream, clean",1069.1,181.1,91.8,3.1
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,0+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},1162.3,332.2,1.6,11.7
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1176.6,294.5,5.1,13.0
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#2},VF_LABELS,2+000,1271.8,261.2,2.6,11.4
+SHA-CH6-SM-KeyMap_v4488.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1614.0,318.4,7.4,15.0
+SHA-CH6-SM-Sheet01_v4485.dxf,paper,Annotation,"SHACH6-C1: 1,717.0 m @ 0.0040 m/m",Annotation,"14.5 x 2.5 m Natural stream, clean",1616.4,155.9,91.9,4.1
+SHA-CH6-SM-Sheet02_v4486.dxf,paper,Annotation_Table,Label,Grid_Text,8.00,1034.4,104.0,9.0,1.4
+SHA-CH6-SM-Sheet03_v4485.dxf,paper,Annotation,"SHACH6-C2: 1,306.4 m @ 0.0014 m/m",Annotation,"46.0 x 2.5 m Natural stream, clean",1275.6,173.3,91.8,1.4
+SHA-CH6-SM-Sheet03_v4485.dxf,paper,Grid_Text,Station (m),Grid_Text,2+600,1467.8,114.6,12.2,1.6
+SHA-CH6-SM-Sheet04_v4486.dxf,paper,Annotation,SHACH6-C3: 500.0 m @ 0.0080 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1210.4,169.8,91.9,7.8
+SHA-CH6-SM-Sheet04_v4486.dxf,paper,Annotation,SHACH6-C4: 882.6 m @ 0.0030 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1693.0,149.3,91.8,2.9
+SHA-CH6-SM-Sheet04_v4486.dxf,paper,PL_LABEL,4+050,PL_LABEL,4+100,1738.3,411.8,4.2,2.0
+SHA-CH6-SM-Sheet05_v4486.dxf,paper,Annotation,SHACH6-C5: 351.0 m @ 0.0060 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1425.5,172.2,91.9,5.9
+SHA-CH6-SM-Sheet05_v4486.dxf,paper,Annotation,SHACH6-C6: 402.1 m @ 0.0082 m/m,Annotation,"46.0 x 2.5 m Natural stream, clean",1688.3,152.1,91.9,8.0
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1066.4,266.6,5.8,12.5
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},VF_LABELS,3+000,1250.2,290.9,1.9,9.6
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,3+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},1327.9,301.9,2.9,9.3
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1341.0,270.6,11.7,13.9
+SHA-CH7-SM-KeyMap_v4490.dxf,paper,VF_LABELS,7+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#8},1701.0,316.4,7.1,9.0
+SHA-CH7-SM-Sheet01_v4487.dxf,paper,Annotation,SHACH7-C1: 698.1 m @ 0.0070 m/m,Annotation,"15.0 x 2.5 m Natural stream, clean",1263.2,169.4,91.9,6.8
+SHA-CH7-SM-Sheet02_v4487.dxf,paper,PL_LABEL,0+900,PL_LABEL,100 m,1029.4,252.8,3.4,3.3
+SHA-CH7-SM-Sheet02_v4487.dxf,paper,Annotation,"SHACH7-C2: 1,169.8 m @ 0.0042 m/m",Annotation,"29.5 x 2.5 m Natural stream, clean",1214.6,181.1,91.9,4.2
+SHA-CH7-SM-Sheet03_v4487.dxf,paper,Annotation,SHACH7-C3: 826.5 m @ 0.0075 m/m,Annotation,"29.5 x 2.5 m Natural stream, clean",1215.8,178.1,91.9,7.3
+SHA-CH7-SM-Sheet04_v4487.dxf,paper,Annotation,"SHACH7-C4: 1,008.0 m @ 0.0031 m/m",Annotation,"43.0 x 2.5 m Natural stream, clean",1155.6,177.8,91.8,3.1
+SHA-CH7-SM-Sheet04_v4487.dxf,paper,Annotation_Table,SHACH7-5,Grid_Text,Station (m),1546.7,68.5,21.0,1.1
+SHA-CH7-SM-Sheet04_v4487.dxf,paper,Annotation_Table,15.98,Grid_Text,Station (m),1554.4,61.4,13.3,2.6
+SHA-CH7-SM-Sheet05_v4488.dxf,paper,Grid_Text,14.00,Annotation,SHACH7-C5: 675.0 m @ 0.0036 m/m,1036.9,180.3,1.1,4.6
+SHA-CH7-SM-Sheet05_v4488.dxf,paper,Annotation,SHACH7-C5: 675.0 m @ 0.0036 m/m,Annotation,"43.0 x 2.5 m Natural stream, clean",1047.4,177.6,91.9,3.5
+SHA-CH7-SM-Sheet05_v4488.dxf,paper,Annotation,SHACH7-C6: 660.4 m @ 0.0017 m/m,Annotation,"56.0 x 2.5 m Natural stream, clean",1513.6,166.2,91.8,1.7
+SHA-CH7-SM-Sheet06_v4488.dxf,paper,Annotation,SHACH7-C7: 698.9 m @ 0.0039 m/m,Annotation,"56.0 x 2.5 m Natural stream, clean",1289.9,169.5,91.9,3.8
+SHA-CH7-SM-Sheet06_v4488.dxf,paper,PL_LABEL,5+600,PL_LABEL,5+650,1462.5,396.5,9.4,10.4
+SHA-CH7-SM-Sheet07_v4488.dxf,paper,Annotation,SHACH7-C8: 693.3 m @ 0.0028 m/m,Annotation,"57.5 x 2.5 m Natural stream, clean",1077.8,175.1,91.8,2.7
+SHA-CH7-SM-Sheet07_v4488.dxf,paper,Annotation,SHACH7-C9: 975.9 m @ 0.0027 m/m,Annotation,"58.0 x 2.5 m Natural stream, clean",1660.4,159.3,91.8,2.7
+SHA-CH8-SS-Sheet01_v4489.dxf,paper,Annotation,"SHACH8-C1: 1,392.2 m @ 0.0058 m/m",Annotation,"13.0 x 2.5 m Natural stream, clean",1503.0,152.3,91.9,5.8
+SHA-CH8-SS-Sheet03_v4490.dxf,paper,Annotation,"SHACH8-C2: 1,898.8 m @ 0.0030 m/m",Annotation,"17.0 x 2.5 m Natural stream, clean",1255.5,177.5,91.8,3.1
+SHA-CH8-SS-Sheet03_v4490.dxf,paper,Grid_Text,Station (m),Grid_Text,2+950,1720.8,114.6,15.1,1.6
+SHA-CH8-SS-Sheet04_v4490.dxf,paper,Annotation,SHACH8-C3: 589.0 m @ 0.0062 m/m,Annotation,"17.0 x 2.5 m Natural stream, clean",1428.3,170.7,91.9,6.1
+SHA-CH8-SS-Sheet05_v4490.dxf,paper,Annotation,SHACH8-C4: 647.2 m @ 0.0021 m/m,Annotation,"20.0 x 2.5 m Natural stream, clean",1161.7,175.1,91.8,2.1
+SHA-CH8-SS-Sheet06_v4490.dxf,paper,Annotation,"SHACH8-C5: 1,357.5 m @ 0.0039 m/m",Annotation,"20.0 x 2.5 m Natural stream, clean",1160.8,178.9,91.9,4.0
+SHA-CH8-SS-Sheet06_v4490.dxf,paper,PL_LABEL,5+450,PL_LABEL,5+500,1405.5,398.2,2.3,18.9
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#1},VF_LABELS,1+000,1168.3,254.9,2.8,13.3
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,2+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#3},1343.2,313.8,0.3,9.6
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#4},VF_LABELS,4+000,1447.6,268.2,6.5,7.0
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,5+000,1538.9,298.9,12.8,12.3
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#5},VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1538.9,298.9,12.0,11.2
+SHA-CH9-SS-KeyMap_v4492.dxf,paper,VF_LABELS,5+000,VF_LABELS,{\fTimes New Roman|b1|i0|c0|p0;#6},1610.9,306.1,14.9,4.0
+SHA-CH9-SS-Sheet02_v4491.dxf,paper,Annotation,"SHACH9-C1: 2,229.6 m @ 0.0055 m/m",Annotation,"10.0 x 2.5 m Natural stream, clean",1097.2,176.2,91.9,5.5
+SHA-CH9-SS-Sheet03_v4491.dxf,paper,Annotation,SHACH9-C2: 399.4 m @ 0.0052 m/m,Annotation,"22.0 x 2.5 m Natural stream, clean",1319.2,165.0,91.9,5.1
+SHA-CH9-SS-Sheet03_v4491.dxf,paper,Grid_Text,Station (m),Grid_Text,2+750,1581.2,114.6,15.1,1.6
+SHA-CH9-SS-Sheet03_v4491.dxf,paper,Annotation,SHACH9-C3: 702.8 m @ 0.0010 m/m,Annotation,"47.5 x 2.5 m Natural stream, clean",1704.0,157.4,91.8,1.0
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation,SHACH9-C3: 702.8 m @ 0.0010 m/m,Annotation,"47.5 x 2.5 m Natural stream, clean",1005.9,190.0,91.8,1.0
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation,SHACH9-C3: 702.8 m @ 0.0010 m/m,Grid_Text,12.00,1005.9,190.0,11.6,3.8
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation_Table,Label,Annotation_Table,SHACH9-C3,1034.4,104.0,8.0,5.5
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation_Table,Size,Annotation_Table,47.5 x 2.5 m,1037.9,89.8,6.8,5.5
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Grid_Text,0.00,Grid_Text,2.00,1039.5,125.9,9.0,2.0
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,PL_LABEL,3+300,PL_LABEL,3+350,1276.5,386.0,8.0,19.1
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,Annotation,SHACH9-C4: 568.6 m @ 0.0071 m/m,Annotation,"47.5 x 2.5 m Natural stream, clean",1449.6,170.2,91.9,7.0
+SHA-CH9-SS-Sheet04_v4491.dxf,paper,PL_LABEL,3+650,PL_LABEL,3+700,1486.2,420.8,2.6,5.2
+SHA-CH9-SS-Sheet05_v4491.dxf,paper,Annotation,SHACH9-C5: 794.6 m @ 0.0048 m/m,Annotation,"47.5 x 2.5 m Natural stream, clean",1227.4,175.0,91.9,4.7
+SHA-CH9-SS-Sheet06_v4491.dxf,paper,Annotation,SHACH9-C6: 794.1 m @ 0.0010 m/m,Annotation,"52.0 x 2.5 m Natural stream, clean",1083.9,172.8,91.8,1.0

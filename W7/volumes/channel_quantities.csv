@@ -1,0 +1,38 @@
+channel,cls,reaches,length_m,span_min,span_max,cut_m3,fill_m3,footprint_m2,protection_m2,corridor_ha,land_take_ha,cost_OMR,cost_mOMR,res_m,seconds
+HAW-CH1-FP,FP,7,8203.9,29.0,89.5,279402,255179,512384,76061,59.62,"{'Agricultural': 4.02, 'Government': 0.01, 'Resedential': 3.18}",2062379,2.062,2.0,1
+HAW-CH2-SS,SS,8,7721.7,10.0,54.0,284665,118442,356432,69611,45.59,"{'Agricultural': 3.1, 'Government': 0.34, 'Resedential': 7.27}",1454153,1.454,2.0,1
+HAW-CH3-SS,SS,1,1440.4,10.0,10.0,34407,8176,38656,12985,5.91,{'Resedential': 3.16},167978,0.168,2.0,0
+HAW-CH4-SS,SS,2,1385.3,10.0,10.0,29521,11679,37600,12488,5.68,{'Resedential': 1.42},169446,0.169,2.0,0
+HAW-CH5-SS,SS,7,7065.8,10.0,44.5,201790,149510,307960,63699,38.63,"{'Agricultural': 7.1, 'Government': 0.4, 'Resedential': 4.38}",1366433,1.366,2.0,0
+HAW-CH6-SS,SS,1,1270.2,10.0,10.0,18146,18181,36964,11451,5.21,"{'Agricultural': 0.13, 'Resedential': 0.22}",167264,0.167,2.0,0
+HAW-CH7-SS,SS,6,6507.5,12.5,29.0,70279,231103,260940,58666,32.05,"{'Agricultural': 1.6, 'Government': 0.41, 'Resedential': 0.34}",1382596,1.383,2.0,0
+SHA-CH1-FP,FP,12,8044.2,156.5,218.5,2741405,83713,1603628,74177,172.08,"{'Agricultural': 10.21, 'Government': 2.75, 'Resedential': 15.27, 'Residential Commercial': 0.19}",6866632,6.867,2.0,1
+SHA-CH2-SM,SM,8,11436.0,83.5,107.5,1295420,255770,1289028,103096,142.56,"{'Agricultural': 15.86, 'Government': 11.47, 'Resedential': 0.92}",4538430,4.538,2.0,1
+SHA-CH3-SM,SM,16,13878.4,10.0,267.0,935017,250959,947084,125114,110.15,"{'Agricultural': 18.8, 'Government': 0.04, 'Resedential': 22.76}",3746948,3.747,2.0,2
+SHA-CH4-SM,SM,10,8276.8,94.5,253.0,935549,434802,1105468,74616,119.0,"{'Agricultural': 23.93, 'Government': 0.65, 'Not Classified': 1.96, 'Resedential': 22.57, 'Residential Commercial': 0.25}",4330979,4.331,2.0,1
+SHA-CH5-SM,SM,6,9916.7,20.5,50.0,228971,440011,528072,89399,62.24,"{'Agricultural': 13.92, 'Resedential': 2.86}",2753327,2.753,2.0,1
+SHA-CH6-SM,SM,6,5159.1,14.5,46.0,256293,89076,277972,46509,34.31,"{'Agricultural': 7.16, 'Commercial': 0.04, 'Resedential': 1.77}",1162087,1.162,2.0,0
+SHA-CH7-SM,SM,9,7405.9,15.0,58.0,433881,107988,452204,66764,54.39,"{'Agricultural': 14.08, 'Commercial': 0.01, 'Government': 0.42, 'Resedential': 3.47}",1743149,1.743,2.0,1
+SHA-CH8-SS,SS,5,5884.6,13.0,20.0,85437,153499,220188,53050,28.28,"{'Agricultural': 0.75, 'Resedential': 1.44, 'Residential Commercial': 0.02}",1069548,1.07,2.0,0
+SHA-CH9-SS,SS,6,5489.1,10.0,52.0,215715,86016,278096,49485,34.06,"{'Agricultural': 8.27, 'Resedential': 9.77, 'Residential Commercial': 0.25}",1076454,1.076,2.0,0
+SHA-CH10-SS,SS,5,5374.0,25.0,72.5,278375,135148,363000,48447,42.11,"{'Agricultural': 17.38, 'Government': 1.82, 'Resedential': 4.05}",1425930,1.426,2.0,0
+SHA-CH11-SS,SS,2,2427.5,22.0,22.0,33674,77014,104840,21884,12.84,"{'Agricultural': 1.21, 'Resedential': 1.36}",496883,0.497,2.0,0
+SHA-CH12-SS,SS,5,3773.2,10.0,10.0,42504,62774,109812,34016,15.47,"{'Not Classified': 0.75, 'Resedential': 2.84}",508001,0.508,2.0,0
+SHA-CH13-SS,SS,1,1642.2,49.5,49.5,7624,84735,116760,14804,13.22,"{'Agricultural': 0.17, 'Government': 0.07, 'Resedential': 0.61}",448602,0.449,2.0,0
+SHA-CH14-SS,SS,4,3944.6,12.0,24.0,122566,33845,142644,35561,19.46,"{'Agricultural': 3.32, 'Resedential': 0.9}",576383,0.576,2.0,0
+SHA-CH15-SS,SS,8,6807.8,10.0,28.5,197589,148719,256076,61372,33.4,"{'Agricultural': 6.18, 'Not Classified': 0.08, 'Resedential': 3.72}",1329672,1.33,2.0,0
+SHA-CH16-SS,SS,7,6425.5,14.0,37.5,211673,98540,257820,57926,33.71,"{'Agricultural': 8.08, 'Commercial': 0.08, 'Government': 0.64, 'Resedential': 7.69}",1145405,1.145,2.0,0
+SHA-CH17-SS,SS,5,5108.5,29.0,42.0,273863,66288,279048,46053,34.15,"{'Agricultural': 0.63, 'Resedential': 0.34}",1106348,1.106,2.0,0
+SHA-CH18-SS,SS,4,3019.4,37.0,37.0,188252,44647,166828,27220,20.53,"{'Government': 0.11, 'Resedential': 1.22}",731758,0.732,2.0,0
+SHA-CH19-SS,SS,1,1812.0,10.0,10.0,12829,46995,55608,16335,7.43,"{'Agricultural': 3.13, 'Resedential': 0.51}",296289,0.296,2.0,0
+SHA-CH20-SS,SS,4,3755.4,12.5,40.5,167876,28049,161444,33855,21.09,"{'Agricultural': 1.05, 'Resedential': 0.05}",647233,0.647,2.0,0
+SHA-CH21-SS,SS,1,1088.9,11.5,11.5,32088,5883,29240,9817,4.63,"{'Commercial': 0.08, 'Government': 0.2, 'Resedential': 0.44}",138564,0.139,2.0,0
+SAR-CH1-FP,FP,14,17552.8,58.0,343.0,3006668,199735,2076232,158238,230.45,"{'Agricultural': 26.1, 'Commercial': 0.9, 'Government': 0.9, 'Resedential': 17.05, 'Residential Commercial': 1.06}",8362435,8.362,2.0,2
+SAR-CH2-SM,SM,6,6142.3,49.0,94.0,344096,276135,607840,55373,66.72,"{'Agricultural': 20.1, 'Commercial': 0.01, 'Government': 0.4, 'Resedential': 7.98, 'Residential Commercial': 0.09}",2228771,2.229,2.0,0
+SAR-CH3-SS,SS,4,6866.4,41.0,49.0,527563,68169,431584,61901,51.94,{'Resedential': 0.19},1755162,1.755,2.0,0
+SAR-CH4-SS,SS,2,3104.4,15.0,15.0,9827,147238,117532,27987,14.28,"{'Agricultural': 1.06, 'Government': 0.04, 'Resedential': 0.5, 'Residential Commercial': 0.13}",755674,0.756,2.0,0
+SAK-CH1-FP,FP,12,12466.6,58.5,238.0,1775563,390660,1650172,112387,179.08,"{'Agricultural': 0.23, 'Other': 5.71, 'Resedential': 9.66}",6231424,6.231,2.0,1
+SAK-CH2-FP,FP,7,9780.6,74.5,488.0,2740657,341021,2500284,88172,260.41,"{'Agricultural': 53.15, 'Commercial': 3.44, 'Government': 11.89, 'Not Classified': 0.6, 'Other': 12.07, 'Resedential': 23.68, 'Residential Commercial': 0.06}",8218710,8.219,2.0,1
+SAK-CH3-SM,SM,6,6472.9,45.0,90.5,387049,134353,495124,58354,57.38,"{'Agricultural': 14.09, 'Government': 0.12, 'Resedential': 2.8, 'Residential Commercial': 0.18}",1729831,1.73,2.0,0
+SAK-CH4-SS,SS,2,1921.2,10.0,10.0,19777,39705,57960,17320,7.91,{},286326,0.286,2.0,0
+SAK-CH5-SS,SS,2,2773.6,14.0,52.5,123512,31194,133564,25004,16.66,"{'Agricultural': 5.51, 'Government': 0.03, 'Resedential': 5.29, 'Residential Commercial': 0.11}",523236,0.523,2.0,0

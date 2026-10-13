@@ -1,0 +1,18 @@
+{
+ "channel": "SAK-CH4-SS",
+ "cls": "SS",
+ "reaches": 2,
+ "length_m": 1921.2,
+ "span_min": 10.0,
+ "span_max": 10.0,
+ "cut_m3": 19777,
+ "fill_m3": 39705,
+ "footprint_m2": 57960,
+ "protection_m2": 17320,
+ "corridor_ha": 7.91,
+ "land_take_ha": {},
+ "cost_OMR": 286326,
+ "cost_mOMR": 0.286,
+ "res_m": 2.0,
+ "seconds": 0
+}

@@ -1,0 +1,22 @@
+{
+ "channel": "SHA-CH13-SS",
+ "cls": "SS",
+ "reaches": 1,
+ "length_m": 1642.2,
+ "span_min": 49.5,
+ "span_max": 49.5,
+ "cut_m3": 7624,
+ "fill_m3": 84735,
+ "footprint_m2": 116760,
+ "protection_m2": 14804,
+ "corridor_ha": 13.22,
+ "land_take_ha": {
+  "Agricultural": 0.17,
+  "Government": 0.07,
+  "Resedential": 0.61
+ },
+ "cost_OMR": 448602,
+ "cost_mOMR": 0.449,
+ "res_m": 2.0,
+ "seconds": 0
+}

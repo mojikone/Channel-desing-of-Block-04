@@ -1,0 +1,22 @@
+{
+ "channel": "SHA-CH15-SS",
+ "cls": "SS",
+ "reaches": 8,
+ "length_m": 6807.8,
+ "span_min": 10.0,
+ "span_max": 28.5,
+ "cut_m3": 197589,
+ "fill_m3": 148719,
+ "footprint_m2": 256076,
+ "protection_m2": 61372,
+ "corridor_ha": 33.4,
+ "land_take_ha": {
+  "Agricultural": 6.18,
+  "Not Classified": 0.08,
+  "Resedential": 3.72
+ },
+ "cost_OMR": 1329672,
+ "cost_mOMR": 1.33,
+ "res_m": 2.0,
+ "seconds": 0
+}

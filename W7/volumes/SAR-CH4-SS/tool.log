@@ -1,0 +1,22 @@
+Loading shapefile ...
+  2 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 423 rows x 1554 cols  (2.0 m resolution)
+Extent      : X 486960 - 490068  Y 2668008 - 2668854
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SARCH4-C1  span=15m  rise=2.5m  L=2374m  inv 18.65->11.63
+  SARCH4-C2  span=15m  rise=2.5m  L=731m  inv 11.63->5.27
+
+Rasterising reach bodies (2 threads) ...
+  SARCH4-C2  6,844 body cells
+  SARCH4-C1  22,581 body cells
+
+Filling junction gaps ...
+  SARCH4-C1 -> SARCH4-C2  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\volumes\SAR-CH4-SS\channel_terrain.tif
+Done.  29,383 total channel cells.

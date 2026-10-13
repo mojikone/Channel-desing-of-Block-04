@@ -1,0 +1,22 @@
+Loading shapefile ...
+  2 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 342 rows x 1001 cols  (2.0 m resolution)
+Extent      : X 482468 - 484470  Y 2671664 - 2672348
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SAKCH4-C1  span=10m  rise=2.5m  L=1348m  inv 18.61->13.39
+  SAKCH4-C2  span=10m  rise=2.5m  L=573m  inv 13.39->12.53
+
+Rasterising reach bodies (2 threads) ...
+  SAKCH4-C2  4,464 body cells
+  SAKCH4-C1  10,054 body cells
+
+Filling junction gaps ...
+  SAKCH4-C1 -> SAKCH4-C2  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\volumes\SAK-CH4-SS\channel_terrain.tif
+Done.  14,490 total channel cells.

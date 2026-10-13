@@ -1,0 +1,26 @@
+{
+ "channel": "SAK-CH2-FP",
+ "cls": "FP",
+ "reaches": 7,
+ "length_m": 9780.6,
+ "span_min": 74.5,
+ "span_max": 488.0,
+ "cut_m3": 2740657,
+ "fill_m3": 341021,
+ "footprint_m2": 2500284,
+ "protection_m2": 88172,
+ "corridor_ha": 260.41,
+ "land_take_ha": {
+  "Agricultural": 53.15,
+  "Commercial": 3.44,
+  "Government": 11.89,
+  "Not Classified": 0.6,
+  "Other": 12.07,
+  "Resedential": 23.68,
+  "Residential Commercial": 0.06
+ },
+ "cost_OMR": 8218710,
+ "cost_mOMR": 8.219,
+ "res_m": 2.0,
+ "seconds": 1
+}

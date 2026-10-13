@@ -1,0 +1,22 @@
+Loading shapefile ...
+  2 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 397 rows x 683 cols  (2.0 m resolution)
+Extent      : X 503138 - 504504  Y 2648218 - 2649012
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  HAWCH4-C1  span=10m  rise=2.5m  L=801m  inv 43.33->37.03
+  HAWCH4-C2  span=10m  rise=2.5m  L=584m  inv 37.03->33.59
+
+Rasterising reach bodies (2 threads) ...
+  HAWCH4-C2  3,958 body cells
+  HAWCH4-C1  5,469 body cells
+
+Filling junction gaps ...
+  HAWCH4-C1 -> HAWCH4-C2  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\volumes\HAW-CH4-SS\channel_terrain.tif
+Done.  9,400 total channel cells.

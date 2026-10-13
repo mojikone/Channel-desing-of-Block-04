@@ -1,0 +1,24 @@
+{
+ "channel": "SHA-CH4-SM",
+ "cls": "SM",
+ "reaches": 10,
+ "length_m": 8276.8,
+ "span_min": 94.5,
+ "span_max": 253.0,
+ "cut_m3": 935549,
+ "fill_m3": 434802,
+ "footprint_m2": 1105468,
+ "protection_m2": 74616,
+ "corridor_ha": 119.0,
+ "land_take_ha": {
+  "Agricultural": 23.93,
+  "Government": 0.65,
+  "Not Classified": 1.96,
+  "Resedential": 22.57,
+  "Residential Commercial": 0.25
+ },
+ "cost_OMR": 4330979,
+ "cost_mOMR": 4.331,
+ "res_m": 2.0,
+ "seconds": 1
+}

@@ -1,0 +1,24 @@
+{
+ "channel": "SAR-CH1-FP",
+ "cls": "FP",
+ "reaches": 14,
+ "length_m": 17552.8,
+ "span_min": 58.0,
+ "span_max": 343.0,
+ "cut_m3": 3006668,
+ "fill_m3": 199735,
+ "footprint_m2": 2076232,
+ "protection_m2": 158238,
+ "corridor_ha": 230.45,
+ "land_take_ha": {
+  "Agricultural": 26.1,
+  "Commercial": 0.9,
+  "Government": 0.9,
+  "Resedential": 17.05,
+  "Residential Commercial": 1.06
+ },
+ "cost_OMR": 8362435,
+ "cost_mOMR": 8.362,
+ "res_m": 2.0,
+ "seconds": 2
+}

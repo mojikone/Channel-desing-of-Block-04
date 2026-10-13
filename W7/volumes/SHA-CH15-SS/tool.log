@@ -1,0 +1,40 @@
+Loading shapefile ...
+  8 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 2859 rows x 1387 cols  (2.0 m resolution)
+Extent      : X 494994 - 497768  Y 2658008 - 2663726
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SHACH15-C1  span=10m  rise=2.5m  L=821m  inv 29.96->26.41
+  SHACH15-C2  span=10m  rise=2.5m  L=659m  inv 26.41->18.64
+  SHACH15-C3  span=10m  rise=2.5m  L=843m  inv 18.64->14.55  [taper -> span=16m rise=2.5m]
+  SHACH15-C4  span=16m  rise=2.5m  L=559m  inv 14.55->11.85  [taper -> span=20m rise=2.5m]
+  SHACH15-C5  span=20m  rise=2.5m  L=500m  inv 11.85->10.30
+  SHACH15-C6  span=20m  rise=2.5m  L=1205m  inv 10.30->6.03
+  SHACH15-C7  span=20m  rise=2.5m  L=809m  inv 6.03->1.88  [taper -> span=28m rise=2.5m]
+  SHACH15-C8  span=28m  rise=2.5m  L=1412m  inv 1.88->-1.39
+
+Rasterising reach bodies (8 threads) ...
+  SHACH15-C3  6,175 body cells
+  SHACH15-C1  6,663 body cells
+  SHACH15-C2  5,477 body cells
+  SHACH15-C4  5,702 body cells
+  SHACH15-C5  4,687 body cells
+  SHACH15-C6  11,500 body cells
+  SHACH15-C8  16,371 body cells
+  SHACH15-C7  7,704 body cells
+
+Filling junction gaps ...
+  SHACH15-C1 -> SHACH15-C2  junction filled
+  SHACH15-C2 -> SHACH15-C3  junction filled
+  SHACH15-C3 -> SHACH15-C4  junction filled
+  SHACH15-C4 -> SHACH15-C5  junction filled
+  SHACH15-C5 -> SHACH15-C6  junction filled
+  SHACH15-C6 -> SHACH15-C7  junction filled
+  SHACH15-C7 -> SHACH15-C8  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\volumes\SHA-CH15-SS\channel_terrain.tif
+Done.  64,019 total channel cells.

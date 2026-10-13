@@ -1,0 +1,32 @@
+id,existing_type,existing_code,existing_size,barrels,barrel_len_m,dist_m,cells,W,H
+1,None on file,,,0,,,,,
+2,Culvert,GGC4,1x2x2,1,44.4,9.0,1.0,2.0,2.0
+3,Culvert,GGC4,11x2x1,1,37.2,11.0,11.0,2.0,1.0
+4,None on file,,,0,,,,,
+5,None on file,,,0,,,,,
+6,None on file,,,0,,,,,
+7,Culvert,GGC4,18x4x1,1,47.3,43.0,18.0,4.0,1.0
+8,Culvert,GGC4,2x2x1,1,49.6,3.0,2.0,2.0,1.0
+9,None on file,,,0,,,,,
+10,Culvert,GGC4,3x2x1,1,51.1,14.0,3.0,2.0,1.0
+11,Culvert,GGC4,3x1.5x1,1,46.2,6.0,3.0,1.5,1.0
+12,None on file,,,0,,,,,
+13,None on file,,,0,,,,,
+14,None on file,,,0,,,,,
+15,Culvert,GGC4,"1x0.8x0, 1x2x1",3,35.0,3.0,1.0,2.0,1.0
+16,Culvert,GGC4,9x2x1,1,42.5,15.0,9.0,2.0,1.0
+17,Culvert,GGC4,4x3x2,1,53.8,11.0,4.0,3.0,2.0
+18,Culvert,GGC4,1x2x1,1,40.7,9.0,1.0,2.0,1.0
+19,Culvert,GGC4,"1x0.9x0, 2x2x1",2,50.4,6.0,2.0,2.0,1.0
+20,Culvert,GGC4,"1x0.8x0, 2x2x1",2,40.4,4.0,2.0,2.0,1.0
+21,None on file,,,0,,,,,
+22,Culvert,GGC4,2x2x1,1,37.3,3.0,2.0,2.0,1.0
+23,None on file,,,0,,,,,
+24,None on file,,,0,,,,,
+25,Culvert,GGC4,24x2x1,1,36.9,32.0,24.0,2.0,1.0
+26,None on file,,,0,,,,,
+27,Culvert,GGC4,3x2x1,1,60.0,8.0,3.0,2.0,1.0
+28,Culvert,GGC4,1x2x1,1,41.0,5.0,1.0,2.0,1.0
+29,None on file,,,0,,,,,
+30,Culvert,GGC4,14x2x1,1,47.5,15.0,14.0,2.0,1.0
+31,None on file,,,0,,,,,
