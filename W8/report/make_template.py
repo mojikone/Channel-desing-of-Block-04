@@ -24,6 +24,11 @@ def fix_text(root):
         t.text = s
 
 d = Document(SRC); body = d.element.body
+# the body header (project title) and footer (page number, the firm's graphic) of the submitted report live in its second section:
+# their references go onto the trailing section properties, which become the body section of every report built on this template
+import copy as _copy
+_body_sp = d.sections[1]._sectPr if len(d.sections) > 1 else None
+_hf_refs = [_copy.deepcopy(c) for c in _body_sp if c.tag in (qn("w:headerReference"), qn("w:footerReference"))] if _body_sp is not None else []
 kids = [k for k in body if k.tag != qn("w:sectPr")]
 # the cover is everything up to and including the first paragraph that carries a section break
 end = None
@@ -35,6 +40,15 @@ for k in kids[end + 1:]: body.remove(k)
 # drop leading empties: the two blank paragraphs above the emblem pushed the revision lines onto a second page
 for k in kids[:2]:
     if k.tag == qn('w:p') and not ''.join(t.text or '' for t in k.iter(qn('w:t'))).strip(): body.remove(k)
+# the trailing section: the submitted body header and footer; the cover section: none
+_trail = body.find(qn("w:sectPr"))
+for c in list(_trail):
+    if c.tag in (qn("w:headerReference"), qn("w:footerReference")): _trail.remove(c)
+for c in reversed(_hf_refs): _trail.insert(0, c)
+_cover_sp = kids[end].find(qn("w:pPr")).find(qn("w:sectPr"))
+for c in list(_cover_sp):
+    if c.tag in (qn("w:headerReference"), qn("w:footerReference")): _cover_sp.remove(c)
+print("body header/footer references:", [(c.tag.split('}')[1], c.get(qn('w:type'))) for c in _hf_refs])
 fix_text(body)
 if SW:   # the cover title may be split over several runs: join the runs of a paragraph that still carries the old title
     for p in body.iter(qn("w:p")):
@@ -43,9 +57,8 @@ if SW:   # the cover title may be split over several runs: join the runs of a pa
             ts[0].text = full.replace("Channels Feasibility & Hydrological Report", "Hydraulic Design of Stormwater Channels")
             for t in ts[1:]: t.text = ""
             print("cover title joined and replaced")
-for s in d.sections:
-    for hf in (s.header, s.footer, s.first_page_header, s.first_page_footer):
-        if hf._element is not None: fix_text(hf._element)
+for rel in list(d.part.rels.values()):   # the existing header and footer parts, without creating empty ones
+    if rel.reltype.endswith("/header") or rel.reltype.endswith("/footer"): fix_text(rel.target_part.element)
 # the final section properties (body pages: Letter portrait, 2.5 cm margins, the running header) stay as the trailing sectPr
 # heading numbers in the heading look (comment 4): the numbering levels linked to Heading 1-3 take the heading colour, bold, size
 from docx.oxml import parse_xml
@@ -69,4 +82,5 @@ for sid, size in (('Heading1', 28), ('Heading2', 24), ('Heading3', 24)):
                 print('numbering level styled:', sid, 'num', num_id, 'lvl', ilvl)
 d.save(OUT)
 d2 = Document(OUT); print("template written:", OUT, "| sections:", len(d2.sections), "| cover paragraphs:", [q.text[:40] for q in d2.paragraphs if q.text.strip()][:12])
-print("body section:", f"{d2.sections[-1].page_width.cm:.1f}x{d2.sections[-1].page_height.cm:.1f} cm", "| header:", [q.text[:70] for q in d2.sections[-1].header.paragraphs if q.text.strip()])
+_b = d2.sections[-1]; print("body section:", f"{_b.page_width.cm:.1f}x{_b.page_height.cm:.1f} cm", "| header linked:", _b.header.is_linked_to_previous, "| footer linked:", _b.footer.is_linked_to_previous,
+      "| header:", [q.text[:70] for q in _b.header.paragraphs if q.text.strip()] if not _b.header.is_linked_to_previous else None, "| footer has PAGE:", ("PAGE" in _b.footer._element.xml) if not _b.footer.is_linked_to_previous else None)

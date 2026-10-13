@@ -46,6 +46,21 @@ def reset():
     _pages["front"] = _pages["body"] = None
 
 
+_HF = {}   # the body header and footer of the template: kind -> (part, [elements]); copied into every section the build opens
+
+
+def _remember_header_footer(d):
+    """The template's body section (its last) carries the issued header and footer; the cover carries none."""
+    import copy
+    _HF.clear()
+    src = d.sections[-1]
+    for kind in ("header", "footer"):
+        hf = getattr(src, kind)
+        if hf.is_linked_to_previous:
+            continue
+        _HF[kind] = (hf.part, [copy.deepcopy(c) for c in hf._element])
+
+
 def new_document(fields=None, template=TEMPLATE):
     """Open the template and fill its placeholders. fields: {"TITLE_1": ..., "TITLE_2": ...,
     "TITLE_3": ..., "FOOTER": ...}. Without a template a plain A4 document is made."""
@@ -53,6 +68,7 @@ def new_document(fields=None, template=TEMPLATE):
     if template and os.path.exists(template):
         d = Document(template)
         _fill_placeholders(d, fields or {})
+        _remember_header_footer(d)
     else:
         d = Document()
         s = d.sections[0]
@@ -147,23 +163,23 @@ def page_section(d, size="A4", orient="portrait", margin=None):
 
 
 def _own_header_footer(d, s):
-    """Give a section its own copy of the first section's header and footer. A linked
-    header is laid out at the width of the section that owns it, so on a landscape page
-    the header and footer tables stayed at the portrait width; a copy in the section's
-    own part is laid out at the section's width. Images are re-related to the new part."""
+    """Give a section its own copy of the template's body header and footer (the issued
+    ones, remembered by new_document; the cover carries none). A linked header is laid out
+    at the width of the section that owns it, so on a landscape page the header and footer
+    tables stayed at the portrait width; a copy in the section's own part is laid out at the
+    section's width. Images are re-related to the new part."""
     import copy
     from docx.opc.constants import RELATIONSHIP_TYPE as RT
-    first = d.sections[0]
     for kind in ("header", "footer"):
-        src = getattr(first, kind); dst = getattr(s, kind)
-        if src._element is None:
+        if kind not in _HF:
             continue
+        src_part, src_children = _HF[kind]; dst = getattr(s, kind)
         dst.is_linked_to_previous = False
         dst_el = dst._element
         for child in list(dst_el):
             dst_el.remove(child)
-        src_part, dst_part = src.part, dst.part
-        for child in src._element:
+        dst_part = dst.part
+        for child in src_children:
             el = copy.deepcopy(child)
             for blip in el.iter("{http://schemas.openxmlformats.org/drawingml/2006/main}blip"):
                 rid = blip.get("{http://schemas.openxmlformats.org/officeDocument/2006/relationships}embed")

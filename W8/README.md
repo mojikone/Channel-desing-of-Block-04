@@ -75,6 +75,8 @@ the normal line spacing of a two-line label.
 | key plans (15:30) | "the stations are not legible, also the labels can be larger" | 8.5 pt station labels, 13 pt names, longer ticks, fixed legend box |
 | (15:00) | "keep copy of the latest models, HMS, SewerGEMS, etc in the final deliverables" | 07 Models in the submission folder |
 
+**Page numbers (his question, evening):** R4 and the first R5 had none. The template keeps only the cover of the submitted Block 6 report; its body header (project title, report title) and footer (page number with the firm's graphic) sit in that file's second section and were dropped with the body, and every section of the built report then copied the cover's empty header and footer. `make_template.py` now carries the submitted body header and footer references onto the template's body section, `lib/doc.py` remembers them at `new_document()` and copies them into every section it opens (cover without); the front matter counts i, ii, iii and the body 1, 2, 3 as before (`number_pages`). Both reports rebuilt and re-sent.
+
 Also found and fixed on the way: Appendix C/A carried an empty "Depth / rise" column (195 "nan" cells in R5 — the export has no value), dropped;
 the culvert map's data box still said "2.0 or 2.5 m high", now computed from the data; the GCA neighbour names lost their underscores.
 
