@@ -1,0 +1,1676 @@
+[
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 7038.19,
+  "elevation": 2.531,
+  "kind": "junction",
+  "label": "HAW-CH2-SS ends  z=2.531  (GDP here 2.53)",
+  "x": 506856.027,
+  "y": 2654168.478
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 7721.14,
+  "elevation": 2.531,
+  "kind": "junction",
+  "label": "-> HAW-CH1-FP 7+038  GDP there 2.53",
+  "x": 506856.027,
+  "y": 2654168.478
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 1507.8,
+  "elevation": 32.631,
+  "kind": "junction",
+  "label": "HAW-CH3-SS ends  z=32.631  (GDP here 32.63)",
+  "x": 501869.328,
+  "y": 2651075.385
+ },
+ {
+  "alignment": "HAW-CH3-SS",
+  "station": 1440.4,
+  "elevation": 32.631,
+  "kind": "junction",
+  "label": "-> HAW-CH2-SS 1+508  GDP there 32.63",
+  "x": 501869.328,
+  "y": 2651075.385
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 1213.96,
+  "elevation": 35.72,
+  "kind": "junction",
+  "label": "HAW-CH4-SS ends  z=35.72  (GDP here 35.72)",
+  "x": 504409.56,
+  "y": 2648918.886
+ },
+ {
+  "alignment": "HAW-CH4-SS",
+  "station": 1385.29,
+  "elevation": 35.72,
+  "kind": "junction",
+  "label": "-> HAW-CH5-SS 1+214  GDP there 35.72",
+  "x": 504409.56,
+  "y": 2648918.886
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 6622.33,
+  "elevation": 4.542,
+  "kind": "junction",
+  "label": "HAW-CH5-SS ends  z=4.542  (GDP here 4.54)",
+  "x": 506899.203,
+  "y": 2653757.544
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 7065.83,
+  "elevation": 4.542,
+  "kind": "junction",
+  "label": "-> HAW-CH1-FP 6+622  GDP there 4.54",
+  "x": 506899.203,
+  "y": 2653757.544
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 6780.28,
+  "elevation": 7.943,
+  "kind": "junction",
+  "label": "HAW-CH6-SS ends  z=7.943  (GDP here 7.94)",
+  "x": 505945.619,
+  "y": 2654005.532
+ },
+ {
+  "alignment": "HAW-CH6-SS",
+  "station": 1270.25,
+  "elevation": 7.943,
+  "kind": "junction",
+  "label": "-> HAW-CH2-SS 6+780  GDP there 7.94",
+  "x": 505945.619,
+  "y": 2654005.532
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 3122.72,
+  "elevation": 24.053,
+  "kind": "junction",
+  "label": "SAK-CH1-FP ends  z=24.053  (GDP here 24.05)",
+  "x": 481817.137,
+  "y": 2672034.428
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 12466.62,
+  "elevation": 24.053,
+  "kind": "junction",
+  "label": "-> SAK-CH2-FP 3+123  GDP there 24.05",
+  "x": 481817.137,
+  "y": 2672034.428
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 1858.39,
+  "elevation": 13.565,
+  "kind": "junction",
+  "label": "SAK-CH4-SS ends  z=13.565  (GDP here 13.57)",
+  "x": 484375.874,
+  "y": 2672254.701
+ },
+ {
+  "alignment": "SAK-CH4-SS",
+  "station": 1920.69,
+  "elevation": 13.565,
+  "kind": "junction",
+  "label": "-> SAK-CH3-SM 1+858  GDP there 13.57",
+  "x": 484375.874,
+  "y": 2672254.701
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 7921.16,
+  "elevation": 49.714,
+  "kind": "junction",
+  "label": "SAR-CH3-SS ends  z=49.714  (GDP here 49.72)",
+  "x": 483993.046,
+  "y": 2664094.151
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 6865.48,
+  "elevation": 49.714,
+  "kind": "junction",
+  "label": "-> SAR-CH1-FP 7+921  GDP there 49.72",
+  "x": 483993.046,
+  "y": 2664094.151
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 15671.33,
+  "elevation": 6.342,
+  "kind": "junction",
+  "label": "SAR-CH4-SS ends  z=6.342  (GDP here 6.34)",
+  "x": 489970.877,
+  "y": 2668757.125
+ },
+ {
+  "alignment": "SAR-CH4-SS",
+  "station": 3104.45,
+  "elevation": 6.342,
+  "kind": "junction",
+  "label": "-> SAR-CH1-FP 15+671  GDP there 6.34",
+  "x": 489970.877,
+  "y": 2668757.125
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 14007.23,
+  "elevation": 12.893,
+  "kind": "junction",
+  "label": "SHA-CH2-SM ends  z=12.893  (GDP here 12.89)",
+  "x": 488737.723,
+  "y": 2667684.248
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 11435.39,
+  "elevation": 12.893,
+  "kind": "junction",
+  "label": "-> SAR-CH1-FP 14+007  GDP there 12.89",
+  "x": 488737.723,
+  "y": 2667684.248
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13063.74,
+  "elevation": 2.883,
+  "kind": "junction",
+  "label": "SHA-CH5-SM ends  z=2.883  (GDP here 2.88)",
+  "x": 496523.505,
+  "y": 2663507.443
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 9916.73,
+  "elevation": 2.883,
+  "kind": "junction",
+  "label": "-> SHA-CH3-SM 13+064  GDP there 2.88",
+  "x": 496523.505,
+  "y": 2663507.443
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 17268.81,
+  "elevation": 2.236,
+  "kind": "junction",
+  "label": "SHA-CH8-SS ends  z=2.236  (GDP here 2.24)",
+  "x": 491373.551,
+  "y": 2669281.498
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 5884.64,
+  "elevation": 2.236,
+  "kind": "junction",
+  "label": "-> SAR-CH1-FP 17+269  GDP there 2.24",
+  "x": 491373.551,
+  "y": 2669281.498
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 4798.39,
+  "elevation": 3.811,
+  "kind": "junction",
+  "label": "SHA-CH9-SS ends  z=3.811  (GDP here 3.81)",
+  "x": 493222.761,
+  "y": 2666574.785
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 5489.13,
+  "elevation": 3.811,
+  "kind": "junction",
+  "label": "-> SHA-CH10-SS 4+798  GDP there 3.81",
+  "x": 493222.761,
+  "y": 2666574.785
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 8167.89,
+  "elevation": 1.707,
+  "kind": "junction",
+  "label": "SHA-CH10-SS ends  z=1.707  (GDP here 1.71)",
+  "x": 493716.507,
+  "y": 2666868.277
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 5374.02,
+  "elevation": 1.707,
+  "kind": "junction",
+  "label": "-> SHA-CH4-SM 8+168  GDP there 1.71",
+  "x": 493716.507,
+  "y": 2666868.277
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 5785.03,
+  "elevation": 18.637,
+  "kind": "junction",
+  "label": "SHA-CH11-SS ends  z=18.637  (GDP here 18.64)",
+  "x": 492805.016,
+  "y": 2662306.269
+ },
+ {
+  "alignment": "SHA-CH11-SS",
+  "station": 2427.62,
+  "elevation": 18.637,
+  "kind": "junction",
+  "label": "-> SHA-CH5-SM 5+785  GDP there 18.64",
+  "x": 492805.016,
+  "y": 2662306.269
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8040.3,
+  "elevation": 25.29,
+  "kind": "junction",
+  "label": "SHA-CH12-SS ends  z=25.29  (GDP here 25.29)",
+  "x": 493994.499,
+  "y": 2659660.658
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 3773.17,
+  "elevation": 25.29,
+  "kind": "junction",
+  "label": "-> SHA-CH3-SM 8+040  GDP there 25.29",
+  "x": 493994.499,
+  "y": 2659660.658
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 12178.32,
+  "elevation": 6.157,
+  "kind": "junction",
+  "label": "SHA-CH14-SS ends  z=6.157  (GDP here 6.16)",
+  "x": 496089.735,
+  "y": 2662766.233
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 3944.61,
+  "elevation": 6.157,
+  "kind": "junction",
+  "label": "-> SHA-CH3-SM 12+178  GDP there 6.16",
+  "x": 496089.735,
+  "y": 2662766.233
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13792.69,
+  "elevation": 1.109,
+  "kind": "junction",
+  "label": "SHA-CH15-SS ends  z=1.109  (GDP here 1.11)",
+  "x": 497168.775,
+  "y": 2663623.887
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 6807.76,
+  "elevation": 1.109,
+  "kind": "junction",
+  "label": "-> SHA-CH3-SM 13+793  GDP there 1.11",
+  "x": 497168.775,
+  "y": 2663623.887
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 4870.73,
+  "elevation": 12.168,
+  "kind": "junction",
+  "label": "SHA-CH17-SS ends  z=12.168  (GDP here 12.17)",
+  "x": 500769.835,
+  "y": 2656905.457
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 5107.89,
+  "elevation": 12.168,
+  "kind": "junction",
+  "label": "-> SHA-CH1-FP 4+871  GDP there 12.17",
+  "x": 500769.835,
+  "y": 2656905.457
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 5223.17,
+  "elevation": 10.006,
+  "kind": "junction",
+  "label": "SHA-CH18-SS ends  z=10.006  (GDP here 10.01)",
+  "x": 501086.783,
+  "y": 2657051.044
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 3019.72,
+  "elevation": 10.006,
+  "kind": "junction",
+  "label": "-> SHA-CH1-FP 5+223  GDP there 10.01",
+  "x": 501086.783,
+  "y": 2657051.044
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 6625.02,
+  "elevation": 6.389,
+  "kind": "junction",
+  "label": "SHA-CH20-SS ends  z=6.389  (GDP here 6.39)",
+  "x": 502199.86,
+  "y": 2657817.063
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 3755.43,
+  "elevation": 6.389,
+  "kind": "junction",
+  "label": "-> SHA-CH1-FP 6+625  GDP there 6.39",
+  "x": 502199.86,
+  "y": 2657817.063
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 698.1,
+  "elevation": 30.151,
+  "kind": "junction",
+  "label": "SHA-CH21-SS ends  z=30.151  (GDP here 30.15)",
+  "x": 501105.507,
+  "y": 2652731.638
+ },
+ {
+  "alignment": "SHA-CH21-SS",
+  "station": 1088.9,
+  "elevation": 30.151,
+  "kind": "junction",
+  "label": "-> SHA-CH7-SM 0+698  GDP there 30.15",
+  "x": 501105.507,
+  "y": 2652731.638
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 1237.73,
+  "elevation": 23.11,
+  "kind": "fix",
+  "label": "FIX0 Road-OQ  bed = ground 23.11  (GDP 23.52)",
+  "x": 506115.31188810157,
+  "y": 2649907.5917664566
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 1737.73,
+  "elevation": 20.06,
+  "kind": "fix500",
+  "label": "FIX0 +500 m  ground 20.06  GDP 20.51",
+  "x": 506455.0323031197,
+  "y": 2650274.450719471
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 4535.49,
+  "elevation": 9.17,
+  "kind": "fix",
+  "label": "FIX1 Road-OQ  bed = ground 9.17  (GDP 9.17)",
+  "x": 508422.047,
+  "y": 2652046.836
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 6507.54,
+  "elevation": 3.22,
+  "kind": "fix",
+  "label": "FIX2 Outfall  bed = ground 3.22  (GDP 3.31)",
+  "x": 509868.80083597224,
+  "y": 2653077.928969571
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 3094.33,
+  "elevation": 24.42,
+  "kind": "fix",
+  "label": "FIX3 Road-OQ  bed = ground 24.42  (GDP 24.42)",
+  "x": 505519.803,
+  "y": 2650418.143
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 3594.33,
+  "elevation": 21.51,
+  "kind": "fix500",
+  "label": "FIX3 +500 m  ground 21.51  GDP 21.53",
+  "x": 505739.51452078787,
+  "y": 2650817.793531845
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 6732.45,
+  "elevation": 6.45,
+  "kind": "fix",
+  "label": "FIX4 Road-OQ  bed = ground 6.45  (GDP 6.45)",
+  "x": 506910.79,
+  "y": 2653424.372
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 6358.07,
+  "elevation": 5.82,
+  "kind": "fix",
+  "label": "FIX5 Road-OQ  bed = ground 5.82  (GDP 5.82)",
+  "x": 506758.0059518865,
+  "y": 2653540.8770082495
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 7143.81,
+  "elevation": 7.23,
+  "kind": "fix",
+  "label": "FIX6 Road-OQ  bed = ground 7.23  (GDP 7.24)",
+  "x": 506302.48434926325,
+  "y": 2654022.8981717997
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 8203.89,
+  "elevation": 1.17,
+  "kind": "fix",
+  "label": "FIX7 Outfall  bed = ground 1.17  (GDP 0)",
+  "x": 507602.0415525957,
+  "y": 2655057.5354043143
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 3133.3,
+  "elevation": 25.3,
+  "kind": "fix",
+  "label": "FIX8 Road-OQ  bed = ground 25.3  (GDP 25.11)",
+  "x": 504491.555060799,
+  "y": 2651294.8506796085
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 3633.3,
+  "elevation": 21.48,
+  "kind": "fix500",
+  "label": "FIX8 +500 m  ground 21.48  GDP 21.62",
+  "x": 504815.30057692534,
+  "y": 2651675.891329518
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 3494.74,
+  "elevation": 22.07,
+  "kind": "fix",
+  "label": "FIX9 Road-OQ  bed = ground 22.07  (GDP 22.07)",
+  "x": 503052.358,
+  "y": 2652643.577
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 3994.74,
+  "elevation": 20.45,
+  "kind": "fix500",
+  "label": "FIX9 +500 m  ground 20.45  GDP 19.58",
+  "x": 503484.182582605,
+  "y": 2652854.692232947
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 1866.69,
+  "elevation": 23.03,
+  "kind": "fix",
+  "label": "FIX10 Road-OQ  bed = ground 23.03  (GDP 22.74)",
+  "x": 501802.2174641414,
+  "y": 2653543.030818117
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 5736.72,
+  "elevation": 9.27,
+  "kind": "fix",
+  "label": "FIX11 Road-OQ  bed = ground 9.27  (GDP 9.27)",
+  "x": 504658.697,
+  "y": 2655671.643
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 7405.93,
+  "elevation": 2.3,
+  "kind": "fix",
+  "label": "FIX12 Outfall  bed = ground 2.3  (GDP 2.66)",
+  "x": 506013.26811670046,
+  "y": 2656565.5882863747
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 732.76,
+  "elevation": 22.53,
+  "kind": "fix",
+  "label": "FIX13 Road-OQ  bed = ground 22.53  (GDP 22.52)",
+  "x": 499947.513,
+  "y": 2655131.221
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 3001.83,
+  "elevation": 22.22,
+  "kind": "fix",
+  "label": "FIX14 Road-OQ  bed = ground 22.22  (GDP 22.22)",
+  "x": 499586.93777673884,
+  "y": 2655493.582300635
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 3501.83,
+  "elevation": 19.62,
+  "kind": "fix500",
+  "label": "FIX14 +500 m  ground 19.62  GDP 19.89",
+  "x": 499888.7440915023,
+  "y": 2655891.7362810397
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 2732.05,
+  "elevation": 21.53,
+  "kind": "fix",
+  "label": "FIX15 Road-OQ  bed = ground 21.53  (GDP 21.53)",
+  "x": 498614.5365685734,
+  "y": 2656354.3771410733
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 3232.05,
+  "elevation": 19.96,
+  "kind": "fix500",
+  "label": "FIX15 +500 m  ground 19.96  GDP 19.5",
+  "x": 499018.8525161081,
+  "y": 2656645.3456561146
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 6624.1,
+  "elevation": 6.28,
+  "kind": "fix",
+  "label": "FIX16 Road-OQ  bed = ground 6.28  (GDP 6.39)",
+  "x": 502199.843,
+  "y": 2657815.785
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 8044.19,
+  "elevation": 0.5,
+  "kind": "fix",
+  "label": "FIX17 Outfall  bed = ground 0.5  (GDP 0.5)",
+  "x": 503020.2012458664,
+  "y": 2658939.9115670077
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 3023.39,
+  "elevation": 12.58,
+  "kind": "fix",
+  "label": "FIX18 Road-OQ  bed = ground 12.58  (GDP 12.46)",
+  "x": 499675.27523385925,
+  "y": 2659191.081958798
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 3523.39,
+  "elevation": 10.67,
+  "kind": "fix500",
+  "label": "FIX18 +500 m  ground 10.67  GDP 10.98",
+  "x": 499713.9348512798,
+  "y": 2659682.230821927
+ },
+ {
+  "alignment": "SHA-CH19-SS",
+  "station": 1811.97,
+  "elevation": 5.46,
+  "kind": "fix",
+  "label": "FIX19 Outfall  bed = ground 5.46  (GDP 5.46)",
+  "x": 500902.31848597166,
+  "y": 2660483.530030238
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 5159.08,
+  "elevation": 0.43,
+  "kind": "fix",
+  "label": "FIX20 Outfall  bed = ground 0.43  (GDP 0.43)",
+  "x": 500433.6170545473,
+  "y": 2660922.3781981473
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 1505.28,
+  "elevation": 24.12,
+  "kind": "fix",
+  "label": "FIX21 Road-OQ  bed = ground 24.12  (GDP 24.13)",
+  "x": 496689.794,
+  "y": 2658063.333
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 2005.28,
+  "elevation": 21.75,
+  "kind": "fix500",
+  "label": "FIX21 +500 m  ground 21.75  GDP 21.76",
+  "x": 497052.61457006587,
+  "y": 2658389.8404905447
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 3722.28,
+  "elevation": 14.37,
+  "kind": "fix",
+  "label": "FIX22 Road-OQ  bed = ground 14.37  (GDP 14.37)",
+  "x": 498162.635,
+  "y": 2659599.82
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 4222.280000000001,
+  "elevation": 13.19,
+  "kind": "fix500",
+  "label": "FIX22 +500 m  ground 13.19  GDP 12.76",
+  "x": 498425.3418447727,
+  "y": 2660021.666163086
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 6425.46,
+  "elevation": 2.16,
+  "kind": "fix",
+  "label": "FIX23 Outfall  bed = ground 2.16  (GDP 2.16)",
+  "x": 499397.78919469443,
+  "y": 2661810.4580236743
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 820.77,
+  "elevation": 26.41,
+  "kind": "fix",
+  "label": "FIX24 Road-OQ  bed = ground 26.41  (GDP 26.42)",
+  "x": 495657.32,
+  "y": 2658711.558
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 2881.68,
+  "elevation": 14.1,
+  "kind": "fix",
+  "label": "FIX25 Road-OQ  bed = ground 14.1  (GDP 14.1)",
+  "x": 496610.24,
+  "y": 2660519.953
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8494.33,
+  "elevation": 22.22,
+  "kind": "fix",
+  "label": "FIX26 Road-OQ  bed = ground 22.22  (GDP 22.22)",
+  "x": 494023.1153814577,
+  "y": 2660112.142779763
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8994.33,
+  "elevation": 19.91,
+  "kind": "fix500",
+  "label": "FIX26 +500 m  ground 19.91  GDP 19.54",
+  "x": 494197.93187640054,
+  "y": 2660572.247891333
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13878.42,
+  "elevation": 0.9,
+  "kind": "fix",
+  "label": "FIX27 Outfall  bed = ground 0.9  (GDP 0.9)",
+  "x": 497237.57893757476,
+  "y": 2663673.041047187
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 2509.49,
+  "elevation": 12.05,
+  "kind": "fix",
+  "label": "FIX28 Road-OQ  bed = ground 12.05  (GDP 12.04)",
+  "x": 495429.899182605,
+  "y": 2661583.9587285006
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 10803.12,
+  "elevation": 11.08,
+  "kind": "fix",
+  "label": "FIX29 Road-OQ  bed = ground 11.08  (GDP 11.08)",
+  "x": 495090.88037056575,
+  "y": 2661984.5226829853
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 4767.56,
+  "elevation": 24.02,
+  "kind": "fix",
+  "label": "FIX30 Road-OQ  bed = ground 24.02  (GDP 24.35)",
+  "x": 492521.73841415346,
+  "y": 2661342.2697718684
+ },
+ {
+  "alignment": "SHA-CH11-SS",
+  "station": 1352.48,
+  "elevation": 23.56,
+  "kind": "fix",
+  "label": "FIX31 Road-OQ  bed = ground 23.56  (GDP 23.94)",
+  "x": 491892.783186052,
+  "y": 2661869.9149564994
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 7182.57,
+  "elevation": 11.47,
+  "kind": "fix",
+  "label": "FIX32 Road-OQ  bed = ground 11.47  (GDP 11.45)",
+  "x": 494017.38,
+  "y": 2662929.143
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 7682.57,
+  "elevation": 10.13,
+  "kind": "fix500",
+  "label": "FIX32 +500 m  ground 10.13  GDP 9.45",
+  "x": 494473.0851176546,
+  "y": 2663056.282436167
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 2931.16,
+  "elevation": 23.74,
+  "kind": "fix",
+  "label": "FIX33 Road-OQ  bed = ground 23.74  (GDP 23.74)",
+  "x": 491293.41491463536,
+  "y": 2662573.181750937
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 8276.83,
+  "elevation": 1.45,
+  "kind": "fix",
+  "label": "FIX34 Outfall  bed = ground 1.45  (GDP 1.45)",
+  "x": 493780.42230001406,
+  "y": 2666956.2423571507
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 5381.06,
+  "elevation": 11.43,
+  "kind": "fix",
+  "label": "FIX35 Road-OQ  bed = ground 11.43  (GDP 11.33)",
+  "x": 492612.53701789276,
+  "y": 2664538.4919282165
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 5881.06,
+  "elevation": 8.84,
+  "kind": "fix500",
+  "label": "FIX35 +500 m  ground 8.84  GDP 9.75",
+  "x": 492875.83954950504,
+  "y": 2664939.081625829
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 2944.73,
+  "elevation": 11.32,
+  "kind": "fix",
+  "label": "FIX36 Road-OQ  bed = ground 11.32  (GDP 11.32)",
+  "x": 491972.115,
+  "y": 2665350.296
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 3331.76,
+  "elevation": 10.41,
+  "kind": "fix",
+  "label": "FIX37 Road-OQ  bed = ground 10.41  (GDP 10.39)",
+  "x": 491518.852,
+  "y": 2666017.55
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 3290.95,
+  "elevation": 10.77,
+  "kind": "fix",
+  "label": "FIX38 Road-OQ  bed = ground 10.77  (GDP 10.77)",
+  "x": 490187.74,
+  "y": 2667608.975
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 17552.77,
+  "elevation": 0.0,
+  "kind": "fix",
+  "label": "FIX39 Outfall  bed = ground 0.0  (GDP 1.51)",
+  "x": 491606.9891575547,
+  "y": 2669443.185346302
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 8970.68,
+  "elevation": 27.3,
+  "kind": "fix",
+  "label": "FIX40 Road-OQ  bed = ground 27.3  (GDP 27.3)",
+  "x": 487290.9420157152,
+  "y": 2665910.6427127356
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 9470.68,
+  "elevation": 24.12,
+  "kind": "fix500",
+  "label": "FIX40 +500 m  ground 24.12  GDP 24.02",
+  "x": 487630.52910330874,
+  "y": 2666276.9026816366
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 11539.01,
+  "elevation": 27.25,
+  "kind": "fix",
+  "label": "FIX41 Road-OQ  bed = ground 27.25  (GDP 27.25)",
+  "x": 486500.5799165439,
+  "y": 2666701.251665304
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 15096.72,
+  "elevation": 10.05,
+  "kind": "fix",
+  "label": "FIX42 Road-OQ  bed = ground 10.05  (GDP 10.06)",
+  "x": 489585.8353304344,
+  "y": 2668360.8704932793
+ },
+ {
+  "alignment": "SAR-CH4-SS",
+  "station": 2373.77,
+  "elevation": 11.63,
+  "kind": "fix",
+  "label": "FIX43 Road-OQ  bed = ground 11.63  (GDP 11.63)",
+  "x": 489296.849,
+  "y": 2668547.143
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 3031.0,
+  "elevation": 14.99,
+  "kind": "fix",
+  "label": "FIX44 Road-OQ  bed = ground 14.99  (GDP 14.54)",
+  "x": 487986.0385917784,
+  "y": 2669383.043347941
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 3531.0,
+  "elevation": 12.03,
+  "kind": "fix500",
+  "label": "FIX44 +500 m  ground 12.03  GDP 11.54",
+  "x": 488331.1888374206,
+  "y": 2669679.4960557846
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 6142.29,
+  "elevation": 3.69,
+  "kind": "fix",
+  "label": "FIX45 Outfall  bed = ground 3.69  (GDP 3.19)",
+  "x": 489903.2041785371,
+  "y": 2671321.424760789
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 3719.66,
+  "elevation": 8.83,
+  "kind": "fix",
+  "label": "FIX46 Road-OQ  bed = ground 8.83  (GDP 8.33)",
+  "x": 485622.966,
+  "y": 2673611.414
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 12466.06,
+  "elevation": 24.23,
+  "kind": "fix",
+  "label": "FIX47 Road-OQ  bed = ground 24.23  (GDP 24.05)",
+  "x": 481816.962,
+  "y": 2672033.89
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 8768.39,
+  "elevation": 4.72,
+  "kind": "fix",
+  "label": "FIX48 Road-OQ  bed = ground 4.72  (GDP 4.51)",
+  "x": 485621.925,
+  "y": 2675937.309
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 9780.59,
+  "elevation": 1.49,
+  "kind": "fix",
+  "label": "FIX49 Outfall  bed = ground 1.49  (GDP 0.99)",
+  "x": 486423.36578139063,
+  "y": 2676539.2697840403
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 6472.94,
+  "elevation": 1.71,
+  "kind": "fix",
+  "label": "FIX50 Outfall  bed = ground 1.71  (GDP 1.71)",
+  "x": 487831.4233453633,
+  "y": 2674709.291286594
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 2773.62,
+  "elevation": 2.19,
+  "kind": "fix",
+  "label": "FIX51 Outfall  bed = ground 2.19  (GDP 2.49)",
+  "x": 488439.32618052553,
+  "y": 2673746.4178541526
+ },
+ {
+  "alignment": "SHA-CH13-SS",
+  "station": 1641.39,
+  "elevation": 47.61,
+  "kind": "fix",
+  "label": "FIX52 Outfall  bed = ground 47.61  (GDP 47.61)",
+  "x": 496022.405,
+  "y": 2651895.523
+ },
+ {
+  "alignment": "SHA-CH13-SS",
+  "station": 0.39,
+  "elevation": 55.81,
+  "kind": "fix",
+  "label": "FIX53 Road-OQ  bed = ground 55.81  (GDP 55.81)",
+  "x": 494670.24,
+  "y": 2651148.898
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 0.0,
+  "elevation": 44.677,
+  "kind": "flow",
+  "label": "HAW-J18  Q200 174 m3/s",
+  "x": 502462.7873,
+  "y": 2648907.038499999
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 7037.94,
+  "elevation": 2.5313374019629307,
+  "kind": "flow",
+  "label": "HAW-J22  Q200 299 m3/s",
+  "x": 506855.311,
+  "y": 2654168.357
+ },
+ {
+  "alignment": "HAW-CH3-SS",
+  "station": 1439.38,
+  "elevation": 32.631,
+  "kind": "flow",
+  "label": "HAW-J3  Q200 132 m3/s",
+  "x": 501868.792,
+  "y": 2651074.518
+ },
+ {
+  "alignment": "HAW-CH4-SS",
+  "station": 1384.06,
+  "elevation": 35.72,
+  "kind": "flow",
+  "label": "HAW-J4  Q200 115 m3/s",
+  "x": 504408.415,
+  "y": 2648918.436
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 0.0,
+  "elevation": 30.974,
+  "kind": "flow",
+  "label": "HAW-J5  Q200 66 m3/s",
+  "x": 505077.4223355045,
+  "y": 2649282.725106788
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 6040.41,
+  "elevation": 9.381019942891239,
+  "kind": "flow",
+  "label": "HAW-J8  Q200 190 m3/s",
+  "x": 505265.02522365155,
+  "y": 2653717.050459177
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 5407.44,
+  "elevation": 11.056,
+  "kind": "flow",
+  "label": "HAW-J9  Q200 199 m3/s",
+  "x": 506866.92464640713,
+  "y": 2652171.4443458053
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 2997.34,
+  "elevation": 12.923992676266943,
+  "kind": "flow",
+  "label": "HAW-O2  Q200 80 m3/s",
+  "x": 507368.34286183334,
+  "y": 2651025.1662869803
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 0.06,
+  "elevation": 92.38996746412909,
+  "kind": "flow",
+  "label": "SAK-J13  Q200 465 m3/s",
+  "x": 477940.24,
+  "y": 2661467.178
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 0.02,
+  "elevation": 40.760984138098635,
+  "kind": "flow",
+  "label": "SAK-J14  Q200 561 m3/s",
+  "x": 479063.74,
+  "y": 2670853.32
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 2990.06,
+  "elevation": 69.38997896398467,
+  "kind": "flow",
+  "label": "SAK-J15  Q200 708 m3/s",
+  "x": 479593.225,
+  "y": 2663847.607
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 12466.06,
+  "elevation": 24.053,
+  "kind": "flow",
+  "label": "SAK-J18  Q200 1349 m3/s",
+  "x": 481816.962,
+  "y": 2672033.89
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 5051.02,
+  "elevation": 14.128993870348138,
+  "kind": "flow",
+  "label": "SAK-J19  Q200 1352 m3/s",
+  "x": 483087.997,
+  "y": 2673436.713
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 7550.02,
+  "elevation": 6.469996777669891,
+  "kind": "flow",
+  "label": "SAK-J20  Q200 1461 m3/s",
+  "x": 484620.01290540694,
+  "y": 2675299.5359600307
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 0.0,
+  "elevation": 20.089,
+  "kind": "flow",
+  "label": "SAK-J4  Q200 218 m3/s",
+  "x": 483309.637,
+  "y": 2670737.209
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 0.25,
+  "elevation": 11.081,
+  "kind": "flow",
+  "label": "SAK-J5  Q200 71 m3/s",
+  "x": 486121.487,
+  "y": 2672402.395
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 1858.39,
+  "elevation": 13.565593541193103,
+  "kind": "flow",
+  "label": "SAK-J9  Q200 259 m3/s",
+  "x": 484375.8739473815,
+  "y": 2672254.701276929
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 5078.27,
+  "elevation": 5.868001381606806,
+  "kind": "flow",
+  "label": "SAK-O2  Q200 264 m3/s",
+  "x": 486701.506,
+  "y": 2674205.877
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 1677.25,
+  "elevation": 3.8970000000000002,
+  "kind": "flow",
+  "label": "SAK-O3  Q200 149 m3/s",
+  "x": 487498.971,
+  "y": 2673282.057
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 7920.21,
+  "elevation": 49.721,
+  "kind": "flow",
+  "label": "SAR-J11  Q200 555 m3/s",
+  "x": 483992.888,
+  "y": 2664092.984
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 14006.73,
+  "elevation": 12.896,
+  "kind": "flow",
+  "label": "SAR-J12  Q200 1036 m3/s",
+  "x": 488737.588,
+  "y": 2667683.336
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 15671.13,
+  "elevation": 6.343293742560202,
+  "kind": "flow",
+  "label": "SAR-J14  Q200 1013 m3/s",
+  "x": 489970.604,
+  "y": 2668757.044
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 0.0,
+  "elevation": 27.122,
+  "kind": "flow",
+  "label": "SAR-J2  Q200 251 m3/s",
+  "x": 485564.073,
+  "y": 2667717.143
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 0.47,
+  "elevation": 85.71898793821931,
+  "kind": "flow",
+  "label": "SAR-J3  Q200 637 m3/s",
+  "x": 484434.56,
+  "y": 2657498.643
+ },
+ {
+  "alignment": "SAR-CH4-SS",
+  "station": 0.16,
+  "elevation": 20.342,
+  "kind": "flow",
+  "label": "SAR-J4  Q200 65 m3/s",
+  "x": 487056.24,
+  "y": 2668117.432
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 2235.0,
+  "elevation": 17.272,
+  "kind": "flow",
+  "label": "SAR-J6  Q200 333 m3/s",
+  "x": 487233.829,
+  "y": 2669139.458
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 0.12,
+  "elevation": 110.275,
+  "kind": "flow",
+  "label": "SAR-J9  Q200 403 m3/s",
+  "x": 479364.507,
+  "y": 2657924.876
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 17268.62,
+  "elevation": 2.2366572748835214,
+  "kind": "flow",
+  "label": "SAR-O2  Q200 1022 m3/s",
+  "x": 491373.633,
+  "y": 2669281.056
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 0.31,
+  "elevation": 25.132,
+  "kind": "flow",
+  "label": "SHA-J10  Q200 71 m3/s",
+  "x": 494825.24,
+  "y": 2659399.411
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 0.09,
+  "elevation": 31.92299328853336,
+  "kind": "flow",
+  "label": "SHA-J11  Q200 45 m3/s",
+  "x": 495097.24,
+  "y": 2658111.696
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 0.28,
+  "elevation": 34.518,
+  "kind": "flow",
+  "label": "SHA-J12  Q200 82 m3/s",
+  "x": 495402.24,
+  "y": 2657338.268
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 0.0,
+  "elevation": 22.815,
+  "kind": "flow",
+  "label": "SHA-J13  Q200 75 m3/s",
+  "x": 497356.129,
+  "y": 2657425.076
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 0.05,
+  "elevation": 39.612,
+  "kind": "flow",
+  "label": "SHA-J14  Q200 207 m3/s",
+  "x": 496250.74,
+  "y": 2655177.725
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 0.27,
+  "elevation": 25.996,
+  "kind": "flow",
+  "label": "SHA-J15  Q200 119 m3/s",
+  "x": 499455.74,
+  "y": 2654588.365
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 0.15,
+  "elevation": 21.204,
+  "kind": "flow",
+  "label": "SHA-J16  Q200 72 m3/s",
+  "x": 500134.74,
+  "y": 2654978.151
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 0.0,
+  "elevation": 34.577,
+  "kind": "flow",
+  "label": "SHA-J17  Q200 99 m3/s",
+  "x": 500500.3945000003,
+  "y": 2652389.545300001
+ },
+ {
+  "alignment": "SHA-CH21-SS",
+  "station": 0.0,
+  "elevation": 36.02,
+  "kind": "flow",
+  "label": "SHA-J18  Q200 71 m3/s",
+  "x": 500790.893,
+  "y": 2651694.056
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 2229.6,
+  "elevation": 14.945005512645539,
+  "kind": "flow",
+  "label": "SHA-J21  Q200 136 m3/s",
+  "x": 490511.554,
+  "y": 2665893.329
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 1941.0,
+  "elevation": 15.095000000000002,
+  "kind": "flow",
+  "label": "SHA-J22  Q200 210 m3/s",
+  "x": 491077.131,
+  "y": 2664953.666
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 3802.25,
+  "elevation": 16.350033925078293,
+  "kind": "flow",
+  "label": "SHA-J23  Q200 560 m3/s",
+  "x": 491716.109,
+  "y": 2663291.552
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 10300.13,
+  "elevation": 12.551991250357862,
+  "kind": "flow",
+  "label": "SHA-J25  Q200 348 m3/s",
+  "x": 494744.405,
+  "y": 2661653.938
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 1856.31,
+  "elevation": 13.788024448275863,
+  "kind": "flow",
+  "label": "SHA-J26  Q200 113 m3/s",
+  "x": 495462.1662323107,
+  "y": 2661052.5690032784
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 2323.09,
+  "elevation": 16.93699491759668,
+  "kind": "flow",
+  "label": "SHA-J27  Q200 94 m3/s",
+  "x": 496355.94001727254,
+  "y": 2660028.6573879635
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 2672.28,
+  "elevation": 17.99001129575779,
+  "kind": "flow",
+  "label": "SHA-J28  Q200 105 m3/s",
+  "x": 497469.261,
+  "y": 2658910.446
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 1717.0,
+  "elevation": 16.326,
+  "kind": "flow",
+  "label": "SHA-J29  Q200 154 m3/s",
+  "x": 498776.485,
+  "y": 2658339.806
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 0.0,
+  "elevation": 27.236,
+  "kind": "flow",
+  "label": "SHA-J3  Q200 53 m3/s",
+  "x": 488682.588,
+  "y": 2664680.252
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 697.48,
+  "elevation": 30.15476437356489,
+  "kind": "flow",
+  "label": "SHA-J30  Q200 167 m3/s",
+  "x": 501105.485,
+  "y": 2652730.832
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 2101.15,
+  "elevation": 11.699,
+  "kind": "flow",
+  "label": "SHA-J31  Q200 185 m3/s",
+  "x": 501769.8089961899,
+  "y": 2656257.0514591243
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 4695.0,
+  "elevation": 4.334,
+  "kind": "flow",
+  "label": "SHA-J32  Q200 149 m3/s",
+  "x": 492546.338,
+  "y": 2666848.628
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 3754.0,
+  "elevation": 6.158,
+  "kind": "flow",
+  "label": "SHA-J33  Q200 213 m3/s",
+  "x": 492448.843,
+  "y": 2665951.477
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 6718.25,
+  "elevation": 7.087012706447187,
+  "kind": "flow",
+  "label": "SHA-J34  Q200 562 m3/s",
+  "x": 493306.855,
+  "y": 2665647.423
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 5784.76,
+  "elevation": 18.637999999999998,
+  "kind": "flow",
+  "label": "SHA-J35  Q200 239 m3/s",
+  "x": 492804.658,
+  "y": 2662306.183
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 12178.04,
+  "elevation": 6.157792551963566,
+  "kind": "flow",
+  "label": "SHA-J36  Q200 421 m3/s",
+  "x": 496089.713,
+  "y": 2662765.941
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 4587.09,
+  "elevation": 8.53499485908529,
+  "kind": "flow",
+  "label": "SHA-J37  Q200 120 m3/s",
+  "x": 497523.671,
+  "y": 2661870.29
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 2694.4,
+  "elevation": 18.653991867353945,
+  "kind": "flow",
+  "label": "SHA-J38  Q200 211 m3/s",
+  "x": 502453.2126885561,
+  "y": 2654018.8845341476
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 5488.0,
+  "elevation": 3.811,
+  "kind": "flow",
+  "label": "SHA-J39  Q200 336 m3/s",
+  "x": 493221.67,
+  "y": 2666575.095
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 0.0,
+  "elevation": 26.54,
+  "kind": "flow",
+  "label": "SHA-J4  Q200 168 m3/s",
+  "x": 489368.83,
+  "y": 2664085.205
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 8232.25,
+  "elevation": 7.2539948087885975,
+  "kind": "flow",
+  "label": "SHA-J40  Q200 249 m3/s",
+  "x": 494944.7147987416,
+  "y": 2663334.3231759584
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 5037.82,
+  "elevation": 11.487005372290007,
+  "kind": "flow",
+  "label": "SHA-J41  Q200 273 m3/s",
+  "x": 504383.81843794085,
+  "y": 2655055.8896900876
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 8167.02,
+  "elevation": 1.7094437399380786,
+  "kind": "flow",
+  "label": "SHA-J43  Q200 753 m3/s",
+  "x": 493715.656,
+  "y": 2666867.71
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 9916.25,
+  "elevation": 2.883,
+  "kind": "flow",
+  "label": "SHA-J44  Q200 641 m3/s",
+  "x": 496523.022,
+  "y": 2663507.42
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13792.87,
+  "elevation": 1.1084927202914574,
+  "kind": "flow",
+  "label": "SHA-J46  Q200 795 m3/s",
+  "x": 497169.138,
+  "y": 2663623.323
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 0.31,
+  "elevation": 37.188996059370666,
+  "kind": "flow",
+  "label": "SHA-J47  Q200 1641 m3/s",
+  "x": 497417.8,
+  "y": 2653485.143
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 4870.15,
+  "elevation": 12.172,
+  "kind": "flow",
+  "label": "SHA-J48  Q200 1661 m3/s",
+  "x": 500769.009,
+  "y": 2656905.567
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 5222.15,
+  "elevation": 10.012331618327998,
+  "kind": "flow",
+  "label": "SHA-J49  Q200 1669 m3/s",
+  "x": 501085.965,
+  "y": 2657049.855
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 0.19,
+  "elevation": 27.17,
+  "kind": "flow",
+  "label": "SHA-J5  Q200 76 m3/s",
+  "x": 487997.74,
+  "y": 2665303.697
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 6625.02,
+  "elevation": 6.389,
+  "kind": "flow",
+  "label": "SHA-J51  Q200 1671 m3/s",
+  "x": 502199.8603542119,
+  "y": 2657817.063297977
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 0.16,
+  "elevation": 38.18599192664783,
+  "kind": "flow",
+  "label": "SHA-J6  Q200 554 m3/s",
+  "x": 489340.554,
+  "y": 2660432.829
+ },
+ {
+  "alignment": "SHA-CH11-SS",
+  "station": 0.25,
+  "elevation": 30.605,
+  "kind": "flow",
+  "label": "SHA-J7  Q200 106 m3/s",
+  "x": 490836.39,
+  "y": 2661048.493
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 0.25,
+  "elevation": 51.13198876517155,
+  "kind": "flow",
+  "label": "SHA-J8  Q200 127 m3/s",
+  "x": 490796.857,
+  "y": 2657507.143
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 4269.35,
+  "elevation": 54.506005031464504,
+  "kind": "flow",
+  "label": "SHA-J9  Q200 327 m3/s",
+  "x": 492700.2984615255,
+  "y": 2656200.1426605447
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 0.3,
+  "elevation": 101.05098268480425,
+  "kind": "flow",
+  "label": "SAR-S11  Q200 336 m3/s",
+  "x": 480527.24,
+  "y": 2658672.807
+ },
+ {
+  "alignment": "HAW-CH6-SS",
+  "station": 0.06,
+  "elevation": 11.592,
+  "kind": "flow",
+  "label": "HAW-S14  Q200 25 m3/s",
+  "x": 504699.24,
+  "y": 2654088.728
+ },
+ {
+  "alignment": "SHA-CH13-SS",
+  "station": 0.39,
+  "elevation": 55.809985014625234,
+  "kind": "flow",
+  "label": "SHA-S51  Q200 313 m3/s",
+  "x": 494670.24,
+  "y": 2651148.898
+ }
+]

@@ -1,0 +1,52 @@
+model copied: 2026-10-11T17:06:55.9654260+04:00 -> C:\B4Work\run_20261011_1721
+result methods, conduit: CalculatedSlope DepthIn DepthOut DepthsIn DepthsOut DesignCapacity ExcessDesignCapacity ExcessFullCapacity Flow Flows FlowToDesignCapacityRatio FullFlowCapacity GetPoints ToString Velocity VelocityIn VelocityOut Velocitys VelocitysIn VelocitysOut
+result methods, manhole: ArealReductionFactors DepthIn DepthOut DepthsIn DepthsOut GetPoint SubnetworkID ToString TotalFlowIn TotalFlowIns TotalFlowOut TotalFlowOuts
+######## 2 yr (scenario 1 '2 yr') 5:21:56 PM
+  '2 yr' ran in 603 s, results: True
+  design pass 1: 11 pipe sizes changed
+  '2 yr' ran in 600 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '2yr': 212 conduits, 227 nodes
+######## 5 yr (scenario 2050 '5 yr') 5:41:59 PM
+  '5 yr' ran in 593 s, results: True
+  design pass 1: 84 pipe sizes changed
+  '5 yr' ran in 553 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '5yr': 212 conduits, 227 nodes
+######## 10 yr (scenario 2051 '10 yr') 6:01:07 PM
+  '10 yr' ran in 579 s, results: True
+  design pass 1: 144 pipe sizes changed
+  '10 yr' ran in 558 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '10yr': 212 conduits, 227 nodes
+######## 25 yr (scenario 2052 '25 yr') 6:20:05 PM
+  '25 yr' ran in 573 s, results: True
+  design pass 1: 162 pipe sizes changed
+  '25 yr' ran in 589 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '25yr': 212 conduits, 227 nodes
+######## 50 yr (scenario 2053 '50 yr') 6:39:28 PM
+  '50 yr' ran in 576 s, results: True
+  design pass 1: 169 pipe sizes changed
+  '50 yr' ran in 584 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '50yr': 212 conduits, 227 nodes
+######## 100 yr (scenario 2054 '100 yr') 6:58:49 PM
+  '100 yr' ran in 562 s, results: True
+  design pass 1: 181 pipe sizes changed
+  '100 yr' ran in 591 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '100yr': 212 conduits, 227 nodes
+######## 200 yr (scenario 2055 '200 yr') 7:18:03 PM
+  '200 yr' ran in 579 s, results: True
+  design pass 1: 189 pipe sizes changed
+  '200 yr' ran in 586 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+######## 500 yr (scenario 2056 '500 yr') 7:37:28 PM
+  '500 yr' ran in 563 s, results: True
+  design pass 1: 193 pipe sizes changed
+  '500 yr' ran in 587 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '500yr': 212 conduits, 227 nodes
+delivered "SewerGEMS Block 04_R1.stsw" and its .sqlite to the share (new files)

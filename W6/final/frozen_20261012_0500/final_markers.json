@@ -1,0 +1,2045 @@
+[
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 0.0,
+  "elevation": 44.677,
+  "kind": "sglabel",
+  "label": "HAWCH1-1  D 0.00  R 0.00",
+  "x": 502462.787,
+  "y": 2648907.038
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 1044.175,
+  "elevation": 39.762,
+  "kind": "sglabel",
+  "label": "HAWCH1-2  D 0.00  R 0.00",
+  "x": 503138.876468028,
+  "y": 2649702.7794541465
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 3134.109,
+  "elevation": 25.108,
+  "kind": "sglabel",
+  "label": "HAWCH1-3  D 0.00  R 2.50",
+  "x": 504492.081023082,
+  "y": 2651295.469491956
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 3630.89,
+  "elevation": 21.63,
+  "kind": "sglabel",
+  "label": "HAWCH1-4  D 0.00  R 0.00",
+  "x": 504813.74013387895,
+  "y": 2651674.054724634
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 6358.071,
+  "elevation": 5.821,
+  "kind": "sglabel",
+  "label": "HAWCH1-5  D 0.51  R 0.51",
+  "x": 506758.0059518865,
+  "y": 2653540.8770082495
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 6622.33,
+  "elevation": 4.542,
+  "kind": "sglabel",
+  "label": "HAWCH1-6  D 2.98  R 1.91",
+  "x": 506899.0455783278,
+  "y": 2653757.5692421407
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 7037.635,
+  "elevation": 2.532,
+  "kind": "sglabel",
+  "label": "HAWCH1-7  D 3.07  R 2.69",
+  "x": 506856.03459217754,
+  "y": 2654167.9087339737
+ },
+ {
+  "alignment": "HAW-CH1-FP",
+  "station": 8203.890493646511,
+  "elevation": 0,
+  "kind": "sglabel",
+  "label": "HAWCH1-8  D 2.09  R 2.50",
+  "x": 507602.042,
+  "y": 2655057.535
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 0.0,
+  "elevation": 43.099,
+  "kind": "sglabel",
+  "label": "HAWCH2-1  D 0.00  R 0.00",
+  "x": 500679.843,
+  "y": 2650263.454
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 1507.8,
+  "elevation": 32.631,
+  "kind": "sglabel",
+  "label": "HAWCH2-2  D 0.70  R 0.54",
+  "x": 501869.32391363767,
+  "y": 2651075.3826882485
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 2592.498,
+  "elevation": 26.486,
+  "kind": "sglabel",
+  "label": "HAWCH2-3  D 0.51  R 0.27",
+  "x": 502515.80951652164,
+  "y": 2651923.6431036424
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 3494.745,
+  "elevation": 22.073,
+  "kind": "sglabel",
+  "label": "HAWCH2-4  D 0.00  R 2.50",
+  "x": 503052.35805015167,
+  "y": 2652643.577372813
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 3994.74,
+  "elevation": 19.58,
+  "kind": "sglabel",
+  "label": "HAWCH2-5  D 0.00  R 0.00",
+  "x": 503484.182582605,
+  "y": 2652854.692232947
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 6040.414,
+  "elevation": 9.381,
+  "kind": "sglabel",
+  "label": "HAWCH2-6  D 2.53  R 2.43",
+  "x": 505265.02522365155,
+  "y": 2653717.050459177
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 6780.28,
+  "elevation": 7.943,
+  "kind": "sglabel",
+  "label": "HAWCH2-7  D 0.00  R 0.00",
+  "x": 505945.6239107759,
+  "y": 2654005.531773066
+ },
+ {
+  "alignment": "HAW-CH2-SS",
+  "station": 7143.812,
+  "elevation": 7.236,
+  "kind": "sglabel",
+  "label": "HAWCH2-8  D 0.71  R 0.00",
+  "x": 506302.48434926325,
+  "y": 2654022.8981717997
+ },
+ {
+  "alignment": "HAW-CH3-SS",
+  "station": 0.0,
+  "elevation": 44.247,
+  "kind": "sglabel",
+  "label": "HAWCH3-1  D 0.68  R 0.70",
+  "x": 501227.378,
+  "y": 2649856.579
+ },
+ {
+  "alignment": "HAW-CH4-SS",
+  "station": 0.0,
+  "elevation": 45.549,
+  "kind": "sglabel",
+  "label": "HAWCH4-1  D 0.68  R 0.28",
+  "x": 503232.183,
+  "y": 2648310.987
+ },
+ {
+  "alignment": "HAW-CH4-SS",
+  "station": 801.057,
+  "elevation": 38.827,
+  "kind": "sglabel",
+  "label": "HAWCH4-2  D 0.66  R 0.70",
+  "x": 503867.0660787511,
+  "y": 2648702.612859348
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 0.0,
+  "elevation": 43.36,
+  "kind": "sglabel",
+  "label": "HAWCH5-1  D 0.52  R 0.98",
+  "x": 503750.721,
+  "y": 2647925.231
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 1213.96,
+  "elevation": 35.72,
+  "kind": "sglabel",
+  "label": "HAWCH5-2  D 0.51  R 0.37",
+  "x": 504409.5586236184,
+  "y": 2648918.8844369915
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 2082.44,
+  "elevation": 31.504,
+  "kind": "sglabel",
+  "label": "HAWCH5-3  D 0.00  R 0.00",
+  "x": 504969.73934897943,
+  "y": 2649580.8696788433
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 3094.329,
+  "elevation": 24.417,
+  "kind": "sglabel",
+  "label": "HAWCH5-4  D 0.67  R 2.50",
+  "x": 505519.80298947333,
+  "y": 2650418.143293879
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 3594.33,
+  "elevation": 21.529,
+  "kind": "sglabel",
+  "label": "HAWCH5-5  D 0.51  R 0.40",
+  "x": 505739.51452078787,
+  "y": 2650817.793531845
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 5407.44,
+  "elevation": 11.056,
+  "kind": "sglabel",
+  "label": "HAWCH5-6  D 0.51  R 0.00",
+  "x": 506866.92464640713,
+  "y": 2652171.4443458053
+ },
+ {
+  "alignment": "HAW-CH5-SS",
+  "station": 6732.453,
+  "elevation": 6.449,
+  "kind": "sglabel",
+  "label": "HAWCH5-7  D 0.81  R 0.83",
+  "x": 506910.7900656279,
+  "y": 2653424.372454646
+ },
+ {
+  "alignment": "HAW-CH6-SS",
+  "station": 0.0,
+  "elevation": 11.592,
+  "kind": "sglabel",
+  "label": "HAWCH6-1  D 0.54  R 0.73",
+  "x": 504699.179,
+  "y": 2654088.731
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 0.0,
+  "elevation": 30.974,
+  "kind": "sglabel",
+  "label": "HAWCH7-1  D 0.52  R 0.56",
+  "x": 505077.422,
+  "y": 2649282.725
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 1237.73,
+  "elevation": 23.522,
+  "kind": "sglabel",
+  "label": "HAWCH7-2  D 0.00  R 2.50",
+  "x": 506115.3089791021,
+  "y": 2649907.5882614325
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 1737.73,
+  "elevation": 20.51,
+  "kind": "sglabel",
+  "label": "HAWCH7-3  D 0.58  R 0.00",
+  "x": 506455.0323031197,
+  "y": 2650274.450719471
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 2997.337,
+  "elevation": 12.924,
+  "kind": "sglabel",
+  "label": "HAWCH7-4  D 2.48  R 2.51",
+  "x": 507368.34286183334,
+  "y": 2651025.1662869803
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 4535.487,
+  "elevation": 9.169,
+  "kind": "sglabel",
+  "label": "HAWCH7-5  D 0.58  R 2.50",
+  "x": 508422.047309867,
+  "y": 2652046.835658214
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 5223.216,
+  "elevation": 6.837,
+  "kind": "sglabel",
+  "label": "HAWCH7-6  D 0.00  R 0.00",
+  "x": 508962.740208518,
+  "y": 2652319.95452932
+ },
+ {
+  "alignment": "HAW-CH7-SS",
+  "station": 6507.543397111993,
+  "elevation": 3.315,
+  "kind": "sglabel",
+  "label": "HAWCH7-7  D 0.53  R 2.50",
+  "x": 509868.801,
+  "y": 2653077.929
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 0.0,
+  "elevation": 92.39,
+  "kind": "sglabel",
+  "label": "SAKCH1-1  D 0.00  R 0.00",
+  "x": 477940.198,
+  "y": 2661467.141
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 671.561,
+  "elevation": 86.928,
+  "kind": "sglabel",
+  "label": "SAKCH1-2  D 0.50  R 0.28",
+  "x": 478276.9217245857,
+  "y": 2662019.824855466
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 1129.528,
+  "elevation": 82.508,
+  "kind": "sglabel",
+  "label": "SAKCH1-3  D 0.00  R 0.00",
+  "x": 478593.74032564834,
+  "y": 2662330.032709592
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 1996.056,
+  "elevation": 75.984,
+  "kind": "sglabel",
+  "label": "SAKCH1-4  D 0.56  R 0.50",
+  "x": 479053.0730914527,
+  "y": 2663053.975361559
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 2990.056,
+  "elevation": 69.39,
+  "kind": "sglabel",
+  "label": "SAKCH1-5  D 1.39  R 1.41",
+  "x": 479593.2245002531,
+  "y": 2663847.606683788
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 4295.056,
+  "elevation": 62.527,
+  "kind": "sglabel",
+  "label": "SAKCH1-6  D 0.00  R 0.00",
+  "x": 479365.42915451835,
+  "y": 2665124.5492436364
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 6164.056,
+  "elevation": 47.593,
+  "kind": "sglabel",
+  "label": "SAKCH1-7  D 4.60  R 4.54",
+  "x": 478888.883115087,
+  "y": 2666922.348115233
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 7461.056,
+  "elevation": 43.309,
+  "kind": "sglabel",
+  "label": "SAKCH1-8  D 0.00  R 0.00",
+  "x": 479541.9971178323,
+  "y": 2667892.895437339
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 8574.056,
+  "elevation": 37.855,
+  "kind": "sglabel",
+  "label": "SAKCH1-9  D 0.50  R 0.34",
+  "x": 480427.3024253733,
+  "y": 2668438.450036591
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 9317.056,
+  "elevation": 35.747,
+  "kind": "sglabel",
+  "label": "SAKCH1-10  D 0.00  R 0.00",
+  "x": 480845.0287386247,
+  "y": 2669038.635768083
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 10403.751,
+  "elevation": 29.561,
+  "kind": "sglabel",
+  "label": "SAKCH1-11  D 0.00  R 0.00",
+  "x": 481180.43533415033,
+  "y": 2670072.274214883
+ },
+ {
+  "alignment": "SAK-CH1-FP",
+  "station": 11652.733,
+  "elevation": 26.945,
+  "kind": "sglabel",
+  "label": "SAKCH1-12  D 0.00  R 0.00",
+  "x": 481565.93154099106,
+  "y": 2671260.276197556
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 0.0,
+  "elevation": 40.761,
+  "kind": "sglabel",
+  "label": "SAKCH2-1  D 0.00  R 0.00",
+  "x": 479063.722,
+  "y": 2670853.32
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 901.171,
+  "elevation": 33.614,
+  "kind": "sglabel",
+  "label": "SAKCH2-2  D 1.08  R 1.04",
+  "x": 479963.29343878623,
+  "y": 2670866.020596822
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 2357.018,
+  "elevation": 28.891,
+  "kind": "sglabel",
+  "label": "SAKCH2-3  D 0.00  R 0.00",
+  "x": 481223.4857602527,
+  "y": 2671550.8158427295
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 3122.72,
+  "elevation": 24.053,
+  "kind": "sglabel",
+  "label": "SAKCH2-4  D 0.50  R 2.50",
+  "x": 481817.13564166625,
+  "y": 2672034.4266067757
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 5051.018,
+  "elevation": 14.129,
+  "kind": "sglabel",
+  "label": "SAKCH2-5  D 0.63  R 0.46",
+  "x": 483087.996628198,
+  "y": 2673436.712560532
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 7550.018,
+  "elevation": 6.47,
+  "kind": "sglabel",
+  "label": "SAKCH2-6  D 0.93  R 0.94",
+  "x": 484620.01290540694,
+  "y": 2675299.5359600307
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 8768.391,
+  "elevation": 4.507,
+  "kind": "sglabel",
+  "label": "SAKCH2-7  D 0.00  R 0.00",
+  "x": 485621.9251012582,
+  "y": 2675937.308857612
+ },
+ {
+  "alignment": "SAK-CH2-FP",
+  "station": 9780.586065727804,
+  "elevation": 0.992,
+  "kind": "sglabel",
+  "label": "SAKCH2-8  D 0.51  R 2.50",
+  "x": 486423.366,
+  "y": 2676539.27
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 0.0,
+  "elevation": 20.089,
+  "kind": "sglabel",
+  "label": "SAKCH3-1  D 0.53  R 0.37",
+  "x": 483309.637,
+  "y": 2670737.209
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 1857.89,
+  "elevation": 13.567,
+  "kind": "sglabel",
+  "label": "SAKCH3-2  D 1.44  R 1.46",
+  "x": 484375.5373570194,
+  "y": 2672254.3255318
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 3719.658,
+  "elevation": 8.33,
+  "kind": "sglabel",
+  "label": "SAKCH3-3  D 1.50  R 2.50",
+  "x": 485622.9659607287,
+  "y": 2673611.41444294
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 4421.789,
+  "elevation": 6.775,
+  "kind": "sglabel",
+  "label": "SAKCH3-4  D 1.68  R 1.70",
+  "x": 486179.55533690145,
+  "y": 2673949.1431801016
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 5078.271,
+  "elevation": 5.868,
+  "kind": "sglabel",
+  "label": "SAKCH3-5  D 1.05  R 0.91",
+  "x": 486701.50613458286,
+  "y": 2674205.8772916626
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 6057,
+  "elevation": 2.378,
+  "kind": "sglabel",
+  "label": "SAKCH3-6  D 0.55  R 0.19",
+  "x": 487473.28339418967,
+  "y": 2674701.701067359
+ },
+ {
+  "alignment": "SAK-CH3-SM",
+  "station": 6472.937171764485,
+  "elevation": 1.709,
+  "kind": "sglabel",
+  "label": "SAKCH3-7  D 0.74  R 2.50",
+  "x": 487831.423,
+  "y": 2674709.291
+ },
+ {
+  "alignment": "SAK-CH4-SS",
+  "station": 0.0,
+  "elevation": 21.112,
+  "kind": "sglabel",
+  "label": "SAKCH4-1  D 0.00  R 0.00",
+  "x": 482562.421,
+  "y": 2671756.92
+ },
+ {
+  "alignment": "SAK-CH4-SS",
+  "station": 1348,
+  "elevation": 15.5,
+  "kind": "sglabel",
+  "label": "SAKCH4-2  D 0.51  R 0.39",
+  "x": 483805.6992203997,
+  "y": 2672201.066970284
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 0.0,
+  "elevation": 11.081,
+  "kind": "sglabel",
+  "label": "SAKCH5-1  D 0.00  R 0.00",
+  "x": 486121.254,
+  "y": 2672402.306
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 1677.25,
+  "elevation": 3.897,
+  "kind": "sglabel",
+  "label": "SAKCH5-2  D 0.50  R 0.47",
+  "x": 487498.971136468,
+  "y": 2673282.056557946
+ },
+ {
+  "alignment": "SAK-CH5-SS",
+  "station": 2773.6178118166185,
+  "elevation": 2.487,
+  "kind": "sglabel",
+  "label": "SAKCH5-3  D 0.51  R 2.50",
+  "x": 488439.326,
+  "y": 2673746.418
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 0.0,
+  "elevation": 110.275,
+  "kind": "sglabel",
+  "label": "SARCH1-1  D 1.01  R 0.71",
+  "x": 479364.443,
+  "y": 2657924.771
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 759.914,
+  "elevation": 106.49,
+  "kind": "sglabel",
+  "label": "SARCH1-2  D 0.00  R 0.00",
+  "x": 479761.9678119318,
+  "y": 2658572.4154327675
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 2082.022,
+  "elevation": 94.058,
+  "kind": "sglabel",
+  "label": "SARCH1-3  D 0.00  R 0.00",
+  "x": 480301.1122942833,
+  "y": 2659774.8737831265
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 3052.107,
+  "elevation": 85.82,
+  "kind": "sglabel",
+  "label": "SARCH1-4  D 0.00  R 0.00",
+  "x": 480652.7399866302,
+  "y": 2660678.988196904
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 4969.123,
+  "elevation": 70.215,
+  "kind": "sglabel",
+  "label": "SARCH1-5  D 0.00  R 0.00",
+  "x": 481705.0323216536,
+  "y": 2662232.536754388
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 7920.21,
+  "elevation": 49.721,
+  "kind": "sglabel",
+  "label": "SARCH1-6  D 0.00  R 0.00",
+  "x": 483992.3866209159,
+  "y": 2664093.461987275
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 9865.019,
+  "elevation": 37.751,
+  "kind": "sglabel",
+  "label": "SARCH1-7  D 0.51  R 0.14",
+  "x": 485337.00557173864,
+  "y": 2665498.553416176
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 11539.011,
+  "elevation": 27.247,
+  "kind": "sglabel",
+  "label": "SARCH1-8  D 0.51  R 2.50",
+  "x": 486500.5799165439,
+  "y": 2666701.251665304
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 12283.123,
+  "elevation": 23.134,
+  "kind": "sglabel",
+  "label": "SARCH1-9  D 0.00  R 0.00",
+  "x": 487164.6926529944,
+  "y": 2667035.431829483
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 13294.123,
+  "elevation": 17.196,
+  "kind": "sglabel",
+  "label": "SARCH1-10  D 1.91  R 1.82",
+  "x": 488047.29558152455,
+  "y": 2667513.1473585228
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 14006.73,
+  "elevation": 12.896,
+  "kind": "sglabel",
+  "label": "SARCH1-11  D 0.70  R 0.81",
+  "x": 488737.1113206496,
+  "y": 2667684.397984811
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 15096.718,
+  "elevation": 10.059,
+  "kind": "sglabel",
+  "label": "SARCH1-12  D 0.82  R 0.60",
+  "x": 489585.83519965113,
+  "y": 2668360.8701573513
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 15671.33,
+  "elevation": 6.342,
+  "kind": "sglabel",
+  "label": "SARCH1-13  D 1.09  R 1.43",
+  "x": 489970.8768150185,
+  "y": 2668757.123573711
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 17268.81,
+  "elevation": 2.236,
+  "kind": "sglabel",
+  "label": "SARCH1-14  D 1.07  R 0.64",
+  "x": 491373.5520509931,
+  "y": 2669281.4996683463
+ },
+ {
+  "alignment": "SAR-CH1-FP",
+  "station": 17552.772947642174,
+  "elevation": 1.508,
+  "kind": "sglabel",
+  "label": "SARCH1-15  D 1.91  R 2.50",
+  "x": 491606.989,
+  "y": 2669443.185
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 0.0,
+  "elevation": 27.122,
+  "kind": "sglabel",
+  "label": "SARCH2-1  D 0.57  R 0.35",
+  "x": 485564.073,
+  "y": 2667717.143
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 681,
+  "elevation": 24.828,
+  "kind": "sglabel",
+  "label": "SARCH2-2  D 0.50  R 0.42",
+  "x": 486066.25542324124,
+  "y": 2668174.4887648392
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 1718,
+  "elevation": 19.378,
+  "kind": "sglabel",
+  "label": "SARCH2-3  D 0.63  R 0.63",
+  "x": 486847.96282495745,
+  "y": 2668821.876963188
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 2235,
+  "elevation": 17.272,
+  "kind": "sglabel",
+  "label": "SARCH2-4  D 1.07  R 0.93",
+  "x": 487233.82870615105,
+  "y": 2669139.4583525006
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 3034.334,
+  "elevation": 14.532,
+  "kind": "sglabel",
+  "label": "SARCH2-5  D 0.96  R 2.50",
+  "x": 487989.36245563603,
+  "y": 2669383.267275333
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 3531.324,
+  "elevation": 11.542,
+  "kind": "sglabel",
+  "label": "SARCH2-6  D 2.15  R 2.16",
+  "x": 488331.21556591237,
+  "y": 2669679.8189514144
+ },
+ {
+  "alignment": "SAR-CH2-SM",
+  "station": 6142.290993986119,
+  "elevation": 3.185,
+  "kind": "sglabel",
+  "label": "SARCH2-7  D 0.00  R 2.50",
+  "x": 489903.204,
+  "y": 2671321.425
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 0.0,
+  "elevation": 101.051,
+  "kind": "sglabel",
+  "label": "SARCH3-1  D 0.00  R 0.00",
+  "x": 480526.968,
+  "y": 2658672.685
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 3014.298,
+  "elevation": 74.957,
+  "kind": "sglabel",
+  "label": "SARCH3-2  D 1.00  R 0.74",
+  "x": 482798.39523175225,
+  "y": 2660557.888155565
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 3774.206,
+  "elevation": 70.727,
+  "kind": "sglabel",
+  "label": "SARCH3-3  D 0.51  R 0.00",
+  "x": 483312.79464299534,
+  "y": 2661100.697821018
+ },
+ {
+  "alignment": "SAR-CH3-SS",
+  "station": 5953.298,
+  "elevation": 54.466,
+  "kind": "sglabel",
+  "label": "SARCH3-4  D 0.51  R 0.52",
+  "x": 483870.9058999447,
+  "y": 2663190.1881034
+ },
+ {
+  "alignment": "SAR-CH4-SS",
+  "station": 0.0,
+  "elevation": 20.342,
+  "kind": "sglabel",
+  "label": "SARCH4-1  D 0.52  R 0.81",
+  "x": 487056.084,
+  "y": 2668117.391
+ },
+ {
+  "alignment": "SAR-CH4-SS",
+  "station": 2373.772,
+  "elevation": 11.627,
+  "kind": "sglabel",
+  "label": "SARCH4-2  D 0.53  R 2.50",
+  "x": 489296.84845170536,
+  "y": 2668547.1427606875
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 0.0,
+  "elevation": 37.189,
+  "kind": "sglabel",
+  "label": "SHACH1-1  D 0.00  R 0.00",
+  "x": 497417.646,
+  "y": 2653484.875
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 719.991,
+  "elevation": 34.353,
+  "kind": "sglabel",
+  "label": "SHACH1-2  D 0.00  R 0.00",
+  "x": 497784.5137457882,
+  "y": 2654103.8693961618
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 1295.389,
+  "elevation": 30.552,
+  "kind": "sglabel",
+  "label": "SHACH1-3  D 1.08  R 0.92",
+  "x": 498225.9006415821,
+  "y": 2654468.9819984133
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 1910.41,
+  "elevation": 27.975,
+  "kind": "sglabel",
+  "label": "SHACH1-4  D 0.00  R 0.00",
+  "x": 498727.44208197563,
+  "y": 2654824.9412854235
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 3001.83,
+  "elevation": 22.22,
+  "kind": "sglabel",
+  "label": "SHACH1-5  D 0.00  R 2.50",
+  "x": 499586.9359742999,
+  "y": 2655493.5803239783
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 3501.83,
+  "elevation": 19.887,
+  "kind": "sglabel",
+  "label": "SHACH1-6  D 0.62  R 0.00",
+  "x": 499888.7440915023,
+  "y": 2655891.7362810397
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 4489.204,
+  "elevation": 15.281,
+  "kind": "sglabel",
+  "label": "SHACH1-7  D 0.00  R 0.00",
+  "x": 500519.65007804584,
+  "y": 2656618.427999121
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 4870.15,
+  "elevation": 12.172,
+  "kind": "sglabel",
+  "label": "SHACH1-8  D 0.85  R 1.04",
+  "x": 500769.500780048,
+  "y": 2656904.9351440184
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 5223.17,
+  "elevation": 10.006,
+  "kind": "sglabel",
+  "label": "SHACH1-9  D 1.57  R 1.24",
+  "x": 501086.8575681212,
+  "y": 2657050.658512088
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 5616.309,
+  "elevation": 7.594,
+  "kind": "sglabel",
+  "label": "SHACH1-10  D 1.83  R 1.63",
+  "x": 501470.68364037125,
+  "y": 2657130.351213499
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 6625.02,
+  "elevation": 6.389,
+  "kind": "sglabel",
+  "label": "SHACH1-11  D 0.00  R 0.00",
+  "x": 502199.9272593449,
+  "y": 2657816.99330604
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 7123.991,
+  "elevation": 1.951,
+  "kind": "sglabel",
+  "label": "SHACH1-12  D 3.27  R 3.86",
+  "x": 502528.0105836729,
+  "y": 2658179.419442317
+ },
+ {
+  "alignment": "SHA-CH1-FP",
+  "station": 8044.194325308166,
+  "elevation": -0.7,
+  "kind": "sglabel",
+  "label": "SHACH1-13  D 2.66  R 3.00",
+  "x": 503020.201,
+  "y": 2658939.912
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 0.0,
+  "elevation": 85.719,
+  "kind": "sglabel",
+  "label": "SHACH2-1  D 2.02  R 1.38",
+  "x": 484434.548,
+  "y": 2657498.175
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 1648.815,
+  "elevation": 75.778,
+  "kind": "sglabel",
+  "label": "SHACH2-2  D 0.00  R 0.00",
+  "x": 484813.23988547263,
+  "y": 2659096.973694687
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 2958.468,
+  "elevation": 65.114,
+  "kind": "sglabel",
+  "label": "SHACH2-3  D 2.31  R 2.26",
+  "x": 485246.1673929783,
+  "y": 2660294.3230716735
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 3923.166,
+  "elevation": 59.805,
+  "kind": "sglabel",
+  "label": "SHACH2-4  D 0.50  R 0.17",
+  "x": 485636.3394268462,
+  "y": 2661166.9547007256
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 6187.468,
+  "elevation": 42.976,
+  "kind": "sglabel",
+  "label": "SHACH2-5  D 0.51  R 0.04",
+  "x": 486530.33738895395,
+  "y": 2663235.6821820857
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 8970.679,
+  "elevation": 27.3,
+  "kind": "sglabel",
+  "label": "SHACH2-6  D 0.00  R 2.50",
+  "x": 487290.9420157152,
+  "y": 2665910.6427127356
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 9470.85,
+  "elevation": 24.023,
+  "kind": "sglabel",
+  "label": "SHACH2-7  D 0.00  R 0.00",
+  "x": 487630.6470666158,
+  "y": 2666277.0250934754
+ },
+ {
+  "alignment": "SHA-CH2-SM",
+  "station": 10184.468,
+  "elevation": 20.946,
+  "kind": "sglabel",
+  "label": "SHACH2-8  D 0.50  R 0.16",
+  "x": 488209.75929008744,
+  "y": 2666596.8783309017
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 0.0,
+  "elevation": 81.123,
+  "kind": "sglabel",
+  "label": "SHACH3-1  D 0.51  R 0.52",
+  "x": 489262.289,
+  "y": 2654555.543
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 863.127,
+  "elevation": 73.878,
+  "kind": "sglabel",
+  "label": "SHACH3-2  D 2.01  R 2.04",
+  "x": 489988.29017273104,
+  "y": 2654908.9738502717
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 1693.127,
+  "elevation": 69.022,
+  "kind": "sglabel",
+  "label": "SHACH3-3  D 1.20  R 1.02",
+  "x": 490681.3840014178,
+  "y": 2655116.633494181
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 2239.127,
+  "elevation": 64.721,
+  "kind": "sglabel",
+  "label": "SHACH3-4  D 2.81  R 2.76",
+  "x": 491226.4706690643,
+  "y": 2655107.569798709
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 4269.351,
+  "elevation": 54.506,
+  "kind": "sglabel",
+  "label": "SHACH3-5  D 0.00  R 0.00",
+  "x": 492700.2984615255,
+  "y": 2656200.1426605447
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 5936.612,
+  "elevation": 40.268,
+  "kind": "sglabel",
+  "label": "SHACH3-6  D 0.50  R 0.19",
+  "x": 493467.6690870298,
+  "y": 2657670.4028479382
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8040.3,
+  "elevation": 25.29,
+  "kind": "sglabel",
+  "label": "SHACH3-7  D 1.49  R 0.82",
+  "x": 493994.59146803996,
+  "y": 2659660.6724241064
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8494.333,
+  "elevation": 22.222,
+  "kind": "sglabel",
+  "label": "SHACH3-8  D 1.06  R 2.50",
+  "x": 494023.1153814577,
+  "y": 2660112.142779763
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 8994.33,
+  "elevation": 19.545,
+  "kind": "sglabel",
+  "label": "SHACH3-9  D 1.10  R 1.08",
+  "x": 494197.93187640054,
+  "y": 2660572.247891333
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 10300.127,
+  "elevation": 12.552,
+  "kind": "sglabel",
+  "label": "SHACH3-10  D 1.17  R 1.18",
+  "x": 494744.4050691262,
+  "y": 2661653.937974584
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 10803.119,
+  "elevation": 11.085,
+  "kind": "sglabel",
+  "label": "SHACH3-11  D 0.57  R 0.57",
+  "x": 495090.88037056575,
+  "y": 2661984.5226829853
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 11287.547,
+  "elevation": 8.658,
+  "kind": "sglabel",
+  "label": "SHACH3-12  D 0.90  R 0.87",
+  "x": 495365.4744781409,
+  "y": 2662356.877740476
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 12178.32,
+  "elevation": 6.157,
+  "kind": "sglabel",
+  "label": "SHACH3-13  D 0.00  R 0.00",
+  "x": 496089.7116625541,
+  "y": 2662766.2384577543
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 12621.751,
+  "elevation": 4.912,
+  "kind": "sglabel",
+  "label": "SHACH3-14  D 0.52  R 0.27",
+  "x": 496248.95155268576,
+  "y": 2663162.1433532126
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13063.74,
+  "elevation": 2.883,
+  "kind": "sglabel",
+  "label": "SHACH3-15  D 0.61  R 0.46",
+  "x": 496523.50712814415,
+  "y": 2663507.4454200068
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13792.69,
+  "elevation": 1.109,
+  "kind": "sglabel",
+  "label": "SHACH3-16  D 0.00  R 0.00",
+  "x": 497168.76921433734,
+  "y": 2663623.9043415952
+ },
+ {
+  "alignment": "SHA-CH3-SM",
+  "station": 13878.416245917326,
+  "elevation": 0.901,
+  "kind": "sglabel",
+  "label": "SHACH3-17  D 0.57  R 2.50",
+  "x": 497237.579,
+  "y": 2663673.041
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 0.0,
+  "elevation": 38.186,
+  "kind": "sglabel",
+  "label": "SHACH4-1  D 0.52  R 0.00",
+  "x": 489340.449,
+  "y": 2660432.711
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 780.503,
+  "elevation": 35.036,
+  "kind": "sglabel",
+  "label": "SHACH4-2  D 0.00  R 0.00",
+  "x": 489857.4829283947,
+  "y": 2661017.3996777576
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 1969.411,
+  "elevation": 28.252,
+  "kind": "sglabel",
+  "label": "SHACH4-3  D 0.64  R 0.53",
+  "x": 490645.05936787004,
+  "y": 2661908.0318040857
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 2931.158,
+  "elevation": 23.738,
+  "kind": "sglabel",
+  "label": "SHACH4-4  D 0.00  R 2.50",
+  "x": 491293.41491463536,
+  "y": 2662573.181750937
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 3802.254,
+  "elevation": 16.35,
+  "kind": "sglabel",
+  "label": "SHACH4-5  D 3.04  R 3.29",
+  "x": 491716.1093453758,
+  "y": 2663291.5524064596
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 5381.06,
+  "elevation": 11.335,
+  "kind": "sglabel",
+  "label": "SHACH4-6  D 0.69  R 2.50",
+  "x": 492612.53491092345,
+  "y": 2664538.489175004
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 5881.06,
+  "elevation": 9.746,
+  "kind": "sglabel",
+  "label": "SHACH4-7  D 1.14  R 0.77",
+  "x": 492875.83954950504,
+  "y": 2664939.081625829
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 6718.254,
+  "elevation": 7.087,
+  "kind": "sglabel",
+  "label": "SHACH4-8  D 0.53  R 0.42",
+  "x": 493306.85480001447,
+  "y": 2665647.423111526
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 7307.158,
+  "elevation": 3.722,
+  "kind": "sglabel",
+  "label": "SHACH4-9  D 0.52  R 0.60",
+  "x": 493488.47183079424,
+  "y": 2666166.626084637
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 8167.89,
+  "elevation": 1.707,
+  "kind": "sglabel",
+  "label": "SHACH4-10  D 0.50  R 0.35",
+  "x": 493716.5321068271,
+  "y": 2666868.260534138
+ },
+ {
+  "alignment": "SHA-CH4-SM",
+  "station": 8276.833751493881,
+  "elevation": 1.454,
+  "kind": "sglabel",
+  "label": "SHACH4-11  D 0.51  R 2.50",
+  "x": 493780.422,
+  "y": 2666956.242
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 0.0,
+  "elevation": 51.132,
+  "kind": "sglabel",
+  "label": "SHACH5-1  D 2.15  R 2.13",
+  "x": 490796.79,
+  "y": 2657506.904
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 4767.56,
+  "elevation": 24.352,
+  "kind": "sglabel",
+  "label": "SHACH5-2  D 0.51  R 2.50",
+  "x": 492521.73792122945,
+  "y": 2661342.26502326
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 5784.76,
+  "elevation": 18.638,
+  "kind": "sglabel",
+  "label": "SHACH5-3  D 1.14  R 0.00",
+  "x": 492804.96046266326,
+  "y": 2662305.9856961416
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 7182.574,
+  "elevation": 11.451,
+  "kind": "sglabel",
+  "label": "SHACH5-4  D 1.57  R 2.50",
+  "x": 494017.37978395406,
+  "y": 2662929.142945137
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 7682.57,
+  "elevation": 9.452,
+  "kind": "sglabel",
+  "label": "SHACH5-5  D 0.52  R 1.21",
+  "x": 494473.0851176546,
+  "y": 2663056.282436167
+ },
+ {
+  "alignment": "SHA-CH5-SM",
+  "station": 8232.248,
+  "elevation": 7.254,
+  "kind": "sglabel",
+  "label": "SHACH5-6  D 1.21  R 1.23",
+  "x": 494944.7147987416,
+  "y": 2663334.3231759584
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 0.0,
+  "elevation": 22.815,
+  "kind": "sglabel",
+  "label": "SHACH6-1  D 0.51  R 0.86",
+  "x": 497356.129,
+  "y": 2657425.076
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 1717,
+  "elevation": 16.326,
+  "kind": "sglabel",
+  "label": "SHACH6-2  D 0.50  R 0.43",
+  "x": 498776.48519503785,
+  "y": 2658339.8057383886
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 3023.39,
+  "elevation": 12.457,
+  "kind": "sglabel",
+  "label": "SHACH6-3  D 0.50  R 2.50",
+  "x": 499675.2754087589,
+  "y": 2659191.081983713
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 3523.39,
+  "elevation": 10.977,
+  "kind": "sglabel",
+  "label": "SHACH6-4  D 0.50  R 0.00",
+  "x": 499713.9348512798,
+  "y": 2659682.230821927
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 4406,
+  "elevation": 8.363,
+  "kind": "sglabel",
+  "label": "SHACH6-5  D 0.00  R 0.00",
+  "x": 499949.23561833426,
+  "y": 2660398.979613414
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 4757,
+  "elevation": 6.139,
+  "kind": "sglabel",
+  "label": "SHACH6-6  D 0.50  R 0.11",
+  "x": 500161.4611971069,
+  "y": 2660654.0971387504
+ },
+ {
+  "alignment": "SHA-CH6-SM",
+  "station": 5159.078474859891,
+  "elevation": 0.432,
+  "kind": "sglabel",
+  "label": "SHACH6-7  D 3.67  R 2.50",
+  "x": 500433.617,
+  "y": 2660922.378
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 0.0,
+  "elevation": 34.577,
+  "kind": "sglabel",
+  "label": "SHACH7-1  D 1.11  R 0.46",
+  "x": 500500.395,
+  "y": 2652389.545
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 698.1,
+  "elevation": 30.151,
+  "kind": "sglabel",
+  "label": "SHACH7-2  D 0.00  R 0.00",
+  "x": 501105.4540158104,
+  "y": 2652731.681809607
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 1867.854,
+  "elevation": 22.73,
+  "kind": "sglabel",
+  "label": "SHACH7-3  D 1.09  R 2.50",
+  "x": 501803.35061749845,
+  "y": 2653543.2957856087
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 2694.398,
+  "elevation": 18.654,
+  "kind": "sglabel",
+  "label": "SHACH7-4  D 0.50  R 0.41",
+  "x": 502453.2126885561,
+  "y": 2654018.8845341476
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 3702.434,
+  "elevation": 14.555,
+  "kind": "sglabel",
+  "label": "SHACH7-5  D 1.44  R 1.43",
+  "x": 503399.83728242567,
+  "y": 2654281.239710168
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 4377.398,
+  "elevation": 12.374,
+  "kind": "sglabel",
+  "label": "SHACH7-6  D 1.34  R 1.20",
+  "x": 503825.712109676,
+  "y": 2654728.9180564154
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 5037.824,
+  "elevation": 11.487,
+  "kind": "sglabel",
+  "label": "SHACH7-7  D 1.18  R 0.95",
+  "x": 504383.81843794085,
+  "y": 2655055.8896900876
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 5736.722,
+  "elevation": 9.265,
+  "kind": "sglabel",
+  "label": "SHACH7-8  D 0.55  R 0.45",
+  "x": 504658.6967991011,
+  "y": 2655671.6429953957
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 6429.989,
+  "elevation": 7.802,
+  "kind": "sglabel",
+  "label": "SHACH7-9  D 0.00  R 0.00",
+  "x": 505178.41339376,
+  "y": 2656109.742714954
+ },
+ {
+  "alignment": "SHA-CH7-SM",
+  "station": 7405.933514744044,
+  "elevation": 2.661,
+  "kind": "sglabel",
+  "label": "SHACH7-10  D 1.94  R 2.50",
+  "x": 506013.268,
+  "y": 2656565.588
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 0.0,
+  "elevation": 27.17,
+  "kind": "sglabel",
+  "label": "SHACH8-1  D 0.52  R 0.00",
+  "x": 487997.582,
+  "y": 2665303.592
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 1392.19,
+  "elevation": 18.53,
+  "kind": "sglabel",
+  "label": "SHACH8-2  D 0.51  R 0.53",
+  "x": 488885.2552288911,
+  "y": 2666356.0176711264
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 3290.951,
+  "elevation": 10.773,
+  "kind": "sglabel",
+  "label": "SHACH8-3  D 1.32  R 2.50",
+  "x": 490187.7398978008,
+  "y": 2667608.9745797524
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 3879.989,
+  "elevation": 8.972,
+  "kind": "sglabel",
+  "label": "SHACH8-4  D 1.13  R 0.62",
+  "x": 490755.98320206057,
+  "y": 2667708.4397609862
+ },
+ {
+  "alignment": "SHA-CH8-SS",
+  "station": 4527.19,
+  "elevation": 8.232,
+  "kind": "sglabel",
+  "label": "SHACH8-5  D 0.00  R 0.00",
+  "x": 491170.22891825764,
+  "y": 2668155.8025080706
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 0.0,
+  "elevation": 27.236,
+  "kind": "sglabel",
+  "label": "SHACH9-1  D 0.00  R 0.00",
+  "x": 488682.588,
+  "y": 2664680.252
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 2229.601,
+  "elevation": 14.945,
+  "kind": "sglabel",
+  "label": "SHACH9-2  D 0.51  R 0.00",
+  "x": 490511.55422230694,
+  "y": 2665893.3286475562
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 2629,
+  "elevation": 11.952,
+  "kind": "sglabel",
+  "label": "SHACH9-3  D 0.93  R 0.92",
+  "x": 490890.68996744324,
+  "y": 2666016.7923929514
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 3331.76,
+  "elevation": 10.394,
+  "kind": "sglabel",
+  "label": "SHACH9-4  D 0.98  R 2.50",
+  "x": 491518.85212445626,
+  "y": 2666017.549871093
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 3900.4,
+  "elevation": 6.97,
+  "kind": "sglabel",
+  "label": "SHACH9-5  D 1.11  R 1.14",
+  "x": 491878.2614492976,
+  "y": 2666437.862339946
+ },
+ {
+  "alignment": "SHA-CH9-SS",
+  "station": 4695,
+  "elevation": 4.334,
+  "kind": "sglabel",
+  "label": "SHACH9-6  D 0.00  R 0.00",
+  "x": 492546.3384154376,
+  "y": 2666848.627616993
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 0.0,
+  "elevation": 26.54,
+  "kind": "sglabel",
+  "label": "SHACH10-1  D 0.70  R 0.76",
+  "x": 489368.83,
+  "y": 2664085.205
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 1941,
+  "elevation": 15.095,
+  "kind": "sglabel",
+  "label": "SHACH10-2  D 0.51  R 0.36",
+  "x": 491077.1307884308,
+  "y": 2664953.666229186
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 2944.727,
+  "elevation": 11.321,
+  "kind": "sglabel",
+  "label": "SHACH10-3  D 0.57  R 2.50",
+  "x": 491972.1149438032,
+  "y": 2665350.2960040416
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 3754,
+  "elevation": 6.158,
+  "kind": "sglabel",
+  "label": "SHACH10-4  D 1.09  R 0.88",
+  "x": 492448.84293878905,
+  "y": 2665951.4770858423
+ },
+ {
+  "alignment": "SHA-CH10-SS",
+  "station": 4798.39,
+  "elevation": 3.811,
+  "kind": "sglabel",
+  "label": "SHACH10-5  D 0.00  R 0.00",
+  "x": 493222.7613603448,
+  "y": 2666574.7852200014
+ },
+ {
+  "alignment": "SHA-CH11-SS",
+  "station": 0.0,
+  "elevation": 30.605,
+  "kind": "sglabel",
+  "label": "SHACH11-1  D 0.50  R 0.24",
+  "x": 490836.162,
+  "y": 2661048.384
+ },
+ {
+  "alignment": "SHA-CH11-SS",
+  "station": 1352.48,
+  "elevation": 23.937,
+  "kind": "sglabel",
+  "label": "SHACH11-2  D 0.51  R 2.50",
+  "x": 491892.7787702244,
+  "y": 2661869.9128298364
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 0.0,
+  "elevation": 54.938,
+  "kind": "sglabel",
+  "label": "SHACH12-1  D 0.59  R 0.59",
+  "x": 491894.609,
+  "y": 2656696.81
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 649.358,
+  "elevation": 49.541,
+  "kind": "sglabel",
+  "label": "SHACH12-2  D 0.88  R 0.84",
+  "x": 492174.3301662377,
+  "y": 2657273.550454005
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 1448.872,
+  "elevation": 44.347,
+  "kind": "sglabel",
+  "label": "SHACH12-3  D 0.00  R 0.00",
+  "x": 492696.0821495501,
+  "y": 2657853.300723781
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 2524.452,
+  "elevation": 35.367,
+  "kind": "sglabel",
+  "label": "SHACH12-4  D 0.83  R 0.82",
+  "x": 493413.4718371504,
+  "y": 2658582.910965694
+ },
+ {
+  "alignment": "SHA-CH12-SS",
+  "station": 3025.289,
+  "elevation": 30.574,
+  "kind": "sglabel",
+  "label": "SHACH12-5  D 1.51  R 1.37",
+  "x": 493607.06352146517,
+  "y": 2659044.8200047193
+ },
+ {
+  "alignment": "SHA-CH13-SS",
+  "station": 0.0,
+  "elevation": 55.81,
+  "kind": "sglabel",
+  "label": "SHACH13-1  D 2.74  R 2.50",
+  "x": 494670.051,
+  "y": 2651148.56
+ },
+ {
+  "alignment": "SHA-CH13-SS",
+  "station": 1642.156939931675,
+  "elevation": 47.613,
+  "kind": "sglabel",
+  "label": "SHACH13-2  D 0.62  R 2.50",
+  "x": 496023.077,
+  "y": 2651895.899
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 0.0,
+  "elevation": 25.132,
+  "kind": "sglabel",
+  "label": "SHACH14-1  D 0.71  R 0.70",
+  "x": 494825.047,
+  "y": 2659399.163
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 1856.314,
+  "elevation": 13.788,
+  "kind": "sglabel",
+  "label": "SHACH14-2  D 0.86  R 0.73",
+  "x": 495462.1662323107,
+  "y": 2661052.5690032784
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 2509.493,
+  "elevation": 12.044,
+  "kind": "sglabel",
+  "label": "SHACH14-3  D 0.51  R 0.47",
+  "x": 495429.899067101,
+  "y": 2661583.9588318523
+ },
+ {
+  "alignment": "SHA-CH14-SS",
+  "station": 3009.49,
+  "elevation": 9.08,
+  "kind": "sglabel",
+  "label": "SHACH14-4  D 1.27  R 1.13",
+  "x": 495776.2194922374,
+  "y": 2661922.4147644346
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 0.0,
+  "elevation": 31.923,
+  "kind": "sglabel",
+  "label": "SHACH15-1  D 0.52  R 0.54",
+  "x": 495097.179,
+  "y": 2658111.631
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 820.774,
+  "elevation": 26.415,
+  "kind": "sglabel",
+  "label": "SHACH15-2  D 0.52  R 2.50",
+  "x": 495657.31989916647,
+  "y": 2658711.557772329
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 1480.089,
+  "elevation": 20.875,
+  "kind": "sglabel",
+  "label": "SHACH15-3  D 0.51  R 0.27",
+  "x": 496032.5513176808,
+  "y": 2659250.2001989116
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 2323.089,
+  "elevation": 16.937,
+  "kind": "sglabel",
+  "label": "SHACH15-4  D 3.39  R 0.11",
+  "x": 496355.94001727254,
+  "y": 2660028.6573879635
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 2881.683,
+  "elevation": 14.098,
+  "kind": "sglabel",
+  "label": "SHACH15-5  D 0.52  R 0.25",
+  "x": 496610.2403193768,
+  "y": 2660519.9529283186
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 3381.68,
+  "elevation": 11.52,
+  "kind": "sglabel",
+  "label": "SHACH15-6  D 1.29  R 1.28",
+  "x": 496879.73750172294,
+  "y": 2660925.451408625
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 4587.089,
+  "elevation": 8.535,
+  "kind": "sglabel",
+  "label": "SHACH15-7  D 0.00  R 0.00",
+  "x": 497523.67069187755,
+  "y": 2661870.290225577
+ },
+ {
+  "alignment": "SHA-CH15-SS",
+  "station": 5396.089,
+  "elevation": 4.376,
+  "kind": "sglabel",
+  "label": "SHACH15-8  D 0.00  R 0.00",
+  "x": 497559.1894033428,
+  "y": 2662521.087267783
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 0.0,
+  "elevation": 34.518,
+  "kind": "sglabel",
+  "label": "SHACH16-1  D 0.50  R 0.01",
+  "x": 495401.979,
+  "y": 2657338.16
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 1505.282,
+  "elevation": 24.125,
+  "kind": "sglabel",
+  "label": "SHACH16-2  D 0.58  R 2.50",
+  "x": 496689.7944341598,
+  "y": 2658063.3325107093
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 2005.483,
+  "elevation": 21.756,
+  "kind": "sglabel",
+  "label": "SHACH16-3  D 0.53  R 0.38",
+  "x": 497052.7402982074,
+  "y": 2658389.999868819
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 2672.282,
+  "elevation": 17.99,
+  "kind": "sglabel",
+  "label": "SHACH16-4  D 1.31  R 1.30",
+  "x": 497469.2610923716,
+  "y": 2658910.4464951414
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 3722.282,
+  "elevation": 14.369,
+  "kind": "sglabel",
+  "label": "SHACH16-5  D 0.90  R 2.50",
+  "x": 498162.6351799811,
+  "y": 2659599.820072315
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 4221.764,
+  "elevation": 12.765,
+  "kind": "sglabel",
+  "label": "SHACH16-6  D 0.51  R 0.55",
+  "x": 498425.1355424157,
+  "y": 2660021.193198671
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 6108.282,
+  "elevation": 4.188,
+  "kind": "sglabel",
+  "label": "SHACH16-7  D 0.51  R 0.10",
+  "x": 499143.54508034576,
+  "y": 2661647.238403626
+ },
+ {
+  "alignment": "SHA-CH16-SS",
+  "station": 6425.457847223141,
+  "elevation": 2.159,
+  "kind": "sglabel",
+  "label": "SHACH16-8  D 1.61  R 2.50",
+  "x": 499397.789,
+  "y": 2661810.458
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 0.0,
+  "elevation": 39.612,
+  "kind": "sglabel",
+  "label": "SHACH17-1  D 0.50  R 0.07",
+  "x": 496250.697,
+  "y": 2655177.696
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 1762.052,
+  "elevation": 27.09,
+  "kind": "sglabel",
+  "label": "SHACH17-2  D 0.50  R 0.48",
+  "x": 497713.9978437464,
+  "y": 2656159.3160341247
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 2732.052,
+  "elevation": 21.526,
+  "kind": "sglabel",
+  "label": "SHACH17-3  D 0.81  R 2.50",
+  "x": 498614.5365685734,
+  "y": 2656354.3771410733
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 3232.05,
+  "elevation": 19.496,
+  "kind": "sglabel",
+  "label": "SHACH17-4  D 0.51  R 0.58",
+  "x": 499018.8525161081,
+  "y": 2656645.3456561146
+ },
+ {
+  "alignment": "SHA-CH17-SS",
+  "station": 4404.052,
+  "elevation": 14.736,
+  "kind": "sglabel",
+  "label": "SHACH17-5  D 1.07  R 0.65",
+  "x": 500070.98604210076,
+  "y": 2656985.3270316687
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 0.0,
+  "elevation": 25.996,
+  "kind": "sglabel",
+  "label": "SHACH18-1  D 0.00  R 0.00",
+  "x": 499455.557,
+  "y": 2654588.163
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 732.757,
+  "elevation": 22.525,
+  "kind": "sglabel",
+  "label": "SHACH18-2  D 0.51  R 2.50",
+  "x": 499947.51314402366,
+  "y": 2655131.220983466
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 1232.76,
+  "elevation": 19.24,
+  "kind": "sglabel",
+  "label": "SHACH18-3  D 0.50  R 0.00",
+  "x": 500292.384448925,
+  "y": 2655492.604692287
+ },
+ {
+  "alignment": "SHA-CH18-SS",
+  "station": 1769.273,
+  "elevation": 17.885,
+  "kind": "sglabel",
+  "label": "SHACH18-4  D 0.00  R 0.00",
+  "x": 500411.8186293397,
+  "y": 2656003.8397167707
+ },
+ {
+  "alignment": "SHA-CH19-SS",
+  "station": 0.0,
+  "elevation": 12.034,
+  "kind": "sglabel",
+  "label": "SHACH19-1  D 0.54  R 0.24",
+  "x": 499844.235,
+  "y": 2659164.213
+ },
+ {
+  "alignment": "SHA-CH19-SS",
+  "station": 1811.9724691968663,
+  "elevation": 5.46,
+  "kind": "sglabel",
+  "label": "SHACH19-2  D 0.00  R 2.50",
+  "x": 500902.318,
+  "y": 2660483.53
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 0.0,
+  "elevation": 21.204,
+  "kind": "sglabel",
+  "label": "SHACH20-1  D 0.78  R 1.10",
+  "x": 500134.649,
+  "y": 2654978.032
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 858.43,
+  "elevation": 17.535,
+  "kind": "sglabel",
+  "label": "SHACH20-2  D 0.00  R 0.00",
+  "x": 500766.5416663254,
+  "y": 2655540.642883493
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 2101.15,
+  "elevation": 11.699,
+  "kind": "sglabel",
+  "label": "SHACH20-3  D 0.54  R 0.34",
+  "x": 501769.8089961899,
+  "y": 2656257.0514591243
+ },
+ {
+  "alignment": "SHA-CH20-SS",
+  "station": 3141.15,
+  "elevation": 8.089,
+  "kind": "sglabel",
+  "label": "SHACH20-4  D 1.41  R 1.20",
+  "x": 502159.57454006746,
+  "y": 2657207.166108992
+ },
+ {
+  "alignment": "SHA-CH21-SS",
+  "station": 0.0,
+  "elevation": 36.02,
+  "kind": "sglabel",
+  "label": "SHACH21-1  D 1.00  R 0.90",
+  "x": 500790.893,
+  "y": 2651694.056
+ }
+]

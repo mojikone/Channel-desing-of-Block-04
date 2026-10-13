@@ -1,0 +1,49 @@
+R3 opened: manholes 212, outfalls 15, SHACH13-C1 SHACH13-1 -> SHACH13-O15
+design scope: flags off on 211 conduits and 225 nodes
+######## 2 yr (scenario 1) 12:54:10 AM
+  '2 yr' ran in 297 s, results: True
+  design pass 1: 0 pipe sizes changed
+  exported '2yr': 212 conduits, 227 nodes
+######## 5 yr (scenario 2050) 12:59:08 AM
+  '5 yr' ran in 306 s, results: True
+  design pass 1: 0 pipe sizes changed
+  exported '5yr': 212 conduits, 227 nodes
+######## 10 yr (scenario 2051) 1:04:15 AM
+  '10 yr' ran in 278 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '10 yr' ran in 326 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '10yr': 212 conduits, 227 nodes
+######## 25 yr (scenario 2052) 1:14:19 AM
+  '25 yr' ran in 319 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '25 yr' ran in 251 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '25yr': 212 conduits, 227 nodes
+######## 50 yr (scenario 2053) 1:23:51 AM
+  '50 yr' ran in 317 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '50 yr' ran in 314 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '50yr': 212 conduits, 227 nodes
+######## 100 yr (scenario 2054) 1:34:22 AM
+  '100 yr' ran in 308 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '100 yr' ran in 312 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '100yr': 212 conduits, 227 nodes
+######## 500 yr (scenario 2056) 1:44:44 AM
+  '500 yr' ran in 289 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '500 yr' ran in 291 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '500yr': 212 conduits, 227 nodes
+reopened R3: conduits with design off: 0, outfalls 15
+result file for scenario 1 from this run
+result file for scenario 2050 from this run
+result file for scenario 2051 from this run
+result file for scenario 2052 from this run
+result file for scenario 2053 from this run
+result file for scenario 2054 from this run
+result file for scenario 2056 from this run
+delivered R3 again with the seven result files of this run

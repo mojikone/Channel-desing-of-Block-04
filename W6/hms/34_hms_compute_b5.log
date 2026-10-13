@@ -1,0 +1,16 @@
+project opened
+project object: hms.model.Project@3e987e10
+DA 2yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 1 s
+DA 5yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:07. in 7 s
+DA 10yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:03. in 3 s
+DA 25yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 50yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 3 s
+DA 100yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 200yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 500yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:01. in 0 s
+DA 1000yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 2000yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 5000yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA 10000yr B5 -> NOTE 15312:  The total runtime for this simulation is 00:00. in 0 s
+DA PMP B5 -> NOTE 15312:  The total runtime for this simulation is 00:01. in 0 s
+done

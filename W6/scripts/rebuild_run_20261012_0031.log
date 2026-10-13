@@ -1,0 +1,69 @@
+D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\scripts\50_rebuild_after_run.py:9: SyntaxWarning: invalid escape sequence '\S'
+  python 50_rebuild_after_run.py --run run_20261012_0031 --sqlite "<...>\SewerGEMS Block 04_R3.stsw.sqlite"
+1. exports copied: ['conduits_100yr.csv', 'conduits_10yr.csv', 'conduits_200yr.csv', 'conduits_25yr.csv', 'conduits_2yr.csv', 'conduits_500yr.csv', 'conduits_50yr.csv', 'conduits_5yr.csv', 'nodes_100yr.csv', 'nodes_10yr.csv', 'nodes_200yr.csv', 'nodes_25yr.csv', 'nodes_2yr.csv', 'nodes_500yr.csv', 'nodes_50yr.csv', 'nodes_5yr.csv']
+
+### 2. size labels from the revision's database  (python.exe 48_fix_size_labels.py --run run_20261012_0031 --sqlite SewerGEMS Block 04_R3.stsw.sqlite)
+    - **10yr** (scenario 2051, physical alternative 2062 "10 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alterna
+    - **25yr** (scenario 2052, physical alternative 2063 "25 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alterna
+    - **50yr** (scenario 2053, physical alternative 2064 "50 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alterna
+    - **100yr** (scenario 2054, physical alternative 2065 "100 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alter
+    - **200yr** (scenario 2055, physical alternative 2066 "200 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alter
+    - **500yr** (scenario 2056, physical alternative 2067 "500 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alter
+    -> ok in 0 s
+3. profile_paths.csv: SHACH13-2 -> SHACH13-O15
+
+### 4. review tables and summary  (python.exe 45_sewergems_results.py run_20261012_0031)
+    | 1392.5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |
+    
+    ## Per scenario
+    - **2yr**: widths 10.0 to 19.5 m (median 10.0); depth 3 m on SHACH1-C12, HAWCH1-C7; velocity 0.00 to 2.94 m/s (0 conduits over 3 m/s); 0 nodes with the HGL abov
+    - **5yr**: widths 10.0 to 82.0 m (median 10.0); depth 3 m on SHACH1-C12, HAWCH1-C7; velocity 0.00 to 3.95 m/s (28 conduits over 3 m/s); 0 nodes with the HGL abo
+    ...written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\results\run_20261012_0031
+    -> ok in 0 s
+
+### 5. profile DXFs, all channels and scenarios  (python.exe 49_sg_profile_dxf_all.py --run run_20261012_0031)
+    37 profiles x 8 scenarios: 296 written, 0 failed, 30 s
+    -> ok in 30 s
+
+### 6a. buffers  (python.exe make_buffers.py --run run_20261012_0031)
+    bed: MultiPolygon, 16 parts, 20.21 km2 | corridor: MultiPolygon, 16 parts, 24.58 km2 -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewerge
+    -> ok in 1 s
+6b. 200-yr profile DXFs copied into the sheet pipeline: 37
+
+### 6c. sheets and key maps, all channels  (python.exe run_all.py)
+      Drawing profile...
+      Drawing plan...
+      Saved: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\DXF\SHA-CH9-SS-Sheet01_v6053.dxf
+    
+    ============================================================
+    All done in 81s  (277/277 OK, 37 channels)
+    -> ok in 82 s
+
+### 6d. PDFs and combined PDFs  (python.exe export_pdf.py)
+      Combined: SHA-CH5-SM.pdf  (11 pages, 14.7 MB)
+      Combined: SHA-CH6-SM.pdf  (7 pages, 10.7 MB)
+      Combined: SHA-CH7-SM.pdf  (9 pages, 12.3 MB)
+      Combined: SHA-CH8-SS.pdf  (7 pages, 10.1 MB)
+      Combined: SHA-CH9-SS.pdf  (7 pages, 10.5 MB)
+    Output: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\PDF
+    -> ok in 58 s
+
+### 6e. the set  (python.exe make_set.py)
+      VF#09  8+000–9+000  brg=60.1°  ctr=(480360,2668407)
+      VF#10  9+000–10+000  brg=20.8°  ctr=(480901,2669213)
+      VF#11  10+000–11+000  brg=18.0°  ctr=(481210,2670164)
+      VF#12  11+000–12+000  brg=18.0°  ctr=(481519,2671115)
+      VF#13  12+000–12+466  brg=18.0°  ctr=(481745,2671813)
+    set: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\PDF\Set\2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf  (28
+    -> ok in 2 s
+
+### 6f. gate: set PDF  (python.exe check_clean.py 2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf --terms forbidden_terms.txt --allow allowed_terms.txt --quiet)
+    clean-room gate: PASSED  (2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf)
+    -> ok in 3 s
+
+### 6g. gate: sheet DXF text  (python.exe check_clean_sheets.py --quiet)
+    clean-room gate (sheet DXF text, 277 drawings): PASSED
+    -> ok in 32 s
+
+ALL DONE in 3 min
+exit 0

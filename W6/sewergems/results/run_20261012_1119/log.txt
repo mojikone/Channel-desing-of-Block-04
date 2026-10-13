@@ -1,0 +1,12 @@
+Design_SystemMinSlope: 0.0003 -> 0.001
+Design_SystemMaxSlope: 0.02 -> 0.03
+design flags on: conduits 212 of 212
+######## 200 yr (scenario 2055), full design 11:19:05 AM
+  '200 yr' ran in 593 s, results: True
+  design pass 1: 41 pipe sizes changed
+  '200 yr' ran in 574 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+reopened R5: min slope 0.001, max slope 0.03
+result file for scenario 2055 delivered
+delivered "SewerGEMS Block 04_R5.stsw" with .sqlite, .dwh, .profiles.dwh and the 200 yr result file

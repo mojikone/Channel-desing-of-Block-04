@@ -1,0 +1,132 @@
+== support element types
+  [4] Pollutant / Pollutants  count=0
+  [5] Aquifers / Aquifers  count=0
+  [6] ControlSet / Control Sets  count=0
+  [8] LandUse / Land Use  count=0
+  [14] ExtremeFlowSetup / Extreme Flow Setup  count=0
+  [15] PatternSetup / Pattern Setup  count=0
+  [16] DimensionlessUnitHydrograph / Dimensionless Unit Hydrographs  count=0
+  [17] RTKSet / RTK Tables  count=0
+  [19] Pollutograph / Pollutographs  count=0
+  [102] TimeSeries / Time Series  count=0
+  [250] SnowPack / Snow Pack  count=0
+  [106] CatalogConduit / Conduit Catalog  count=5
+  [50] IdahoPattern / Patterns  count=0
+  [51] IdahoPumpDefinition / Pump Definitions  count=0
+  [105] StormEventGroup / Storm Data  count=0
+  [13] UnitSanitaryLoad / Unit Sanitary (Dry Weather) Loads  count=0
+  [2] CompositeOutletStructure / Composite Outlet Structure  count=0
+  [125] VortexValve / Vortex Valves  count=0
+  [111] WeirDepthCoefficient / Weir Depth Coefficient Table  count=0
+  [112] WeirSubmergence / Weir Submergence Table  count=0
+  [251] SWMMRTKUnitHydrographSet / SWMM RTK Unit Hydrographs  count=0
+  [252] PumpStation / Pump Stations  count=0
+  [103] Inlet / Inlet Catalog  count=0
+  [104] GenericHeadlossElement / Flow-Headloss Curves  count=0
+  [101] MinorLossCoefficient / Minor Loss Coefficients  count=0
+  [12] ExtremeFlowFactor / Extreme Flows  count=0
+  [54] IdahoControl / Controls  count=0
+  [55] IdahoControlAction / Actions  count=0
+  [56] IdahoControlCondition / Conditions  count=0
+  [59] IdahoLogicalControlSet / Logical Control Sets  count=0
+  [20] CatalogGutter / Gutter Catalog  count=0
+  [21] LIDControl / Low Impact Development Control  count=0
+  [113] Hydrographs / Hydrographs  count=0
+  [180] CulvertInletCoefficients / Culvert Inlet Coefficients  count=1
+  [121] PondMaker / PondMaker  count=0
+  [124] StorageChamber / Storage Chambers  count=0
+  [256] ScadaDataSource / SCADA Datasource  count=0
+  [257] ScadaSignal / SCADA Signal  count=0
+  [61] EnergyPricing / Energy Pricing  count=0
+  [9] ControlStructureElement / Conduit Control Structures  count=0
+  [261] SCADAConnectSimulator / SCADA Results Publishing Datasource  count=0
+  [260] AlertMessage / Alerts  count=0
+  [22] TimeSeriesControlData / Time Series Control Data  count=0
+  [350] TwoDDataSource / TwoDDataSource  count=0
+  [351] DigitalTerrainModel / Digital Terrain Model  count=0
+  [352] DigitalTerrainModelGroup / Digital Terrain Model Group  count=1
+  [353] LandCover / Land Cover  count=0
+  [120] RationalMethodQPeak / Rational Method Q Peak  count=0
+  [108] TR55GraphicalPeakStorage / TR-55 Graphical Peak and Storage  count=0
+  [354] ControlCurve / Control Curve  count=0
+== model members with Profile
+== data set members with Profile
+  Method get_ProfileElementManager
+  Method get_ProfileManager
+  Property ProfileElementManager
+  Property ProfileManager
+== public types named *Profile* in the loaded assemblies (first 80)
+  mscorlib : System.Runtime.ProfileOptimization
+  Haestad.Calculations.GravityDerived : Haestad.Calculations.GravityDerived.Support.ProfileHeadwaterTailwaterRangeLibrary
+  Haestad.Calculations.GVFSolver : Haestad.Calculations.GVFSolver.GVFSewerProfile
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.ProfileElementInput
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.ProfileElement
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.ProfileElementManager
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.SchemaUpdaters.ProfileSchemaUpdate
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.SchemaUpdaters.UpdateComponents.ProfileMap
+  Haestad.Domain.ModelingObjects.Dynamic : Haestad.Domain.ModelingObjects.Dynamic.SchemaUpdaters.UpdateComponents.ProfileMemento
+  Haestad.Domain.StormSewer : Haestad.Domain.StormSewer.ProfileFieldType
+  Haestad.Domain.StormSewer : Haestad.Domain.StormSewer.FlowProfileMethodEnum
+  Haestad.Domain.StormSewer : Haestad.Domain.StormSewer.IEngineeringProfileBuilder
+  Haestad.Domain.StormSewer : Haestad.Domain.StormSewer.ProfileStationDataLibrary
+  Haestad.Framework : Haestad.Framework.Manager.ProfileAttributeDefaultsManager
+  Haestad.Framework : Haestad.Framework.Manager.NullProfileAttributeDefaultsManager
+  Haestad.Framework : Haestad.Framework.Manager.ProfileAttributeElement
+  Haestad.Framework : Haestad.Framework.Manager.ProfileAttributeElementManager
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileAttributeOptionsElementsPickerTreeEditorModel
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileAttributeOptionsFieldsPickerTreeEditorModel
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileCollectionElementEditorModel
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileLabelFieldDefinition
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileIDFieldDefinition
+  Haestad.Framework : Haestad.Framework.EditorModel.ProfileCollectionDomainFieldDefinition
+  Haestad.Framework : Haestad.Framework.Application.ProfileAttributeOptionsFormModel
+  Haestad.Framework : Haestad.Framework.Application.ProfileAttributeViewerControlModelBase
+  Haestad.Framework : Haestad.Framework.Adapting.IProfileAttributeGraphModel
+  Haestad.Framework : Haestad.Framework.Adapting.IProfileAttributeSeriesModel
+  Haestad.Framework : Haestad.Framework.Adapting.IProfileAttributeFieldDefinition
+  Haestad.Framework.Windows.Forms : Haestad.Framework.Windows.Forms.Application.ProfileAttributeViewerFormModelBase
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileLineType
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileDirectionType
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileSettingsElement
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileBuilder
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileComponent
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileComponentAdapter
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileSettingsElementManager
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ProfileUserDefinedStationData
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Tools.Profiling.ScaledProfileDrawingData
+  Haestad.Framework.Windows.Forms.Steema : Haestad.Framework.Windows.Forms.Steema.Components.ProfileAttributeChartControl
+  Haestad.Support : Haestad.Support.Support.PerformanceProfiler
+  OpenFlows.StormSewer : OpenFlows.StormSewer.Domain.ModelingElements.CalculationOptions.FlowProfileMethod
+  System.ServiceModel : System.ServiceModel.Security.BasicSecurityProfileVersion
+  Haestad.Mapping : Haestad.Mapping.Support.IdahoProfileShortestPathHelper
+  Haestad.Mapping : Haestad.Mapping.Support.GasProfileShortestPathHelper
+  Haestad.Mapping : Haestad.Mapping.Support.AlabamaProfileShortestPathHelper
+  Haestad.Mapping : Haestad.Mapping.Support.FloridaProfileShortestPathHelper
+  Haestad.Mapping : Haestad.Mapping.Support.IProfileDomainManager
+  Haestad.Mapping : Haestad.Mapping.Support.IProfileShortestPathHelper
+  Haestad.Mapping : Haestad.Mapping.Support.ProfileShortestPathHelperBase
+  Haestad.Mapping : Haestad.Mapping.Support.ProfileSelectionMultiplePick
+  Haestad.Mapping : Haestad.Mapping.Adapting.ProfileAttributeListViewEditorModel
+  Haestad.Mapping : Haestad.Mapping.Adapting.ProfileElementEditorModel
+  Haestad.Mapping : Haestad.Mapping.Adapting.ProfileListViewEditorModelLabelFieldDefinition
+  Haestad.Mapping : Haestad.Mapping.Adapting.ProfilePropertyEditorModel
+  Haestad.Mapping : Haestad.Mapping.Adapting.ProfileListViewEditorModel
+== SewerGEMS folder assemblies with Profile in the name
+== result files of the 17:21 run (guest work folder)
+       3585136  SewerGEMS Block 04.stsw
+      19513344  SewerGEMS Block 04.stsw.sqlite
+       3585136  SewerGEMS Block 04_R1.stsw
+       3585136  SewerGEMS Block 04_R1.stsw.01.bak
+      20865024  SewerGEMS Block 04_R1.stsw.sqlite
+      20750336  SewerGEMS Block 04_R1.stsw.sqlite.01.bak
+        214040  SewerGEMS Block 04_R1.stsw_1_1-stmc-gvf.out
+        214248  SewerGEMS Block 04_R1.stsw_1_2050-stmc-gvf.out
+        214520  SewerGEMS Block 04_R1.stsw_1_2051-stmc-gvf.out
+        215064  SewerGEMS Block 04_R1.stsw_1_2052-stmc-gvf.out
+        215304  SewerGEMS Block 04_R1.stsw_1_2053-stmc-gvf.out
+        215528  SewerGEMS Block 04_R1.stsw_1_2054-stmc-gvf.out
+        216088  SewerGEMS Block 04_R1.stsw_1_2055-stmc-gvf.out
+        216056  SewerGEMS Block 04_R1.stsw_1_2056-stmc-gvf.out
+
+
+__EXIT__ 0

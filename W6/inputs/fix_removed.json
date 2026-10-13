@@ -1,0 +1,15 @@
+{
+ "note": "engineer, 2026-10-12: these Road-OQ crossings are no longer fix points; treated as normal points (raise = lower bank - GDP, 0 for class none); honoured by 31 and 37",
+ "removed": {
+  "FIX5": "HAWCH1-5",
+  "FIX6": "HAWCH2-8",
+  "FIX4": "HAWCH5-7",
+  "FIX48": "SAKCH2-7",
+  "FIX42": "SARCH1-12",
+  "FIX16": "SHACH1-11",
+  "FIX28": "SHACH14-3",
+  "FIX25": "SHACH15-5",
+  "FIX29": "SHACH3-11",
+  "FIX11": "SHACH7-8"
+ }
+}

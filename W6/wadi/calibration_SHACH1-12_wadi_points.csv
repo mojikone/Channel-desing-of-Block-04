@@ -1,0 +1,2 @@
+SGLabel,Label,Channel,Class,StaLbl,Station,HalfW,GroundPt,Ground,GdpZ,BedZ,BedOff,BankLZ,BankLOff,BankLHow,BankRZ,BankROff,BankRHow,BankZ,BankSide,WadiDepth,WadiClass,BankMinGdp,OuterLZ,OuterRZ,MaskedM,PlotsM,Flag
+SHACH1-12,SHA-CH1-FP-N12,SHA-CH1-FP,FP,7+124,7123.99,300.0,3.5,3.46,2.552,2.53,16.0,7.19,-17.0,crest,7.6,28.0,flat,7.19,L,4.66,clear,4.64,13.03,9.88,121.0,516.5,objects removed over 121 m

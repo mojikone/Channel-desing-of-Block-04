@@ -1,0 +1,14 @@
+{
+ "method": "ground profile read every 1 m from the drawing; trend = rolling median over `smoothing_window_m` + rolling mean over 51 m; Ramer-Douglas-Peucker on the trend with the vertical `tolerance_m`; each break stitched to the raw ground (moved up to 30 m to a sample within 0.3 m of the trend); segments shorter than `min_segment_m` merged; no reverse slope in the flow direction (breaks of a climbing segment dropped, `min_slope_m_per_m` is the smallest fall allowed)",
+ "tolerance_m": 0.75,
+ "smoothing_window_m": 201,
+ "min_segment_m": 100.0,
+ "min_slope_m_per_m": 0.0,
+ "style": "ARJV_Design Profile",
+ "labelSet": "_No Labels",
+ "channels": 37,
+ "breaks": 227,
+ "segments": 190,
+ "calibration": "engineer's sample SAK-CH3-SM GDP (5 PVIs): 0.87 m from the 201 m trend, 2.25 m from the raw ground",
+ "source": "engineer's reviewed GDP profiles read from the drawing on 2026-10-12 05:00"
+}

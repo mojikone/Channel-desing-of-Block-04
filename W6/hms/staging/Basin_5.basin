@@ -1,0 +1,77 @@
+Basin: Basin 5
+     Last Modified Date: 10 October 2026
+     Last Modified Time: 01:21:39
+     Version: 4.12
+     Filepath Separator: \
+     Unit System: Metric
+     Missing Flow To Zero: No
+     Enable Flow Ratio: No
+     Compute Local Flow At Junctions: No
+     Unregulated Output Required: No
+
+     Enable Sediment Routing: No
+End:
+
+Subbasin: SHA-S51
+     Last Modified Date: 10 October 2026
+     Last Modified Time: 01:21:39
+     Latitude Degrees:  23.96064830023853
+     Longitude Degrees: 56.92986443861670
+     Canvas X: 492864.2680111329
+     Canvas Y: 2649871.5424860460
+     Area: 16.438
+     Downstream: SHA-J52
+     Discretization: None
+     File: Basin_5.sqlite
+     Canopy: None
+     Allow Simultaneous Precip Et: No
+     Plant Uptake Method: None
+     Surface: None
+     LossRate: SCS
+     Percent Impervious Area: 0.0
+     Curve Number: 86.3
+     Initial Abstraction: 8.04
+     Transform: SCS
+     Lag: 64.7
+     Unitgraph Type: STANDARD
+     Baseflow: None
+End:
+
+Junction: SHA-J52
+     Last Modified Date: 10 October 2026
+     Last Modified Time: 01:21:39
+     Canvas X: 495922.5
+     Canvas Y: 2651832.5
+End:
+
+Basin Layer Properties:
+End:
+
+Basin Spatial Properties:
+End:
+
+Basin Schematic Properties:
+     Last View N: 2652790.0
+     Last View S: 2646335.0
+     Last View W: 489130.0
+     Last View E: 496480.0
+     Maximum View N: 2652790.0
+     Maximum View S: 2646335.0
+     Maximum View W: 489130.0
+     Maximum View E: 496480.0
+     Extent Method: Manual
+     Buffer: 0
+     Draw Icons: Yes
+     Draw Icon Labels: Name
+     Draw Map Objects: No
+     Draw Gridlines: No
+     Draw Flow Direction: No
+     Draw HillShade Layer: Yes
+     Draw Elevation Layer: Yes
+     Elevation Layer Color Palette: Gray Scale
+     Ignore Elevation Color Ramp Scale: No
+     Use Interpolated Color Ramp for Elevation Layer: Yes
+     Color Ramp Opacity Level for Elevation Layer: 33.0
+     Fix Element Locations: No
+     Fix Hydrologic Order: No
+End:

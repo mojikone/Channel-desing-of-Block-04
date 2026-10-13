@@ -1,0 +1,231 @@
+{
+ "made": 37,
+ "replaced": 37,
+ "pvisTotal": 249,
+ "legacyStyleRemoved": false,
+ "log": [
+  {
+   "profile": "GDP-raised HAW-CH1-FP",
+   "pvis": 8,
+   "start": 0,
+   "end": 8203.89
+  },
+  {
+   "profile": "GDP-raised HAW-CH2-SS",
+   "pvis": 9,
+   "start": 0,
+   "end": 7721.14
+  },
+  {
+   "profile": "GDP-raised HAW-CH3-SS",
+   "pvis": 2,
+   "start": 0,
+   "end": 1440.4
+  },
+  {
+   "profile": "GDP-raised HAW-CH4-SS",
+   "pvis": 3,
+   "start": 0,
+   "end": 1385.29
+  },
+  {
+   "profile": "GDP-raised HAW-CH5-SS",
+   "pvis": 8,
+   "start": 0,
+   "end": 7065.83
+  },
+  {
+   "profile": "GDP-raised HAW-CH6-SS",
+   "pvis": 2,
+   "start": 0,
+   "end": 1270.25
+  },
+  {
+   "profile": "GDP-raised HAW-CH7-SS",
+   "pvis": 7,
+   "start": 0,
+   "end": 6507.54
+  },
+  {
+   "profile": "GDP-raised SAK-CH1-FP",
+   "pvis": 13,
+   "start": 0,
+   "end": 12466.62
+  },
+  {
+   "profile": "GDP-raised SAK-CH2-FP",
+   "pvis": 8,
+   "start": 0,
+   "end": 9780.59
+  },
+  {
+   "profile": "GDP-raised SAK-CH3-SM",
+   "pvis": 7,
+   "start": 0,
+   "end": 6472.94
+  },
+  {
+   "profile": "GDP-raised SAK-CH4-SS",
+   "pvis": 3,
+   "start": 0,
+   "end": 1920.69
+  },
+  {
+   "profile": "GDP-raised SAK-CH5-SS",
+   "pvis": 3,
+   "start": 0,
+   "end": 2773.62
+  },
+  {
+   "profile": "GDP-raised SAR-CH1-FP",
+   "pvis": 15,
+   "start": 0,
+   "end": 17552.77
+  },
+  {
+   "profile": "GDP-raised SAR-CH2-SM",
+   "pvis": 7,
+   "start": 0,
+   "end": 6142.29
+  },
+  {
+   "profile": "GDP-raised SAR-CH3-SS",
+   "pvis": 5,
+   "start": 0,
+   "end": 6865.48
+  },
+  {
+   "profile": "GDP-raised SAR-CH4-SS",
+   "pvis": 3,
+   "start": 0,
+   "end": 3104.45
+  },
+  {
+   "profile": "GDP-raised SHA-CH1-FP",
+   "pvis": 13,
+   "start": 0,
+   "end": 8044.19
+  },
+  {
+   "profile": "GDP-raised SHA-CH10-SS",
+   "pvis": 6,
+   "start": 0,
+   "end": 5374.02
+  },
+  {
+   "profile": "GDP-raised SHA-CH11-SS",
+   "pvis": 3,
+   "start": 0,
+   "end": 2427.62
+  },
+  {
+   "profile": "GDP-raised SHA-CH12-SS",
+   "pvis": 6,
+   "start": 0,
+   "end": 3773.17
+  },
+  {
+   "profile": "GDP-raised SHA-CH13-SS",
+   "pvis": 2,
+   "start": 0,
+   "end": 1642.16
+  },
+  {
+   "profile": "GDP-raised SHA-CH14-SS",
+   "pvis": 5,
+   "start": 0,
+   "end": 3944.61
+  },
+  {
+   "profile": "GDP-raised SHA-CH15-SS",
+   "pvis": 9,
+   "start": 0,
+   "end": 6807.76
+  },
+  {
+   "profile": "GDP-raised SHA-CH16-SS",
+   "pvis": 8,
+   "start": 0,
+   "end": 6425.46
+  },
+  {
+   "profile": "GDP-raised SHA-CH17-SS",
+   "pvis": 6,
+   "start": 0,
+   "end": 5107.89
+  },
+  {
+   "profile": "GDP-raised SHA-CH18-SS",
+   "pvis": 5,
+   "start": 0,
+   "end": 3019.72
+  },
+  {
+   "profile": "GDP-raised SHA-CH19-SS",
+   "pvis": 2,
+   "start": 0,
+   "end": 1811.97
+  },
+  {
+   "profile": "GDP-raised SHA-CH2-SM",
+   "pvis": 9,
+   "start": 0,
+   "end": 11435.39
+  },
+  {
+   "profile": "GDP-raised SHA-CH20-SS",
+   "pvis": 5,
+   "start": 0,
+   "end": 3755.43
+  },
+  {
+   "profile": "GDP-raised SHA-CH21-SS",
+   "pvis": 2,
+   "start": 0,
+   "end": 1088.9
+  },
+  {
+   "profile": "GDP-raised SHA-CH3-SM",
+   "pvis": 17,
+   "start": 0,
+   "end": 13878.42
+  },
+  {
+   "profile": "GDP-raised SHA-CH4-SM",
+   "pvis": 11,
+   "start": 0,
+   "end": 8276.83
+  },
+  {
+   "profile": "GDP-raised SHA-CH5-SM",
+   "pvis": 7,
+   "start": 0,
+   "end": 9916.73
+  },
+  {
+   "profile": "GDP-raised SHA-CH6-SM",
+   "pvis": 7,
+   "start": 0,
+   "end": 5159.08
+  },
+  {
+   "profile": "GDP-raised SHA-CH7-SM",
+   "pvis": 10,
+   "start": 0,
+   "end": 7405.93
+  },
+  {
+   "profile": "GDP-raised SHA-CH8-SS",
+   "pvis": 6,
+   "start": 0,
+   "end": 5884.64
+  },
+  {
+   "profile": "GDP-raised SHA-CH9-SS",
+   "pvis": 7,
+   "start": 0,
+   "end": 5489.13
+  }
+ ],
+ "problems": []
+}

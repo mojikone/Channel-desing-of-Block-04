@@ -1,0 +1,101 @@
+2026-10-10 01:18:09  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 01:18:14  ground profiles read for 37 channels
+2026-10-10 01:18:14  junctions: 22 channel ends on a receiving channel; 5 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 01:18:14  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 01:18:14  fix points: 54, snapped 54; downstream points 39
+2026-10-10 01:18:14  flow points: 76, on a channel 76
+2026-10-10 01:18:14  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (213 markers)
+2026-10-10 01:18:14  styles written to D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis
+2026-10-10 01:22:42  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 01:22:44  ground profiles read for 37 channels
+2026-10-10 01:22:44  junctions: 22 channel ends on a receiving channel; 5 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 01:22:44  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 01:22:44  fix points: 54, snapped 54; downstream points 39
+2026-10-10 01:22:44  flow points: 76, on a channel 76
+2026-10-10 01:22:44  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (213 markers)
+2026-10-10 01:22:44  styles written to D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis
+2026-10-10 01:23:22  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 01:23:23  ground profiles read for 37 channels
+2026-10-10 01:23:23  junctions: 22 channel ends on a receiving channel; 5 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 01:23:23  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 01:23:23  fix points: 54, snapped 54; downstream points 39
+2026-10-10 01:23:23  flow points: 76, on a channel 76
+2026-10-10 01:23:23  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (213 markers)
+2026-10-10 01:23:23  styles written to D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis
+2026-10-10 01:43:52  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 01:43:54  ground profiles read for 37 channels
+2026-10-10 01:43:54  junctions: 22 channel ends on a receiving channel; 5 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 01:43:54  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 01:43:54  fix points: 54, snapped 54; downstream points 28 after dropping 11 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+530', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 3+070', 'FIX48+500 SAK-CH2-FP 9+292']
+2026-10-10 01:43:54  flow points: 76, on a channel 76
+2026-10-10 01:44:20  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 01:44:21  ground profiles read for 37 channels
+2026-10-10 01:44:21  junctions: 22 channel ends on a receiving channel; 5 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 01:44:21  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 01:44:21  fix points: 54, snapped 54; downstream points 28 after dropping 11 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+530', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 3+070', 'FIX48+500 SAK-CH2-FP 9+292']
+2026-10-10 01:44:21  flow points: 76, on a channel 76
+2026-10-10 01:44:21  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (202 markers)
+2026-10-10 01:44:21  styles written to D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis
+2026-10-10 02:09:38  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 02:09:40  ground profiles read for 37 channels
+2026-10-10 02:09:40  junctions: 22 channel ends on a receiving channel; 0 flagged LOW; 2 can merge with a break within 60 m
+2026-10-10 02:09:40  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 02:09:40  fix points: 54, snapped 54; downstream points 28 after dropping 11 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+530', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 3+070', 'FIX48+500 SAK-CH2-FP 9+292']
+2026-10-10 02:09:40  flow points: 76, on a channel 76
+2026-10-10 02:09:40  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (202 markers)
+2026-10-10 02:09:40  styles in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis (existing QML files kept)
+2026-10-10 11:10:52  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 11:10:54  ground profiles read for 37 channels
+2026-10-10 11:10:54  junctions: 22 channel ends on a receiving channel; 2 flagged LOW; 12 can merge with a break within 60 m
+2026-10-10 11:10:54  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 11:10:54  fix points: 54, snapped 54; downstream points 17 after dropping 22 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+530', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 3+070', 'FIX48+500 SAK-CH2-FP 9+292', 'FIX1+500 HAW-CH7-SS 5+035', 'FIX11+500 SHA-CH7-SM 6+237', 'FIX16+500 SHA-CH1-FP 7+024', 'FIX13+500 SHA-CH18-SS 1+233', 'FIX24+500 SHA-CH15-SS 1+321', 'FIX25+500 SHA-CH15-SS 3+382', 'FIX28+500 SHA-CH14-SS 3+009', 'FIX29+500 SHA-CH3-SM 11+303', 'FIX41+500 SAR-CH1-FP 12+039', 'FIX46+500 SAK-CH3-SM 4+216', 'FIX47+500 SAK-CH2-FP 3+850']
+2026-10-10 11:10:54  flow points: 76, on a channel 76
+2026-10-10 11:10:54  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (191 markers)
+2026-10-10 11:10:54  styles in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis (existing QML files kept)
+2026-10-10 11:47:12  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 11:47:13  ground profiles read for 37 channels
+2026-10-10 11:47:13  junctions: 22 channel ends on a receiving channel; 4 flagged LOW; 13 can merge with a break within 60 m
+2026-10-10 11:47:13  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 11:47:13  fix points read from the W6 layer (the engineer's edits), 54 features
+2026-10-10 11:47:13  EXCLUSION STATION DIFFERS: FIX36+500 SHA-CH10-SS is at 3+445, the engineer quoted 3+530 (dropped anyway)
+2026-10-10 11:47:13  EXCLUSION STATION DIFFERS: FIX43+500 SAR-CH4-SS is at 2+874, the engineer quoted 3+070 (dropped anyway)
+2026-10-10 11:47:13  EXCLUSION STATION DIFFERS: FIX48+500 SAK-CH2-FP is at 9+268, the engineer quoted 9+292 (dropped anyway)
+2026-10-10 11:47:13  EXCLUSION STATION DIFFERS: FIX16+500 SHA-CH1-FP is at 7+124, the engineer quoted 7+024 (dropped anyway)
+2026-10-10 11:47:13  EXCLUSION STATION DIFFERS: FIX46+500 SAK-CH3-SM is at 4+220, the engineer quoted 4+216 (dropped anyway)
+2026-10-10 11:47:13  EXCLUSION NOT FOUND: FIX47+500 on SAK-CH2-FP
+2026-10-10 11:47:13  fix points: 54, snapped 54; downstream points 17 after dropping 22 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+445', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 2+874', 'FIX48+500 SAK-CH2-FP 9+268', 'FIX1+500 HAW-CH7-SS 5+035', 'FIX11+500 SHA-CH7-SM 6+237', 'FIX16+500 SHA-CH1-FP 7+124', 'FIX13+500 SHA-CH18-SS 1+233', 'FIX24+500 SHA-CH15-SS 1+321', 'FIX25+500 SHA-CH15-SS 3+382', 'FIX28+500 SHA-CH14-SS 3+009', 'FIX29+500 SHA-CH3-SM 11+303', 'FIX41+500 SAR-CH1-FP 12+039', 'FIX46+500 SAK-CH3-SM 4+220', 'FIX53+500 SHA-CH13-SS 0+500']
+2026-10-10 11:47:13  flow points read from the W6 layer (the engineer's edits), 76 features
+2026-10-10 11:47:13  flow points: 74, on a channel 74
+2026-10-10 11:47:13  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (189 markers)
+2026-10-10 11:47:13  styles in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis (existing QML files kept)
+2026-10-10 12:39:01  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 12:39:02  ground profiles read for 37 channels
+2026-10-10 12:39:02  junctions: 22 channel ends on a receiving channel; 0 flagged LOW; 14 can merge with a break within 60 m
+2026-10-10 12:39:02  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 12:39:02  fix points read from the W6 layer (the engineer's edits), 54 features
+2026-10-10 12:39:02  EXCLUSION STATION DIFFERS: FIX36+500 SHA-CH10-SS is at 3+445, the engineer quoted 3+530 (dropped anyway)
+2026-10-10 12:39:02  EXCLUSION STATION DIFFERS: FIX43+500 SAR-CH4-SS is at 2+874, the engineer quoted 3+070 (dropped anyway)
+2026-10-10 12:39:02  EXCLUSION STATION DIFFERS: FIX48+500 SAK-CH2-FP is at 9+268, the engineer quoted 9+292 (dropped anyway)
+2026-10-10 12:39:02  EXCLUSION STATION DIFFERS: FIX16+500 SHA-CH1-FP is at 7+124, the engineer quoted 7+024 (dropped anyway)
+2026-10-10 12:39:02  EXCLUSION STATION DIFFERS: FIX46+500 SAK-CH3-SM is at 4+220, the engineer quoted 4+216 (dropped anyway)
+2026-10-10 12:39:02  EXCLUSION NOT FOUND: FIX47+500 on SAK-CH2-FP
+2026-10-10 12:39:02  fix points: 54, snapped 54; downstream points 15 after dropping 24 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+445', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 2+874', 'FIX48+500 SAK-CH2-FP 9+268', 'FIX1+500 HAW-CH7-SS 5+035', 'FIX11+500 SHA-CH7-SM 6+237', 'FIX16+500 SHA-CH1-FP 7+124', 'FIX13+500 SHA-CH18-SS 1+233', 'FIX24+500 SHA-CH15-SS 1+321', 'FIX25+500 SHA-CH15-SS 3+382', 'FIX28+500 SHA-CH14-SS 3+009', 'FIX29+500 SHA-CH3-SM 11+303', 'FIX41+500 SAR-CH1-FP 12+039', 'FIX46+500 SAK-CH3-SM 4+220', 'FIX53+500 SHA-CH13-SS 0+500', 'FIX37+500 SHA-CH9-SS 3+832', 'FIX38+500 SHA-CH8-SS 3+791']
+2026-10-10 12:39:02  flow points read from the W6 layer (the engineer's edits), 74 features
+2026-10-10 12:39:02  flow points: 74, on a channel 74
+2026-10-10 12:39:03  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (187 markers)
+2026-10-10 12:39:03  styles in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis (existing QML files kept)
+2026-10-10 13:03:23  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 13:03:24  ground profiles read for 37 channels
+2026-10-10 13:03:24  junctions: 22 channel ends on a receiving channel; 0 flagged LOW; 14 can merge with a break within 60 m
+2026-10-10 13:03:24  channel ends not on another channel (outfalls or free ends): ['HAW-CH1-FP', 'HAW-CH7-SS', 'SAK-CH2-FP', 'SAK-CH3-SM', 'SAK-CH5-SS', 'SAR-CH1-FP', 'SAR-CH2-SM', 'SHA-CH1-FP', 'SHA-CH3-SM', 'SHA-CH4-SM', 'SHA-CH6-SM', 'SHA-CH7-SM', 'SHA-CH13-SS', 'SHA-CH16-SS', 'SHA-CH19-SS']
+2026-10-10 13:03:24  fix points read from the W6 layer (the engineer's edits), 54 features
+2026-10-10 13:03:24  EXCLUSION STATION DIFFERS: FIX36+500 SHA-CH10-SS is at 3+445, the engineer quoted 3+530 (dropped anyway)
+2026-10-10 13:03:24  EXCLUSION STATION DIFFERS: FIX43+500 SAR-CH4-SS is at 2+874, the engineer quoted 3+070 (dropped anyway)
+2026-10-10 13:03:24  EXCLUSION STATION DIFFERS: FIX48+500 SAK-CH2-FP is at 9+268, the engineer quoted 9+292 (dropped anyway)
+2026-10-10 13:03:24  EXCLUSION STATION DIFFERS: FIX16+500 SHA-CH1-FP is at 7+124, the engineer quoted 7+024 (dropped anyway)
+2026-10-10 13:03:24  EXCLUSION STATION DIFFERS: FIX46+500 SAK-CH3-SM is at 4+220, the engineer quoted 4+216 (dropped anyway)
+2026-10-10 13:03:24  fix points: 54, snapped 54; downstream points 14 after dropping 25 redundant ones: ['FIX4+500 HAW-CH5-SS 7+066', 'FIX5+500 HAW-CH1-FP 6+858', 'FIX6+500 HAW-CH2-SS 7+644', 'FIX10+500 SHA-CH7-SM 2+367', 'FIX30+500 SHA-CH5-SM 5+268', 'FIX31+500 SHA-CH11-SS 1+852', 'FIX33+500 SHA-CH4-SM 3+431', 'FIX36+500 SHA-CH10-SS 3+445', 'FIX42+500 SAR-CH1-FP 15+597', 'FIX43+500 SAR-CH4-SS 2+874', 'FIX48+500 SAK-CH2-FP 9+268', 'FIX1+500 HAW-CH7-SS 5+035', 'FIX11+500 SHA-CH7-SM 6+237', 'FIX16+500 SHA-CH1-FP 7+124', 'FIX13+500 SHA-CH18-SS 1+233', 'FIX24+500 SHA-CH15-SS 1+321', 'FIX25+500 SHA-CH15-SS 3+382', 'FIX28+500 SHA-CH14-SS 3+009', 'FIX29+500 SHA-CH3-SM 11+303', 'FIX41+500 SAR-CH1-FP 12+039', 'FIX46+500 SAK-CH3-SM 4+220', 'FIX47+500 SAK-CH1-FP 12+467', 'FIX53+500 SHA-CH13-SS 0+500', 'FIX37+500 SHA-CH9-SS 3+832', 'FIX38+500 SHA-CH8-SS 3+791']
+2026-10-10 13:03:24  flow points read from the W6 layer (the engineer's edits), 74 features
+2026-10-10 13:03:24  flow points: 74, on a channel 74
+2026-10-10 13:03:24  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\design_points.gpkg (4 layers), CSVs and profile_markers.json (186 markers)
+2026-10-10 13:03:24  styles in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis (existing QML files kept)

@@ -1,0 +1,44 @@
+profiles before: 43
+  profile 2068 "HAW-CH1-FP": 15 elements
+  profile 2069 "HAW-CH2-SS": 17 elements
+  profile 2070 "HAW-CH3-SS": 3 elements
+  profile 2071 "HAW-CH4-SS": 5 elements
+  profile 2072 "HAW-CH5-SS": 15 elements
+  profile 2073 "HAW-CH6-SS": 3 elements
+  profile 2074 "HAW-CH7-SS": 13 elements
+  profile 2075 "SAK-CH1-FP": 25 elements
+  profile 2076 "SAK-CH2-FP": 15 elements
+  profile 2077 "SAK-CH3-SM": 13 elements
+  profile 2078 "SAK-CH4-SS": 5 elements
+  profile 2079 "SAK-CH5-SS": 5 elements
+  profile 2080 "SAR-CH1-FP": 29 elements
+  profile 2081 "SAR-CH2-SM": 13 elements
+  profile 2082 "SAR-CH3-SS": 9 elements
+  profile 2083 "SAR-CH4-SS": 5 elements
+  profile 2084 "SHA-CH1-FP": 25 elements
+  profile 2085 "SHA-CH10-SS": 11 elements
+  profile 2086 "SHA-CH11-SS": 5 elements
+  profile 2087 "SHA-CH12-SS": 11 elements
+  profile 2088 "SHA-CH13-SS": 3 elements
+  profile 2089 "SHA-CH14-SS": 9 elements
+  profile 2090 "SHA-CH15-SS": 17 elements
+  profile 2091 "SHA-CH16-SS": 15 elements
+  profile 2092 "SHA-CH17-SS": 11 elements
+  profile 2093 "SHA-CH18-SS": 9 elements
+  profile 2094 "SHA-CH19-SS": 3 elements
+  profile 2095 "SHA-CH2-SM": 17 elements
+  profile 2096 "SHA-CH20-SS": 9 elements
+  profile 2097 "SHA-CH21-SS": 3 elements
+  profile 2098 "SHA-CH3-SM": 33 elements
+  profile 2099 "SHA-CH4-SM": 21 elements
+  profile 2100 "SHA-CH5-SM": 13 elements
+  profile 2101 "SHA-CH6-SM": 13 elements
+  profile 2102 "SHA-CH7-SM": 19 elements
+  profile 2103 "SHA-CH8-SS": 11 elements
+  profile 2104 "SHA-CH9-SS": 13 elements
+profiles after: 80
+after reopen: 80 profiles, 80 with elements
+delivered R2 (.stsw, .sqlite, .dwh, .profiles.dwh) and the result files of R1 and R2 to the share
+
+
+__EXIT__ 0

@@ -1,0 +1,36 @@
+2026-10-10 02:09:09  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 02:09:15  backup: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\backup\Block04_Channels_W5_before_junction_fix_20261010_0209.dwg (118 MB)
+2026-10-10 02:09:17  {'created': 'GDP previous (dashed)'}
+2026-10-10 02:09:17  HAW-CH2-SS   -> HAW-CH1-FP   sta   7038.2  end    2.708 ->    2.531 (-0.177)  last seg    577 m  slope 0.00785 -> 0.00816  
+2026-10-10 02:09:17  HAW-CH5-SS   -> HAW-CH1-FP   sta   6622.3  end    3.483 ->    4.318 (+0.835)  last seg    332 m  slope 0.00893 -> 0.00642  
+2026-10-10 02:09:17  SAK-CH1-FP   -> SAK-CH2-FP   sta   3122.7  end   24.574 ->   24.053 (-0.521)  last seg    813 m  slope 0.00292 -> 0.00356  
+2026-10-10 02:09:17  SAK-CH4-SS   -> SAK-CH3-SM   sta   1858.4  end   14.381 ->   13.565 (-0.816)  last seg    572 m  slope 0.00196 -> 0.00338  
+2026-10-10 02:09:17  SAR-CH3-SS   -> SAR-CH1-FP   sta   7921.2  end   50.112 ->   49.714 (-0.398)  last seg    911 m  slope 0.00478 -> 0.00522  
+2026-10-10 02:09:17  SAR-CH4-SS   -> SAR-CH1-FP   sta  15671.3  end    7.294 ->    6.342 (-0.951)  last seg    534 m  slope 0.00399 -> 0.00577  
+2026-10-10 02:09:17  SHA-CH2-SM   -> SAR-CH1-FP   sta  14007.2  end   13.453 ->   12.893 (-0.560)  last seg   1250 m  slope 0.00599 -> 0.00644  
+2026-10-10 02:09:17  SHA-CH5-SM   -> SHA-CH3-SM   sta  13063.7  end    3.666 ->    2.883 (-0.783)  last seg   1684 m  slope 0.00213 -> 0.00260  
+2026-10-10 02:09:17  SHA-CH8-SS   -> SAR-CH1-FP   sta  17268.8  end    3.272 ->    2.236 (-1.036)  last seg   1357 m  slope 0.00366 -> 0.00442  
+2026-10-10 02:09:17  SHA-CH10-SS  -> SHA-CH4-SM   sta   8167.9  end    1.743 ->    1.707 (-0.036)  last seg    670 m  slope 0.00361 -> 0.00366  
+2026-10-10 02:09:17  SHA-CH12-SS  -> SHA-CH3-SM   sta   8040.3  end   25.120 ->   25.290 (+0.169)  last seg    747 m  slope 0.00730 -> 0.00707  
+2026-10-10 02:09:17  SHA-CH14-SS  -> SHA-CH3-SM   sta  12178.3  end    6.288 ->    6.157 (-0.131)  last seg   1230 m  slope 0.00287 -> 0.00298  
+2026-10-10 02:09:17  SHA-CH15-SS  -> SHA-CH3-SM   sta  13792.7  end    0.900 ->    1.109 (+0.209)  last seg   1411 m  slope 0.00246 -> 0.00232  
+2026-10-10 02:09:17  SHA-CH17-SS  -> SHA-CH1-FP   sta   4870.7  end   12.652 ->   12.168 (-0.484)  last seg    703 m  slope 0.00296 -> 0.00365  
+2026-10-10 02:09:17  SHA-CH18-SS  -> SHA-CH1-FP   sta   5223.2  end   11.118 ->    9.882 (-1.236)  last seg   1249 m  slope 0.00542 -> 0.00641  
+2026-10-10 02:09:17  SHA-CH20-SS  -> SHA-CH1-FP   sta     6625  end    7.358 ->    6.150 (-1.208)  last seg    613 m  slope 0.00119 -> 0.00316  
+2026-10-10 02:09:17  SHA-CH21-SS  -> SHA-CH7-SM   sta    698.1  end   30.645 ->   29.845 (-0.800)  last seg   1088 m  slope 0.00494 -> 0.00568  
+2026-10-10 02:09:17  HAW-CH3-SS   -> HAW-CH2-SS   sta   1507.8  end   32.995 ->   32.631 (-0.364)  last seg   1439 m  slope 0.00782 -> 0.00807  
+2026-10-10 02:09:17  HAW-CH4-SS   -> HAW-CH5-SS   sta     1214  end   36.170 ->   35.720 (-0.450)  last seg    583 m  slope 0.00456 -> 0.00533  
+2026-10-10 02:09:17  HAW-CH6-SS   -> HAW-CH2-SS   sta   6780.3  end    7.601 ->    7.943 (+0.342)  last seg   1269 m  slope 0.00314 -> 0.00288  
+2026-10-10 02:09:17  SHA-CH9-SS   -> SHA-CH10-SS  sta   4798.4  end    3.866 ->    3.811 (-0.055)  last seg    793 m  slope 0.00059 -> 0.00066  
+2026-10-10 02:09:17  SHA-CH11-SS  -> SHA-CH5-SM   sta     5785  end   18.096 ->   18.637 (+0.541)  last seg   2427 m  slope 0.00515 -> 0.00493  
+2026-10-10 02:09:21  drawing saved
+2026-10-10 02:09:21  done
+2026-10-10 12:34:06  drawing: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg
+2026-10-10 12:34:06  fixing 4 junction(s): HAW-CH5-SS, SHA-CH18-SS, SHA-CH20-SS, SHA-CH21-SS
+2026-10-10 12:34:07  backup: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\backup\Block04_Channels_W5_before_junction_fix_2_20261010_1234.dwg (119 MB)
+2026-10-10 12:34:08  HAW-CH5-SS   -> HAW-CH1-FP   sta   6622.3  end    4.318 ->    4.542 (+0.224)  last seg    332 m  slope 0.00642 -> 0.00575  
+2026-10-10 12:34:08  SHA-CH18-SS  -> SHA-CH1-FP   sta   5223.2  end    9.882 ->   10.006 (+0.124)  last seg   1249 m  slope 0.00641 -> 0.00631  
+2026-10-10 12:34:08  SHA-CH20-SS  -> SHA-CH1-FP   sta     6625  end    6.150 ->    6.389 (+0.239)  last seg    613 m  slope 0.00316 -> 0.00277  
+2026-10-10 12:34:08  SHA-CH21-SS  -> SHA-CH7-SM   sta    698.1  end   29.845 ->   30.151 (+0.306)  last seg   1088 m  slope 0.00568 -> 0.00539  
+2026-10-10 12:34:09  drawing saved
+2026-10-10 12:34:09  done

@@ -1,0 +1,33 @@
+{
+ "half_width_m": {
+  "FP": 300.0,
+  "SM": 100.0,
+  "SS": 60.0
+ },
+ "bed_window_m": 30.0,
+ "min_depth_m": 0.5,
+ "step_m": 0.5,
+ "median_m": 5.0,
+ "crest_drop_m": 0.2,
+ "crest_within_m": 5.0,
+ "flat_over_m": 20.0,
+ "flat_slope": 0.02,
+ "flat_max_rise_m": 0.3,
+ "planned_plot_classes_not_masked": [
+  "Future Plans",
+  "Proposed"
+ ],
+ "w_max_m": 300.0,
+ "bench_max_m": 1.5,
+ "look_m": 50.0,
+ "steep_rise_m": 1.0,
+ "steep_within_m": 15.0,
+ "raster_key": "dtm",
+ "raster": "W:\\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\\10-DATABASE\\01 DEM\\Prosessed_DEM\\OUTPUT\\GGC4_DTM_GMAP_NSA.tif",
+ "rasters": {
+  "dtm": "W:\\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\\10-DATABASE\\01 DEM\\Prosessed_DEM\\OUTPUT\\GGC4_DTM_GMAP_NSA.tif",
+  "hdsm": "W:\\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\\10-DATABASE\\01 DEM\\Prosessed_DEM\\OUTPUT\\GGC_4_MERGE_HDSM.tif"
+ },
+ "landuse": "W:\\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\\06-WORKING\\13-Study and Design\\01-FS and PD\\00-General\\02-Land Use\\ALL_MOH_CLEANED\\LandUSE_block4.shp",
+ "points": "D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W6\\final\\Block4_design_points.shp"
+}

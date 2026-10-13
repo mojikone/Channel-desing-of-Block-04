@@ -1,0 +1,106 @@
+== ProfileManager : Haestad.Domain.ModelingObjects.GenericSelectionSetManager
+   Constructor .ctor
+   Method Add() : Int32
+   Method Copy(Int32 id) : Int32
+   Property Count : Int32
+   Method Delete(Int32 id) : Void
+   Property DomainDataSet : IDomainDataSet
+   Method Element(Int32 id) : IModelingElement
+   Method ElementIDs() : HmIDCollection
+   Method Elements() : ModelingElementCollection
+   Method Exists(Int32 id) : Boolean
+   Method GetDataReader(String queryName, FieldTypeCollection fields, IDictionary parametersMap) : IFieldCollectionDataReader
+   Method ModelingElementField(String fieldName) : IField
+   Method Restore(Int32 id) : Void
+   Method SelectElementIDs(SortContextCollection sortContextCollection, FilterContextCollection filterContextCollection) : IHmIDDelayedCollection
+   Method SelectionSetField(String name) : IField
+   Method SupportedFields() : FieldCollection
+   Method Validate(FilterContextCollection filterContextCollection) : Void
+== ProfileElementManager : Haestad.Domain.ModelingObjects.Dynamic.ProfileElementManager
+   Constructor .ctor
+   Method Add(IEngineeringReference engineeringReference) : Int32
+   Method Add() : Int32
+   Method Copy(Int32 id) : Int32
+   Property Count : Int32
+   Method CrossElementFieldListManager(String collectionFieldName, SortContextCollection sortContexts, FilterContextCollection filterContextCollection) : ICrossElementFieldListManager
+   Method Delete(Int32 id) : Void
+   Property DomainDataSet : IDomainDataSet
+   Method Element(Int32 id) : IModelingElement
+   Method ElementIDs() : HmIDCollection
+   Method Elements() : ModelingElementCollection
+   Method Exists(Int32 id) : Boolean
+   Method GetDataReader(String queryName, FieldTypeCollection fields, IDictionary parametersMap) : IFieldCollectionDataReader
+   Method ModelingElementField(String fieldName) : IField
+   Property ProfileElementsCountField : IField
+   Method ProfileElementsCounts() : IDictionary
+   Property ProfileElementsField : IEditField
+   Method Restore(Int32 id) : Void
+   Method SelectElementIDs(SortContextCollection sortContextCollection, FilterContextCollection filterContextCollection) : IHmIDDelayedCollection
+   Method SupportedFields() : FieldCollection
+   Method SupportElementField(String attributeName) : IField
+   Property SupportElementTypeID : Int32
+   Method Validate(FilterContextCollection filterContextCollection) : Void
+Block 04 profiles: 43 | profile elements: 0
+Rustaq profiles: 43 | profile elements: 0
+== a profile element object : Haestad.Domain.ModelingObjects.GenericSelectionSet
+   Constructor .ctor
+   Property Id : Int32
+   Property Label : String
+   Property Manager : IModelingElementManager
+   Property ModelingElementType : ModelingElementType
+   Property Notes : String
+   Method SelectionSetField(String name) : IField
+   Method SupportedFields() : FieldCollection
+-- profile fields
+   Id = 1442
+   Label = Ais-CH1-FP
+   Notes = 
+   ModelingElementType : ModelingElementType
+   Manager : GenericSelectionSetManager
+profile 1442 "Ais-CH1-FP"
+profile 1445 "Ais-CH3-SS"
+profile 1460 "Ais-CH5-SS"
+profile 1461 "Ais-CH4-SS"
+profile 1462 "Ais-CH2-SM"
+profile 1463 "Ais-CH6-FP"
+profile 1464 "Ban-CH2-SS"
+profile 1465 "Ban-CH3-SS"
+profile 1466 "Ban-CH1-FP"
+profile 1467 "BAN-CH4-SS"
+profile 1468 "BAN-CH5-SS"
+profile 1470 "MAA-CH2-SM"
+profile 1471 "MAA-CH3-SM"
+profile 1472 "MAA-CH5-SS"
+profile 1474 "MAA-CH1-FP"
+profile 1475 "MAA-CH7-SS"
+profile 1477 "MAA-CH8-SS"
+profile 1478 "MAA-CH9-SS"
+profile 1479 "TAW-CH3-SM"
+profile 1481 "TAW-CH6-SS"
+profile 1482 "TAW-CH7-SS"
+profile 1483 "TAW-CH4-SM"
+profile 1484 "TAW-CH8-SS"
+profile 1486 "TAW-CH5-SM"
+profile 1487 "TAW-CH10-SS"
+profile 1488 "TAW-CH11-SS"
+profile 1489 "TAW-CH1-FP"
+profile 1490 "TAW-CH12-SS"
+profile 1491 "TAW-CH2-FP"
+profile 1492 "TAW-CH13-SS"
+profile 1493 "TAW-CH3-FP"
+profile 1494 "TAW-CH14-SS"
+profile 1495 "FUL-CH1-SM"
+profile 1496 "FUL-CH5-SS"
+profile 1497 "FUL-CH2-SM"
+profile 1498 "FUL-CH6-SS"
+profile 1499 "FUL-CH3-SM"
+profile 1500 "FUL-CH4-SM"
+profile 1536 "Profile Sawadi"
+profile 1557 "Rus-FP1-CH"
+profile 1573 "Rus-SM2-CH"
+profile 1574 "Rus-FP3-CH"
+profile 1575 "Rus-SM4-CH"
+-- first 40 profile elements (Id, Label, and every scalar property)
+
+
+__EXIT__ 0

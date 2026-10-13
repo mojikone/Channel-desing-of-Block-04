@@ -1,0 +1,66 @@
+== Rustaq ProfileManager SupportedFields()
+   ElementID | ID | GenericModelingElementField
+   Label | Label | GenericModelingElementEditField
+   Notes | Notes | GenericModelingElementEditField
+   HMIModelingElementGISIDs | GIS-IDs | GenericModelingElementCollectionField
+   HMIModelingElementGISIDsCount | GIS-IDs <Count> | GenericModelingElementField
+   GISIDs | GIS-IDs (Delimited) | GenericModelingElementEditField
+   SelectionSetElementIDs | Element IDs in selection-set | GenericModelingElementEditField
+Ais-CH1-FP id 1442
+   ElementID = 1442
+   Label = Ais-CH1-FP
+   Notes = 
+   HMIModelingElementGISIDs -> Haestad.Domain.ModelingObjects.ModelingElementCollectionFieldListManager
+      columns: ItemID, ElementID, GISID
+   HMIModelingElementGISIDsCount = 0
+   GISIDs = 
+   SelectionSetElementIDs -> Haestad.Support.Support.HmIDCollection
+      ! You cannot call a method on a null-valued expression.
+== Block 04: the inherited profiles and their member counts
+   1442 "Ais-CH1-FP" members=! You cannot call a method on a null-valued expression.
+   1445 "Ais-CH3-SS" members=! You cannot call a method on a null-valued expression.
+   1460 "Ais-CH5-SS" members=! You cannot call a method on a null-valued expression.
+   1461 "Ais-CH4-SS" members=! You cannot call a method on a null-valued expression.
+   1462 "Ais-CH2-SM" members=! You cannot call a method on a null-valued expression.
+   1463 "Ais-CH6-FP" members=! You cannot call a method on a null-valued expression.
+   1464 "Ban-CH2-SS" members=! You cannot call a method on a null-valued expression.
+   1465 "Ban-CH3-SS" members=! You cannot call a method on a null-valued expression.
+   1466 "Ban-CH1-FP" members=! You cannot call a method on a null-valued expression.
+   1467 "BAN-CH4-SS" members=! You cannot call a method on a null-valued expression.
+   1468 "BAN-CH5-SS" members=! You cannot call a method on a null-valued expression.
+   1470 "MAA-CH2-SM" members=! You cannot call a method on a null-valued expression.
+   1471 "MAA-CH3-SM" members=! You cannot call a method on a null-valued expression.
+   1472 "MAA-CH5-SS" members=! You cannot call a method on a null-valued expression.
+   1474 "MAA-CH1-FP" members=! You cannot call a method on a null-valued expression.
+   1475 "MAA-CH7-SS" members=! You cannot call a method on a null-valued expression.
+   1477 "MAA-CH8-SS" members=! You cannot call a method on a null-valued expression.
+   1478 "MAA-CH9-SS" members=! You cannot call a method on a null-valued expression.
+   1479 "TAW-CH3-SM" members=! You cannot call a method on a null-valued expression.
+   1481 "TAW-CH6-SS" members=! You cannot call a method on a null-valued expression.
+   1482 "TAW-CH7-SS" members=! You cannot call a method on a null-valued expression.
+   1483 "TAW-CH4-SM" members=! You cannot call a method on a null-valued expression.
+   1484 "TAW-CH8-SS" members=! You cannot call a method on a null-valued expression.
+   1486 "TAW-CH5-SM" members=! You cannot call a method on a null-valued expression.
+   1487 "TAW-CH10-SS" members=! You cannot call a method on a null-valued expression.
+   1488 "TAW-CH11-SS" members=! You cannot call a method on a null-valued expression.
+   1489 "TAW-CH1-FP" members=! You cannot call a method on a null-valued expression.
+   1490 "TAW-CH12-SS" members=! You cannot call a method on a null-valued expression.
+   1491 "TAW-CH2-FP" members=! You cannot call a method on a null-valued expression.
+   1492 "TAW-CH13-SS" members=! You cannot call a method on a null-valued expression.
+   1493 "TAW-CH3-FP" members=! You cannot call a method on a null-valued expression.
+   1494 "TAW-CH14-SS" members=! You cannot call a method on a null-valued expression.
+   1495 "FUL-CH1-SM" members=! You cannot call a method on a null-valued expression.
+   1496 "FUL-CH5-SS" members=! You cannot call a method on a null-valued expression.
+   1497 "FUL-CH2-SM" members=! You cannot call a method on a null-valued expression.
+   1498 "FUL-CH6-SS" members=! You cannot call a method on a null-valued expression.
+   1499 "FUL-CH3-SM" members=! You cannot call a method on a null-valued expression.
+   1500 "FUL-CH4-SM" members=! You cannot call a method on a null-valued expression.
+   1536 "Profile Sawadi" members=! You cannot call a method on a null-valued expression.
+   1557 "Rus-FP1-CH" members=! You cannot call a method on a null-valued expression.
+   1573 "Rus-SM2-CH" members=! You cannot call a method on a null-valued expression.
+   1574 "Rus-FP3-CH" members=! You cannot call a method on a null-valued expression.
+   1575 "Rus-SM4-CH" members=! You cannot call a method on a null-valued expression.
+collection field used: SelectionSetElementIDs
+
+
+__EXIT__ 0

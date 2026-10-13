@@ -1,0 +1,887 @@
+Meteorology: FM 25yr
+     Last Modified Date: 19 July 2026
+     Last Modified Time: 13:33:19
+     Version: 4.12
+     Unit System: Metric
+     Set Missing Data to Default: No
+     Precipitation Method: Hypothetical Storm
+     Air Temperature Method: None
+     Atmospheric Pressure Method: None
+     Dew Point Method: None
+     Wind Speed Method: None
+     Shortwave Radiation Method: None
+     Longwave Radiation Method: None
+     Snowmelt Method: None
+     Evapotranspiration Method: No Evapotranspiration
+     Use Basin Model: Basin 1
+     Use Basin Model: Basin 2
+     Use Basin Model: Basin 3
+     Use Basin Model: Basin 4
+     Use Basin Model: Basin 5
+End:
+
+Precip Method Parameters: Hypothetical Storm
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Precipitation Method: Point Depth
+     Storm Depth: 137.5
+     Storm Type: Specified Pattern
+     Storm Duration: 24
+     Pattern Name: FM 10-1000yr
+     Storm Area: 300
+     Depth-Area Reduction Method: User-Specified
+     Reduction Table Name: ARF FM
+     Uniform Depth: Yes
+End:
+
+Subbasin: SAR-S10
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S12
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S11
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S30
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S14
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S13
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S20
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S3
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S4
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S5
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S6
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S7
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S8
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S9
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S39
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S1
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S2
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S34
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S33
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S32
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S31
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S38
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S37
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S36
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S35
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S29
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S28
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S23
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S22
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S21
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S20
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S27
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S26
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S1
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S25
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S2
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S24
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S3
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S4
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S5
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S6
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S7
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S8
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S9
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S50
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S18
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S14
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S17
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S15
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S16
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S12
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S15
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S13
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S10
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S41
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S11
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S40
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S19
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S10
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S5
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S4
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S7
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S6
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S9
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S18
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S14
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S8
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S19
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S13
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S16
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S12
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S11
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAK-S17
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S1
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S3
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S2
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S45
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S44
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S43
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S42
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S49
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S48
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S47
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S46
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S21
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S20
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S25
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S24
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S23
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: HAW-S22
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S9
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S8
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S7
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S6
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S5
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S4
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S3
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S2
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S1
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S6
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S7
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S11
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S8
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S10
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S9
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S13
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S2
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S12
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S3
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SAR-S4
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S14
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S5
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S17
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S16
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S19
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S18
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SAR-S1
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S20
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S19
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S22
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S18
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S21
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S17
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S24
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S23
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S26
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S25
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S28
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S12
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S27
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S11
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S10
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S29
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: SHA-S16
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S15
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S14
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: SHA-S13
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: AHI-S1
+     Last Modified Date: 5 October 2026
+     Last Modified Time: 11:52:21
+     Depth: 
+End:
+
+Subbasin: S31
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S30
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S33
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:
+
+Subbasin: S32
+     Last Modified Date: 13 October 2025
+     Last Modified Time: 07:53:34
+     Depth: 
+End:

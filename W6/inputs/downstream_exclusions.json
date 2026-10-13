@@ -1,0 +1,30 @@
+{
+  "_why": "Engineer, 2026-10-10: these 500 m downstream points are redundant (other design points sit there). Matched by fix number and channel; the station label is checked against the one the engineer quoted.",
+  "exclude": [
+    {"fix": 4,  "channel": "HAW-CH5-SS",  "station": "7+066"},
+    {"fix": 5,  "channel": "HAW-CH1-FP",  "station": "6+858"},
+    {"fix": 6,  "channel": "HAW-CH2-SS",  "station": "7+644"},
+    {"fix": 10, "channel": "SHA-CH7-SM",  "station": "2+367"},
+    {"fix": 30, "channel": "SHA-CH5-SM",  "station": "5+268"},
+    {"fix": 31, "channel": "SHA-CH11-SS", "station": "1+852"},
+    {"fix": 33, "channel": "SHA-CH4-SM",  "station": "3+431"},
+    {"fix": 36, "channel": "SHA-CH10-SS", "station": "3+530"},
+    {"fix": 42, "channel": "SAR-CH1-FP",  "station": "15+597"},
+    {"fix": 43, "channel": "SAR-CH4-SS",  "station": "3+070"},
+    {"fix": 48, "channel": "SAK-CH2-FP",  "station": "9+292"},
+    {"_added": "engineer, 2026-10-10 second list", "fix": 1,  "channel": "HAW-CH7-SS",  "station": "5+035"},
+    {"fix": 11, "channel": "SHA-CH7-SM",  "station": "6+237"},
+    {"fix": 16, "channel": "SHA-CH1-FP",  "station": "7+024"},
+    {"fix": 13, "channel": "SHA-CH18-SS", "station": "1+233"},
+    {"fix": 24, "channel": "SHA-CH15-SS", "station": "1+321"},
+    {"fix": 25, "channel": "SHA-CH15-SS", "station": "3+382"},
+    {"fix": 28, "channel": "SHA-CH14-SS", "station": "3+009"},
+    {"fix": 29, "channel": "SHA-CH3-SM",  "station": "11+303"},
+    {"fix": 41, "channel": "SAR-CH1-FP",  "station": "12+039"},
+    {"fix": 46, "channel": "SAK-CH3-SM",  "station": "4+216"},
+    {"fix": 47, "channel": "SAK-CH1-FP", "station": "12+467", "_note": "engineer 2026-10-10 afternoon: FIX47 (moved by him to the SAK-CH1-FP end) fixes SAK-CH2-FP at the junction and needs no +500 point, the next point covers it; first listed on SAK-CH2-FP 3+850 before he moved it"},
+    {"_added": "engineer, 2026-10-10 third list", "fix": 53, "channel": "SHA-CH13-SS", "station": "0+500"},
+    {"_added": "engineer, 2026-10-10 fourth list", "fix": 37, "channel": "SHA-CH9-SS",  "station": "3+832"},
+    {"fix": 38, "channel": "SHA-CH8-SS",  "station": "3+791"}
+  ]
+}

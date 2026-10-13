@@ -1,0 +1,20 @@
+HAWCH1-5: ground 8.321 -> 6.33 (rim 6.33, rim follows ground True)
+HAWCH2-8: ground 9.736 -> 7.236 (rim 7.236, rim follows ground True)
+HAWCH5-7: ground 8.949 -> 7.28 (rim 7.28, rim follows ground True)
+SAKCH2-7: ground 7.007 -> 4.507 (rim 4.507, rim follows ground True)
+SARCH1-12: ground 12.559 -> 10.66 (rim 10.66, rim follows ground True)
+SHACH1-11: ground 8.889 -> 6.389 (rim 6.389, rim follows ground True)
+SHACH14-3: ground 14.544 -> 12.51 (rim 12.51, rim follows ground True)
+SHACH15-5: ground 16.598 -> 14.35 (rim 14.35, rim follows ground True)
+SHACH3-11: ground 13.585 -> 11.66 (rim 11.66, rim follows ground True)
+SHACH7-8: ground 11.765 -> 9.71 (rim 9.71, rim follows ground True)
+constraints: min slope 0.001, max slope 0.03 | design flags on: conduits 212 of 212
+######## 200 yr (scenario 2055), full design 1:44:12 PM
+  '200 yr' ran in 542 s, results: True
+  design pass 1: 32 pipe sizes changed
+  '200 yr' ran in 627 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+reopened R6, 200 yr grounds: SHACH1-11=6.389 SHACH3-11=11.66 HAWCH2-8=7.236 SHACH7-8=9.71 SHACH14-3=12.51 SHACH15-5=14.35 HAWCH5-7=7.28 HAWCH1-5=6.33 SAKCH2-7=4.507 SARCH1-12=10.66
+result file for scenario 2055 delivered
+delivered "SewerGEMS Block 04_R6.stsw" with .sqlite, .dwh, .profiles.dwh and the 200 yr result file

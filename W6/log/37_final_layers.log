@@ -1,0 +1,176 @@
+2026-10-10 12:39:06  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-10 12:39:07  reading EG samples from D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W5\civil3d\Block04_Channels_W5.dwg for 37 channels
+2026-10-10 12:39:08  EG samples cached in D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\output\eg_samples.json
+2026-10-10 12:39:08  candidates: 205 GDP breaks, 74 flow, 54 fix, 15 fix500, 22 channel ends
+2026-10-10 12:39:08  points: 232 on 37 channels; 127 merged groups (5 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-10 12:39:08  segments: 217; tributary ends moved onto the receiver's point: max 8.1 m ([('HAW-CH3-SS', 8.1)])
+2026-10-10 12:39:08  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 6; flags on points: 5
+2026-10-10 12:39:08    segment HAW-CH3-SS-C02   end moved 8.1 m onto the receiver's point; flat (< 0.05 %); tributary end 32.631 vs receiver point GDP 32.575
+2026-10-10 12:39:08    segment HAW-CH4-SS-C03   flat (< 0.05 %)
+2026-10-10 12:39:08    segment SAK-CH1-FP-C13   flat (< 0.05 %)
+2026-10-10 12:39:08    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-10 12:39:08    segment SHA-CH5-SM-C07   flat (< 0.05 %)
+2026-10-10 12:39:08    segment SHA-CH9-SS-C07   flat (< 0.05 %)
+2026-10-10 12:39:08  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (232) and Block4_design_segments (217), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261010_1239
+2026-10-10 12:39:08  style written: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis\design_points_final.qml
+2026-10-10 12:39:08  style written: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\gis\design_segments_final.qml
+2026-10-10 12:39:08  done
+2026-10-10 12:41:02  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-10 12:41:02  points at a tributary's end moved to the receiver's junction point: 7 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; fix500:FIX47+500 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-10 12:41:02  candidates: 205 GDP breaks, 74 flow, 54 fix, 15 fix500, 22 channel ends
+2026-10-10 12:41:02  points: 227 on 37 channels; 126 merged groups (5 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-10 12:41:02  segments: 212; tributary ends moved onto the receiver's point: max 8.1 m ([('HAW-CH3-SS', 8.1)])
+2026-10-10 12:41:02  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 2; flags on points: 5
+2026-10-10 12:41:02    segment HAW-CH3-SS-C01   end moved 8.1 m onto the receiver's point; tributary end 32.631 vs receiver point GDP 32.575
+2026-10-10 12:41:02    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-10 12:41:02  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261010_1241
+2026-10-10 12:41:02  done
+2026-10-10 13:03:28  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-10 13:03:28  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-10 13:03:28  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-10 13:03:28  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-10 13:03:28  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-10 13:03:28  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-10 13:03:28    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-10 13:03:28  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261010_1303
+2026-10-10 13:03:28  done
+2026-10-11 01:27:10  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 01:27:10  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 01:27:10  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 01:27:10  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 01:27:10  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 01:27:10  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 01:27:10    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 01:27:10  wadi fields joined for 34 of 227 points
+2026-10-11 01:27:10  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0127
+2026-10-11 01:27:10  done
+2026-10-11 01:31:43  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 01:31:43  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 01:31:43  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 01:31:43  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 01:31:43  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 01:31:43  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 01:31:43    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 01:31:43  wadi fields joined for 34 of 227 points
+2026-10-11 01:31:43  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0131
+2026-10-11 01:31:43  done
+2026-10-11 02:05:03  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 02:05:03  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 02:05:03  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 02:05:03  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 02:05:03  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 02:05:03  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 02:05:03    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 02:05:03  wadi fields joined for 227 of 227 points
+2026-10-11 02:05:04  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0205
+2026-10-11 02:05:04  done
+2026-10-11 02:42:47  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 02:42:47  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 02:42:47  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 02:42:47  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 02:42:47  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 02:42:47  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 02:42:47    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 02:42:47  wadi fields joined for 227 of 227 points
+2026-10-11 02:42:47  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0242
+2026-10-11 02:42:47  done
+2026-10-11 03:12:49  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 03:12:49  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 03:12:49  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 03:12:49  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 03:12:49  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 03:12:49  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 03:12:49    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 03:12:50  wadi fields joined for 227 of 227 points
+2026-10-11 03:12:50  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0312
+2026-10-11 03:12:50  done
+2026-10-11 03:22:58  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 03:22:58  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 03:22:58  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 03:22:58  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 03:22:58  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 03:22:58  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 03:22:58    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 03:22:58  wadi fields joined for 227 of 227 points
+2026-10-11 03:22:58  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0322
+2026-10-11 03:22:58  done
+2026-10-11 03:57:52  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-11 03:57:52  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-11 03:57:52  candidates: 205 GDP breaks, 74 flow, 54 fix, 14 fix500, 22 channel ends
+2026-10-11 03:57:52  points: 227 on 37 channels; 126 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-11 03:57:52  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-11 03:57:52  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-11 03:57:52    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-11 03:57:52  wadi fields joined for 227 of 227 points
+2026-10-11 03:57:52  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-11 03:57:53  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261011_0357
+2026-10-11 03:57:53  done
+2026-10-12 02:42:20  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-12 02:43:00  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-12 02:43:00  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 02:43:00  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 02:43:00  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 02:43:00  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 02:43:00  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 02:43:00  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 02:43:00    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 02:43:00  wadi fields joined for 227 of 227 points
+2026-10-12 02:43:00  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 02:43:30  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-12 02:43:30  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 02:43:30  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 02:43:30  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 02:43:30  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 02:43:30  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 02:43:30  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 02:43:30    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 02:43:30  wadi fields joined for 227 of 227 points
+2026-10-12 02:43:30  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 04:13:19  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=True) | merge tolerance 10.0 m
+2026-10-12 04:13:19  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 04:13:19  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 04:13:19  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 04:13:19  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 04:13:19  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 04:13:19  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 04:13:19    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 04:13:19  wadi fields joined for 227 of 227 points
+2026-10-12 04:13:19  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 04:13:19  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261012_0413
+2026-10-12 04:13:19  done
+2026-10-12 04:43:54  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=False) | merge tolerance 10.0 m
+2026-10-12 04:43:54  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 04:43:54  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 04:43:54  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 04:43:54  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 04:43:54  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 04:43:54  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 04:43:54    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 04:43:54  wadi fields joined for 227 of 227 points
+2026-10-12 04:43:54  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 04:43:54  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261012_0443
+2026-10-12 04:43:54  done
+2026-10-12 05:00:18  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=False) | merge tolerance 10.0 m
+2026-10-12 05:00:18  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 05:00:18  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 05:00:18  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 05:00:18  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 05:00:18  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 05:00:18  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 05:00:18    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 05:00:18  wadi fields joined for 227 of 227 points
+2026-10-12 05:00:18  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 05:00:18  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261012_0500
+2026-10-12 05:00:18  done
+2026-10-12 05:07:40  37 final layers | 37 channels, GDP for 37 (gdp_reviewed_pvis.json, saved=False) | merge tolerance 10.0 m
+2026-10-12 05:07:40  fix points withdrawn by inputs/fix_removed.json: 10 of 54
+2026-10-12 05:07:40  points at a tributary's end moved to the receiver's junction point: 6 (flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS; flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS; flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP; fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP; flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM; flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS)
+2026-10-12 05:07:40  candidates: 205 GDP breaks, 74 flow, 44 fix, 14 fix500, 22 channel ends
+2026-10-12 05:07:40  points: 227 on 37 channels; 117 merged groups (4 of them spread over more than 1 m); 0 consecutive points closer than 10 m: []
+2026-10-12 05:07:40  segments: 212; tributary ends moved onto the receiver's point: max 1.0 m ([])
+2026-10-12 05:07:40  checks: segment ends equal to their points: OK (0 mismatches); invert continuity along channels max 0.0000 m; flags on segments: 1; flags on points: 4
+2026-10-12 05:07:40    segment SAR-CH3-SS-C04   tributary end 49.714 vs receiver point GDP 49.721
+2026-10-12 05:07:40  wadi fields joined for 227 of 227 points
+2026-10-12 05:07:40  GDP-Raised (GdpZ + Raise) written; outfall flag on 15 channel ends
+2026-10-12 05:07:40  written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final: Block4_design_points (227) and Block4_design_segments (212), merges.csv, final_summary.json; frozen copy D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\final\frozen_20261012_0507
+2026-10-12 05:07:40  done

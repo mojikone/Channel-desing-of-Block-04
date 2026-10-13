@@ -1,0 +1,13 @@
+# Block 04 report: internal matter that must never reach the client (extends the built-in list of check_clean.py)
+\bBasin [1-9]\b
+\bBasin_[1-9]\b
+\bWS11\b|\b2224\b
+\bBlock 6\b|\bBlock 06\b|\bMajlas\b|\bIbri\b
+\bdam (design )?team\b|\bthe engineer\b|\bthe modeller\b|\bthe hydrologist\b
+Hawasinah EX\b
+\bswales?\b
+\bdepth-area analys[ie]s B[2-4]\b|\bDA \d+yr\b|\bFM \d+yr\b
+\bClaude Block\b|\bHEC_HMS_Block_04\b|\bChannels and Dykes 04102026\b
+\bdata_facts\b|\bcharts_b4\b|\brpt_\w+\b
+# the sheet template and the profile-export format came from the Rustaq model: its channel names and the name itself
+\bAis-CH\d+\b|\bRustaq\b

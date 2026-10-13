@@ -1,0 +1,5 @@
+{
+  "_why": "Engineer, 2026-10-11: at a fix point the bed stays on the GDP and the raise is the library (embankment) depth above it: 2.5 m as standard. A deeper library can be applied to one channel segment only, the one starting at SHACH1-12, so its downstream fix point SHACH1-13 is raised by 3.0 m. 39_wadi_depth.py reads this file; the final point layer's Raise field carries these values at the 54 fix points.",
+  "default": 2.5,
+  "points": {"SHACH1-13": 3.0}
+}

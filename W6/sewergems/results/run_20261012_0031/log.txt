@@ -1,0 +1,21 @@
+before: manholes 213, outfalls 14, SHACH13-C1 SHACH13-1 -> SHACH13-2
+outfall SHACH13-O15 (2105): ground 50.113, invert 47.61, rim 50.113 (manhole SHACH13-2 had ground 50.113, invert 47.61)
+SHACH13-C1 stop node now SHACH13-O15
+after: manholes 212, outfalls 15
+design scope: flags off on 211 conduits and 225 nodes; kept on SHACH13-C1 True/True/True, SHACH13-1 True, SHACH13-O15 True
+######## 200 yr (scenario 2055) 12:31:42 AM
+  '200 yr' ran in 319 s, results: True
+  design pass 1: 1 pipe sizes changed
+  '200 yr' ran in 325 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+reopened R3: manholes 212, outfalls 15, SHACH13-C1 SHACH13-1 -> SHACH13-O15, section Box - 10.0 x 2.5 m, flags True/True/True, conduits with design off: 0
+result file for scenario 1 carried over from R2
+result file for scenario 2050 carried over from R2
+result file for scenario 2051 carried over from R2
+result file for scenario 2052 carried over from R2
+result file for scenario 2053 carried over from R2
+result file for scenario 2054 carried over from R2
+result file for scenario 2055 from this run
+result file for scenario 2056 carried over from R2
+delivered "SewerGEMS Block 04_R3.stsw" with .sqlite, .dwh, .profiles.dwh and the result files to the share as new files

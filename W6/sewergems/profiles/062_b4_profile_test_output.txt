@@ -1,0 +1,41 @@
+== HmIDCollection : Haestad.Support.Support.HmIDCollection
+   Constructor .ctor
+   Constructor .ctor
+   Constructor .ctor
+   Constructor .ctor
+   Method Add(Int32 item) : Int32
+   Method AddRange(Int32[] x) : Int32
+   Method AddRange(HmIDCollection x) : Int32
+   Property Capacity : Int32
+   Method Clear() : Void
+   Method Clone() : Object
+   Method Contains(Int32 item) : Boolean
+   Method CopyTo(Int32[] array, Int32 startInTarget, Int32 startInSource, Int32 length) : Void
+   Method CopyTo(Int32[] array, Int32 start) : Void
+   Method CopyTo(Int32[] array) : Void
+   Property Count : Int32
+   Method GetEnumerator() : IHmIDCollectionEnumerator
+   NestedType IHmIDCollectionEnumerator
+   Method IndexOf(Int32 item) : Int32
+   Method Insert(Int32 index, Int32 item) : Void
+   Property IsFixedSize : Boolean
+   Property IsReadOnly : Boolean
+   Property IsSynchronized : Boolean
+   Property Item : Int32
+   Method ReadOnly(HmIDCollection list) : HmIDCollection
+   Method Remove(Int32 item) : Void
+   Method RemoveAt(Int32 index) : Void
+   Method ReverseInPlace() : Void
+   Method Sort() : Void
+   Method Synchronized(HmIDCollection list) : HmIDCollection
+   Property SyncRoot : Object
+   Method ToArray() : Int32[]
+   Method TrimToSize() : Void
+Ais-CH1-FP: 35 ids: 861 1334 860 1210 859 1256 858 1257 857 1390 917 1181 967 1358 856 1312 855 1306 854 1195 945 1292 892 1230 849 1340 848 1192 1527 1529 846 1213 845 1383 1423
+labels: ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ? > ?
+  profile 2068 "HAW-CH1-FP": 15 elements
+after reopen: 1 profile(s) named HAW-CH1-FP; total profiles 44
+   ids persisted: 15 : 1580 1942 1691 2007 1730 1840 1741 2014 1752 1809 1763 1821 1774 1953 2023
+
+
+__EXIT__ 0

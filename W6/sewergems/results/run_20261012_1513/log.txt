@@ -1,0 +1,12 @@
+SHACH1-12: ground 5.812 -> 5.81 (rim 5.81, invert before the design 2.812)
+SHACH1-O11: ground 3.5 -> 2.3 (rim 2.3, invert before the design 0.5)
+constraints: min slope 0.001, max slope 0.03 | design flags on: conduits 212 of 212
+######## 200 yr (scenario 2055), full design 3:13:21 PM
+  '200 yr' ran in 592 s, results: True
+  design pass 1: 2 pipe sizes changed
+  '200 yr' ran in 564 s, results: True
+  design pass 2: 0 pipe sizes changed
+  exported '200yr': 212 conduits, 227 nodes
+reopened R7, 200 yr: SHACH1-12 ground 5.81 invert 2.81 | SHACH1-O11 ground 2.3 invert -0.7
+result file for scenario 2055 delivered
+delivered "SewerGEMS Block 04_R7.stsw" with .sqlite, .dwh, .profiles.dwh and the 200 yr result file

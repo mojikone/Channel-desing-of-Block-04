@@ -1,0 +1,66 @@
+1. exports copied: ['conduits_200yr.csv', 'nodes_200yr.csv']
+
+### 2. size labels from the revision's database  (python.exe 48_fix_size_labels.py --run run_20261012_0850 --sqlite SewerGEMS Block 04_R4.stsw.sqlite)
+    # Size labels corrected from the R2 database (step 48, run_20261012_0850)
+    
+    A size is class + GUID: the five catalogue classes share their size GUIDs. The as-run export (label by GUID alone) is kept in `bridge_exports_asrun/`.
+    
+    - **200yr** (scenario 2055, physical alternative 2066 "200 yr"): 212 conduits; classes Rect- Natural 2.5 x210, Rect- Natural 3 x2; inherited from a parent alter
+    -> ok in 0 s
+3. profile_paths.csv already updated
+
+### 4. review tables and summary  (python.exe 45_sewergems_results.py run_20261012_0850)
+    | 395.5 | 3 |
+    
+    ## Per scenario
+    - **200yr**: widths 10.0 to 395.5 m (median 46.0); depth 3 m on SHACH1-C12, HAWCH1-C7; velocity 0.00 to 4.65 m/s (97 conduits over 3 m/s); 0 nodes with the HGL 
+    
+    ...written D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\results\run_20261012_0850
+    -> ok in 0 s
+
+### 5. profile DXFs, all channels and scenarios  (python.exe 49_sg_profile_dxf_all.py --run run_20261012_0850 --scenarios 200yr)
+    37 profiles x 1 scenarios: 37 written, 0 failed, 4 s
+    -> ok in 4 s
+
+### 6a. buffers  (python.exe make_buffers.py --run run_20261012_0850)
+    bed: MultiPolygon, 15 parts, 14.94 km2 | corridor: MultiPolygon, 15 parts, 21.71 km2 -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewerge
+    -> ok in 1 s
+6b. 200-yr profile DXFs copied into the sheet pipeline: 37
+
+### 6c. sheets and key maps, all channels  (python.exe run_all.py)
+      Drawing profile...
+      Drawing plan...
+      Saved: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\DXF\SHA-CH9-SS-Sheet04_v2551.dxf
+    
+    ============================================================
+    All done in 79s  (277/277 OK, 37 channels)
+    -> ok in 80 s
+
+### 6d. PDFs and combined PDFs  (python.exe export_pdf.py)
+      Combined: SHA-CH5-SM.pdf  (11 pages, 14.2 MB)
+      Combined: SHA-CH6-SM.pdf  (7 pages, 10.7 MB)
+      Combined: SHA-CH7-SM.pdf  (9 pages, 12.3 MB)
+      Combined: SHA-CH8-SS.pdf  (7 pages, 10.2 MB)
+      Combined: SHA-CH9-SS.pdf  (7 pages, 10.7 MB)
+    Output: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\PDF
+    -> ok in 55 s
+
+### 6e. the set  (python.exe make_set.py)
+      VF#09  8+000–9+000  brg=60.1°  ctr=(480360,2668407)
+      VF#10  9+000–10+000  brg=20.8°  ctr=(480901,2669213)
+      VF#11  10+000–11+000  brg=18.0°  ctr=(481210,2670164)
+      VF#12  11+000–12+000  brg=18.0°  ctr=(481519,2671115)
+      VF#13  12+000–12+466  brg=18.0°  ctr=(481745,2671813)
+    set: D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W6\sewergems\sheets\scripts\PDF\Set\2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf  (28
+    -> ok in 2 s
+
+### 6f. gate: set PDF  (python.exe check_clean.py 2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf --terms forbidden_terms.txt --allow allowed_terms.txt --quiet)
+    clean-room gate: PASSED  (2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr.pdf)
+    -> ok in 3 s
+
+### 6g. gate: sheet DXF text  (python.exe check_clean_sheets.py --quiet)
+    clean-room gate (sheet DXF text, 277 drawings): PASSED
+    -> ok in 34 s
+
+ALL DONE in 3 min
+exit 0

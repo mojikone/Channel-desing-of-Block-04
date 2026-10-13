@@ -1,0 +1,53 @@
+{
+ "fixes": [
+  {
+   "trib": "HAW-CH5-SS",
+   "recv": "HAW-CH1-FP",
+   "sta": 6622.3,
+   "oldEnd": 4.318,
+   "newEnd": 4.542,
+   "diff": 0.224,
+   "lastSegment_m": 332,
+   "slopeOld": 0.00642,
+   "slopeNew": 0.00575,
+   "flag": ""
+  },
+  {
+   "trib": "SHA-CH18-SS",
+   "recv": "SHA-CH1-FP",
+   "sta": 5223.2,
+   "oldEnd": 9.882,
+   "newEnd": 10.006,
+   "diff": 0.124,
+   "lastSegment_m": 1249,
+   "slopeOld": 0.00641,
+   "slopeNew": 0.00631,
+   "flag": ""
+  },
+  {
+   "trib": "SHA-CH20-SS",
+   "recv": "SHA-CH1-FP",
+   "sta": 6625,
+   "oldEnd": 6.15,
+   "newEnd": 6.389,
+   "diff": 0.239,
+   "lastSegment_m": 613,
+   "slopeOld": 0.00316,
+   "slopeNew": 0.00277,
+   "flag": ""
+  },
+  {
+   "trib": "SHA-CH21-SS",
+   "recv": "SHA-CH7-SM",
+   "sta": 698.1,
+   "oldEnd": 29.845,
+   "newEnd": 30.151,
+   "diff": 0.306,
+   "lastSegment_m": 1088,
+   "slopeOld": 0.00568,
+   "slopeNew": 0.00539,
+   "flag": ""
+  }
+ ],
+ "problems": []
+}

@@ -1,0 +1,89 @@
+{
+ "written": "2026-10-12 05:07",
+ "merge_tolerance_m": 10.0,
+ "end_snap_m": 2.0,
+ "location_priority_without_gdp": [
+  "CHend",
+  "fix",
+  "flow",
+  "fix500"
+ ],
+ "gdp_source": {
+  "file": "D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W6\\gdp\\gdp_reviewed_pvis.json",
+  "saved_flag": false,
+  "mtime": "2026-10-12 05:00"
+ },
+ "points_source": {
+  "file": "D:\\Mojtaba\\Renardet\\2224 WS11\\Batinah\\Block 4\\Claude Block 04\\W6\\output\\design_points.gpkg",
+  "mtime": "2026-10-10 13:03"
+ },
+ "channels": 37,
+ "points": 227,
+ "segments": 212,
+ "points_by_kind": {
+  "Flow": 74,
+  "Fix": 44,
+  "Fix500": 14,
+  "GDP": 205,
+  "CHend": 22
+ },
+ "points_gdp_only": 94,
+ "merged_groups": 117,
+ "merged_over_1m": [
+  {
+   "Channel": "HAW-CH1-FP",
+   "Station": 3630.89,
+   "StaLbl": "3+631",
+   "Members": "GDP:GB3; fix500:FIX8+500",
+   "Spread_m": 2.41,
+   "LocationFrom": "GDP:GB3",
+   "Label": "HAW-CH1-FP-N04"
+  },
+  {
+   "Channel": "SAR-CH2-SM",
+   "Station": 3034.334,
+   "StaLbl": "3+034",
+   "Members": "GDP:GB4; fix:FIX44",
+   "Spread_m": 3.33,
+   "LocationFrom": "GDP:GB4",
+   "Label": "SAR-CH2-SM-N05"
+  },
+  {
+   "Channel": "SHA-CH1-FP",
+   "Station": 5223.17,
+   "StaLbl": "5+223",
+   "Members": "flow:SHA-J49; CHend:SHA-CH18-SS",
+   "Spread_m": 1.02,
+   "LocationFrom": "CHend:SHA-CH18-SS",
+   "Label": "SHA-CH1-FP-N09"
+  },
+  {
+   "Channel": "SHA-CH7-SM",
+   "Station": 1867.854,
+   "StaLbl": "1+868",
+   "Members": "GDP:GB1; fix:FIX10",
+   "Spread_m": 1.16,
+   "LocationFrom": "GDP:GB1",
+   "Label": "SHA-CH7-SM-N03"
+  }
+ ],
+ "consecutive_points_closer_than_tolerance": [],
+ "tributary_end_jogs_over_1m": [],
+ "points_moved_from_tributary_ends": [
+  "flow:HAW-J3 HAW-CH3-SS -> HAW-CH2-SS",
+  "flow:HAW-J4 HAW-CH4-SS -> HAW-CH5-SS",
+  "flow:SAK-J18 SAK-CH1-FP -> SAK-CH2-FP",
+  "fix:FIX47 SAK-CH1-FP -> SAK-CH2-FP",
+  "flow:SHA-J44 SHA-CH5-SM -> SHA-CH3-SM",
+  "flow:SHA-J39 SHA-CH9-SS -> SHA-CH10-SS"
+ ],
+ "segment_end_mismatches": 0,
+ "invert_continuity_max_m": 0.0,
+ "segments_flagged": [
+  [
+   "SAR-CH3-SS-C04",
+   "tributary end 49.714 vs receiver point GDP 49.721"
+  ]
+ ],
+ "skipped_inputs": []
+}
