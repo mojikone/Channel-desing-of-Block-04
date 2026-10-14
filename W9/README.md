@@ -57,6 +57,13 @@ untouched; the share takes new files only) and in `gis/hecras/`. Fields: nodes, 
 size text / flow / velocity / flow depth at 200 yr, and W / D / Q / S per return period. Dam-controlled reaches carry zero flow in the
 scenarios where the dam stores the whole event (for example HAWCH1-C5: 0 up to 100 yr, 174 m³/s at 200 yr, 1 576 at 500 yr).
 
+## Superseded by W10 (2026-10-14, his review of R6)
+
+W10 holds the live reports (R7, stormwater R2), culverts, maps, KMZ, BOQ, bypass workbooks and submission scripts. Found in W10: **the W9
+map renders never ran** — `scripts/66_maps_qgis_r5.py` asserts on `gis/GCA_RENN.gpkg`, which lives in `W8/gis` and was not copied into
+W9, so the script stopped before rendering and every PNG in `maps/png_r6` and `maps/png_sw_r1` is the W8 file (figure 41 of R6 shows
+31 crossings, the reach panels the W8 labels). R6 and stormwater R1 are superseded; the W9 KMZ was built before the final crossing file.
+
 ## Open
 
 - WhatsApp: nothing sent from W9 (he did not ask this round).
