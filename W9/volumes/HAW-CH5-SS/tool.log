@@ -1,0 +1,37 @@
+Loading shapefile ...
+  7 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 3027 rows x 1779 cols  (2.0 m resolution)
+Extent      : X 503640 - 507198  Y 2647814 - 2653868
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  HAWCH5-C1  span=10m  rise=2.5m  L=1214m  inv 41.84->33.59  [taper -> span=19m rise=2.5m]
+  HAWCH5-C2  span=19m  rise=2.5m  L=868m  inv 33.59->29.00  [taper -> span=20m rise=2.5m]
+  HAWCH5-C3  span=20m  rise=2.5m  L=1012m  inv 29.00->24.42
+  HAWCH5-C4  span=20m  rise=2.5m  L=500m  inv 24.42->19.43
+  HAWCH5-C5  span=20m  rise=2.5m  L=1813m  inv 19.43->8.56  [taper -> span=42m rise=2.5m]
+  HAWCH5-C6  span=42m  rise=2.5m  L=1325m  inv 8.56->4.78  [taper -> span=44m rise=2.5m]
+  HAWCH5-C7  span=44m  rise=2.5m  L=333m  inv 4.78->3.57
+
+Rasterising reach bodies (7 threads) ...
+  HAWCH5-C7  5,366 body cells
+  HAWCH5-C2  7,220 body cells
+  HAWCH5-C4  5,035 body cells
+  HAWCH5-C3  10,035 body cells
+  HAWCH5-C1  7,727 body cells
+  HAWCH5-C6  19,176 body cells
+  HAWCH5-C5  15,120 body cells
+
+Filling junction gaps ...
+  HAWCH5-C1 -> HAWCH5-C2  junction filled
+  HAWCH5-C2 -> HAWCH5-C3  junction filled
+  HAWCH5-C3 -> HAWCH5-C4  junction filled
+  HAWCH5-C4 -> HAWCH5-C5  junction filled
+  HAWCH5-C5 -> HAWCH5-C6  junction filled
+  HAWCH5-C6 -> HAWCH5-C7  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\HAW-CH5-SS\channel_terrain.tif
+Done.  69,435 total channel cells.

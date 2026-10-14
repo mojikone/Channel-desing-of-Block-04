@@ -1,0 +1,26 @@
+{
+ "channel": "SAR-CH2-SM",
+ "cls": "SM",
+ "reaches": 6,
+ "length_m": 6142.3,
+ "span_min": 49.0,
+ "span_max": 94.0,
+ "cut_m3": 1002187,
+ "fill_m3": 131147,
+ "footprint_m2": 584980,
+ "protection_m2": 55373,
+ "corridor_ha": 66.72,
+ "land_take_ha": {
+  "Agricultural": 20.1,
+  "Commercial": 0.01,
+  "Government": 0.4,
+  "Resedential": 7.98,
+  "Residential Commercial": 0.09
+ },
+ "cost_OMR": 3023952,
+ "cost_mOMR": 3.024,
+ "res_m": 2.0,
+ "ground": "0.5 m project DEM",
+ "cells_without_ground": 0,
+ "seconds": 2
+}

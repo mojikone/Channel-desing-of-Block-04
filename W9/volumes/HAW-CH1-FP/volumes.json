@@ -1,0 +1,24 @@
+{
+ "channel": "HAW-CH1-FP",
+ "cls": "FP",
+ "reaches": 7,
+ "length_m": 8203.9,
+ "span_min": 29.0,
+ "span_max": 89.5,
+ "cut_m3": 572684,
+ "fill_m3": 87353,
+ "footprint_m2": 480696,
+ "protection_m2": 76061,
+ "corridor_ha": 59.62,
+ "land_take_ha": {
+  "Agricultural": 4.02,
+  "Government": 0.01,
+  "Resedential": 3.18
+ },
+ "cost_OMR": 1997460,
+ "cost_mOMR": 1.997,
+ "res_m": 2.0,
+ "ground": "0.5 m project DEM",
+ "cells_without_ground": 0,
+ "seconds": 4
+}

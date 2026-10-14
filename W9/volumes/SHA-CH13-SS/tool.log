@@ -1,0 +1,19 @@
+Loading shapefile ...
+  1 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 487 rows x 790 cols  (2.0 m resolution)
+Extent      : X 494556 - 496136  Y 2651036 - 2652010
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SHACH13-C1  span=50m  rise=2.5m  L=1642m  inv 55.81->47.61
+
+Rasterising reach bodies (1 threads) ...
+  SHACH13-C1  28,176 body cells
+
+Filling junction gaps ...
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SHA-CH13-SS\channel_terrain.tif
+Done.  28,176 total channel cells.

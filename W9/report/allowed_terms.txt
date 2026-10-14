@@ -1,0 +1,11 @@
+# legitimate text that looks like internal matter: blanked before the scan
+# the dry unit weight symbols of the sedimentation equations (W1, WT in the symbol lines)
+\bW1:\s+initial dry unit weight
+\bWT:\s+average unit weight
+# the data sources the climate and sediment sections cite
+\bSM2RAIN\b
+\bOpen-Meteo\b
+# the same symbols inside the equations (OMML text flattens to "W1 = Wc pc ..." and "WT = W1 + 0.4343 ...")
+\bW1\s*=
+=\s*W1\b
+\b2224-PD-HY-PP-B4(-\d{3})?\b

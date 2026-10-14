@@ -1,0 +1,20 @@
+{
+ "channel": "SAK-CH4-SS",
+ "cls": "SS",
+ "reaches": 2,
+ "length_m": 1921.2,
+ "span_min": 10.0,
+ "span_max": 10.0,
+ "cut_m3": 60593,
+ "fill_m3": 5082,
+ "footprint_m2": 46480,
+ "protection_m2": 17320,
+ "corridor_ha": 7.91,
+ "land_take_ha": {},
+ "cost_OMR": 230101,
+ "cost_mOMR": 0.23,
+ "res_m": 2.0,
+ "ground": "0.5 m project DEM",
+ "cells_without_ground": 0,
+ "seconds": 0
+}

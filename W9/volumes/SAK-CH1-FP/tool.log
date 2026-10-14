@@ -1,0 +1,52 @@
+Loading shapefile ...
+  12 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 5491 rows x 2146 cols  (2.0 m resolution)
+Extent      : X 477732 - 482024  Y 2661260 - 2672242
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SAKCH1-C1  span=58m  rise=2.5m  L=672m  inv 89.89->84.71
+  SAKCH1-C2  span=58m  rise=2.5m  L=458m  inv 84.71->80.01  [taper -> span=62m rise=2.5m]
+  SAKCH1-C3  span=62m  rise=2.5m  L=867m  inv 80.01->73.98  [taper -> span=68m rise=2.5m]
+  SAKCH1-C4  span=68m  rise=2.5m  L=994m  inv 73.98->68.30  [taper -> span=96m rise=2.5m]
+  SAKCH1-C5  span=96m  rise=2.5m  L=1305m  inv 68.30->60.03  [taper -> span=102m rise=2.5m]
+  SAKCH1-C6  span=102m  rise=2.5m  L=1869m  inv 60.03->49.63
+  SAKCH1-C7  span=102m  rise=2.5m  L=1297m  inv 49.63->40.81  [taper -> span=112m rise=2.5m]
+  SAKCH1-C8  span=112m  rise=2.5m  L=1113m  inv 40.81->35.69  [taper -> span=132m rise=2.5m]
+  SAKCH1-C9  span=132m  rise=2.5m  L=743m  inv 35.69->33.25
+  SAKCH1-C10  span=132m  rise=2.5m  L=1087m  inv 33.25->27.06  [taper -> span=166m rise=2.5m]
+  SAKCH1-C11  span=166m  rise=2.5m  L=1249m  inv 27.06->24.45  [taper -> span=238m rise=2.5m]
+  SAKCH1-C12  span=238m  rise=2.5m  L=814m  inv 24.45->23.63
+
+Rasterising reach bodies (12 threads) ...
+  SAKCH1-C5  37,289 body cells
+  SAKCH1-C3  15,710 body cells
+  SAKCH1-C1  11,826 body cells
+  SAKCH1-C10  39,546 body cells
+  SAKCH1-C2  8,232 body cells
+  SAKCH1-C12  52,046 body cells
+  SAKCH1-C9  27,327 body cells
+  SAKCH1-C11  56,452 body cells
+  SAKCH1-C4  20,930 body cells
+  SAKCH1-C6  58,017 body cells
+  SAKCH1-C8  34,613 body cells
+  SAKCH1-C7  38,730 body cells
+
+Filling junction gaps ...
+  SAKCH1-C1 -> SAKCH1-C2  junction filled
+  SAKCH1-C2 -> SAKCH1-C3  junction filled
+  SAKCH1-C3 -> SAKCH1-C4  junction filled
+  SAKCH1-C4 -> SAKCH1-C5  junction filled
+  SAKCH1-C5 -> SAKCH1-C6  junction filled
+  SAKCH1-C6 -> SAKCH1-C7  junction filled
+  SAKCH1-C7 -> SAKCH1-C8  junction filled
+  SAKCH1-C8 -> SAKCH1-C9  junction filled
+  SAKCH1-C9 -> SAKCH1-C10  junction filled
+  SAKCH1-C10 -> SAKCH1-C11  junction filled
+  SAKCH1-C11 -> SAKCH1-C12  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SAK-CH1-FP\channel_terrain.tif
+Done.  399,309 total channel cells.

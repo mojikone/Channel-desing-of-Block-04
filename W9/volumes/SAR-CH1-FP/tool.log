@@ -1,0 +1,58 @@
+Loading shapefile ...
+  14 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 6020 rows x 6382 cols  (2.0 m resolution)
+Extent      : X 479104 - 491868  Y 2657664 - 2669704
+
+Allocating output array (0.2 GB memmap) ...
+  done.
+
+  SARCH1-C1  span=58m  rise=2.5m  L=760m  inv 108.48->103.99
+  SARCH1-C2  span=58m  rise=2.5m  L=1322m  inv 103.99->91.56
+  SARCH1-C3  span=58m  rise=2.5m  L=970m  inv 91.56->83.32
+  SARCH1-C4  span=58m  rise=2.5m  L=1917m  inv 83.32->67.72
+  SARCH1-C5  span=58m  rise=2.5m  L=2951m  inv 67.72->47.22  [taper -> span=78m rise=2.5m]
+  SARCH1-C6  span=78m  rise=2.5m  L=1945m  inv 47.22->35.39  [taper -> span=86m rise=2.5m]
+  SARCH1-C7  span=86m  rise=2.5m  L=1674m  inv 35.39->27.25
+  SARCH1-C8  span=86m  rise=2.5m  L=744m  inv 27.25->20.63  [taper -> span=94m rise=2.5m]
+  SARCH1-C9  span=94m  rise=2.5m  L=1011m  inv 20.63->16.52
+  SARCH1-C10  span=94m  rise=2.5m  L=713m  inv 16.52->11.21  [taper -> span=209m rise=2.5m]
+  SARCH1-C11  span=209m  rise=2.5m  L=1090m  inv 11.21->8.16
+  SARCH1-C12  span=209m  rise=2.5m  L=575m  inv 8.16->5.27
+  SARCH1-C13  span=209m  rise=2.5m  L=1597m  inv 5.27->0.38  [taper -> span=343m rise=2.5m]
+  SARCH1-C14  span=343m  rise=2.5m  L=284m  inv 0.38->0.09
+
+Rasterising reach bodies (14 threads) ...
+  SARCH1-C1  13,527 body cells
+  SARCH1-C8  19,092 body cells
+  SARCH1-C3  16,931 body cells
+  SARCH1-C14  25,568 body cells
+  SARCH1-C2  23,742 body cells
+  SARCH1-C10  20,625 body cells
+  SARCH1-C9  26,986 body cells
+  SARCH1-C4  32,578 body cells
+  SARCH1-C7  44,314 body cells
+  SARCH1-C12  32,848 body cells
+  SARCH1-C6  44,176 body cells
+  SARCH1-C11  61,038 body cells
+  SARCH1-C5  51,446 body cells
+  SARCH1-C13  91,426 body cells
+
+Filling junction gaps ...
+  SARCH1-C1 -> SARCH1-C2  junction filled
+  SARCH1-C2 -> SARCH1-C3  junction filled
+  SARCH1-C3 -> SARCH1-C4  junction filled
+  SARCH1-C4 -> SARCH1-C5  junction filled
+  SARCH1-C5 -> SARCH1-C6  junction filled
+  SARCH1-C6 -> SARCH1-C7  junction filled
+  SARCH1-C7 -> SARCH1-C8  junction filled
+  SARCH1-C8 -> SARCH1-C9  junction filled
+  SARCH1-C9 -> SARCH1-C10  junction filled
+  SARCH1-C10 -> SARCH1-C11  junction filled
+  SARCH1-C11 -> SARCH1-C12  junction filled
+  SARCH1-C12 -> SARCH1-C13  junction filled
+  SARCH1-C13 -> SARCH1-C14  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SAR-CH1-FP\channel_terrain.tif
+Done.  502,274 total channel cells.

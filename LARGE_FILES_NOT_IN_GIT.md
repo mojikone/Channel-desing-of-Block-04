@@ -41,3 +41,11 @@
 | `gis/reconditioned_CH_WALL_10m.tif` | 122 |
 
 Also left out: the generated sheet intermediates (DXF, per-sheet PDFs, satellite tile caches, the combined PDFs per channel) and the AutoCAD backups; the drawing sets are in the submission folder.
+| `W9/bypass/civil3d/Block04_Channel_Profiles_Bypass.dwg` | 113 |
+| `W9/volumes/SAR-CH1-FP/ground_2m.tif` | 151 |
+
+## Also left out: derived rasters under 100 MB
+
+`W9/volumes/<channel>/ground_2m.tif` (37 files, 811 MB in all): the 0.5 m project ground resampled to 2 m over each channel corridor,
+written by `W9/scripts/73_terrain_w9.py` from the project DEM (`Block 4\Hydraulic\Terrain\GGC_4_MERGE_HDSM.tif`, a copy of the server DTM).
+The channel surfaces, quantities and the merged terrain rasters (`W9/terrain`) are in the repository.

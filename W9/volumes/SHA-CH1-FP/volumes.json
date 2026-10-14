@@ -1,0 +1,25 @@
+{
+ "channel": "SHA-CH1-FP",
+ "cls": "FP",
+ "reaches": 12,
+ "length_m": 8044.2,
+ "span_min": 156.5,
+ "span_max": 218.5,
+ "cut_m3": 3647137,
+ "fill_m3": 34542,
+ "footprint_m2": 1588936,
+ "protection_m2": 74177,
+ "corridor_ha": 172.08,
+ "land_take_ha": {
+  "Agricultural": 10.21,
+  "Government": 2.75,
+  "Resedential": 15.27,
+  "Residential Commercial": 0.19
+ },
+ "cost_OMR": 8567581,
+ "cost_mOMR": 8.568,
+ "res_m": 2.0,
+ "ground": "0.5 m project DEM",
+ "cells_without_ground": 0,
+ "seconds": 4
+}

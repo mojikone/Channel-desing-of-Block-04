@@ -1,0 +1,52 @@
+Loading shapefile ...
+  12 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 2926 rows x 3000 cols  (2.0 m resolution)
+Extent      : X 497218 - 503218  Y 2653286 - 2659138
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SHACH1-C1  span=156m  rise=2.5m  L=720m  inv 34.69->31.85
+  SHACH1-C2  span=156m  rise=2.5m  L=575m  inv 31.85->28.97
+  SHACH1-C3  span=156m  rise=2.5m  L=615m  inv 28.97->25.48  [taper -> span=180m rise=2.5m]
+  SHACH1-C4  span=180m  rise=2.5m  L=1091m  inv 25.48->22.22
+  SHACH1-C5  span=180m  rise=2.5m  L=500m  inv 22.22->17.39
+  SHACH1-C6  span=180m  rise=2.5m  L=987m  inv 17.39->12.78
+  SHACH1-C7  span=180m  rise=2.5m  L=381m  inv 12.78->10.71
+  SHACH1-C8  span=180m  rise=2.5m  L=353m  inv 10.71->8.75
+  SHACH1-C9  span=180m  rise=2.5m  L=393m  inv 8.75->6.72  [taper -> span=196m rise=2.5m]
+  SHACH1-C10  span=196m  rise=2.5m  L=1009m  inv 6.72->3.89  [taper -> span=218m rise=2.5m]
+  SHACH1-C11  span=218m  rise=2.5m  L=499m  inv 3.89->2.71  [taper -> span=218m rise=3.0m]
+  SHACH1-C12  span=218m  rise=3.0m  L=920m  inv 2.21->-0.70
+
+Rasterising reach bodies (12 threads) ...
+  SHACH1-C5  24,918 body cells
+  SHACH1-C8  16,967 body cells
+  SHACH1-C7  18,551 body cells
+  SHACH1-C9  19,009 body cells
+  SHACH1-C2  24,811 body cells
+  SHACH1-C3  26,587 body cells
+  SHACH1-C1  30,546 body cells
+  SHACH1-C4  54,263 body cells
+  SHACH1-C11  29,140 body cells
+  SHACH1-C12  54,191 body cells
+  SHACH1-C6  47,880 body cells
+  SHACH1-C10  52,539 body cells
+
+Filling junction gaps ...
+  SHACH1-C1 -> SHACH1-C2  junction filled
+  SHACH1-C2 -> SHACH1-C3  junction filled
+  SHACH1-C3 -> SHACH1-C4  junction filled
+  SHACH1-C4 -> SHACH1-C5  junction filled
+  SHACH1-C5 -> SHACH1-C6  junction filled
+  SHACH1-C6 -> SHACH1-C7  junction filled
+  SHACH1-C7 -> SHACH1-C8  junction filled
+  SHACH1-C8 -> SHACH1-C9  junction filled
+  SHACH1-C9 -> SHACH1-C10  junction filled
+  SHACH1-C10 -> SHACH1-C11  junction filled
+  SHACH1-C11 -> SHACH1-C12  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SHA-CH1-FP\channel_terrain.tif
+Done.  397,234 total channel cells.

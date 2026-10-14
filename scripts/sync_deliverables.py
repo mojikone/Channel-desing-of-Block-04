@@ -50,8 +50,8 @@ WS11 = B4.parents[1]                                                # ...\Renard
 IBRI = Path("D:/Mojtaba/Renardet/2621 Ibri Sewer STP/Hydraulic/Claude")
 W = "W:/2224 Flood Protection Scheme in North & South Batinah_MAFWWR/06-WORKING/"
 W2331 = "W:/2331 Flood Hazard Maps for Muscat-Dhofar-Musandam_MWR/06-WORKING/03-Hydrology/"
-W7 = CB04 / "W7"; W8 = CB04 / "W8"
-REPORT = (W8 / "report") if (W8 / "report" / "build.py").exists() else ((W7 / "report") if (W7 / "report" / "build.py").exists() else (W3 / "report"))   # the live report build: W8 (R5, 2026-10-13), before that W7 (R4)
+W7 = CB04 / "W7"; W8 = CB04 / "W8"; W9 = CB04 / "W9"
+REPORT = (W9 / "report") if (W9 / "report" / "build.py").exists() else (W8 / "report") if (W8 / "report" / "build.py").exists() else ((W7 / "report") if (W7 / "report" / "build.py").exists() else (W3 / "report"))   # the live report build: W8 (R5, 2026-10-13), before that W7 (R4)
 REV = re.search(r'REV = "(R\d+)"', (REPORT / "build.py").read_text(encoding="utf-8")).group(1)
 MAX_COPY_MB = 300; HASH_MAX_MB = 64
 SKIP = ["__pycache__", "*.pyc", "Thumbs.db", "~$*", ".~lock*", "*.lock", "desktop.ini", "*.bak", "*.dwl", "*.dwl2"]   # AutoCAD backups and lock files are not deliverables (2026-10-11)
@@ -63,8 +63,8 @@ SPEC = [
  # ---------------------------------------------------------------- 01 the report (live revision only)
  E("01 Report", f"Block04_Report_{REV}.docx", REPORT / REV / f"Block04_Report_{REV}.docx", "file", note=f"the live revision ({REV}); superseded revisions stay in W3/report (R0 to R3) and W7/report"),
  E("01 Report", f"Block04_Report_{REV}.pdf", REPORT / REV / f"Block04_Report_{REV}.pdf", "file"),
- E("01 Report", "Block04_Stormwater_Channels_R0.docx", W8 / "report" / "SW_R0" / "Block04_Stormwater_Channels_R0.docx", "file", note="the stormwater channels report (W8, 2026-10-13): the 32 stormwater main and secondary channels and their dykes, the Block 6 'Hydraulic Design of Stormwater Channels' structure"),
- E("01 Report", "Block04_Stormwater_Channels_R0.pdf", W8 / "report" / "SW_R0" / "Block04_Stormwater_Channels_R0.pdf", "file"),
+ E("01 Report", "Block04_Stormwater_Channels_R1.docx", W9 / "report" / "SW_R1" / "Block04_Stormwater_Channels_R1.docx", "file", note="the stormwater channels report (W8, 2026-10-13): the 32 stormwater main and secondary channels and their dykes, the Block 6 'Hydraulic Design of Stormwater Channels' structure"),
+ E("01 Report", "Block04_Stormwater_Channels_R1.pdf", W9 / "report" / "SW_R1" / "Block04_Stormwater_Channels_R1.pdf", "file"),
  E("01 Report", "review record/Block04_Report_R0 - engineer comments.docx", W3 / "report" / "R0" / "Block04_Report_R0 - Copy.docx", "file", note="R0 with the engineer's 70 comments (2026-10-06)"),
  # ---------------------------------------------------------------- 02 the HEC-HMS model
  E("02 HMS model", "HEC_HMS_Block_04 (project files, terrain, gis)", HYD / "HEC_HMS_Block_04", "tree", exclude=["*.dss", "results/*", "_backup_*", "_backup_*/*"],
@@ -122,6 +122,9 @@ SPEC = [
  E("16 Report R5, stormwater report R0, drawing sets with key plans, KMZ, submission build, dams table (W8)", "W8", CB04 / "W8", "tree",
    exclude=["output/*.png", "sewergems/sheets/scripts/IMG/*", "sewergems/sheets/scripts/DXF/*", "sewergems/sheets/scripts/PDF/Combined/*", "sewergems/sheets/scripts/PDF/*_v*.pdf", "sewergems/sheets/scripts/PDF/_chk/*", "sewergems/sheets/scripts/PDF/Set/*.png", "sewergems/sheets/scripts/PDF/Set/*.jpg", "sewergems/sheets/scripts/Data/*", "report/template/*", "report/R5/_check/*", "report/SW_R0/_check/*", "maps/png_*/*_thumb*"],
    note="W8 (2026-10-13): report R5 after his review of R4 and the stormwater channels report R0 (report/), the two plan-profile sets with a key plan after each catchment divider and no text overlaps (sewergems/sheets/scripts/PDF/Set), the KMZ files (kmz/), the submission folder build (scripts/90, 91 -> Block 4/Deliverables/2 Submission 13102026), the culverts at the full channel depth (culverts/), the maps of both reports (maps/png_r5, png_sw); also the dam characteristics table of Blocks 2, 4 and 6 (output/, data/, scripts/build_dams_*)"),
+ E("17 Report R6, stormwater report R1, culverts with the bypass, terrain on the 0.5 m ground, KMZ v2, bypass package (W9)", "W9", CB04 / "W9", "tree",
+   exclude=["report/template/*", "report/R6/_check/*", "report/SW_R1/_check/*", "maps/png_*/*_thumb*", "bypass/HEC-HMS*", "volumes/*/_work_array.dat"],
+   note="W9 (2026-10-14): his second review round — reach and node labels = SGLabel, culverts at the four channel ends short of the Coastal Road and at the bypass (17 crossings + 9 channels starting below it), the channel terrain re-run on the 0.5 m project terrain (cut 34.9 Mm3), reach sizes and extents for all return periods, dyke extent, KMZ with zoom-dependent labels and the HEC-HMS model, the BOQ workbook, the bypass road design package (flows, hydrographs, culverts, Civil 3D profiles), reports R6 and stormwater R1, the submission folder and its QGIS project rebuilt (scripts/90, 91)"),
  E("10 References", "Dams/Block 6 Dams Details.xlsx", W + "07-Structures/03-Dam Design/01-Block 6 Dams/Block 6 Dams Details.xlsx", "file", note="the dam team's Block 6 dam table (Table 30/34 of the Block 6 masterplan)"),
  E("10 References", "Dams/Block 4 Dams (types).xlsx", W + "07-Structures/03-Dam Design/02-Block 4 Dams/Chracteristics/Block 4 Dams.xlsx", "file", note="the dam team's Block 4 dam types, bedrock depth and foundation treatment"),
  E("10 References", "Dams/Tentative Cost of Dams B2-4-6.xlsx", W + "07-Structures/Ad-hoc Reports/03-Tentative Costs of Dams/Tentative Cost of Dams B2-4-6.xlsx", "file", note="the dam team's rounded height, length and tentative cost of the 16 dams of Blocks 2, 4 and 6"),

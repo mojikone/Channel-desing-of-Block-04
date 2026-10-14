@@ -1,0 +1,19 @@
+Loading shapefile ...
+  1 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 704 rows x 415 cols  (2.0 m resolution)
+Extent      : X 501134 - 501964  Y 2649762 - 2651170
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  HAWCH3-C1  span=10m  rise=2.5m  L=1440m  inv 42.45->30.67
+
+Rasterising reach bodies (1 threads) ...
+  HAWCH3-C1  8,769 body cells
+
+Filling junction gaps ...
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\HAW-CH3-SS\channel_terrain.tif
+Done.  8,769 total channel cells.

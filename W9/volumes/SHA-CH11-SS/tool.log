@@ -1,0 +1,22 @@
+Loading shapefile ...
+  2 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 729 rows x 1084 cols  (2.0 m resolution)
+Extent      : X 490736 - 492904  Y 2660948 - 2662406
+
+Allocating output array (0.0 GB memmap) ...
+  done.
+
+  SHACH11-C1  span=22m  rise=2.5m  L=1352m  inv 28.34->23.94
+  SHACH11-C2  span=22m  rise=2.5m  L=1075m  inv 23.94->16.14
+
+Rasterising reach bodies (2 threads) ...
+  SHACH11-C2  10,937 body cells
+  SHACH11-C1  13,851 body cells
+
+Filling junction gaps ...
+  SHACH11-C1 -> SHACH11-C2  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SHA-CH11-SS\channel_terrain.tif
+Done.  24,743 total channel cells.

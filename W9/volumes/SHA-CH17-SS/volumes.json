@@ -1,0 +1,23 @@
+{
+ "channel": "SHA-CH17-SS",
+ "cls": "SS",
+ "reaches": 5,
+ "length_m": 5108.5,
+ "span_min": 29.0,
+ "span_max": 42.0,
+ "cut_m3": 417888,
+ "fill_m3": 20764,
+ "footprint_m2": 256864,
+ "protection_m2": 46053,
+ "corridor_ha": 34.15,
+ "land_take_ha": {
+  "Agricultural": 0.63,
+  "Resedential": 0.34
+ },
+ "cost_OMR": 1220050,
+ "cost_mOMR": 1.22,
+ "res_m": 2.0,
+ "ground": "0.5 m project DEM",
+ "cells_without_ground": 0,
+ "seconds": 1
+}

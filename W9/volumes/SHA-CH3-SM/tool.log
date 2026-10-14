@@ -1,0 +1,64 @@
+Loading shapefile ...
+  16 reaches loaded.
+Building network topology ...
+Loading DEM ...
+Output grid : 4785 rows x 4210 cols  (2.0 m resolution)
+Extent      : X 489040 - 497460  Y 2654334 - 2663904
+
+Allocating output array (0.1 GB memmap) ...
+  done.
+
+  SHACH3-C1  span=10m  rise=2.5m  L=863m  inv 79.14->73.42
+  SHACH3-C2  span=10m  rise=2.5m  L=830m  inv 73.42->67.54
+  SHACH3-C3  span=10m  rise=2.5m  L=546m  inv 67.54->64.98
+  SHACH3-C4  span=10m  rise=2.5m  L=2030m  inv 64.98->52.01  [taper -> span=40m rise=2.5m]
+  SHACH3-C5  span=40m  rise=2.5m  L=1667m  inv 52.01->37.96  [taper -> span=44m rise=2.5m]
+  SHACH3-C6  span=44m  rise=2.5m  L=2104m  inv 37.96->23.61  [taper -> span=65m rise=2.5m]
+  SHACH3-C7  span=65m  rise=2.5m  L=454m  inv 23.61->22.22
+  SHACH3-C8  span=65m  rise=2.5m  L=500m  inv 22.22->18.12
+  SHACH3-C9  span=65m  rise=2.5m  L=1306m  inv 18.12->11.23
+  SHACH3-C10  span=65m  rise=2.5m  L=503m  inv 11.23->9.16
+  SHACH3-C11  span=65m  rise=2.5m  L=484m  inv 9.16->7.03
+  SHACH3-C12  span=65m  rise=2.5m  L=891m  inv 7.03->3.66  [taper -> span=97m rise=2.5m]
+  SHACH3-C13  span=97m  rise=2.5m  L=443m  inv 3.66->2.68
+  SHACH3-C14  span=97m  rise=2.5m  L=442m  inv 2.68->0.84  [taper -> span=124m rise=2.5m]
+  SHACH3-C15  span=124m  rise=2.5m  L=729m  inv 0.84->-1.39  [taper -> span=267m rise=2.5m]
+  SHACH3-C16  span=267m  rise=2.5m  L=86m  inv -1.39->-1.48
+
+Rasterising reach bodies (16 threads) ...
+  SHACH3-C3  4,038 body cells
+  SHACH3-C14  12,800 body cells
+  SHACH3-C7  9,178 body cells
+  SHACH3-C16  6,278 body cells
+  SHACH3-C5  22,105 body cells
+  SHACH3-C8  10,150 body cells
+  SHACH3-C1  5,360 body cells
+  SHACH3-C10  9,649 body cells
+  SHACH3-C11  9,724 body cells
+  SHACH3-C13  12,175 body cells
+  SHACH3-C15  27,213 body cells
+  SHACH3-C2  5,722 body cells
+  SHACH3-C4  14,781 body cells
+  SHACH3-C9  25,418 body cells
+  SHACH3-C6  30,985 body cells
+  SHACH3-C12  17,523 body cells
+
+Filling junction gaps ...
+  SHACH3-C1 -> SHACH3-C2  junction filled
+  SHACH3-C2 -> SHACH3-C3  junction filled
+  SHACH3-C3 -> SHACH3-C4  junction filled
+  SHACH3-C4 -> SHACH3-C5  junction filled
+  SHACH3-C5 -> SHACH3-C6  junction filled
+  SHACH3-C6 -> SHACH3-C7  junction filled
+  SHACH3-C7 -> SHACH3-C8  junction filled
+  SHACH3-C8 -> SHACH3-C9  junction filled
+  SHACH3-C9 -> SHACH3-C10  junction filled
+  SHACH3-C10 -> SHACH3-C11  junction filled
+  SHACH3-C11 -> SHACH3-C12  junction filled
+  SHACH3-C12 -> SHACH3-C13  junction filled
+  SHACH3-C13 -> SHACH3-C14  junction filled
+  SHACH3-C14 -> SHACH3-C15  junction filled
+  SHACH3-C15 -> SHACH3-C16  junction filled
+
+Writing -> D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\volumes\SHA-CH3-SM\channel_terrain.tif
+Done.  221,816 total channel cells.
