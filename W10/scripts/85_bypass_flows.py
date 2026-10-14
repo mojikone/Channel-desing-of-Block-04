@@ -53,10 +53,13 @@ head = ["ID", "Channel", "Class", "Reach at the crossing", "Station (m)", "Easti
 ws.append(head)
 for c in ws[1]: c.fill = HDR; c.font = HFONT; c.alignment = Alignment(wrap_text=True, vertical="center", horizontal="center")
 ws.row_dimensions[1].height = 48
+def sheet_name(k): return re.sub(r"[\\/*?:\[\]]", "", f"{int(k.id):02d} {k.channel}")[:31]
+def n_rows(el): return max(len(series.get((el, rp), [])) for rp in RPS)
 for _, k in by.sort_values("id").iterrows():
     el, sta, lab = elements[k.id]
     ws.append([int(k.id), k.channel, k.cls, k.reach, round(k.station_m, 1), round(k.x, 1), round(k.y, 1), k.skew_deg, round(k.Q200, 1), k.span_m, k.rise_m, round(k.slope, 5), el, (round(sta, 1) if sta is not None else None), lab]
-              + [round(peaks.get((el, rp), float("nan")), 1) for rp in RPS] + [round(vols.get((el, rp), float("nan")), 3) for rp in RPS])
+              + [(f"=MAX('{sheet_name(k)}'!{L(2 + j)}3:{L(2 + j)}{2 + n_rows(el)})" if (el, rp) in series else None) for j, rp in enumerate(RPS)]
+              + [(f"=SUM('{sheet_name(k)}'!{L(2 + j)}3:{L(2 + j)}{2 + n_rows(el)})*{DT_S}/1000000" if (el, rp) in series else None) for j, rp in enumerate(RPS)])
 for row in ws.iter_rows(min_row=2):
     for c in row: c.font = FONT
 for j, w in enumerate([5, 13, 7, 14, 10, 10, 11, 8, 12, 10, 8, 9, 14, 11, 12] + [10] * 26, 1): ws.column_dimensions[L(j)].width = w
@@ -73,7 +76,7 @@ for _, k in by.sort_values("id").iterrows():
     w2["A1"] = f"{k.channel} at the North Batinah Bypass, station {k.station_m:.0f} m - hydrographs of HEC-HMS element {el} (dams in place), 5-minute values"; w2["A1"].font = Font(bold=True, name="Arial", size=11)
     w2.append(["Time (h)"] + [f"Q {LAB[rp]} (m³/s)" for rp in RPS])
     for c in w2[2]: c.fill = HDR; c.font = HFONT; c.alignment = Alignment(horizontal="center", wrap_text=True)
-    n = max(len(series.get((el, rp), [])) for rp in RPS); n = min(n, 577)
+    n = n_rows(el)   # every value of the series, so the volume formula is exact (the chart shows the first 48 h)
     for i in range(n):
         w2.append([round(i * DT_S / 3600, 4)] + [round(float(series[(el, rp)][i]), 3) if (el, rp) in series and i < len(series[(el, rp)]) else None for rp in RPS])
     first, last = 3, 2 + n
@@ -81,7 +84,8 @@ for _, k in by.sort_values("id").iterrows():
     ST = len(RPS) + 3; w2.cell(row=2, column=ST, value="Return period"); w2.cell(row=2, column=ST + 1, value="Peak (m³/s)"); w2.cell(row=2, column=ST + 2, value="Volume (Mm³)")
     for c in (w2.cell(row=2, column=ST + j) for j in range(3)): c.fill = HDR; c.font = HFONT
     for j, rp in enumerate(RPS):
-        w2.cell(row=3 + j, column=ST, value=f"{LAB[rp]}  {peaks.get((el, rp), 0):,.0f} m³/s"); w2.cell(row=3 + j, column=ST + 1, value=round(peaks.get((el, rp), 0), 1)); w2.cell(row=3 + j, column=ST + 2, value=round(vols.get((el, rp), 0), 3))
+        rng = f"{L(2 + j)}{first}:{L(2 + j)}{last}"
+        w2.cell(row=3 + j, column=ST, value=f'="{LAB[rp]}  "&TEXT(MAX({rng}),"#,##0")&" m³/s"'); w2.cell(row=3 + j, column=ST + 1, value=f"=MAX({rng})"); w2.cell(row=3 + j, column=ST + 2, value=f"=SUM({rng})*{DT_S}/1000000")
     ch = ScatterChart(); ch.title = f"{k.channel} at the bypass - {el}"; ch.style = 2; ch.width = 24; ch.height = 12
     ch.x_axis.title = "Time from start of storm (h)"; ch.y_axis.title = "Flow (m³/s)"; ch.x_axis.delete = False; ch.y_axis.delete = False
     ch.x_axis.scaling.min = 0; ch.x_axis.scaling.max = 48; ch.x_axis.majorUnit = 6; ch.y_axis.scaling.min = 0; ch.x_axis.number_format = "0"; ch.y_axis.number_format = "#,##0"; ch.x_axis.majorGridlines = None
@@ -104,26 +108,59 @@ for i, t in enumerate(["Block 04 - flows and hydrographs at the crossings of the
     rd.cell(row=i + 1, column=1, value=t).font = Font(name="Arial", size=10, bold=(i == 0))
 rd.column_dimensions["A"].width = 160
 p1 = os.path.join(OUT, "Block 04 - Flows and hydrographs at the bypass crossings.xlsx"); wb.save(p1); print("written", p1, "| crossings", len(by), "| elements", len(need))
-# ---- workbook 2: the culverts under the bypass
-cols = [("id", "ID"), ("channel", "Channel"), ("reach", "Reach"), ("station_m", "Station (m)"), ("Q200", "Design flow 200-year (m³/s)"), ("channel_width_m", "Channel bed width (m)"), ("channel_depth_m", "Channel depth (m)"), ("slope", "Slope (m/m)"), ("skew_deg", "Skew (deg)"),
-        ("cells", "Cells"), ("cell_width_m", "Cell width (m)"), ("cell_height_m", "Cell height (m)"), ("size", "Cells x width x height (m)"), ("overall_width_m", "Overall width (m)"), ("length_m", "Length across the road (m)"), ("HW_m", "Headwater (m)"), ("HW_over_D", "Headwater / height"), ("control", "Control"),
-        ("tailwater_m", "Tailwater (m)"), ("concrete_m3", "Concrete (m³)"), ("rebar_t", "Reinforcement (t)"), ("cost_OMR", "Cost (OMR)")]
+# ---- workbook 2: the culverts under the bypass; every derived number a live formula on the inputs and the rates sheet (his instruction 2026-10-14)
+import math
+RATES2 = [("conc", "Reinforced concrete of the culverts", "m³", 106.90), ("rebar", "Reinforcement (120 kg/m³)", "t", 417.10), ("blind", "Blinding concrete", "m³", 45.00), ("wp", "Waterproofing", "m²", 2.00),
+          ("abc", "Aggregate base course", "m³", 6.50), ("bbc", "Bituminous base course", "m³", 45.00), ("wbc", "Wearing course", "m³", 47.00), ("pc", "Prime coat", "m²", 0.45), ("tc", "Tack coat", "m²", 0.35),
+          ("mark", "Road marking", "m²", 4.00), ("rail", "Guardrail", "m", 53.00), ("post", "Guardrail post", "no.", 3.00), ("cng", "Compaction of natural ground", "m²", 0.20), ("removal", "Removal of the existing structure", "m³", 4.00)]
+CONST2 = [("B", "Clear width of a cell (m)", 4.0), ("WALL", "Wall thickness (m)", 0.25), ("LCOR", "Length across the road = the bypass corridor (m)", 45.0)]
+BLUE2 = Font(name="Arial", size=10, color="0000FF"); YEL2 = PatternFill("solid", fgColor="FFFF00")
 xy = by.set_index("id")[["x", "y"]]
-wb2 = Workbook(); w = wb2.active; w.title = "Culverts under the bypass"
-w.append([h for _, h in cols] + ["Easting", "Northing"])
+wb2 = Workbook(); RS = wb2.active; RS.title = "Rates and constants"
+RS.append(["Code", "Item", "Unit", "Value"])
+for c in RS[1]: c.fill = HDR; c.font = HFONT
+R2 = {}
+for k_, nm, un, v in RATES2:
+    RS.append([k_, nm, un, v]); R2[k_] = f"'Rates and constants'!$D${RS.max_row}"; RS.cell(row=RS.max_row, column=4).font = BLUE2; RS.cell(row=RS.max_row, column=4).fill = YEL2
+RS.append([])
+for k_, nm, v in CONST2:
+    RS.append([k_, nm, "", v]); R2[k_] = f"'Rates and constants'!$D${RS.max_row}"; RS.cell(row=RS.max_row, column=4).font = BLUE2; RS.cell(row=RS.max_row, column=4).fill = YEL2
+RS.append([]); RS.append(["", "Blue on yellow: the unit rates (master plan estimate) and the constants; change them here and every size, quantity and cost follows."])
+RS.column_dimensions["B"].width = 54; RS.column_dimensions["D"].width = 12
+w = wb2.create_sheet("Culverts under the bypass")
+kc = ["ID", "Channel", "Reach", "Station (m)", "Easting", "Northing", "Design flow 200-year (m³/s)", "Channel bed width (m)", "Channel depth (m)", "Slope (m/m)", "Skew (deg)",
+      "Cells from the bed width", "Cells added for the headwater check", "Cells", "Cell width (m)", "Cell height (m)", "Cells x width x height (m)", "Overall width G (m)", "Length L (m)",
+      "Headwater (m)", "Headwater / height", "Control", "Tailwater (m)", "Existing structure",
+      "Concrete (m³)", "Reinforcement (t)", "Blinding (m³)", "Waterproofing (m²)", "Pavement area (m²)", "Aggregate base (m³)", "Bituminous base (m³)", "Wearing course (m³)", "Prime coat (m²)", "Tack coat (m²)", "Marking (m²)", "Guardrail (m)", "Posts (no.)", "Compaction (m²)", "Removal of existing (m³)",
+      "Concrete cost", "Reinforcement cost", "Blinding cost", "Waterproofing cost", "Aggregate base cost", "Bituminous base cost", "Wearing course cost", "Prime coat cost", "Tack coat cost", "Marking cost", "Guardrail cost", "Posts cost", "Compaction cost", "Removal cost", "Culvert cost (OMR)"]
+w.append(kc); KC = {n_: L(i + 1) for i, n_ in enumerate(kc)}
 for c in w[1]: c.fill = HDR; c.font = HFONT; c.alignment = Alignment(wrap_text=True, vertical="center", horizontal="center")
-w.row_dimensions[1].height = 48
+w.row_dimensions[1].height = 62
+def cr(name, row): return f"{KC[name]}{row}"
 for _, r in prb.sort_values("id").iterrows():
-    w.append([r[k] if str(r[k]) not in ("", "nan") else None for k, _ in cols] + [round(float(xy.loc[r.id, "x"]), 1), round(float(xy.loc[r.id, "y"]), 1)])
-for row in w.iter_rows(min_row=2):
-    for c in row: c.font = FONT
-for j in range(1, len(cols) + 3): w.column_dimensions[L(j)].width = 12
-w.freeze_panes = "C2"
+    row = w.max_row + 1; N0 = max(int(math.ceil(float(r.channel_width_m) / 4.0)), 1); extra = int(r.cells) - N0
+    N = cr("Cells", row); B = cr("Cell width (m)", row); Dh = cr("Cell height (m)", row); G = cr("Overall width G (m)", row); Lc = cr("Length L (m)", row); PC = cr("Pavement area (m²)", row); EX = cr("Existing structure", row)
+    w.append([int(r.id), r.channel, r.reach, round(float(r.station_m), 1), round(float(xy.loc[r.id, "x"]), 1), round(float(xy.loc[r.id, "y"]), 1), round(float(r.Q200), 1), float(r.channel_width_m), float(r.channel_depth_m), round(float(r.slope), 5), float(r.skew_deg),
+              f"=MAX(1,ROUNDUP({cr('Channel bed width (m)', row)}/{B},0))", extra, f"={cr('Cells from the bed width', row)}+{cr('Cells added for the headwater check', row)}", f"={R2['B']}", float(r.cell_height_m),
+              f'={N}&" x "&TEXT({B},"0")&" x "&TEXT({Dh},"0.0")', f"={N}*{B}+({N}+1)*{R2['WALL']}", f"={R2['LCOR']}",
+              float(r.HW_m), f"={cr('Headwater (m)', row)}/{Dh}", r.control, float(r.tailwater_m), (str(r.existing_type) if str(r.existing_type) not in ("", "nan") else "None"),
+              f"=({N}*(({B}+{R2['WALL']})*({Dh}+0.6)-{B}*{Dh})+0.8)*{Lc}", f"=0.12*{cr('Concrete (m³)', row)}", f"={G}*{Lc}*0.1*1.1", f"=2*{Dh}*{Lc}+{B}*{Lc}", f"={G}*{Lc}*1.1", f"={PC}*0.1", f"={PC}*0.05", f"={PC}*0.05", f"={PC}", f"=2*{PC}", f"={G}*0.1*1.1", f"=2*{G}*1.1", f"=ROUNDUP(2*{G}*1.1/4,0)", f"=({Lc}+3)*{G}*1.1", f'=IF({EX}="None",0,{G}*{Lc}*({Dh}+0.5)*1.1)',
+              f"={cr('Concrete (m³)', row)}*{R2['conc']}", f"={cr('Reinforcement (t)', row)}*{R2['rebar']}", f"={cr('Blinding (m³)', row)}*{R2['blind']}", f"={cr('Waterproofing (m²)', row)}*{R2['wp']}", f"={cr('Aggregate base (m³)', row)}*{R2['abc']}", f"={cr('Bituminous base (m³)', row)}*{R2['bbc']}", f"={cr('Wearing course (m³)', row)}*{R2['wbc']}", f"={cr('Prime coat (m²)', row)}*{R2['pc']}", f"={cr('Tack coat (m²)', row)}*{R2['tc']}", f"={cr('Marking (m²)', row)}*{R2['mark']}", f"={cr('Guardrail (m)', row)}*{R2['rail']}", f"={cr('Posts (no.)', row)}*{R2['post']}", f"={cr('Compaction (m²)', row)}*{R2['cng']}", f"={cr('Removal of existing (m³)', row)}*{R2['removal']}",
+              f"=SUM({cr('Concrete cost', row)}:{cr('Removal cost', row)})"])
+last2 = w.max_row; tot = ["Total"] + [""] * (len(kc) - 1); tot[kc.index("Cells")] = f"=SUM({KC['Cells']}2:{KC['Cells']}{last2})"; tot[kc.index("Culvert cost (OMR)")] = f"=SUM({KC['Culvert cost (OMR)']}2:{KC['Culvert cost (OMR)']}{last2})"; w.append(tot)
+for row_ in w.iter_rows(min_row=2):
+    for c in row_:
+        c.font = FONT if row_[0].value != "Total" else Font(name="Arial", size=10, bold=True)
+        if c.column >= 25: c.number_format = "#,##0"
+        elif c.column in (4, 5, 6, 7, 8, 9, 18, 19, 20, 21, 23): c.number_format = "#,##0.0"
+for j in range(1, len(kc) + 1): w.column_dimensions[L(j)].width = 11
+w.column_dimensions["B"].width = 13; w.column_dimensions[KC["Cells x width x height (m)"]].width = 14; w.freeze_panes = "D2"
 rd2 = wb2.create_sheet("Read me", 0)
 for i, t in enumerate(["Block 04 - proposed box culverts under the planned North Batinah Bypass", "",
                        "One box culvert per crossing: cells of 4.0 m clear width and the full channel depth as clear height (2.5 m, or 3.0 m where the channel is deeper), the number of cells from the designed bed width of the channel reach at the crossing, the barrel on the slope of the channel; length across the road = the bypass corridor taken as 45 m.",
-                       "Headwater: inlet- and outlet-control check (FHWA culvert design method, square-edged inlet with wingwalls, entrance loss 0.4, barrel roughness 0.015, tailwater at the normal depth of the channel downstream); every culvert keeps its headwater below 1.2 times the clear height.",
-                       "Cost: concrete and reinforcement, blinding, waterproofing, the road works over the culvert, at the master plan unit rates (OMR)."], 1):
+                       "Headwater: inlet- and outlet-control check (FHWA culvert design method, square-edged inlet with wingwalls, entrance loss 0.4, barrel roughness 0.015, tailwater at the normal depth of the channel downstream); every culvert keeps its headwater below 1.2 times the clear height; the cells it added, if any, are in their own column.",
+                       "Cost: concrete and reinforcement, blinding, waterproofing, the road works over the culvert and the removal of the existing structure where there is one, at the master plan unit rates (sheet 'Rates and constants').",
+                       "Every derived number is a live formula on the inputs (bed width, depth, flow, headwater) and on the rates and constants sheet: the cells, the overall width, the size text, the quantities and the costs. The headwater check is iterative and is given as values."], 1):
     rd2.cell(row=i + 1, column=1, value=t).font = Font(name="Arial", size=10, bold=(i == 0))
 rd2.column_dimensions["A"].width = 160
-p2 = os.path.join(OUT, "Block 04 - Culverts at the bypass crossings.xlsx"); wb2.save(p2); print("written", p2, "| culverts", len(prb), "| cost %.2f mOMR" % (prb.cost_OMR.astype(float).sum() / 1e6))
+p2 = os.path.join(OUT, "Block 04 - Culverts at the bypass crossings.xlsx"); wb2.save(p2); print("written", p2, "| culverts", len(prb))

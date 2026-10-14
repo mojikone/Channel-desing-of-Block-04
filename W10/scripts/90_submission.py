@@ -126,16 +126,7 @@ for f in glob.glob(os.path.join(W9, "kmz", "*.kmz")):
     key = os.path.basename(f)[len("Block04_"):-4]; cp(f, os.path.join(K, "Block 04 - %s.kmz" % NAMES.get(key, key.replace("_", " "))))
 # ------------------------------------------------------------------ 05 tables
 T = os.path.join(OUT, "05 Tables"); os.makedirs(T, exist_ok=True)
-if not DRY:
-    sys.path.insert(0, os.path.join(W9, "report")); sys.path.insert(0, os.path.join(W9, "report", "lib")); os.environ.pop("REPORT_ONLY", None)
-    import data_facts as DF
-    with pd.ExcelWriter(os.path.join(T, "Block 04 - Channel design tables (200-year).xlsx")) as xw:
-        DF.channel_sections("200yr").to_excel(xw, sheet_name="Channel sections", index=False); DF.reach_table().to_excel(xw, sheet_name="Reaches", index=False); DF.size_inventory().to_excel(xw, sheet_name="Size inventory", index=False)
-        DF.outfalls_table().to_excel(xw, sheet_name="Outfalls", index=False); DF.culverts().to_excel(xw, sheet_name="Proposed culverts", index=False); DF.dykes().to_excel(xw, sheet_name="Dykes", index=False)
-        q = DF.channel_quantities(); q["land_take_ha"] = q.land_take_ha.map(json.dumps); q.to_excel(xw, sheet_name="Channel quantities and cost", index=False)
-        DF.land_take_by_class().to_excel(xw, sheet_name="Land take by class", index=False); DF.cost_by_catchment().to_excel(xw, sheet_name="Cost by catchment", index=False)
-        pd.DataFrame([DF.cost_totals()]).to_excel(xw, sheet_name="Cost totals (million OMR)", index=False)
-    log.append("05 Tables/Block 04 - Channel design tables (200-year).xlsx  (written)")
+cp(os.path.join(W9, "tables", "Block 04 - Channel design tables (200-year).xlsx"), os.path.join(T, "Block 04 - Channel design tables (200-year).xlsx"))   # W10: built by 93_design_tables.py with live formulas
 cp(os.path.join(W9, "tables", "Block 04 - BOQ and cost estimate.xlsx"), os.path.join(T, "Block 04 - BOQ and cost estimate.xlsx"))
 cp(os.path.join(W3, "dams", "hydrographs", "Block04_Dam_Hydrographs - with 200yr hydrographs.xlsx"), os.path.join(T, "Block 04 - Dam hydrographs (all return periods, with the 200-year sheet).xlsx"))
 cp(os.path.join(W3, "dams", "hydrographs", "dams_reservoirs.xlsx"), os.path.join(T, "Block 04 - Dams and reservoirs (hydrographs, peaks, volumes, levels).xlsx"))

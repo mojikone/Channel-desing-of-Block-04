@@ -1,13 +1,4 @@
-01 Reports\Block 04 - Channels Feasibility and Hydrological Report.pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\report\R7\Block04_Report_R7.pdf
-01 Reports\Block 04 - Channels Feasibility and Hydrological Report.docx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\report\R7\Block04_Report_R7.docx
-01 Reports\Block 04 - Hydraulic Design of Stormwater Channels.pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\report\SW_R2\Block04_Stormwater_Channels_R2.pdf
-01 Reports\Block 04 - Hydraulic Design of Stormwater Channels.docx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\report\SW_R2\Block04_Stormwater_Channels_R2.docx
 03 GIS\Channels and dykes\Channels and dykes.shp  (written)
-03 GIS\Channel extents\Dyke extent (15.5 m each side).shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.shp
-03 GIS\Channel extents\Dyke extent (15.5 m each side).shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.shx
-03 GIS\Channel extents\Dyke extent (15.5 m each side).dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.dbf
-03 GIS\Channel extents\Dyke extent (15.5 m each side).prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.prj
-03 GIS\Channel extents\Dyke extent (15.5 m each side).cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.cpg
 03 GIS\Channel extents\By return period\Channel extent 2-year (bed and corridor).shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_2yr.shp
 03 GIS\Channel extents\By return period\Channel extent 2-year (bed and corridor).shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_2yr.shx
 03 GIS\Channel extents\By return period\Channel extent 2-year (bed and corridor).dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_2yr.dbf
@@ -48,21 +39,9 @@
 03 GIS\Channel extents\By return period\Channel extent 500-year (bed and corridor).dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_500yr.dbf
 03 GIS\Channel extents\By return period\Channel extent 500-year (bed and corridor).prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_500yr.prj
 03 GIS\Channel extents\By return period\Channel extent 500-year (bed and corridor).cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_500yr.cpg
-03 GIS\Design points and segments\Design points.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\design_points_his.qml
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.gpkg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.gpkg
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.shp
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.shx
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.dbf
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.prj
-03 GIS\Hydraulic model (200-year design)\Channel reaches - sizes for all return periods.cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.cpg
-03 GIS\Hydraulic model (200-year design)\Channel reaches.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\segments_his.qml
-03 GIS\Hydraulic model (200-year design)\Outfalls - invert and existing level.gpkg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\gis\outfalls_levels.gpkg
-03 GIS\Dykes\Dykes - height and cost.gpkg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W7\dykes\dykes.gpkg
 03 GIS\Culverts\Road crossings and proposed box culverts.gpkg  (written without extended, start_short, end_short_m, start_short_m, existing_dist_m, note)
 03 GIS\Culverts\Existing culverts (inventory, Block 04 plain).shp  (written)
 03 GIS\Catchments\Global catchments.gpkg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\gis\GCA_RENN.gpkg
-03 GIS\Styles\design_points.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\design_points_his.qml
-03 GIS\Styles\channel_reaches.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\segments_his.qml
 removed 04 KMZ\Block 04 - All layers.kmz
 removed 04 KMZ\Block 04 - Channel and dyke extents.kmz
 removed 04 KMZ\Block 04 - Channel reaches and sizes.kmz
@@ -79,49 +58,17 @@ removed 04 KMZ\Block 04 - HEC-HMS model.kmz
 04 KMZ\Block 04 - Design points.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_design_points.kmz
 04 KMZ\Block 04 - Channel and dyke extents.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_extents.kmz
 04 KMZ\Block 04 - HEC-HMS model.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_HEC-HMS_model.kmz
-05 Tables/Block 04 - Channel design tables (200-year).xlsx  (written)
+05 Tables\Block 04 - Channel design tables (200-year).xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\tables\Block 04 - Channel design tables (200-year).xlsx
 05 Tables\Block 04 - BOQ and cost estimate.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\tables\Block 04 - BOQ and cost estimate.xlsx
 05 Tables\Proposed culverts.csv  (written without end_short_m, start_short_m, existing_dist_m, note)
-05 Tables\Existing culverts at the crossings.csv  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\culverts\culverts_existing.csv
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels.dbf  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels.dbf
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels.shp  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels.shp
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels.shx  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels.shx
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes.cpg  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes.cpg
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes.dbf  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes.dbf
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes.prj  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes.prj
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes.shp  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes.shp
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes.shx  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes.shx
-07 Models\SewerGEMS\SHP\from SewerGEMS\Channels_R9_designed_sizes_README.txt  <-  C:\Users\mojtaba\Desktop\Win10 shared folder\SewerGEMS Block 04 11102026\SHP\from SewerGEMS\Channels_R9_designed_sizes_README.txt
 removed 07 Models\Channel terrain\Channel terrain - contents.txt
 07 Models\Channel terrain\Channel terrain - contents.txt  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\terrain\README.txt
 09 Bypass road design package\GIS\Channels and dykes.shp  (written)
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.shp
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.shx
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.dbf
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.prj
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\segments_all_rp.cpg
-09 Bypass road design package\GIS\Channel reaches - 200-year design and the sizes of all return periods.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\segments_his.qml
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.shp
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.shx
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.dbf
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.prj
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.cpg
-09 Bypass road design package\GIS\Dyke extent.shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.shp
-09 Bypass road design package\GIS\Dyke extent.shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.shx
-09 Bypass road design package\GIS\Dyke extent.dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.dbf
-09 Bypass road design package\GIS\Dyke extent.prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.prj
-09 Bypass road design package\GIS\Dyke extent.cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\dyke_extent.cpg
-09 Bypass road design package\GIS\Design points.qml  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\qml\design_points_his.qml
 09 Bypass road design package\GIS\Proposed box culverts under the bypass.shp  (written)
-09 Bypass road design package\GIS\Batinah Highway.shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Highway.shp
-09 Bypass road design package\GIS\Batinah Highway.shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Highway.shx
-09 Bypass road design package\GIS\Batinah Highway.dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Highway.dbf
-09 Bypass road design package\GIS\Batinah Highway.prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Highway.prj
-09 Bypass road design package\GIS\Batinah Highway.cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Highway.cpg
-09 Bypass road design package\GIS\Batinah Coastal Road.shp  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Coastal Road.shp
-09 Bypass road design package\GIS\Batinah Coastal Road.shx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Coastal Road.shx
-09 Bypass road design package\GIS\Batinah Coastal Road.dbf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Coastal Road.dbf
-09 Bypass road design package\GIS\Batinah Coastal Road.prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Coastal Road.prj
-09 Bypass road design package\GIS\Batinah Coastal Road.cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\03 GIS\Roads and utilities\Batinah Coastal Road.cpg
 09 Bypass road design package\Block 04 - Flows and hydrographs at the bypass crossings.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\bypass\Block 04 - Flows and hydrographs at the bypass crossings.xlsx
 09 Bypass road design package\Block 04 - Culverts at the bypass crossings.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\bypass\Block 04 - Culverts at the bypass crossings.xlsx
