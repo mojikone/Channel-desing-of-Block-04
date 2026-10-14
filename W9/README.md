@@ -45,6 +45,18 @@ for the stormwater report) · `74_cost_dashboard.py`, `report/charts_b4.py c15` 
 `report/build_sw.py --pdf` · `90_submission.py` · `91_submission_qgis.py` · `bypass/civil3d/build_profiles.cs` (Civil 3D) ·
 `scripts/sync_deliverables.py --only 17` · robocopy to the server.
 
+## HEC-RAS check: the conduit export with the designed sizes (2026-10-14, after the submission)
+
+His SewerGEMS GUI export of the R9 conduits (`SHP\from SewerGEMS\Channels.shp` in the model share) shows SPAN = 10 for all 212
+conduits and SIZE = a GUID. SPAN is the conduit's own stored span, which SewerGEMS never updates for catalogue conduits (the design
+assigns a catalogue item), and SIZE is that item's identifier; the designed size lives behind the catalogue reference and is resolved by
+class + item (the W6 trap). `scripts/88_hecras_conduits.py` joins the sizes resolved in W7 (200 yr, `W7/gis/sewergems_200yr_R9.gpkg`)
+and W9 (all return periods, `gis/segments_all_rp.gpkg`) onto his geometry by the conduit label: 212/212 matched, his inverts agree within
+5 mm, slope and rise exactly, length within 5 cm. Output `Channels_R9_designed_sizes.shp` + `_README.txt` beside his export (his file
+untouched; the share takes new files only) and in `gis/hecras/`. Fields: nodes, length, inverts, slope, shape and class, width / depth /
+size text / flow / velocity / flow depth at 200 yr, and W / D / Q / S per return period. Dam-controlled reaches carry zero flow in the
+scenarios where the dam stores the whole event (for example HAWCH1-C5: 0 up to 100 yr, 174 m³/s at 200 yr, 1 576 at 500 yr).
+
 ## Open
 
 - WhatsApp: nothing sent from W9 (he did not ask this round).
