@@ -3,7 +3,7 @@
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, October 14, 2026 4:24:49 AM
+  Started : Wednesday, October 14, 2026 4:38:04 AM
    Source : D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Deliverables\2 Submission 13102026\
      Dest : W:\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\06-WORKING\04-Hydraulic\05 Small Tasks\18 Channel Design\Hydraulic\Block 4\2 Submission 13102026\
 
@@ -18,12 +18,12 @@
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :       109       109       109         0         0         0
-   Files :      1057        84       973         0         0         0
-   Bytes :   9.204 g   59.58 m   9.146 g         0         0         0
-   Times :   0:00:18   0:00:02                       0:00:00   0:00:00
+   Files :      1057        80       977         0         0         0
+   Bytes :   9.170 g   20.61 m   9.149 g         0         0         0
+   Times :   0:00:14   0:00:01                       0:00:00   0:00:00
 
 
-   Speed :           26,097,029 Bytes/sec.
-   Speed :            1,493.284 MegaBytes/min.
-   Ended : Wednesday, October 14, 2026 4:24:52 AM
+   Speed :           11,694,532 Bytes/sec.
+   Speed :              669.167 MegaBytes/min.
+   Ended : Wednesday, October 14, 2026 4:38:06 AM
 

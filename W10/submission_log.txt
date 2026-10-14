@@ -58,8 +58,6 @@ removed 04 KMZ\Block 04 - HEC-HMS model.kmz
 04 KMZ\Block 04 - Design points.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_design_points.kmz
 04 KMZ\Block 04 - Channel and dyke extents.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_extents.kmz
 04 KMZ\Block 04 - HEC-HMS model.kmz  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\kmz\Block04_HEC-HMS_model.kmz
-05 Tables\Block 04 - Channel design tables (200-year).xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\tables\Block 04 - Channel design tables (200-year).xlsx
-05 Tables\Block 04 - BOQ and cost estimate.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\tables\Block 04 - BOQ and cost estimate.xlsx
 05 Tables\Proposed culverts.csv  (written without end_short_m, start_short_m, existing_dist_m, note)
 removed 07 Models\Channel terrain\Channel terrain - contents.txt
 07 Models\Channel terrain\Channel terrain - contents.txt  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W9\terrain\README.txt
@@ -70,5 +68,3 @@ removed 07 Models\Channel terrain\Channel terrain - contents.txt
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).prj  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.prj
 09 Bypass road design package\GIS\Channel extent 200-year (bed and corridor).cpg  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\gis\extents\extent_200yr.cpg
 09 Bypass road design package\GIS\Proposed box culverts under the bypass.shp  (written)
-09 Bypass road design package\Block 04 - Flows and hydrographs at the bypass crossings.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\bypass\Block 04 - Flows and hydrographs at the bypass crossings.xlsx
-09 Bypass road design package\Block 04 - Culverts at the bypass crossings.xlsx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W10\bypass\Block 04 - Culverts at the bypass crossings.xlsx
