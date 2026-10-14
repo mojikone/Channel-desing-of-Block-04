@@ -80,6 +80,10 @@ the normal line spacing of a two-line label.
 Also found and fixed on the way: Appendix C/A carried an empty "Depth / rise" column (195 "nan" cells in R5 — the export has no value), dropped;
 the culvert map's data box still said "2.0 or 2.5 m high", now computed from the data; the GCA neighbour names lost their underscores.
 
+## Server copy
+
+His instruction (evening): the submission folder copied to `W:\2224 Flood Protection Scheme in North & South Batinah_MAFWWR\06-WORKING\04-Hydraulic\05 Small Tasks\18 Channel Design\Hydraulic\Block 4\2 Submission 13102026` (robocopy, add-only: existing files on the server are never replaced; log `submission_server_copy.log`). The only write to the server in this project; everything else on W: stays read-only.
+
 ## Open
 
 - WhatsApp: the bridge reports "linked" again at 16:00 Oman; nothing sent from W8 yet (the sets are far above the 30 MiB file cap;

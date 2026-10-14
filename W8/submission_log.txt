@@ -1,5 +1,7 @@
-02 Drawings\2224-PD-HY-PP-B4 - Plan and Profile Drawings of the Flood Protection Channels (200-year).pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\sewergems\sheets\scripts\PDF\Set\2224-PD-HY-PP-B4_Plan_and_Profile_Drawings_200yr_R9.pdf
-02 Drawings\2224-PD-HY-PP-B4 - Plan and Profile Drawings of the Stormwater Channels (200-year).pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\sewergems\sheets\scripts\PDF\Set\2224-PD-HY-PP-B4_Stormwater_Channels_Plan_and_Profile_Drawings_200yr_R9.pdf
+01 Reports\Block 04 - Channels Feasibility and Hydrological Report.pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\report\R5\Block04_Report_R5.pdf
+01 Reports\Block 04 - Channels Feasibility and Hydrological Report.docx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\report\R5\Block04_Report_R5.docx
+01 Reports\Block 04 - Hydraulic Design of Stormwater Channels.pdf  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\report\SW_R0\Block04_Stormwater_Channels_R0.pdf
+01 Reports\Block 04 - Hydraulic Design of Stormwater Channels.docx  <-  D:\Mojtaba\Renardet\2224 WS11\Batinah\Block 4\Claude Block 04\W8\report\SW_R0\Block04_Stormwater_Channels_R0.docx
 Table of drawings - flood protection channels.csv  (written)
 Table of drawings - stormwater channels.csv  (written)
 03 GIS\Channels and dykes\Channels and dykes.shp  (written)
